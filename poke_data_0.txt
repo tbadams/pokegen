@@ -1,0 +1,5607 @@
+Name:Bulbasaur
+#1
+Seed Pokémon
+Type:grass poison
+Height:0.7
+Weight:6.9
+
+Name:Ivysaur
+#2
+Seed Pokémon
+Type:grass poison
+Height:1.0
+Weight:13.0
+
+Name:Venusaur
+#3
+Seed Pokémon
+Type:grass poison
+Height:2.0
+Weight:100.0
+
+Name:Charmander
+#4
+Lizard Pokémon
+Type:fire 
+Height:0.6
+Weight:8.5
+
+Name:Charmeleon
+#5
+Flame Pokémon
+Type:fire 
+Height:1.1
+Weight:19.0
+
+Name:Charizard
+#6
+Flame Pokémon
+Type:fire flying
+Height:1.7
+Weight:90.5
+
+Name:Squirtle
+#7
+Tiny Turtle Pokémon
+Type:water 
+Height:0.5
+Weight:9.0
+
+Name:Wartortle
+#8
+Turtle Pokémon
+Type:water 
+Height:1.0
+Weight:22.5
+
+Name:Blastoise
+#9
+Shellfish Pokémon
+Type:water 
+Height:1.6
+Weight:85.5
+
+Name:Caterpie
+#10
+Worm Pokémon
+Type:bug 
+Height:0.3
+Weight:2.9
+
+Name:Metapod
+#11
+Cocoon Pokémon
+Type:bug 
+Height:0.7
+Weight:9.9
+
+Name:Butterfree
+#12
+Butterfly Pokémon
+Type:bug flying
+Height:1.1
+Weight:32.0
+
+Name:Weedle
+#13
+Hairy Pokémon
+Type:bug poison
+Height:0.3
+Weight:3.2
+
+Name:Kakuna
+#14
+Cocoon Pokémon
+Type:bug poison
+Height:0.6
+Weight:10.0
+
+Name:Beedrill
+#15
+Poison Bee Pokémon
+Type:bug poison
+Height:1.0
+Weight:29.5
+
+Name:Pidgey
+#16
+Tiny Bird Pokémon
+Type:normal flying
+Height:0.3
+Weight:1.8
+
+Name:Pidgeotto
+#17
+Bird Pokémon
+Type:normal flying
+Height:1.1
+Weight:30.0
+
+Name:Pidgeot
+#18
+Bird Pokémon
+Type:normal flying
+Height:1.5
+Weight:39.5
+
+Name:Rattata
+#19
+Mouse Pokémon
+Type:normal dark
+Height:
+Weight:
+
+Name:Raticate
+#20
+Mouse Pokémon
+Type:normal dark
+Height:
+Weight:
+
+Name:Spearow
+#21
+Tiny Bird Pokémon
+Type:normal flying
+Height:0.3
+Weight:2.0
+
+Name:Fearow
+#22
+Beak Pokémon
+Type:normal flying
+Height:1.2
+Weight:38.0
+
+Name:Ekans
+#23
+Snake Pokémon
+Type:poison 
+Height:2.0
+Weight:6.9
+
+Name:Arbok
+#24
+Cobra Pokémon
+Type:poison 
+Height:3.5
+Weight:65.0
+
+Name:Pikachu
+#25
+Mouse Pokémon
+Type:electric 
+Height:0.4
+Weight:6.0
+
+Name:Raichu
+#26
+Mouse Pokémon
+Type:electric electric
+Height:
+Weight:
+
+Name:Sandshrew
+#27
+Mouse Pokémon
+Type:ground ice
+Height:
+Weight:
+
+Name:Sandslash
+#28
+Mouse Pokémon
+Type:ground ice
+Height:
+Weight:
+
+Name:Nidoran♀
+#29
+Poison Pin Pokémon
+Type:poison 
+Height:0.4
+Weight:7.0
+
+Name:Nidorina
+#30
+Poison Pin Pokémon
+Type:poison 
+Height:0.8
+Weight:20.0
+
+Name:Nidoqueen
+#31
+Drill Pokémon
+Type:poison ground
+Height:1.3
+Weight:60.0
+
+Name:Nidoran♂
+#32
+Poison Pin Pokémon
+Type:poison 
+Height:0.5
+Weight:9.0
+
+Name:Nidorino
+#33
+Poison Pin Pokémon
+Type:poison 
+Height:0.9
+Weight:19.5
+
+Name:Nidoking
+#34
+Drill Pokémon
+Type:poison ground
+Height:1.4
+Weight:62.0
+
+Name:Clefairy
+#35
+Fairy Pokémon
+Type:fairy 
+Height:0.6
+Weight:7.5
+
+Name:Clefable
+#36
+Fairy Pokémon
+Type:fairy 
+Height:1.3
+Weight:40.0
+
+Name:Vulpix
+#37
+Fox Pokémon
+Type:fire ice
+Height:
+Weight:
+
+Name:Ninetales
+#38
+Fox Pokémon
+Type:fire ice
+Height:
+Weight:
+
+Name:Jigglypuff
+#39
+Balloon Pokémon
+Type:normal fairy
+Height:0.5
+Weight:5.5
+
+Name:Wigglytuff
+#40
+Balloon Pokémon
+Type:normal fairy
+Height:1.0
+Weight:12.0
+
+Name:Zubat
+#41
+Bat Pokémon
+Type:poison flying
+Height:0.8
+Weight:7.5
+
+Name:Golbat
+#42
+Bat Pokémon
+Type:poison flying
+Height:1.6
+Weight:55.0
+
+Name:Oddish
+#43
+Weed Pokémon
+Type:grass poison
+Height:0.5
+Weight:5.4
+
+Name:Gloom
+#44
+Weed Pokémon
+Type:grass poison
+Height:0.8
+Weight:8.6
+
+Name:Vileplume
+#45
+Flower Pokémon
+Type:grass poison
+Height:1.2
+Weight:18.6
+
+Name:Paras
+#46
+Mushroom Pokémon
+Type:bug grass
+Height:0.3
+Weight:5.4
+
+Name:Parasect
+#47
+Mushroom Pokémon
+Type:bug grass
+Height:1.0
+Weight:29.5
+
+Name:Venonat
+#48
+Insect Pokémon
+Type:bug poison
+Height:1.0
+Weight:30.0
+
+Name:Venomoth
+#49
+Poison Moth Pokémon
+Type:bug poison
+Height:1.5
+Weight:12.5
+
+Name:Diglett
+#50
+Mole Pokémon
+Type:ground ground
+Height:
+Weight:
+
+Name:Dugtrio
+#51
+Mole Pokémon
+Type:ground ground
+Height:
+Weight:
+
+Name:Meowth
+#52
+Scratch Cat Pokémon
+Type:normal dark
+Height:
+Weight:
+
+Name:Persian
+#53
+Classy Cat Pokémon
+Type:normal dark
+Height:
+Weight:
+
+Name:Psyduck
+#54
+Duck Pokémon
+Type:water 
+Height:0.8
+Weight:19.6
+
+Name:Golduck
+#55
+Duck Pokémon
+Type:water 
+Height:1.7
+Weight:76.6
+
+Name:Mankey
+#56
+Pig Monkey Pokémon
+Type:fighting 
+Height:0.5
+Weight:28.0
+
+Name:Primeape
+#57
+Pig Monkey Pokémon
+Type:fighting 
+Height:1.0
+Weight:32.0
+
+Name:Growlithe
+#58
+Puppy Pokémon
+Type:fire 
+Height:0.7
+Weight:19.0
+
+Name:Arcanine
+#59
+Legendary Pokémon
+Type:fire 
+Height:1.9
+Weight:155.0
+
+Name:Poliwag
+#60
+Tadpole Pokémon
+Type:water 
+Height:0.6
+Weight:12.4
+
+Name:Poliwhirl
+#61
+Tadpole Pokémon
+Type:water 
+Height:1.0
+Weight:20.0
+
+Name:Poliwrath
+#62
+Tadpole Pokémon
+Type:water fighting
+Height:1.3
+Weight:54.0
+
+Name:Abra
+#63
+Psi Pokémon
+Type:psychic 
+Height:0.9
+Weight:19.5
+
+Name:Kadabra
+#64
+Psi Pokémon
+Type:psychic 
+Height:1.3
+Weight:56.5
+
+Name:Alakazam
+#65
+Psi Pokémon
+Type:psychic 
+Height:1.5
+Weight:48.0
+
+Name:Machop
+#66
+Superpower Pokémon
+Type:fighting 
+Height:0.8
+Weight:19.5
+
+Name:Machoke
+#67
+Superpower Pokémon
+Type:fighting 
+Height:1.5
+Weight:70.5
+
+Name:Machamp
+#68
+Superpower Pokémon
+Type:fighting 
+Height:1.6
+Weight:130.0
+
+Name:Bellsprout
+#69
+Flower Pokémon
+Type:grass poison
+Height:0.7
+Weight:4.0
+
+Name:Weepinbell
+#70
+Flycatcher Pokémon
+Type:grass poison
+Height:1.0
+Weight:6.4
+
+Name:Victreebel
+#71
+Flycatcher Pokémon
+Type:grass poison
+Height:1.7
+Weight:15.5
+
+Name:Tentacool
+#72
+Jellyfish Pokémon
+Type:water poison
+Height:0.9
+Weight:45.5
+
+Name:Tentacruel
+#73
+Jellyfish Pokémon
+Type:water poison
+Height:1.6
+Weight:55.0
+
+Name:Geodude
+#74
+Rock Pokémon
+Type:rock ground
+Height:
+Weight:
+
+Name:Graveler
+#75
+Rock Pokémon
+Type:rock ground
+Height:
+Weight:
+
+Name:Golem
+#76
+Megaton Pokémon
+Type:rock ground
+Height:
+Weight:
+
+Name:Ponyta
+#77
+Fire Horse Pokémon
+Type:fire 
+Height:1.0
+Weight:30.0
+
+Name:Rapidash
+#78
+Fire Horse Pokémon
+Type:fire 
+Height:1.7
+Weight:95.0
+
+Name:Slowpoke
+#79
+Dopey Pokémon
+Type:water psychic
+Height:1.2
+Weight:36.0
+
+Name:Slowbro
+#80
+Hermit Crab Pokémon
+Type:water psychic
+Height:1.6
+Weight:78.5
+
+Name:Magnemite
+#81
+Magnet Pokémon
+Type:electric steel
+Height:0.3
+Weight:6.0
+
+Name:Magneton
+#82
+Magnet Pokémon
+Type:electric steel
+Height:1.0
+Weight:60.0
+
+Name:Farfetch'd
+#83
+Wild Duck Pokémon
+Type:normal flying
+Height:0.8
+Weight:15.0
+
+Name:Doduo
+#84
+Twin Bird Pokémon
+Type:normal flying
+Height:1.4
+Weight:39.2
+
+Name:Dodrio
+#85
+Triple Bird Pokémon
+Type:normal flying
+Height:1.8
+Weight:85.2
+
+Name:Seel
+#86
+Sea Lion Pokémon
+Type:water 
+Height:1.1
+Weight:90.0
+
+Name:Dewgong
+#87
+Sea Lion Pokémon
+Type:water ice
+Height:1.7
+Weight:120.0
+
+Name:Grimer
+#88
+Sludge Pokémon
+Type:poison poison
+Height:
+Weight:
+
+Name:Muk
+#89
+Sludge Pokémon
+Type:poison poison
+Height:
+Weight:
+
+Name:Shellder
+#90
+Bivalve Pokémon
+Type:water 
+Height:0.3
+Weight:4.0
+
+Name:Cloyster
+#91
+Bivalve Pokémon
+Type:water ice
+Height:1.5
+Weight:132.5
+
+Name:Gastly
+#92
+Gas Pokémon
+Type:ghost poison
+Height:1.3
+Weight:0.1
+
+Name:Haunter
+#93
+Gas Pokémon
+Type:ghost poison
+Height:1.6
+Weight:0.1
+
+Name:Gengar
+#94
+Shadow Pokémon
+Type:ghost poison
+Height:1.5
+Weight:40.5
+
+Name:Onix
+#95
+Rock Snake Pokémon
+Type:rock ground
+Height:8.8
+Weight:210.0
+
+Name:Drowzee
+#96
+Hypnosis Pokémon
+Type:psychic 
+Height:1.0
+Weight:32.4
+
+Name:Hypno
+#97
+Hypnosis Pokémon
+Type:psychic 
+Height:1.6
+Weight:75.6
+
+Name:Krabby
+#98
+River Crab Pokémon
+Type:water 
+Height:0.4
+Weight:6.5
+
+Name:Kingler
+#99
+Pincer Pokémon
+Type:water 
+Height:1.3
+Weight:60.0
+
+Name:Voltorb
+#100
+Ball Pokémon
+Type:electric 
+Height:0.5
+Weight:10.4
+
+Name:Electrode
+#101
+Ball Pokémon
+Type:electric 
+Height:1.2
+Weight:66.6
+
+Name:Exeggcute
+#102
+Egg Pokémon
+Type:grass psychic
+Height:0.4
+Weight:2.5
+
+Name:Exeggutor
+#103
+Coconut Pokémon
+Type:grass psychic
+Height:
+Weight:
+
+Name:Cubone
+#104
+Lonely Pokémon
+Type:ground 
+Height:0.4
+Weight:6.5
+
+Name:Marowak
+#105
+Bone Keeper Pokémon
+Type:ground fire
+Height:
+Weight:
+
+Name:Hitmonlee
+#106
+Kicking Pokémon
+Type:fighting 
+Height:1.5
+Weight:49.8
+
+Name:Hitmonchan
+#107
+Punching Pokémon
+Type:fighting 
+Height:1.4
+Weight:50.2
+
+Name:Lickitung
+#108
+Licking Pokémon
+Type:normal 
+Height:1.2
+Weight:65.5
+
+Name:Koffing
+#109
+Poison Gas Pokémon
+Type:poison 
+Height:0.6
+Weight:1.0
+
+Name:Weezing
+#110
+Poison Gas Pokémon
+Type:poison 
+Height:1.2
+Weight:9.5
+
+Name:Rhyhorn
+#111
+Spikes Pokémon
+Type:ground rock
+Height:1.0
+Weight:115.0
+
+Name:Rhydon
+#112
+Drill Pokémon
+Type:ground rock
+Height:1.9
+Weight:120.0
+
+Name:Chansey
+#113
+Egg Pokémon
+Type:normal 
+Height:1.1
+Weight:34.6
+
+Name:Tangela
+#114
+Vine Pokémon
+Type:grass 
+Height:1.0
+Weight:35.0
+
+Name:Kangaskhan
+#115
+Parent Pokémon
+Type:normal 
+Height:2.2
+Weight:80.0
+
+Name:Horsea
+#116
+Dragon Pokémon
+Type:water 
+Height:0.4
+Weight:8.0
+
+Name:Seadra
+#117
+Dragon Pokémon
+Type:water 
+Height:1.2
+Weight:25.0
+
+Name:Goldeen
+#118
+Goldfish Pokémon
+Type:water 
+Height:0.6
+Weight:15.0
+
+Name:Seaking
+#119
+Goldfish Pokémon
+Type:water 
+Height:1.3
+Weight:39.0
+
+Name:Staryu
+#120
+Starshape Pokémon
+Type:water 
+Height:0.8
+Weight:34.5
+
+Name:Starmie
+#121
+Mysterious Pokémon
+Type:water psychic
+Height:1.1
+Weight:80.0
+
+Name:Mr. Mime
+#122
+Barrier Pokémon
+Type:psychic fairy
+Height:1.3
+Weight:54.5
+
+Name:Scyther
+#123
+Mantis Pokémon
+Type:bug flying
+Height:1.5
+Weight:56.0
+
+Name:Jynx
+#124
+Humanshape Pokémon
+Type:ice psychic
+Height:1.4
+Weight:40.6
+
+Name:Electabuzz
+#125
+Electric Pokémon
+Type:electric 
+Height:1.1
+Weight:30.0
+
+Name:Magmar
+#126
+Spitfire Pokémon
+Type:fire 
+Height:1.3
+Weight:44.5
+
+Name:Pinsir
+#127
+Stagbeetle Pokémon
+Type:bug 
+Height:1.5
+Weight:55.0
+
+Name:Tauros
+#128
+Wild Bull Pokémon
+Type:normal 
+Height:1.4
+Weight:88.4
+
+Name:Magikarp
+#129
+Fish Pokémon
+Type:water 
+Height:0.9
+Weight:10.0
+
+Name:Gyarados
+#130
+Atrocious Pokémon
+Type:water flying
+Height:6.5
+Weight:235.0
+
+Name:Lapras
+#131
+Transport Pokémon
+Type:water ice
+Height:2.5
+Weight:220.0
+
+Name:Ditto
+#132
+Transform Pokémon
+Type:normal 
+Height:0.3
+Weight:4.0
+
+Name:Eevee
+#133
+Evolution Pokémon
+Type:normal 
+Height:0.3
+Weight:6.5
+
+Name:Vaporeon
+#134
+Bubble Jet Pokémon
+Type:water 
+Height:1.0
+Weight:29.0
+
+Name:Jolteon
+#135
+Lightning Pokémon
+Type:electric 
+Height:0.8
+Weight:24.5
+
+Name:Flareon
+#136
+Flame Pokémon
+Type:fire 
+Height:0.9
+Weight:25.0
+
+Name:Porygon
+#137
+Virtual Pokémon
+Type:normal 
+Height:0.8
+Weight:36.5
+
+Name:Omanyte
+#138
+Spiral Pokémon
+Type:rock water
+Height:0.4
+Weight:7.5
+
+Name:Omastar
+#139
+Spiral Pokémon
+Type:rock water
+Height:1.0
+Weight:35.0
+
+Name:Kabuto
+#140
+Shellfish Pokémon
+Type:rock water
+Height:0.5
+Weight:11.5
+
+Name:Kabutops
+#141
+Shellfish Pokémon
+Type:rock water
+Height:1.3
+Weight:40.5
+
+Name:Aerodactyl
+#142
+Fossil Pokémon
+Type:rock flying
+Height:1.8
+Weight:59.0
+
+Name:Snorlax
+#143
+Sleeping Pokémon
+Type:normal 
+Height:2.1
+Weight:460.0
+
+Name:Articuno
+#144
+Freeze Pokémon
+Type:ice flying
+Height:1.7
+Weight:55.4
+
+Name:Zapdos
+#145
+Electric Pokémon
+Type:electric flying
+Height:1.6
+Weight:52.6
+
+Name:Moltres
+#146
+Flame Pokémon
+Type:fire flying
+Height:2.0
+Weight:60.0
+
+Name:Dratini
+#147
+Dragon Pokémon
+Type:dragon 
+Height:1.8
+Weight:3.3
+
+Name:Dragonair
+#148
+Dragon Pokémon
+Type:dragon 
+Height:4.0
+Weight:16.5
+
+Name:Dragonite
+#149
+Dragon Pokémon
+Type:dragon flying
+Height:2.2
+Weight:210.0
+
+Name:Mewtwo
+#150
+Genetic Pokémon
+Type:psychic 
+Height:2.0
+Weight:122.0
+
+Name:Mew
+#151
+New Species Pokémon
+Type:psychic 
+Height:0.4
+Weight:4.0
+
+Name:Chikorita
+#152
+Leaf Pokémon
+Type:grass 
+Height:0.9
+Weight:6.4
+
+Name:Bayleef
+#153
+Leaf Pokémon
+Type:grass 
+Height:1.2
+Weight:15.8
+
+Name:Meganium
+#154
+Herb Pokémon
+Type:grass 
+Height:1.8
+Weight:100.5
+
+Name:Cyndaquil
+#155
+Fire Mouse Pokémon
+Type:fire 
+Height:0.5
+Weight:7.9
+
+Name:Quilava
+#156
+Volcano Pokémon
+Type:fire 
+Height:0.9
+Weight:19.0
+
+Name:Typhlosion
+#157
+Volcano Pokémon
+Type:fire 
+Height:1.7
+Weight:79.5
+
+Name:Totodile
+#158
+Big Jaw Pokémon
+Type:water 
+Height:0.6
+Weight:9.5
+
+Name:Croconaw
+#159
+Big Jaw Pokémon
+Type:water 
+Height:1.1
+Weight:25.0
+
+Name:Feraligatr
+#160
+Big Jaw Pokémon
+Type:water 
+Height:2.3
+Weight:88.8
+
+Name:Sentret
+#161
+Scout Pokémon
+Type:normal 
+Height:0.8
+Weight:6.0
+
+Name:Furret
+#162
+Long Body Pokémon
+Type:normal 
+Height:1.8
+Weight:32.5
+
+Name:Hoothoot
+#163
+Owl Pokémon
+Type:normal flying
+Height:0.7
+Weight:21.2
+
+Name:Noctowl
+#164
+Owl Pokémon
+Type:normal flying
+Height:1.6
+Weight:40.8
+
+Name:Ledyba
+#165
+Five Star Pokémon
+Type:bug flying
+Height:1.0
+Weight:10.8
+
+Name:Ledian
+#166
+Five Star Pokémon
+Type:bug flying
+Height:1.4
+Weight:35.6
+
+Name:Spinarak
+#167
+String Spit Pokémon
+Type:bug poison
+Height:0.5
+Weight:8.5
+
+Name:Ariados
+#168
+Long Leg Pokémon
+Type:bug poison
+Height:1.1
+Weight:33.5
+
+Name:Crobat
+#169
+Bat Pokémon
+Type:poison flying
+Height:1.8
+Weight:75.0
+
+Name:Chinchou
+#170
+Angler Pokémon
+Type:water electric
+Height:0.5
+Weight:12.0
+
+Name:Lanturn
+#171
+Light Pokémon
+Type:water electric
+Height:1.2
+Weight:22.5
+
+Name:Pichu
+#172
+Tiny Mouse Pokémon
+Type:electric 
+Height:0.3
+Weight:2.0
+
+Name:Cleffa
+#173
+Star Shape Pokémon
+Type:fairy 
+Height:0.3
+Weight:3.0
+
+Name:Igglybuff
+#174
+Balloon Pokémon
+Type:normal fairy
+Height:0.3
+Weight:1.0
+
+Name:Togepi
+#175
+Spike Ball Pokémon
+Type:fairy 
+Height:0.3
+Weight:1.5
+
+Name:Togetic
+#176
+Happiness Pokémon
+Type:fairy flying
+Height:0.6
+Weight:3.2
+
+Name:Natu
+#177
+Little Bird Pokémon
+Type:psychic flying
+Height:0.2
+Weight:2.0
+
+Name:Xatu
+#178
+Mystic Pokémon
+Type:psychic flying
+Height:1.5
+Weight:15.0
+
+Name:Mareep
+#179
+Wool Pokémon
+Type:electric 
+Height:0.6
+Weight:7.8
+
+Name:Flaaffy
+#180
+Wool Pokémon
+Type:electric 
+Height:0.8
+Weight:13.3
+
+Name:Ampharos
+#181
+Light Pokémon
+Type:electric 
+Height:1.4
+Weight:61.5
+
+Name:Bellossom
+#182
+Flower Pokémon
+Type:grass 
+Height:0.4
+Weight:5.8
+
+Name:Marill
+#183
+Aquamouse Pokémon
+Type:water fairy
+Height:0.4
+Weight:8.5
+
+Name:Azumarill
+#184
+Aquarabbit Pokémon
+Type:water fairy
+Height:0.8
+Weight:28.5
+
+Name:Sudowoodo
+#185
+Imitation Pokémon
+Type:rock 
+Height:1.2
+Weight:38.0
+
+Name:Politoed
+#186
+Frog Pokémon
+Type:water 
+Height:1.1
+Weight:33.9
+
+Name:Hoppip
+#187
+Cottonweed Pokémon
+Type:grass flying
+Height:0.4
+Weight:0.5
+
+Name:Skiploom
+#188
+Cottonweed Pokémon
+Type:grass flying
+Height:0.6
+Weight:1.0
+
+Name:Jumpluff
+#189
+Cottonweed Pokémon
+Type:grass flying
+Height:0.8
+Weight:3.0
+
+Name:Aipom
+#190
+Long Tail Pokémon
+Type:normal 
+Height:0.8
+Weight:11.5
+
+Name:Sunkern
+#191
+Seed Pokémon
+Type:grass 
+Height:0.3
+Weight:1.8
+
+Name:Sunflora
+#192
+Sun Pokémon
+Type:grass 
+Height:0.8
+Weight:8.5
+
+Name:Yanma
+#193
+Clear Wing Pokémon
+Type:bug flying
+Height:1.2
+Weight:38.0
+
+Name:Wooper
+#194
+Water Fish Pokémon
+Type:water ground
+Height:0.4
+Weight:8.5
+
+Name:Quagsire
+#195
+Water Fish Pokémon
+Type:water ground
+Height:1.4
+Weight:75.0
+
+Name:Espeon
+#196
+Sun Pokémon
+Type:psychic 
+Height:0.9
+Weight:26.5
+
+Name:Umbreon
+#197
+Moonlight Pokémon
+Type:dark 
+Height:1.0
+Weight:27.0
+
+Name:Murkrow
+#198
+Darkness Pokémon
+Type:dark flying
+Height:0.5
+Weight:2.1
+
+Name:Slowking
+#199
+Royal Pokémon
+Type:water psychic
+Height:2.0
+Weight:79.5
+
+Name:Misdreavus
+#200
+Screech Pokémon
+Type:ghost 
+Height:0.7
+Weight:1.0
+
+Name:Unown
+#201
+Symbol Pokémon
+Type:psychic 
+Height:0.5
+Weight:5.0
+
+Name:Wobbuffet
+#202
+Patient Pokémon
+Type:psychic 
+Height:1.3
+Weight:28.5
+
+Name:Girafarig
+#203
+Long Neck Pokémon
+Type:normal psychic
+Height:1.5
+Weight:41.5
+
+Name:Pineco
+#204
+Bagworm Pokémon
+Type:bug 
+Height:0.6
+Weight:7.2
+
+Name:Forretress
+#205
+Bagworm Pokémon
+Type:bug steel
+Height:1.2
+Weight:125.8
+
+Name:Dunsparce
+#206
+Land Snake Pokémon
+Type:normal 
+Height:1.5
+Weight:14.0
+
+Name:Gligar
+#207
+Flyscorpion Pokémon
+Type:ground flying
+Height:1.1
+Weight:64.8
+
+Name:Steelix
+#208
+Iron Snake Pokémon
+Type:steel ground
+Height:9.2
+Weight:400.0
+
+Name:Snubbull
+#209
+Fairy Pokémon
+Type:fairy 
+Height:0.6
+Weight:7.8
+
+Name:Granbull
+#210
+Fairy Pokémon
+Type:fairy 
+Height:1.4
+Weight:48.7
+
+Name:Qwilfish
+#211
+Balloon Pokémon
+Type:water poison
+Height:0.5
+Weight:3.9
+
+Name:Scizor
+#212
+Pincer Pokémon
+Type:bug steel
+Height:1.8
+Weight:118.0
+
+Name:Shuckle
+#213
+Mold Pokémon
+Type:bug rock
+Height:0.6
+Weight:20.5
+
+Name:Heracross
+#214
+Singlehorn Pokémon
+Type:bug fighting
+Height:1.5
+Weight:54.0
+
+Name:Sneasel
+#215
+Sharp Claw Pokémon
+Type:dark ice
+Height:0.9
+Weight:28.0
+
+Name:Teddiursa
+#216
+Little Bear Pokémon
+Type:normal 
+Height:0.6
+Weight:8.8
+
+Name:Ursaring
+#217
+Hibernator Pokémon
+Type:normal 
+Height:1.8
+Weight:125.8
+
+Name:Slugma
+#218
+Lava Pokémon
+Type:fire 
+Height:0.7
+Weight:35.0
+
+Name:Magcargo
+#219
+Lava Pokémon
+Type:fire rock
+Height:0.8
+Weight:55.0
+
+Name:Swinub
+#220
+Pig Pokémon
+Type:ice ground
+Height:0.4
+Weight:6.5
+
+Name:Piloswine
+#221
+Swine Pokémon
+Type:ice ground
+Height:1.1
+Weight:55.8
+
+Name:Corsola
+#222
+Coral Pokémon
+Type:water rock
+Height:0.6
+Weight:5.0
+
+Name:Remoraid
+#223
+Jet Pokémon
+Type:water 
+Height:0.6
+Weight:12.0
+
+Name:Octillery
+#224
+Jet Pokémon
+Type:water 
+Height:0.9
+Weight:28.5
+
+Name:Delibird
+#225
+Delivery Pokémon
+Type:ice flying
+Height:0.9
+Weight:16.0
+
+Name:Mantine
+#226
+Kite Pokémon
+Type:water flying
+Height:2.1
+Weight:220.0
+
+Name:Skarmory
+#227
+Armor Bird Pokémon
+Type:steel flying
+Height:1.7
+Weight:50.5
+
+Name:Houndour
+#228
+Dark Pokémon
+Type:dark fire
+Height:0.6
+Weight:10.8
+
+Name:Houndoom
+#229
+Dark Pokémon
+Type:dark fire
+Height:1.4
+Weight:35.0
+
+Name:Kingdra
+#230
+Dragon Pokémon
+Type:water dragon
+Height:1.8
+Weight:152.0
+
+Name:Phanpy
+#231
+Long Nose Pokémon
+Type:ground 
+Height:0.5
+Weight:33.5
+
+Name:Donphan
+#232
+Armor Pokémon
+Type:ground 
+Height:1.1
+Weight:120.0
+
+Name:Porygon2
+#233
+Virtual Pokémon
+Type:normal 
+Height:0.6
+Weight:32.5
+
+Name:Stantler
+#234
+Big Horn Pokémon
+Type:normal 
+Height:1.4
+Weight:71.2
+
+Name:Smeargle
+#235
+Painter Pokémon
+Type:normal 
+Height:1.2
+Weight:58.0
+
+Name:Tyrogue
+#236
+Scuffle Pokémon
+Type:fighting 
+Height:0.7
+Weight:21.0
+
+Name:Hitmontop
+#237
+Handstand Pokémon
+Type:fighting 
+Height:1.4
+Weight:48.0
+
+Name:Smoochum
+#238
+Kiss Pokémon
+Type:ice psychic
+Height:0.4
+Weight:6.0
+
+Name:Elekid
+#239
+Electric Pokémon
+Type:electric 
+Height:0.6
+Weight:23.5
+
+Name:Magby
+#240
+Live Coal Pokémon
+Type:fire 
+Height:0.7
+Weight:21.4
+
+Name:Miltank
+#241
+Milk Cow Pokémon
+Type:normal 
+Height:1.2
+Weight:75.5
+
+Name:Blissey
+#242
+Happiness Pokémon
+Type:normal 
+Height:1.5
+Weight:46.8
+
+Name:Raikou
+#243
+Thunder Pokémon
+Type:electric 
+Height:1.9
+Weight:178.0
+
+Name:Entei
+#244
+Volcano Pokémon
+Type:fire 
+Height:2.1
+Weight:198.0
+
+Name:Suicune
+#245
+Aurora Pokémon
+Type:water 
+Height:2.0
+Weight:187.0
+
+Name:Larvitar
+#246
+Rock Skin Pokémon
+Type:rock ground
+Height:0.6
+Weight:72.0
+
+Name:Pupitar
+#247
+Hard Shell Pokémon
+Type:rock ground
+Height:1.2
+Weight:152.0
+
+Name:Tyranitar
+#248
+Armor Pokémon
+Type:rock dark
+Height:2.0
+Weight:202.0
+
+Name:Lugia
+#249
+Diving Pokémon
+Type:psychic flying
+Height:5.2
+Weight:216.0
+
+Name:Ho-Oh
+#250
+Rainbow Pokémon
+Type:fire flying
+Height:3.8
+Weight:199.0
+
+Name:Celebi
+#251
+Time Travel Pokémon
+Type:psychic grass
+Height:0.6
+Weight:5.0
+
+Name:Treecko
+#252
+Wood Gecko Pokémon
+Type:grass 
+Height:0.5
+Weight:5.0
+
+Name:Grovyle
+#253
+Wood Gecko Pokémon
+Type:grass 
+Height:0.9
+Weight:21.6
+
+Name:Sceptile
+#254
+Forest Pokémon
+Type:grass 
+Height:1.7
+Weight:52.2
+
+Name:Torchic
+#255
+Chick Pokémon
+Type:fire 
+Height:0.4
+Weight:2.5
+
+Name:Combusken
+#256
+Young Fowl Pokémon
+Type:fire fighting
+Height:0.9
+Weight:19.5
+
+Name:Blaziken
+#257
+Blaze Pokémon
+Type:fire fighting
+Height:1.9
+Weight:52.0
+
+Name:Mudkip
+#258
+Mud Fish Pokémon
+Type:water 
+Height:0.4
+Weight:7.6
+
+Name:Marshtomp
+#259
+Mud Fish Pokémon
+Type:water ground
+Height:0.7
+Weight:28.0
+
+Name:Swampert
+#260
+Mud Fish Pokémon
+Type:water ground
+Height:1.5
+Weight:81.9
+
+Name:Poochyena
+#261
+Bite Pokémon
+Type:dark 
+Height:0.5
+Weight:13.6
+
+Name:Mightyena
+#262
+Bite Pokémon
+Type:dark 
+Height:1.0
+Weight:37.0
+
+Name:Zigzagoon
+#263
+Tiny Racoon Pokémon
+Type:normal 
+Height:0.4
+Weight:17.5
+
+Name:Linoone
+#264
+Rush Pokémon
+Type:normal 
+Height:0.5
+Weight:32.5
+
+Name:Wurmple
+#265
+Worm Pokémon
+Type:bug 
+Height:0.3
+Weight:3.6
+
+Name:Silcoon
+#266
+Cocoon Pokémon
+Type:bug 
+Height:0.6
+Weight:10.0
+
+Name:Beautifly
+#267
+Butterfly Pokémon
+Type:bug flying
+Height:1.0
+Weight:28.4
+
+Name:Cascoon
+#268
+Cocoon Pokémon
+Type:bug 
+Height:0.7
+Weight:11.5
+
+Name:Dustox
+#269
+Poison Moth Pokémon
+Type:bug poison
+Height:1.2
+Weight:31.6
+
+Name:Lotad
+#270
+Water Weed Pokémon
+Type:water grass
+Height:0.5
+Weight:2.6
+
+Name:Lombre
+#271
+Jolly Pokémon
+Type:water grass
+Height:1.2
+Weight:32.5
+
+Name:Ludicolo
+#272
+Carefree Pokémon
+Type:water grass
+Height:1.5
+Weight:55.0
+
+Name:Seedot
+#273
+Acorn Pokémon
+Type:grass 
+Height:0.5
+Weight:4.0
+
+Name:Nuzleaf
+#274
+Wily Pokémon
+Type:grass dark
+Height:1.0
+Weight:28.0
+
+Name:Shiftry
+#275
+Wickid Pokémon
+Type:grass dark
+Height:1.3
+Weight:59.6
+
+Name:Taillow
+#276
+TinySwallow Pokémon
+Type:normal flying
+Height:0.3
+Weight:2.3
+
+Name:Swellow
+#277
+Swallow Pokémon
+Type:normal flying
+Height:0.7
+Weight:19.8
+
+Name:Wingull
+#278
+Seagull Pokémon
+Type:water flying
+Height:0.6
+Weight:9.5
+
+Name:Pelipper
+#279
+Water Bird Pokémon
+Type:water flying
+Height:1.2
+Weight:28.0
+
+Name:Ralts
+#280
+Feeling Pokémon
+Type:psychic fairy
+Height:0.4
+Weight:6.6
+
+Name:Kirlia
+#281
+Emotion Pokémon
+Type:psychic fairy
+Height:0.8
+Weight:20.2
+
+Name:Gardevoir
+#282
+Embrace Pokémon
+Type:psychic fairy
+Height:1.6
+Weight:48.4
+
+Name:Surskit
+#283
+Pond Skater Pokémon
+Type:bug water
+Height:0.5
+Weight:1.7
+
+Name:Masquerain
+#284
+Eyeball Pokémon
+Type:bug flying
+Height:0.8
+Weight:3.6
+
+Name:Shroomish
+#285
+Mushroom Pokémon
+Type:grass 
+Height:0.4
+Weight:4.5
+
+Name:Breloom
+#286
+Mushroom Pokémon
+Type:grass fighting
+Height:1.2
+Weight:39.2
+
+Name:Slakoth
+#287
+Slacker Pokémon
+Type:normal 
+Height:0.8
+Weight:24.0
+
+Name:Vigoroth
+#288
+Wild Monkey Pokémon
+Type:normal 
+Height:1.4
+Weight:46.5
+
+Name:Slaking
+#289
+Lazy Pokémon
+Type:normal 
+Height:2.0
+Weight:130.5
+
+Name:Nincada
+#290
+Trainee Pokémon
+Type:bug ground
+Height:0.5
+Weight:5.5
+
+Name:Ninjask
+#291
+Ninja Pokémon
+Type:bug flying
+Height:0.8
+Weight:12.0
+
+Name:Shedinja
+#292
+Shed Pokémon
+Type:bug ghost
+Height:0.8
+Weight:1.2
+
+Name:Whismur
+#293
+Whisper Pokémon
+Type:normal 
+Height:0.6
+Weight:16.3
+
+Name:Loudred
+#294
+Big Voice Pokémon
+Type:normal 
+Height:1.0
+Weight:40.5
+
+Name:Exploud
+#295
+Loud Noise Pokémon
+Type:normal 
+Height:1.5
+Weight:84.0
+
+Name:Makuhita
+#296
+Guts Pokémon
+Type:fighting 
+Height:1.0
+Weight:86.4
+
+Name:Hariyama
+#297
+Arm Thrust Pokémon
+Type:fighting 
+Height:2.3
+Weight:253.8
+
+Name:Azurill
+#298
+Polka Dot Pokémon
+Type:normal fairy
+Height:0.2
+Weight:2.0
+
+Name:Nosepass
+#299
+Compass Pokémon
+Type:rock 
+Height:1.0
+Weight:97.0
+
+Name:Skitty
+#300
+Kitten Pokémon
+Type:normal 
+Height:0.6
+Weight:11.0
+
+Name:Delcatty
+#301
+Prim Pokémon
+Type:normal 
+Height:1.1
+Weight:32.6
+
+Name:Sableye
+#302
+Darkness Pokémon
+Type:dark ghost
+Height:0.5
+Weight:11.0
+
+Name:Mawile
+#303
+Deceiver Pokémon
+Type:steel fairy
+Height:0.6
+Weight:11.5
+
+Name:Aron
+#304
+Iron Armor Pokémon
+Type:steel rock
+Height:0.4
+Weight:60.0
+
+Name:Lairon
+#305
+Iron Armor Pokémon
+Type:steel rock
+Height:0.9
+Weight:120.0
+
+Name:Aggron
+#306
+Iron Armor Pokémon
+Type:steel rock
+Height:2.1
+Weight:360.0
+
+Name:Meditite
+#307
+Meditate Pokémon
+Type:fighting psychic
+Height:0.6
+Weight:11.2
+
+Name:Medicham
+#308
+Meditate Pokémon
+Type:fighting psychic
+Height:1.3
+Weight:31.5
+
+Name:Electrike
+#309
+Lightning Pokémon
+Type:electric 
+Height:0.6
+Weight:15.2
+
+Name:Manectric
+#310
+Discharge Pokémon
+Type:electric 
+Height:1.5
+Weight:40.2
+
+Name:Plusle
+#311
+Cheering Pokémon
+Type:electric 
+Height:0.4
+Weight:4.2
+
+Name:Minun
+#312
+Cheering Pokémon
+Type:electric 
+Height:0.4
+Weight:4.2
+
+Name:Volbeat
+#313
+Firefly Pokémon
+Type:bug 
+Height:0.7
+Weight:17.7
+
+Name:Illumise
+#314
+Firefly Pokémon
+Type:bug 
+Height:0.6
+Weight:17.7
+
+Name:Roselia
+#315
+Thorn Pokémon
+Type:grass poison
+Height:0.3
+Weight:2.0
+
+Name:Gulpin
+#316
+Stomach Pokémon
+Type:poison 
+Height:0.4
+Weight:10.3
+
+Name:Swalot
+#317
+Poison Bag Pokémon
+Type:poison 
+Height:1.7
+Weight:80.0
+
+Name:Carvanha
+#318
+Savage Pokémon
+Type:water dark
+Height:0.8
+Weight:20.8
+
+Name:Sharpedo
+#319
+Brutal Pokémon
+Type:water dark
+Height:1.8
+Weight:88.8
+
+Name:Wailmer
+#320
+Ball Whale Pokémon
+Type:water 
+Height:2.0
+Weight:130.0
+
+Name:Wailord
+#321
+Float Whale Pokémon
+Type:water 
+Height:14.5
+Weight:398.0
+
+Name:Numel
+#322
+Numb Pokémon
+Type:fire ground
+Height:0.7
+Weight:24.0
+
+Name:Camerupt
+#323
+Eruption Pokémon
+Type:fire ground
+Height:1.9
+Weight:220.0
+
+Name:Torkoal
+#324
+Coal Pokémon
+Type:fire 
+Height:0.5
+Weight:80.4
+
+Name:Spoink
+#325
+Bounce Pokémon
+Type:psychic 
+Height:0.7
+Weight:30.6
+
+Name:Grumpig
+#326
+Manipulate Pokémon
+Type:psychic 
+Height:0.9
+Weight:71.5
+
+Name:Spinda
+#327
+Spot Panda Pokémon
+Type:normal 
+Height:1.1
+Weight:5.0
+
+Name:Trapinch
+#328
+Ant Pit Pokémon
+Type:ground 
+Height:0.7
+Weight:15.0
+
+Name:Vibrava
+#329
+Vibration Pokémon
+Type:ground dragon
+Height:1.1
+Weight:15.3
+
+Name:Flygon
+#330
+Mystic Pokémon
+Type:ground dragon
+Height:2.0
+Weight:82.0
+
+Name:Cacnea
+#331
+Cactus Pokémon
+Type:grass 
+Height:0.4
+Weight:51.3
+
+Name:Cacturne
+#332
+Scarecrow Pokémon
+Type:grass dark
+Height:1.3
+Weight:77.4
+
+Name:Swablu
+#333
+Cotton Bird Pokémon
+Type:normal flying
+Height:0.4
+Weight:1.2
+
+Name:Altaria
+#334
+Humming Pokémon
+Type:dragon flying
+Height:1.1
+Weight:20.6
+
+Name:Zangoose
+#335
+Cat Ferret Pokémon
+Type:normal 
+Height:1.3
+Weight:40.3
+
+Name:Seviper
+#336
+Fang Snake Pokémon
+Type:poison 
+Height:2.7
+Weight:52.5
+
+Name:Lunatone
+#337
+Meteorite Pokémon
+Type:rock psychic
+Height:1.0
+Weight:168.0
+
+Name:Solrock
+#338
+Meteorite Pokémon
+Type:rock psychic
+Height:1.2
+Weight:154.0
+
+Name:Barboach
+#339
+Whiskers Pokémon
+Type:water ground
+Height:0.4
+Weight:1.9
+
+Name:Whiscash
+#340
+Whiskers Pokémon
+Type:water ground
+Height:0.9
+Weight:23.6
+
+Name:Corphish
+#341
+Ruffian Pokémon
+Type:water 
+Height:0.6
+Weight:11.5
+
+Name:Crawdaunt
+#342
+Rogue Pokémon
+Type:water dark
+Height:1.1
+Weight:32.8
+
+Name:Baltoy
+#343
+Clay Doll Pokémon
+Type:ground psychic
+Height:0.5
+Weight:21.5
+
+Name:Claydol
+#344
+Clay Doll Pokémon
+Type:ground psychic
+Height:1.5
+Weight:108.0
+
+Name:Lileep
+#345
+Sea Lily Pokémon
+Type:rock grass
+Height:1.0
+Weight:23.8
+
+Name:Cradily
+#346
+Barnacle Pokémon
+Type:rock grass
+Height:1.5
+Weight:60.4
+
+Name:Anorith
+#347
+Old Shrimp Pokémon
+Type:rock bug
+Height:0.7
+Weight:12.5
+
+Name:Armaldo
+#348
+Plate Pokémon
+Type:rock bug
+Height:1.5
+Weight:68.2
+
+Name:Feebas
+#349
+Fish Pokémon
+Type:water 
+Height:0.6
+Weight:7.4
+
+Name:Milotic
+#350
+Tender Pokémon
+Type:water 
+Height:6.2
+Weight:162.0
+
+Name:Castform
+#351
+Weather Pokémon
+Type:normal 
+Height:0.3
+Weight:0.8
+
+Name:Kecleon
+#352
+Color Swap Pokémon
+Type:normal 
+Height:1.0
+Weight:22.0
+
+Name:Shuppet
+#353
+Puppet Pokémon
+Type:ghost 
+Height:0.6
+Weight:2.3
+
+Name:Banette
+#354
+Marionette Pokémon
+Type:ghost 
+Height:1.1
+Weight:12.5
+
+Name:Duskull
+#355
+Requiem Pokémon
+Type:ghost 
+Height:0.8
+Weight:15.0
+
+Name:Dusclops
+#356
+Beckon Pokémon
+Type:ghost 
+Height:1.6
+Weight:30.6
+
+Name:Tropius
+#357
+Fruit Pokémon
+Type:grass flying
+Height:2.0
+Weight:100.0
+
+Name:Chimecho
+#358
+Wind Chime Pokémon
+Type:psychic 
+Height:0.6
+Weight:1.0
+
+Name:Absol
+#359
+Disaster Pokémon
+Type:dark 
+Height:1.2
+Weight:47.0
+
+Name:Wynaut
+#360
+Bright Pokémon
+Type:psychic 
+Height:0.6
+Weight:14.0
+
+Name:Snorunt
+#361
+Snow Hat Pokémon
+Type:ice 
+Height:0.7
+Weight:16.8
+
+Name:Glalie
+#362
+Face Pokémon
+Type:ice 
+Height:1.5
+Weight:256.5
+
+Name:Spheal
+#363
+Clap Pokémon
+Type:ice water
+Height:0.8
+Weight:39.5
+
+Name:Sealeo
+#364
+Ball Roll Pokémon
+Type:ice water
+Height:1.1
+Weight:87.6
+
+Name:Walrein
+#365
+Ice Break Pokémon
+Type:ice water
+Height:1.4
+Weight:150.6
+
+Name:Clamperl
+#366
+Bivalve Pokémon
+Type:water 
+Height:0.4
+Weight:52.5
+
+Name:Huntail
+#367
+Deep Sea Pokémon
+Type:water 
+Height:1.7
+Weight:27.0
+
+Name:Gorebyss
+#368
+South Sea Pokémon
+Type:water 
+Height:1.8
+Weight:22.6
+
+Name:Relicanth
+#369
+Longevity Pokémon
+Type:water rock
+Height:1.0
+Weight:23.4
+
+Name:Luvdisc
+#370
+Rendezvous Pokémon
+Type:water 
+Height:0.6
+Weight:8.7
+
+Name:Bagon
+#371
+Rock Head Pokémon
+Type:dragon 
+Height:0.6
+Weight:42.1
+
+Name:Shelgon
+#372
+Endurance Pokémon
+Type:dragon 
+Height:1.1
+Weight:110.5
+
+Name:Salamence
+#373
+Dragon Pokémon
+Type:dragon flying
+Height:1.5
+Weight:102.6
+
+Name:Beldum
+#374
+Iron Ball Pokémon
+Type:steel psychic
+Height:0.6
+Weight:95.2
+
+Name:Metang
+#375
+Iron Claw Pokémon
+Type:steel psychic
+Height:1.2
+Weight:202.5
+
+Name:Metagross
+#376
+Iron Leg Pokémon
+Type:steel psychic
+Height:1.6
+Weight:550.0
+
+Name:Regirock
+#377
+Rock Peak Pokémon
+Type:rock 
+Height:1.7
+Weight:230.0
+
+Name:Regice
+#378
+Iceberg Pokémon
+Type:ice 
+Height:1.8
+Weight:175.0
+
+Name:Registeel
+#379
+Iron Pokémon
+Type:steel 
+Height:1.9
+Weight:205.0
+
+Name:Latias
+#380
+Eon Pokémon
+Type:dragon psychic
+Height:1.4
+Weight:40.0
+
+Name:Latios
+#381
+Eon Pokémon
+Type:dragon psychic
+Height:2.0
+Weight:60.0
+
+Name:Kyogre
+#382
+Sea Basin Pokémon
+Type:water 
+Height:4.5
+Weight:352.0
+
+Name:Groudon
+#383
+Continent Pokémon
+Type:ground 
+Height:3.5
+Weight:950.0
+
+Name:Rayquaza
+#384
+Sky High Pokémon
+Type:dragon flying
+Height:7.0
+Weight:206.5
+
+Name:Jirachi
+#385
+Wish Pokémon
+Type:steel psychic
+Height:0.3
+Weight:1.1
+
+Name:Deoxys
+#386
+DNA Pokémon
+Type:psychic 
+Height:1.7
+Weight:60.8
+
+Name:Turtwig
+#387
+Tiny Leaf Pokémon
+Type:grass 
+Height:0.4
+Weight:10.2
+
+Name:Grotle
+#388
+Grove Pokémon
+Type:grass 
+Height:1.1
+Weight:97.0
+
+Name:Torterra
+#389
+Continent Pokémon
+Type:grass ground
+Height:2.2
+Weight:310.0
+
+Name:Chimchar
+#390
+Chimp Pokémon
+Type:fire 
+Height:0.5
+Weight:6.2
+
+Name:Monferno
+#391
+Playful Pokémon
+Type:fire fighting
+Height:0.9
+Weight:22.0
+
+Name:Infernape
+#392
+Flame Pokémon
+Type:fire fighting
+Height:1.2
+Weight:55.0
+
+Name:Piplup
+#393
+Penguin Pokémon
+Type:water 
+Height:0.4
+Weight:5.2
+
+Name:Prinplup
+#394
+Penguin Pokémon
+Type:water 
+Height:0.8
+Weight:23.0
+
+Name:Empoleon
+#395
+Emperor Pokémon
+Type:water steel
+Height:1.7
+Weight:84.5
+
+Name:Starly
+#396
+Starling Pokémon
+Type:normal flying
+Height:0.3
+Weight:2.0
+
+Name:Staravia
+#397
+Starling Pokémon
+Type:normal flying
+Height:0.6
+Weight:15.5
+
+Name:Staraptor
+#398
+Predator Pokémon
+Type:normal flying
+Height:1.2
+Weight:24.9
+
+Name:Bidoof
+#399
+Plump Mouse Pokémon
+Type:normal 
+Height:0.5
+Weight:20.0
+
+Name:Bibarel
+#400
+Beaver Pokémon
+Type:normal water
+Height:1.0
+Weight:31.5
+
+Name:Kricketot
+#401
+Cricket Pokémon
+Type:bug 
+Height:0.3
+Weight:2.2
+
+Name:Kricketune
+#402
+Cricket Pokémon
+Type:bug 
+Height:1.0
+Weight:25.5
+
+Name:Shinx
+#403
+Flash Pokémon
+Type:electric 
+Height:0.5
+Weight:9.5
+
+Name:Luxio
+#404
+Spark Pokémon
+Type:electric 
+Height:0.9
+Weight:30.5
+
+Name:Luxray
+#405
+Gleam Eyes Pokémon
+Type:electric 
+Height:1.4
+Weight:42.0
+
+Name:Budew
+#406
+Bud Pokémon
+Type:grass poison
+Height:0.2
+Weight:1.2
+
+Name:Roserade
+#407
+Bouquet Pokémon
+Type:grass poison
+Height:0.9
+Weight:14.5
+
+Name:Cranidos
+#408
+Head Butt Pokémon
+Type:rock 
+Height:0.9
+Weight:31.5
+
+Name:Rampardos
+#409
+Head Butt Pokémon
+Type:rock 
+Height:1.6
+Weight:102.5
+
+Name:Shieldon
+#410
+Shield Pokémon
+Type:rock steel
+Height:0.5
+Weight:57.0
+
+Name:Bastiodon
+#411
+Shield Pokémon
+Type:rock steel
+Height:1.3
+Weight:149.5
+
+Name:Burmy
+#412
+Bagworm Pokémon
+Type:bug 
+Height:0.2
+Weight:3.4
+
+Name:Wormadam
+#413
+Bagworm Pokémon
+Type:bug grass
+Height:0.5
+Weight:6.5
+
+Name:Mothim
+#414
+Moth Pokémon
+Type:bug flying
+Height:0.9
+Weight:23.3
+
+Name:Combee
+#415
+Tiny Bee Pokémon
+Type:bug flying
+Height:0.3
+Weight:5.5
+
+Name:Vespiquen
+#416
+Beehive Pokémon
+Type:bug flying
+Height:1.2
+Weight:38.5
+
+Name:Pachirisu
+#417
+EleSquirrel Pokémon
+Type:electric 
+Height:0.4
+Weight:3.9
+
+Name:Buizel
+#418
+Sea Weasel Pokémon
+Type:water 
+Height:0.7
+Weight:29.5
+
+Name:Floatzel
+#419
+Sea Weasel Pokémon
+Type:water 
+Height:1.1
+Weight:33.5
+
+Name:Cherubi
+#420
+Cherry Pokémon
+Type:grass 
+Height:0.4
+Weight:3.3
+
+Name:Cherrim
+#421
+Blossom Pokémon
+Type:grass 
+Height:0.5
+Weight:9.3
+
+Name:Shellos
+#422
+Sea Slug Pokémon
+Type:water 
+Height:0.3
+Weight:6.3
+
+Name:Gastrodon
+#423
+Sea Slug Pokémon
+Type:water ground
+Height:0.9
+Weight:29.9
+
+Name:Ambipom
+#424
+Long Tail Pokémon
+Type:normal 
+Height:1.2
+Weight:20.3
+
+Name:Drifloon
+#425
+Balloon Pokémon
+Type:ghost flying
+Height:0.4
+Weight:1.2
+
+Name:Drifblim
+#426
+Blimp Pokémon
+Type:ghost flying
+Height:1.2
+Weight:15.0
+
+Name:Buneary
+#427
+Rabbit Pokémon
+Type:normal 
+Height:0.4
+Weight:5.5
+
+Name:Lopunny
+#428
+Rabbit Pokémon
+Type:normal 
+Height:1.2
+Weight:33.3
+
+Name:Mismagius
+#429
+Magical Pokémon
+Type:ghost 
+Height:0.9
+Weight:4.4
+
+Name:Honchkrow
+#430
+Big Boss Pokémon
+Type:dark flying
+Height:0.9
+Weight:27.3
+
+Name:Glameow
+#431
+Catty Pokémon
+Type:normal 
+Height:0.5
+Weight:3.9
+
+Name:Purugly
+#432
+Tiger Cat Pokémon
+Type:normal 
+Height:1.0
+Weight:43.8
+
+Name:Chingling
+#433
+Bell Pokémon
+Type:psychic 
+Height:0.2
+Weight:0.6
+
+Name:Stunky
+#434
+Skunk Pokémon
+Type:poison dark
+Height:0.4
+Weight:19.2
+
+Name:Skuntank
+#435
+Skunk Pokémon
+Type:poison dark
+Height:1.0
+Weight:38.0
+
+Name:Bronzor
+#436
+Bronze Pokémon
+Type:steel psychic
+Height:0.5
+Weight:60.5
+
+Name:Bronzong
+#437
+Bronze Bell Pokémon
+Type:steel psychic
+Height:1.3
+Weight:187.0
+
+Name:Bonsly
+#438
+Bonsai Pokémon
+Type:rock 
+Height:0.5
+Weight:15.0
+
+Name:Mime Jr.
+#439
+Mime Pokémon
+Type:psychic fairy
+Height:0.6
+Weight:13.0
+
+Name:Happiny
+#440
+Playhouse Pokémon
+Type:normal 
+Height:0.6
+Weight:24.4
+
+Name:Chatot
+#441
+Music Note Pokémon
+Type:normal flying
+Height:0.5
+Weight:1.9
+
+Name:Spiritomb
+#442
+Forbidden Pokémon
+Type:ghost dark
+Height:1.0
+Weight:108.0
+
+Name:Gible
+#443
+Land Shark Pokémon
+Type:dragon ground
+Height:0.7
+Weight:20.5
+
+Name:Gabite
+#444
+Cave Pokémon
+Type:dragon ground
+Height:1.4
+Weight:56.0
+
+Name:Garchomp
+#445
+Mach Pokémon
+Type:dragon ground
+Height:1.9
+Weight:95.0
+
+Name:Munchlax
+#446
+Big Eater Pokémon
+Type:normal 
+Height:0.6
+Weight:105.0
+
+Name:Riolu
+#447
+Emanation Pokémon
+Type:fighting 
+Height:0.7
+Weight:20.2
+
+Name:Lucario
+#448
+Aura Pokémon
+Type:fighting steel
+Height:1.2
+Weight:54.0
+
+Name:Hippopotas
+#449
+Hippo Pokémon
+Type:ground 
+Height:0.8
+Weight:49.5
+
+Name:Hippowdon
+#450
+Heavyweight Pokémon
+Type:ground 
+Height:2.0
+Weight:300.0
+
+Name:Skorupi
+#451
+Scorpion Pokémon
+Type:poison bug
+Height:0.8
+Weight:12.0
+
+Name:Drapion
+#452
+Ogre Scorp Pokémon
+Type:poison dark
+Height:1.3
+Weight:61.5
+
+Name:Croagunk
+#453
+Toxic Mouth Pokémon
+Type:poison fighting
+Height:0.7
+Weight:23.0
+
+Name:Toxicroak
+#454
+Toxic Mouth Pokémon
+Type:poison fighting
+Height:1.3
+Weight:44.4
+
+Name:Carnivine
+#455
+Bug Catcher Pokémon
+Type:grass 
+Height:1.4
+Weight:27.0
+
+Name:Finneon
+#456
+Wing Fish Pokémon
+Type:water 
+Height:0.4
+Weight:7.0
+
+Name:Lumineon
+#457
+Neon Pokémon
+Type:water 
+Height:1.2
+Weight:24.0
+
+Name:Mantyke
+#458
+Kite Pokémon
+Type:water flying
+Height:1.0
+Weight:65.0
+
+Name:Snover
+#459
+Frosted Tree Pokémon
+Type:grass ice
+Height:1.0
+Weight:50.5
+
+Name:Abomasnow
+#460
+Frosted Tree Pokémon
+Type:grass ice
+Height:2.2
+Weight:135.5
+
+Name:Weavile
+#461
+Sharp Claw Pokémon
+Type:dark ice
+Height:1.1
+Weight:34.0
+
+Name:Magnezone
+#462
+Magnet Area Pokémon
+Type:electric steel
+Height:1.2
+Weight:180.0
+
+Name:Lickilicky
+#463
+Licking Pokémon
+Type:normal 
+Height:1.7
+Weight:140.0
+
+Name:Rhyperior
+#464
+Drill Pokémon
+Type:ground rock
+Height:2.4
+Weight:282.8
+
+Name:Tangrowth
+#465
+Vine Pokémon
+Type:grass 
+Height:2.0
+Weight:128.6
+
+Name:Electivire
+#466
+Thunderbolt Pokémon
+Type:electric 
+Height:1.8
+Weight:138.6
+
+Name:Magmortar
+#467
+Blast Pokémon
+Type:fire 
+Height:1.6
+Weight:68.0
+
+Name:Togekiss
+#468
+Jubilee Pokémon
+Type:fairy flying
+Height:1.5
+Weight:38.0
+
+Name:Yanmega
+#469
+Ogre Darner Pokémon
+Type:bug flying
+Height:1.9
+Weight:51.5
+
+Name:Leafeon
+#470
+Verdant Pokémon
+Type:grass 
+Height:1.0
+Weight:25.5
+
+Name:Glaceon
+#471
+Fresh Snow Pokémon
+Type:ice 
+Height:0.8
+Weight:25.9
+
+Name:Gliscor
+#472
+Fang Scorp Pokémon
+Type:ground flying
+Height:2.0
+Weight:42.5
+
+Name:Mamoswine
+#473
+Twin Tusk Pokémon
+Type:ice ground
+Height:2.5
+Weight:291.0
+
+Name:Porygon-Z
+#474
+Virtual Pokémon
+Type:normal 
+Height:0.9
+Weight:34.0
+
+Name:Gallade
+#475
+Blade Pokémon
+Type:psychic fighting
+Height:1.6
+Weight:52.0
+
+Name:Probopass
+#476
+Compass Pokémon
+Type:rock steel
+Height:1.4
+Weight:340.0
+
+Name:Dusknoir
+#477
+Gripper Pokémon
+Type:ghost 
+Height:2.2
+Weight:106.6
+
+Name:Froslass
+#478
+Snow Land Pokémon
+Type:ice ghost
+Height:1.3
+Weight:26.6
+
+Name:Rotom
+#479
+Plasma Pokémon
+Type:electric ghost
+Height:0.3
+Weight:0.3
+
+Name:Uxie
+#480
+Knowledge Pokémon
+Type:psychic 
+Height:0.3
+Weight:0.3
+
+Name:Mesprit
+#481
+Emotion Pokémon
+Type:psychic 
+Height:0.3
+Weight:0.3
+
+Name:Azelf
+#482
+Willpower Pokémon
+Type:psychic 
+Height:0.3
+Weight:0.3
+
+Name:Dialga
+#483
+Temporal Pokémon
+Type:steel dragon
+Height:5.4
+Weight:683.0
+
+Name:Palkia
+#484
+Spatial Pokémon
+Type:water dragon
+Height:4.2
+Weight:336.0
+
+Name:Heatran
+#485
+Lava Dome Pokémon
+Type:fire steel
+Height:1.7
+Weight:430.0
+
+Name:Regigigas
+#486
+Colossal Pokémon
+Type:normal 
+Height:3.7
+Weight:420.0
+
+Name:Giratina
+#487
+Renegade Pokémon
+Type:ghost dragon
+Height:4.5
+Weight:750.0
+
+Name:Cresselia
+#488
+Lunar Pokémon
+Type:psychic 
+Height:1.5
+Weight:85.6
+
+Name:Phione
+#489
+Sea Drifter Pokémon
+Type:water 
+Height:0.4
+Weight:3.1
+
+Name:Manaphy
+#490
+Seafaring Pokémon
+Type:water 
+Height:0.3
+Weight:1.4
+
+Name:Darkrai
+#491
+Pitch-Black Pokémon
+Type:dark 
+Height:1.5
+Weight:50.5
+
+Name:Shaymin
+#492
+Gratitude Pokémon
+Type:grass grass
+Height:0.2
+Weight:2.1
+
+Name:Arceus
+#493
+Alpha Pokémon
+Type:normal 
+Height:3.2
+Weight:320.0
+
+Name:Victini
+#494
+Victory Pokémon
+Type:psychic fire
+Height:0.4
+Weight:4.0
+
+Name:Snivy
+#495
+Grass Snake Pokémon
+Type:grass 
+Height:0.6
+Weight:8.1
+
+Name:Servine
+#496
+Grass Snake Pokémon
+Type:grass 
+Height:0.8
+Weight:16.0
+
+Name:Serperior
+#497
+Regal Pokémon
+Type:grass 
+Height:3.3
+Weight:63.0
+
+Name:Tepig
+#498
+Fire Pig Pokémon
+Type:fire 
+Height:0.5
+Weight:9.9
+
+Name:Pignite
+#499
+Fire Pig Pokémon
+Type:fire fighting
+Height:1.0
+Weight:55.5
+
+Name:Emboar
+#500
+Mega Fire Pig Pokémon
+Type:fire fighting
+Height:1.6
+Weight:150.0
+
+Name:Oshawott
+#501
+Sea Otter Pokémon
+Type:water 
+Height:0.5
+Weight:5.9
+
+Name:Dewott
+#502
+Discipline Pokémon
+Type:water 
+Height:0.8
+Weight:24.5
+
+Name:Samurott
+#503
+Formidable Pokémon
+Type:water 
+Height:1.5
+Weight:94.6
+
+Name:Patrat
+#504
+Scout Pokémon
+Type:normal 
+Height:0.5
+Weight:11.6
+
+Name:Watchog
+#505
+Lookout Pokémon
+Type:normal 
+Height:1.1
+Weight:27.0
+
+Name:Lillipup
+#506
+Puppy Pokémon
+Type:normal 
+Height:0.4
+Weight:4.1
+
+Name:Herdier
+#507
+Loyal Dog Pokémon
+Type:normal 
+Height:0.9
+Weight:14.7
+
+Name:Stoutland
+#508
+Big-Hearted Pokémon
+Type:normal 
+Height:1.2
+Weight:61.0
+
+Name:Purrloin
+#509
+Devious Pokémon
+Type:dark 
+Height:0.4
+Weight:10.1
+
+Name:Liepard
+#510
+Cruel Pokémon
+Type:dark 
+Height:1.1
+Weight:37.5
+
+Name:Pansage
+#511
+Grass Monkey Pokémon
+Type:grass 
+Height:0.6
+Weight:10.5
+
+Name:Simisage
+#512
+Thorn Monkey Pokémon
+Type:grass 
+Height:1.1
+Weight:30.5
+
+Name:Pansear
+#513
+High Temp Pokémon
+Type:fire 
+Height:0.6
+Weight:11.0
+
+Name:Simisear
+#514
+Ember Pokémon
+Type:fire 
+Height:1.0
+Weight:28.0
+
+Name:Panpour
+#515
+Spray Pokémon
+Type:water 
+Height:0.6
+Weight:13.5
+
+Name:Simipour
+#516
+Geyser Pokémon
+Type:water 
+Height:1.0
+Weight:29.0
+
+Name:Munna
+#517
+Dream Eater Pokémon
+Type:psychic 
+Height:0.6
+Weight:23.3
+
+Name:Musharna
+#518
+Drowsing Pokémon
+Type:psychic 
+Height:1.1
+Weight:60.5
+
+Name:Pidove
+#519
+Tiny Pigeon Pokémon
+Type:normal flying
+Height:0.3
+Weight:2.1
+
+Name:Tranquill
+#520
+Wild Pigeon Pokémon
+Type:normal flying
+Height:0.6
+Weight:15.0
+
+Name:Unfezant
+#521
+Proud Pokémon
+Type:normal flying
+Height:1.2
+Weight:29.0
+
+Name:Blitzle
+#522
+Electrified Pokémon
+Type:electric 
+Height:0.8
+Weight:29.8
+
+Name:Zebstrika
+#523
+Thunderbolt Pokémon
+Type:electric 
+Height:1.6
+Weight:79.5
+
+Name:Roggenrola
+#524
+Mantle Pokémon
+Type:rock 
+Height:0.4
+Weight:18.0
+
+Name:Boldore
+#525
+Ore Pokémon
+Type:rock 
+Height:0.9
+Weight:102.0
+
+Name:Gigalith
+#526
+Compressed Pokémon
+Type:rock 
+Height:1.7
+Weight:260.0
+
+Name:Woobat
+#527
+Bat Pokémon
+Type:psychic flying
+Height:0.4
+Weight:2.1
+
+Name:Swoobat
+#528
+Courting Pokémon
+Type:psychic flying
+Height:0.9
+Weight:10.5
+
+Name:Drilbur
+#529
+Mole Pokémon
+Type:ground 
+Height:0.3
+Weight:8.5
+
+Name:Excadrill
+#530
+Subterrene Pokémon
+Type:ground steel
+Height:0.7
+Weight:40.4
+
+Name:Audino
+#531
+Hearing Pokémon
+Type:normal 
+Height:1.1
+Weight:31.0
+
+Name:Timburr
+#532
+Muscular Pokémon
+Type:fighting 
+Height:0.6
+Weight:12.5
+
+Name:Gurdurr
+#533
+Muscular Pokémon
+Type:fighting 
+Height:1.2
+Weight:40.0
+
+Name:Conkeldurr
+#534
+Muscular Pokémon
+Type:fighting 
+Height:1.4
+Weight:87.0
+
+Name:Tympole
+#535
+Tadpole Pokémon
+Type:water 
+Height:0.5
+Weight:4.5
+
+Name:Palpitoad
+#536
+Vibration Pokémon
+Type:water ground
+Height:0.8
+Weight:17.0
+
+Name:Seismitoad
+#537
+Vibration Pokémon
+Type:water ground
+Height:1.5
+Weight:62.0
+
+Name:Throh
+#538
+Judo Pokémon
+Type:fighting 
+Height:1.3
+Weight:55.5
+
+Name:Sawk
+#539
+Karate Pokémon
+Type:fighting 
+Height:1.4
+Weight:51.0
+
+Name:Sewaddle
+#540
+Sewing Pokémon
+Type:bug grass
+Height:0.3
+Weight:2.5
+
+Name:Swadloon
+#541
+Leaf-Wrapped Pokémon
+Type:bug grass
+Height:0.5
+Weight:7.3
+
+Name:Leavanny
+#542
+Nurturing Pokémon
+Type:bug grass
+Height:1.2
+Weight:20.5
+
+Name:Venipede
+#543
+Centipede Pokémon
+Type:bug poison
+Height:0.4
+Weight:5.3
+
+Name:Whirlipede
+#544
+Curlipede Pokémon
+Type:bug poison
+Height:1.2
+Weight:58.5
+
+Name:Scolipede
+#545
+Megapede Pokémon
+Type:bug poison
+Height:2.5
+Weight:200.5
+
+Name:Cottonee
+#546
+Cotton Puff Pokémon
+Type:grass fairy
+Height:0.3
+Weight:0.6
+
+Name:Whimsicott
+#547
+Windveiled Pokémon
+Type:grass fairy
+Height:0.7
+Weight:6.6
+
+Name:Petilil
+#548
+Bulb Pokémon
+Type:grass 
+Height:0.5
+Weight:6.6
+
+Name:Lilligant
+#549
+Flowering Pokémon
+Type:grass 
+Height:1.1
+Weight:16.3
+
+Name:Basculin
+#550
+Hostile Pokémon
+Type:water 
+Height:1.0
+Weight:18.0
+
+Name:Sandile
+#551
+Desert Croc Pokémon
+Type:ground dark
+Height:0.7
+Weight:15.2
+
+Name:Krokorok
+#552
+Desert Croc Pokémon
+Type:ground dark
+Height:1.0
+Weight:33.4
+
+Name:Krookodile
+#553
+Intimidation Pokémon
+Type:ground dark
+Height:1.5
+Weight:96.3
+
+Name:Darumaka
+#554
+Zen Charm Pokémon
+Type:fire 
+Height:0.6
+Weight:37.5
+
+Name:Darmanitan
+#555
+Blazing Pokémon
+Type:fire fire
+Height:1.3
+Weight:92.9
+
+Name:Maractus
+#556
+Cactus Pokémon
+Type:grass 
+Height:1.0
+Weight:28.0
+
+Name:Dwebble
+#557
+Rock Inn Pokémon
+Type:bug rock
+Height:0.3
+Weight:14.5
+
+Name:Crustle
+#558
+Stone Home Pokémon
+Type:bug rock
+Height:1.4
+Weight:200.0
+
+Name:Scraggy
+#559
+Shedding Pokémon
+Type:dark fighting
+Height:0.6
+Weight:11.8
+
+Name:Scrafty
+#560
+Hoodlum Pokémon
+Type:dark fighting
+Height:1.1
+Weight:30.0
+
+Name:Sigilyph
+#561
+Avianoid Pokémon
+Type:psychic flying
+Height:1.4
+Weight:14.0
+
+Name:Yamask
+#562
+Spirit Pokémon
+Type:ghost 
+Height:0.5
+Weight:1.5
+
+Name:Cofagrigus
+#563
+Coffin Pokémon
+Type:ghost 
+Height:1.7
+Weight:76.5
+
+Name:Tirtouga
+#564
+Prototurtle Pokémon
+Type:water rock
+Height:0.7
+Weight:16.5
+
+Name:Carracosta
+#565
+Prototurtle Pokémon
+Type:water rock
+Height:1.2
+Weight:81.0
+
+Name:Archen
+#566
+First Bird Pokémon
+Type:rock flying
+Height:0.5
+Weight:9.5
+
+Name:Archeops
+#567
+First Bird Pokémon
+Type:rock flying
+Height:1.4
+Weight:32.0
+
+Name:Trubbish
+#568
+Trash Bag Pokémon
+Type:poison 
+Height:0.6
+Weight:31.0
+
+Name:Garbodor
+#569
+Trash Heap Pokémon
+Type:poison 
+Height:1.9
+Weight:107.3
+
+Name:Zorua
+#570
+Tricky Fox Pokémon
+Type:dark 
+Height:0.7
+Weight:12.5
+
+Name:Zoroark
+#571
+Illusion Fox Pokémon
+Type:dark 
+Height:1.6
+Weight:81.1
+
+Name:Minccino
+#572
+Chinchilla Pokémon
+Type:normal 
+Height:0.4
+Weight:5.8
+
+Name:Cinccino
+#573
+Scarf Pokémon
+Type:normal 
+Height:0.5
+Weight:7.5
+
+Name:Gothita
+#574
+Fixation Pokémon
+Type:psychic 
+Height:0.4
+Weight:5.8
+
+Name:Gothorita
+#575
+Manipulate Pokémon
+Type:psychic 
+Height:0.7
+Weight:18.0
+
+Name:Gothitelle
+#576
+Astral Body Pokémon
+Type:psychic 
+Height:1.5
+Weight:44.0
+
+Name:Solosis
+#577
+Cell Pokémon
+Type:psychic 
+Height:0.3
+Weight:1.0
+
+Name:Duosion
+#578
+Mitosis Pokémon
+Type:psychic 
+Height:0.6
+Weight:8.0
+
+Name:Reuniclus
+#579
+Multiplying Pokémon
+Type:psychic 
+Height:1.0
+Weight:20.1
+
+Name:Ducklett
+#580
+Water Bird Pokémon
+Type:water flying
+Height:0.5
+Weight:5.5
+
+Name:Swanna
+#581
+White Bird Pokémon
+Type:water flying
+Height:1.3
+Weight:24.2
+
+Name:Vanillite
+#582
+Fresh Snow Pokémon
+Type:ice 
+Height:0.4
+Weight:5.7
+
+Name:Vanillish
+#583
+Icy Snow Pokémon
+Type:ice 
+Height:1.1
+Weight:41.0
+
+Name:Vanilluxe
+#584
+Snowstorm Pokémon
+Type:ice 
+Height:1.3
+Weight:57.5
+
+Name:Deerling
+#585
+Season Pokémon
+Type:normal grass
+Height:0.6
+Weight:19.5
+
+Name:Sawsbuck
+#586
+Season Pokémon
+Type:normal grass
+Height:1.9
+Weight:92.5
+
+Name:Emolga
+#587
+Sky Squirrel Pokémon
+Type:electric flying
+Height:0.4
+Weight:5.0
+
+Name:Karrablast
+#588
+Clamping Pokémon
+Type:bug 
+Height:0.5
+Weight:5.9
+
+Name:Escavalier
+#589
+Cavalry Pokémon
+Type:bug steel
+Height:1.0
+Weight:33.0
+
+Name:Foongus
+#590
+Mushroom Pokémon
+Type:grass poison
+Height:0.2
+Weight:1.0
+
+Name:Amoonguss
+#591
+Mushroom Pokémon
+Type:grass poison
+Height:0.6
+Weight:10.5
+
+Name:Frillish
+#592
+Floating Pokémon
+Type:water ghost
+Height:1.2
+Weight:33.0
+
+Name:Jellicent
+#593
+Floating Pokémon
+Type:water ghost
+Height:2.2
+Weight:135.0
+
+Name:Alomomola
+#594
+Caring Pokémon
+Type:water 
+Height:1.2
+Weight:31.6
+
+Name:Joltik
+#595
+Attaching Pokémon
+Type:bug electric
+Height:0.1
+Weight:0.6
+
+Name:Galvantula
+#596
+EleSpider Pokémon
+Type:bug electric
+Height:0.8
+Weight:14.3
+
+Name:Ferroseed
+#597
+Thorn Seed Pokémon
+Type:grass steel
+Height:0.6
+Weight:18.8
+
+Name:Ferrothorn
+#598
+Thorn Pod Pokémon
+Type:grass steel
+Height:1.0
+Weight:110.0
+
+Name:Klink
+#599
+Gear Pokémon
+Type:steel 
+Height:0.3
+Weight:21.0
+
+Name:Klang
+#600
+Gear Pokémon
+Type:steel 
+Height:0.6
+Weight:51.0
+
+Name:Klinklang
+#601
+Gear Pokémon
+Type:steel 
+Height:0.6
+Weight:81.0
+
+Name:Tynamo
+#602
+EleFish Pokémon
+Type:electric 
+Height:0.2
+Weight:0.3
+
+Name:Eelektrik
+#603
+EleFish Pokémon
+Type:electric 
+Height:1.2
+Weight:22.0
+
+Name:Eelektross
+#604
+EleFish Pokémon
+Type:electric 
+Height:2.1
+Weight:80.5
+
+Name:Elgyem
+#605
+Cerebral Pokémon
+Type:psychic 
+Height:0.5
+Weight:9.0
+
+Name:Beheeyem
+#606
+Cerebral Pokémon
+Type:psychic 
+Height:1.0
+Weight:34.5
+
+Name:Litwick
+#607
+Candle Pokémon
+Type:ghost fire
+Height:0.3
+Weight:3.1
+
+Name:Lampent
+#608
+Lamp Pokémon
+Type:ghost fire
+Height:0.6
+Weight:13.0
+
+Name:Chandelure
+#609
+Luring Pokémon
+Type:ghost fire
+Height:1.0
+Weight:34.3
+
+Name:Axew
+#610
+Tusk Pokémon
+Type:dragon 
+Height:0.6
+Weight:18.0
+
+Name:Fraxure
+#611
+Axe Jaw Pokémon
+Type:dragon 
+Height:1.0
+Weight:36.0
+
+Name:Haxorus
+#612
+Axe Jaw Pokémon
+Type:dragon 
+Height:1.8
+Weight:105.5
+
+Name:Cubchoo
+#613
+Chill Pokémon
+Type:ice 
+Height:0.5
+Weight:8.5
+
+Name:Beartic
+#614
+Freezing Pokémon
+Type:ice 
+Height:2.6
+Weight:260.0
+
+Name:Cryogonal
+#615
+Crystallizing Pokémon
+Type:ice 
+Height:1.1
+Weight:148.0
+
+Name:Shelmet
+#616
+Snail Pokémon
+Type:bug 
+Height:0.4
+Weight:7.7
+
+Name:Accelgor
+#617
+Shell Out Pokémon
+Type:bug 
+Height:0.8
+Weight:25.3
+
+Name:Stunfisk
+#618
+Trap Pokémon
+Type:ground electric
+Height:0.7
+Weight:11.0
+
+Name:Mienfoo
+#619
+Martial Arts Pokémon
+Type:fighting 
+Height:0.9
+Weight:20.0
+
+Name:Mienshao
+#620
+Martial Arts Pokémon
+Type:fighting 
+Height:1.4
+Weight:35.5
+
+Name:Druddigon
+#621
+Cave Pokémon
+Type:dragon 
+Height:1.6
+Weight:139.0
+
+Name:Golett
+#622
+Automaton Pokémon
+Type:ground ghost
+Height:1.0
+Weight:92.0
+
+Name:Golurk
+#623
+Automaton Pokémon
+Type:ground ghost
+Height:2.8
+Weight:330.0
+
+Name:Pawniard
+#624
+Sharp Blade Pokémon
+Type:dark steel
+Height:0.5
+Weight:10.2
+
+Name:Bisharp
+#625
+Sword Blade Pokémon
+Type:dark steel
+Height:1.6
+Weight:70.0
+
+Name:Bouffalant
+#626
+Bash Buffalo Pokémon
+Type:normal 
+Height:1.6
+Weight:94.6
+
+Name:Rufflet
+#627
+Eaglet Pokémon
+Type:normal flying
+Height:0.5
+Weight:10.5
+
+Name:Braviary
+#628
+Valiant Pokémon
+Type:normal flying
+Height:1.5
+Weight:41.0
+
+Name:Vullaby
+#629
+Diapered Pokémon
+Type:dark flying
+Height:0.5
+Weight:9.0
+
+Name:Mandibuzz
+#630
+Bone Vulture Pokémon
+Type:dark flying
+Height:1.2
+Weight:39.5
+
+Name:Heatmor
+#631
+Anteater Pokémon
+Type:fire 
+Height:1.4
+Weight:58.0
+
+Name:Durant
+#632
+Iron Ant Pokémon
+Type:bug steel
+Height:0.3
+Weight:33.0
+
+Name:Deino
+#633
+Irate Pokémon
+Type:dark dragon
+Height:0.8
+Weight:17.3
+
+Name:Zweilous
+#634
+Hostile Pokémon
+Type:dark dragon
+Height:1.4
+Weight:50.0
+
+Name:Hydreigon
+#635
+Brutal Pokémon
+Type:dark dragon
+Height:1.8
+Weight:160.0
+
+Name:Larvesta
+#636
+Torch Pokémon
+Type:bug fire
+Height:1.1
+Weight:28.8
+
+Name:Volcarona
+#637
+Sun Pokémon
+Type:bug fire
+Height:1.6
+Weight:46.0
+
+Name:Cobalion
+#638
+Iron Will Pokémon
+Type:steel fighting
+Height:2.1
+Weight:250.0
+
+Name:Terrakion
+#639
+Cavern Pokémon
+Type:rock fighting
+Height:1.9
+Weight:260.0
+
+Name:Virizion
+#640
+Grassland Pokémon
+Type:grass fighting
+Height:2.0
+Weight:200.0
+
+Name:Tornadus
+#641
+Cyclone Pokémon
+Type:flying 
+Height:1.5
+Weight:63.0
+
+Name:Thundurus
+#642
+Bolt Strike Pokémon
+Type:electric flying
+Height:1.5
+Weight:61.0
+
+Name:Reshiram
+#643
+Vast White Pokémon
+Type:dragon fire
+Height:3.2
+Weight:330.0
+
+Name:Zekrom
+#644
+Deep Black Pokémon
+Type:dragon electric
+Height:2.9
+Weight:345.0
+
+Name:Landorus
+#645
+Abundance Pokémon
+Type:ground flying
+Height:1.5
+Weight:68.0
+
+Name:Kyurem
+#646
+Boundary Pokémon
+Type:dragon ice
+Height:3.0
+Weight:325.0
+
+Name:Keldeo
+#647
+Colt Pokémon
+Type:water fighting
+Height:1.4
+Weight:48.5
+
+Name:Meloetta
+#648
+Melody Pokémon
+Type:normal psychic
+Height:0.6
+Weight:6.5
+
+Name:Genesect
+#649
+Paleozoic Pokémon
+Type:bug steel
+Height:1.5
+Weight:82.5
+
+Name:Chespin
+#650
+Spiky Nut Pokémon
+Type:grass 
+Height:0.4
+Weight:9.0
+
+Name:Quilladin
+#651
+Spiny Armor Pokémon
+Type:grass 
+Height:0.7
+Weight:29.0
+
+Name:Chesnaught
+#652
+Spiny Armor Pokémon
+Type:grass fighting
+Height:1.6
+Weight:90.0
+
+Name:Fennekin
+#653
+Fox Pokémon
+Type:fire 
+Height:0.4
+Weight:9.4
+
+Name:Braixen
+#654
+Fox Pokémon
+Type:fire 
+Height:1.0
+Weight:14.5
+
+Name:Delphox
+#655
+Fox Pokémon
+Type:fire psychic
+Height:1.5
+Weight:39.0
+
+Name:Froakie
+#656
+Bubble Frog Pokémon
+Type:water 
+Height:0.3
+Weight:7.0
+
+Name:Frogadier
+#657
+Bubble Frog Pokémon
+Type:water 
+Height:0.6
+Weight:10.9
+
+Name:Greninja
+#658
+Ninja Pokémon
+Type:water dark
+Height:1.5
+Weight:40.0
+
+Name:Bunnelby
+#659
+Digging Pokémon
+Type:normal 
+Height:0.4
+Weight:5.0
+
+Name:Diggersby
+#660
+Digging Pokémon
+Type:normal ground
+Height:1.0
+Weight:42.4
+
+Name:Fletchling
+#661
+Tiny Robin Pokémon
+Type:normal flying
+Height:0.3
+Weight:1.7
+
+Name:Fletchinder
+#662
+Ember Pokémon
+Type:fire flying
+Height:0.7
+Weight:16.0
+
+Name:Talonflame
+#663
+Scorching Pokémon
+Type:fire flying
+Height:1.2
+Weight:24.5
+
+Name:Scatterbug
+#664
+Scatterdust Pokémon
+Type:bug 
+Height:0.3
+Weight:2.5
+
+Name:Spewpa
+#665
+Scatterdust Pokémon
+Type:bug 
+Height:0.3
+Weight:8.4
+
+Name:Vivillon
+#666
+Scale Pokémon
+Type:bug flying
+Height:1.2
+Weight:17.0
+
+Name:Litleo
+#667
+Lion Cub Pokémon
+Type:fire normal
+Height:0.6
+Weight:13.5
+
+Name:Pyroar
+#668
+Royal Pokémon
+Type:fire normal
+Height:1.5
+Weight:81.5
+
+Name:Flabébé
+#669
+Single Bloom Pokémon
+Type:fairy 
+Height:0.1
+Weight:0.1
+
+Name:Floette
+#670
+Fairy Pokémon
+Type:fairy 
+Height:0.2
+Weight:0.9
+
+Name:Florges
+#671
+Garden Pokémon
+Type:fairy 
+Height:1.1
+Weight:10.0
+
+Name:Skiddo
+#672
+Mount Pokémon
+Type:grass 
+Height:0.9
+Weight:31.0
+
+Name:Gogoat
+#673
+Mount Pokémon
+Type:grass 
+Height:1.7
+Weight:91.0
+
+Name:Pancham
+#674
+Playful Pokémon
+Type:fighting 
+Height:0.6
+Weight:8.0
+
+Name:Pangoro
+#675
+Daunting Pokémon
+Type:fighting dark
+Height:2.1
+Weight:136.0
+
+Name:Furfrou
+#676
+Poodle Pokémon
+Type:normal 
+Height:1.2
+Weight:28.0
+
+Name:Espurr
+#677
+Restraint Pokémon
+Type:psychic 
+Height:0.3
+Weight:3.5
+
+Name:Meowstic
+#678
+Constraint Pokémon
+Type:psychic 
+Height:0.6
+Weight:8.5
+
+Name:Honedge
+#679
+Sword Pokémon
+Type:steel ghost
+Height:0.8
+Weight:2.0
+
+Name:Doublade
+#680
+Sword Pokémon
+Type:steel ghost
+Height:0.8
+Weight:4.5
+
+Name:Aegislash
+#681
+Royal Sword Pokémon
+Type:steel ghost
+Height:1.7
+Weight:53.0
+
+Name:Spritzee
+#682
+Perfume Pokémon
+Type:fairy 
+Height:0.2
+Weight:0.5
+
+Name:Aromatisse
+#683
+Fragrance Pokémon
+Type:fairy 
+Height:0.8
+Weight:15.5
+
+Name:Swirlix
+#684
+Cotton Candy Pokémon
+Type:fairy 
+Height:0.4
+Weight:3.5
+
+Name:Slurpuff
+#685
+Meringue Pokémon
+Type:fairy 
+Height:0.8
+Weight:5.0
+
+Name:Inkay
+#686
+Revolving Pokémon
+Type:dark psychic
+Height:0.4
+Weight:3.5
+
+Name:Malamar
+#687
+Overturning Pokémon
+Type:dark psychic
+Height:1.5
+Weight:47.0
+
+Name:Binacle
+#688
+Two-Handed Pokémon
+Type:rock water
+Height:0.5
+Weight:31.0
+
+Name:Barbaracle
+#689
+Collective Pokémon
+Type:rock water
+Height:1.3
+Weight:96.0
+
+Name:Skrelp
+#690
+Mock Kelp Pokémon
+Type:poison water
+Height:0.5
+Weight:7.3
+
+Name:Dragalge
+#691
+Mock Kelp Pokémon
+Type:poison dragon
+Height:1.8
+Weight:81.5
+
+Name:Clauncher
+#692
+Water Gun Pokémon
+Type:water 
+Height:0.5
+Weight:8.3
+
+Name:Clawitzer
+#693
+Howitzer Pokémon
+Type:water 
+Height:1.3
+Weight:35.3
+
+Name:Helioptile
+#694
+Generator Pokémon
+Type:electric normal
+Height:0.5
+Weight:6.0
+
+Name:Heliolisk
+#695
+Generator Pokémon
+Type:electric normal
+Height:1.0
+Weight:21.0
+
+Name:Tyrunt
+#696
+Royal Heir Pokémon
+Type:rock dragon
+Height:0.8
+Weight:26.0
+
+Name:Tyrantrum
+#697
+Despot Pokémon
+Type:rock dragon
+Height:2.5
+Weight:270.0
+
+Name:Amaura
+#698
+Tundra Pokémon
+Type:rock ice
+Height:1.3
+Weight:25.2
+
+Name:Aurorus
+#699
+Tundra Pokémon
+Type:rock ice
+Height:2.7
+Weight:225.0
+
+Name:Sylveon
+#700
+Intertwining Pokémon
+Type:fairy 
+Height:1.0
+Weight:23.5
+
+Name:Hawlucha
+#701
+Wrestling Pokémon
+Type:fighting flying
+Height:0.8
+Weight:21.5
+
+Name:Dedenne
+#702
+Antenna Pokémon
+Type:electric fairy
+Height:0.2
+Weight:2.2
+
+Name:Carbink
+#703
+Jewel Pokémon
+Type:rock fairy
+Height:0.3
+Weight:5.7
+
+Name:Goomy
+#704
+Soft Tissue Pokémon
+Type:dragon 
+Height:0.3
+Weight:2.8
+
+Name:Sliggoo
+#705
+Soft Tissue Pokémon
+Type:dragon 
+Height:0.8
+Weight:17.5
+
+Name:Goodra
+#706
+Dragon Pokémon
+Type:dragon 
+Height:2.0
+Weight:150.5
+
+Name:Klefki
+#707
+Key Ring Pokémon
+Type:steel fairy
+Height:0.2
+Weight:3.0
+
+Name:Phantump
+#708
+Stump Pokémon
+Type:ghost grass
+Height:0.4
+Weight:7.0
+
+Name:Trevenant
+#709
+Elder Tree Pokémon
+Type:ghost grass
+Height:1.5
+Weight:71.0
+
+Name:Pumpkaboo
+#710
+Pumpkin Pokémon
+Type:ghost grass
+Height:0.8
+Weight:15.0
+
+Name:Gourgeist
+#711
+Pumpkin Pokémon
+Type:ghost grass
+Height:1.7
+Weight:39.0
+
+Name:Bergmite
+#712
+Ice Chunk Pokémon
+Type:ice 
+Height:1.0
+Weight:99.5
+
+Name:Avalugg
+#713
+Iceberg Pokémon
+Type:ice 
+Height:2.0
+Weight:505.0
+
+Name:Noibat
+#714
+Sound Wave Pokémon
+Type:flying dragon
+Height:0.5
+Weight:8.0
+
+Name:Noivern
+#715
+Sound Wave Pokémon
+Type:flying dragon
+Height:1.5
+Weight:85.0
+
+Name:Xerneas
+#716
+Life Pokémon
+Type:fairy 
+Height:3.0
+Weight:215.0
+
+Name:Yveltal
+#717
+Destruction Pokémon
+Type:dark flying
+Height:5.8
+Weight:203.0
+
+Name:Zygarde
+#718
+Order Pokémon
+Type:dragon ground
+Height:5.0
+Weight:284.6
+
+Name:Diancie
+#719
+Jewel Pokémon
+Type:rock fairy
+Height:0.7
+Weight:8.8
+
+Name:Hoopa
+#720
+Mischief Pokémon (Confined)Djinn Pokémonn (Unbound)
+Type:psychic ghost
+Height:
+Weight:
+
+Name:Volcanion
+#721
+Steam Pokémon
+Type:fire water
+Height:1.7
+Weight:195.0
+
+Name:Rowlet
+#722
+Grass Quill Pokémon
+Type:grass flying
+Height:0.3
+Weight:1.5
+
+Name:Dartrix
+#723
+Blade Quill Pokémon
+Type:grass flying
+Height:0.7
+Weight:16.0
+
+Name:Decidueye
+#724
+Arrow Quill Pokémon
+Type:grass ghost
+Height:1.6
+Weight:36.6
+
+Name:Litten
+#725
+Fire Cat Pokémon
+Type:fire 
+Height:0.4
+Weight:4.3
+
+Name:Torracat
+#726
+Fire Cat Pokémon
+Type:fire 
+Height:0.7
+Weight:25.0
+
+Name:Incineroar
+#727
+Heel Pokémon
+Type:fire dark
+Height:1.8
+Weight:83.0
+
+Name:Popplio
+#728
+Sea Lion Pokémon
+Type:water 
+Height:0.4
+Weight:7.5
+
+Name:Brionne
+#729
+Pop Star Pokémon
+Type:water 
+Height:0.6
+Weight:17.5
+
+Name:Primarina
+#730
+Soloist Pokémon
+Type:water fairy
+Height:1.8
+Weight:44.0
+
+Name:Pikipek
+#731
+Woodpecker Pokémon
+Type:normal flying
+Height:0.3
+Weight:1.2
+
+Name:Trumbeak
+#732
+Bugle Beak Pokémon
+Type:normal flying
+Height:0.6
+Weight:14.8
+
+Name:Toucannon
+#733
+Cannon Pokémon
+Type:normal flying
+Height:1.1
+Weight:26.0
+
+Name:Yungoos
+#734
+Loitering Pokémon
+Type:normal 
+Height:0.4
+Weight:6.0
+
+Name:Gumshoos
+#735
+Stakeout Pokémon
+Type:normal 
+Height:0.7
+Weight:14.2
+
+Name:Grubbin
+#736
+Larva Pokémon
+Type:bug 
+Height:0.4
+Weight:4.4
+
+Name:Charjabug
+#737
+Battery Pokémon
+Type:bug electric
+Height:0.5
+Weight:10.5
+
+Name:Vikavolt
+#738
+Stag Beetle Pokémon
+Type:bug electric
+Height:1.5
+Weight:45.0
+
+Name:Crabrawler
+#739
+Boxing Pokémon
+Type:fighting 
+Height:0.6
+Weight:7.0
+
+Name:Crabominable
+#740
+Woolly Crab Pokémon
+Type:fighting ice
+Height:1.7
+Weight:180.0
+
+Name:Oricorio
+#741
+Dancing Pokémon
+Type:fire flying
+Height:0.6
+Weight:3.4
+
+Name:Cutiefly
+#742
+Bee Fly Pokémon
+Type:bug fairy
+Height:0.1
+Weight:0.2
+
+Name:Ribombee
+#743
+Bee Fly Pokémon
+Type:bug fairy
+Height:0.2
+Weight:0.5
+
+Name:Rockruff
+#744
+Puppy Pokémon
+Type:rock 
+Height:0.5
+Weight:9.2
+
+Name:Lycanroc
+#745
+Wolf Pokémon
+Type:rock 
+Height:
+Weight:
+
+Name:Wishiwashi
+#746
+Small Fry Pokémon
+Type:water 
+Height:0.2
+Weight:0.3
+
+Name:Mareanie
+#747
+Brutal Star Pokémon
+Type:poison water
+Height:0.4
+Weight:8.0
+
+Name:Toxapex
+#748
+Brutal Star Pokémon
+Type:poison water
+Height:0.7
+Weight:14.5
+
+Name:Mudbray
+#749
+Donkey Pokémon
+Type:ground 
+Height:1.0
+Weight:110.0
+
+Name:Mudsdale
+#750
+Draft Horse Pokémon
+Type:ground 
+Height:2.5
+Weight:920.0
+
+Name:Dewpider
+#751
+Water Bubble Pokémon
+Type:water bug
+Height:0.3
+Weight:4.0
+
+Name:Araquanid
+#752
+Water Bubble Pokémon
+Type:water bug
+Height:1.8
+Weight:82.0
+
+Name:Fomantis
+#753
+Sickle Grass Pokémon
+Type:grass 
+Height:0.3
+Weight:1.5
+
+Name:Lurantis
+#754
+Bloom Sickle Pokémon
+Type:grass 
+Height:0.9
+Weight:18.5
+
+Name:Morelull
+#755
+Illuminating Pokémon
+Type:grass fairy
+Height:0.2
+Weight:1.5
+
+Name:Shiinotic
+#756
+Illuminating Pokémon
+Type:grass fairy
+Height:1.0
+Weight:11.5
+
+Name:Salandit
+#757
+Toxic Lizard Pokémon
+Type:poison fire
+Height:0.6
+Weight:4.8
+
+Name:Salazzle
+#758
+Toxic Lizard Pokémon
+Type:poison fire
+Height:1.2
+Weight:22.2
+
+Name:Stufful
+#759
+Flailing Pokémon
+Type:normal fighting
+Height:0.5
+Weight:6.8
+
+Name:Bewear
+#760
+Strong Arm Pokémon
+Type:normal fighting
+Height:2.1
+Weight:135.0
+
+Name:Bounsweet
+#761
+Fruit Pokémon
+Type:grass 
+Height:0.3
+Weight:3.2
+
+Name:Steenee
+#762
+Fruit Pokémon
+Type:grass 
+Height:0.7
+Weight:8.2
+
+Name:Tsareena
+#763
+Fruit Pokémon
+Type:grass 
+Height:1.2
+Weight:21.4
+
+Name:Comfey
+#764
+Posy Picker Pokémon
+Type:fairy 
+Height:0.1
+Weight:0.3
+
+Name:Oranguru
+#765
+Sage Pokémon
+Type:normal psychic
+Height:1.5
+Weight:76.0
+
+Name:Passimian
+#766
+Teamwork Pokémon
+Type:fighting 
+Height:2.0
+Weight:82.8
+
+Name:Wimpod
+#767
+Turn Tail Pokémon
+Type:bug water
+Height:0.5
+Weight:12.0
+
+Name:Golisopod
+#768
+Hard Scale Pokémon
+Type:bug water
+Height:2.0
+Weight:108.0
+
+Name:Sandygast
+#769
+Sand Heap Pokémon
+Type:ghost ground
+Height:0.5
+Weight:70.0
+
+Name:Palossand
+#770
+Sand Castle Pokémon
+Type:ghost ground
+Height:1.3
+Weight:250.0
+
+Name:Pyukumuku
+#771
+Sea Cucumber Pokémon
+Type:water 
+Height:0.3
+Weight:1.2
+
+Name:Type: Null
+#772
+Synthetic Pokémon
+Type:normal 
+Height:1.9
+Weight:120.5
+
+Name:Silvally
+#773
+Synthetic Pokémon
+Type:normal 
+Height:2.3
+Weight:100.5
+
+Name:Minior
+#774
+Meteor Pokémon
+Type:rock flying
+Height:0.3
+Weight:40.0
+
+Name:Komala
+#775
+Drowsing Pokémon
+Type:normal 
+Height:0.4
+Weight:19.9
+
+Name:Turtonator
+#776
+Blast Turtle Pokémon
+Type:fire dragon
+Height:2.0
+Weight:212.0
+
+Name:Togedemaru
+#777
+Roly-Poly Pokémon
+Type:electric steel
+Height:0.3
+Weight:3.3
+
+Name:Mimikyu
+#778
+Disguise Pokémon
+Type:ghost fairy
+Height:0.2
+Weight:0.7
+
+Name:Bruxish
+#779
+Gnash Teeth Pokémon
+Type:water psychic
+Height:0.9
+Weight:19.0
+
+Name:Drampa
+#780
+Placid Pokémon
+Type:normal dragon
+Height:3.0
+Weight:185.0
+
+Name:Dhelmise
+#781
+Sea Creeper Pokémon
+Type:ghost grass
+Height:3.9
+Weight:210.0
+
+Name:Jangmo-o
+#782
+Scaly Pokémon
+Type:dragon 
+Height:0.6
+Weight:29.7
+
+Name:Hakamo-o
+#783
+Scaly Pokémon
+Type:dragon fighting
+Height:1.2
+Weight:47.0
+
+Name:Kommo-o
+#784
+Scaly Pokémon
+Type:dragon fighting
+Height:1.6
+Weight:78.2
+
+Name:Tapu Koko
+#785
+Land Spirit Pokémon
+Type:electric fairy
+Height:1.8
+Weight:20.5
+
+Name:Tapu Lele
+#786
+Land Spirit Pokémon
+Type:psychic fairy
+Height:1.2
+Weight:18.6
+
+Name:Tapu Bulu
+#787
+Land Spirit Pokémon
+Type:grass fairy
+Height:1.9
+Weight:45.5
+
+Name:Tapu Fini
+#788
+Land Spirit Pokémon
+Type:water fairy
+Height:1.3
+Weight:21.2
+
+Name:Cosmog
+#789
+Nebula Pokémon
+Type:psychic 
+Height:0.2
+Weight:0.1
+
+Name:Cosmoem
+#790
+Protostar Pokémon
+Type:psychic 
+Height:0.1
+Weight:999.9
+
+Name:Solgaleo
+#791
+Sunne Pokémon
+Type:psychic steel
+Height:3.4
+Weight:230.0
+
+Name:Lunala
+#792
+Moone Pokémon
+Type:psychic ghost
+Height:4.0
+Weight:120.0
+
+Name:Nihilego
+#793
+Parasite Pokémon
+Type:rock poison
+Height:1.2
+Weight:55.5
+
+Name:Buzzwole
+#794
+Swollen Pokémon
+Type:bug fighting
+Height:2.4
+Weight:333.6
+
+Name:Pheromosa
+#795
+Lissome Pokémon
+Type:bug fighting
+Height:1.8
+Weight:25.0
+
+Name:Xurkitree
+#796
+Glowing Pokémon
+Type:electric 
+Height:3.8
+Weight:100.0
+
+Name:Celesteela
+#797
+Launch Pokémon
+Type:steel flying
+Height:9.2
+Weight:999.9
+
+Name:Kartana
+#798
+Drawn Sword Pokémon
+Type:grass steel
+Height:0.3
+Weight:0.1
+
+Name:Guzzlord
+#799
+Junkivore Pokémon
+Type:dark dragon
+Height:5.5
+Weight:888.0
+
+Name:Necrozma
+#800
+Prism Pokémon
+Type:psychic 
+Height:2.4
+Weight:230.0
+
+Name:Magearna
+#801
+Artificial Pokémon
+Type:steel fairy
+Height:1.0
+Weight:80.5
+
