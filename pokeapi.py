@@ -486,10 +486,30 @@ def decode(encoded_str):
     return data
 
 
-# class SampleReport:
-#     def __init__(self, data):
-#         super().__init__()
-#         self.data = data
+class SampleReport:
+    def __init__(self, data):
+        super().__init__()
+        self.data = data
+        self.perfect = True
+        self.field_counts = []
+        for l in range(len(EncodedIndex)):
+            instance_count = len(data.get(l, []))
+            self.field_counts.append(instance_count)
+            if instance_count is not 1:
+                self.perfect = False
+
+    def has_valid_field(self, index):
+        return index in self.data and len(self.data[0]) == 1
+
+    def get_valid_field(self, index): # no validation
+        return self.get_cols(index)[0]
+
+    def is_name_unique(self, names):
+        return self.has_valid_field(EncodedIndex.NAME) and self.get_valid_field(EncodedIndex.NAME).strip().upper() \
+                not in (name.strip().upper() for name in names)
+
+    def get_cols(self, index):
+        return self.data.get(index, [])
 
 
 def decode_file(filename, pokenames=None):
@@ -503,22 +523,15 @@ def decode_file(filename, pokenames=None):
         for line in lines:
             if not line.startswith(GPT2_SIMPLE_SAMPLE_DIVIDER):
                 # gather info
-                linedata = decode(line)
-                perfect = True
-                field_counts = []
-                for l in range(len(EncodedIndex)):
-                    instance_count = len(linedata.get(l, []))
-                    field_counts.append(instance_count)
-                    if instance_count is not 1:
-                        perfect = False
+                linedata = SampleReport(decode(line))
 
                 # calculate stats
-                if 0 in linedata and len(linedata[0]) == 1 \
-                        and linedata[0][0].strip().upper() not in (name.strip().upper() for name in pokenames):
-                    unique_names.append(linedata[0][0])
                 num_samples = num_samples + 1
-                if perfect:
+                if linedata.perfect:
                     perfect_samples = perfect_samples + 1
+                if linedata.is_name_unique(pokenames):
+                    unique_names.append(linedata)
+
         print("{}: {}/{} perfect samples, {}/{} unique names: {}".format(filename, perfect_samples, num_samples,
                                                                          len(unique_names), num_samples,
                                                                          str(unique_names)))
