@@ -501,24 +501,28 @@ class SampleReport:
     def has_valid_field(self, index):
         return index in self.data and len(self.data[0]) == 1
 
-    def get_valid_field(self, index): # no validation
+    def get_valid_field(self, index):  # no validation
         return self.get_cols(index)[0]
 
     def is_name_unique(self, names):
-        return self.has_valid_field(EncodedIndex.NAME) and self.get_valid_field(EncodedIndex.NAME).strip().upper() \
-                not in (name.strip().upper() for name in names)
+        if self.has_valid_field(EncodedIndex.NAME.value):
+            return self.get_valid_field(EncodedIndex.NAME.value).strip().upper() \
+                   not in (name.strip().upper() for name in names)
+        return False
 
     def get_cols(self, index):
         return self.data.get(index, [])
 
 
 def decode_file(filename, pokenames=None):
+    def map_to_field(collection, field):
+        return list(map(lambda x: x.get_valid_field(field.value).strip(), collection))
     if pokenames is None:
         pokenames = []
     with open(filename, "r") as fizz:
         perfect_samples = 0
         num_samples = 0
-        unique_names = []
+        unique_named = []
         lines = fizz.readlines()
         for line in lines:
             if not line.startswith(GPT2_SIMPLE_SAMPLE_DIVIDER):
@@ -530,8 +534,8 @@ def decode_file(filename, pokenames=None):
                 if linedata.perfect:
                     perfect_samples = perfect_samples + 1
                 if linedata.is_name_unique(pokenames):
-                    unique_names.append(linedata)
-
+                    unique_named.append(linedata)
+        unique_names = map_to_field(unique_named, EncodedIndex.NAME)
         print("{}: {}/{} perfect samples, {}/{} unique names: {}".format(filename, perfect_samples, num_samples,
                                                                          len(unique_names), num_samples,
                                                                          str(unique_names)))
