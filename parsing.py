@@ -17,8 +17,9 @@ for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
     f.extend(full_filenames)
     break
 # print(str(f))
-for file in f:
-    try:
-        pokeapi.decode_file(file, names)
-    except UnicodeDecodeError as e:
-        print("couldn't parse file {}: {}".format(file, e))
+pokeapi.decode_file_group(f, names)
+# for file in f:
+#     try:
+#         pokeapi.decode_file(file, names)
+#     except UnicodeDecodeError as e:
+#         print("couldn't parse file {}: {}".format(file, e))

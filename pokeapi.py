@@ -312,6 +312,30 @@ class PokedexEntry:
             return self.habitat
         return ""
 
+    def get_field(self, field):
+        if field is EncodedIndex.NAME:
+            return self.display_name
+        elif field is EncodedIndex.CATEGORY:
+            return self.category
+        elif field is EncodedIndex.TYPES:
+            return self.type1, self.type2
+        elif field is EncodedIndex.CATEGORY:
+            return self.abilities
+        elif field is EncodedIndex.MOVES:
+            return self.moves
+        elif field is EncodedIndex.HEIGHT:
+            return self.height_dm
+        elif field is EncodedIndex.WEIGHT:
+            return self.weight_hg
+        elif field is EncodedIndex.COLOR:
+            return self.color
+        elif field is EncodedIndex.SHAPE:
+            return self.shape
+        elif field is EncodedIndex.HABITAT:
+            return self.habitat
+        elif field is EncodedIndex.DESCRIPTION:
+            return self.descriptions
+
     def encode(self):
         fields = ["00{}".format(self.display_name),
                   "01{}".format(self.category_str()),
@@ -499,46 +523,123 @@ class SampleReport:
                 self.perfect = False
 
     def has_valid_field(self, index):
-        return index in self.data and len(self.data[0]) == 1
+        return index in self.data and len(self.data[index]) == 1
 
     def get_valid_field(self, index):  # no validation
         return self.get_cols(index)[0]
 
-    def is_name_unique(self, names):
-        if self.has_valid_field(EncodedIndex.NAME.value):
-            return self.get_valid_field(EncodedIndex.NAME.value).strip().upper() \
-                   not in (name.strip().upper() for name in names)
+    def is_field_unique(self, field, values):
+        if self.has_valid_field(field.value):
+            return self.get_valid_field(field.value).strip().upper() \
+                   not in (pos_dup.strip().upper() for pos_dup in values)
         return False
 
     def get_cols(self, index):
         return self.data.get(index, [])
 
 
+class SampleGroupReport:
+    CHECK_FIELDS = (EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.SHAPE, EncodedIndex.HABITAT,
+                    EncodedIndex.DESCRIPTION)
+    def __init__(self, samples):
+        self.samples = samples
+
+    def perfect(self):
+        return list(filter(lambda sample: sample.perfect, self.samples))
+
+    def unique(self, field, values):
+        return list(filter(lambda sample: sample.is_field_unique(field, values), self.samples))
+
+    def field_is_singular(self, field):
+        return self.unique(field, [])
+
+    def field_is_missing(self, field):
+        return list(filter(lambda sample: len(sample.get_cols(field.value)) < 1, self.samples))
+
+    def field_has_extras(self, field):
+        return list(filter(lambda sample: len(sample.get_cols(field.value)) > 1, self.samples))
+
+    def __len__(self):
+        return len(self.samples)
+
+    def count(self):
+        return len(self)
+
+    def multi_filter(self, *args):
+        filtered_output = [[]] * len(args)
+        for sample in self.samples:
+            for predicate_index, predicate in enumerate(args):
+                if predicate(sample):
+                    filtered_output[predicate_index].append(sample)
+        return filtered_output
+
+    def ratio_str(self, number, total=None):
+        if total is None:
+            total = self.count()
+        return "{0:}/{1:} ({2:0.2f}%)".format(number, total, (number / total) * 100)
+
+    def field_nums_report(self, check_fields=CHECK_FIELDS):
+        str_template = "    {}-{}: {}\n"
+        strout = ""
+        for field in check_fields:
+            strout = strout + str_template.format(field.name, "valid", self.ratio_str(len(self.field_is_singular(field))))
+            strout = strout + str_template.format(field.name, "missing", self.ratio_str(len(self.field_is_missing(field))))
+            strout = strout + str_template.format(field.name, "extra", self.ratio_str(len(self.field_has_extras(field))))
+        return strout
+
+    def full_report(self, sep="\n", fields=CHECK_FIELDS, entries=None):
+        if entries is None:
+            entries = []
+        strout = ""
+        strout = "{}Perfect Samples: {}{}".format(strout, self.ratio_str(len(self.perfect())), sep)
+        strout = strout + self.field_nums_report(fields)
+
+        return strout
+
+
 def decode_file(filename, pokenames=None):
     def map_to_field(collection, field):
         return list(map(lambda x: x.get_valid_field(field.value).strip(), collection))
+
     if pokenames is None:
         pokenames = []
+    check_unique = [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.SHAPE, EncodedIndex.HABITAT,
+                    EncodedIndex.DESCRIPTION]
     with open(filename, "r") as fizz:
         perfect_samples = 0
         num_samples = 0
-        unique_named = []
+        unique = {}
+        for field_type in check_unique:
+            unique[field_type] = []
         lines = fizz.readlines()
+        all_samples = []
         for line in lines:
             if not line.startswith(GPT2_SIMPLE_SAMPLE_DIVIDER):
                 # gather info
                 linedata = SampleReport(decode(line))
+                all_samples.append(linedata)
 
-                # calculate stats
-                num_samples = num_samples + 1
-                if linedata.perfect:
-                    perfect_samples = perfect_samples + 1
-                if linedata.is_name_unique(pokenames):
-                    unique_named.append(linedata)
-        unique_names = map_to_field(unique_named, EncodedIndex.NAME)
-        print("{}: {}/{} perfect samples, {}/{} unique names: {}".format(filename, perfect_samples, num_samples,
-                                                                         len(unique_names), num_samples,
-                                                                         str(unique_names)))
+        #         # calculate stats
+        #         num_samples = num_samples + 1
+        #         if linedata.perfect:
+        #             perfect_samples = perfect_samples + 1
+        #         for field_type in check_unique:
+        #             if linedata.is_field_unique(field_type, pokenames):
+        #                 unique[field_type].append(linedata)
+        # unique_fielded = {}
+        # for field_type in check_unique:
+        #     unique_fielded[field_type] = map_to_field(unique[field_type], field_type)
+        return SampleGroupReport(all_samples)
+
+
+def decode_file_group(filenames, pokenames=None):
+    cumulative_samples = []
+    for sample_file in filenames:
+        report = decode_file(sample_file, pokenames)
+        print("{}: {}".format(sample_file, report.full_report()))
+        cumulative_samples.extend(report.samples)
+    cumulative_report = SampleGroupReport(cumulative_samples)
+    print(cumulative_report.full_report())
 
 
 def lines_to_file(filename, lines, extension=".txt"):
