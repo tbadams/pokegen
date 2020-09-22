@@ -17,7 +17,7 @@ for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
     f.extend(full_filenames)
     break
 # print(str(f))
-pokeapi.decode_file_group(f, names)
+pokeapi.decode_file_group(f, entries)
 # for file in f:
 #     try:
 #         pokeapi.decode_file(file, names)
