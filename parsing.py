@@ -48,6 +48,8 @@ class SampleReport:
     def __init__(self, data, filename):
         super().__init__()
         self.data = data
+        self.filename = filename
+
         self.perfect = True
         self.field_counts = []
         for l in range(len(EncodedIndex)):
@@ -55,8 +57,18 @@ class SampleReport:
             self.field_counts.append(instance_count)
             if instance_count is not 1:
                 self.perfect = False
+        info = self.filename.split("_")
+        try:
+            self.run = info[0]
+            self.rounds = int(info[1])
+            self.time = int(info[2])
+            self.temp = float(info[3][len("temp")])
+            self.k = int(info[4][len("k")])
+            self.p = float(info[5][len("p")])
+        except IndexError as e:
+            print("fieldname exception " + str(e))
 
-# todo use field not index
+    # todo use field not index
     def has_valid_field(self, index):
         return index in self.data and len(self.data[index]) == 1
 
@@ -91,7 +103,7 @@ class SampleReport:
 
 
 class SampleGroupReport:
-    CHECK_FIELDS = (EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.SHAPE, EncodedIndex.HABITAT)
+    CHECK_FIELDS = (EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.SHAPE, EncodedIndex.HABITAT, EncodedIndex.TYPES, EncodedIndex.COLOR)
 
     def __init__(self, samples, entries=None):
         self.samples = samples
@@ -149,6 +161,9 @@ class SampleGroupReport:
 
     def count(self):
         return len(self)
+
+    def filter(self, func):
+        return SampleGroupReport(list(filter(func, self.samples)))
 
     def multi_filter(self, *args):
         filtered_output = [[]] * len(args)
@@ -217,11 +232,9 @@ def decode_file(filename, entries=None):
 
 def decode_file_group(filenames, entries=None, to_file=False):
     cumulative_samples = []
-    filemap = {}
     for sample_file in filenames:
         report = decode_file(sample_file, entries)
         cumulative_samples.extend(report.samples)
-        filemap[sample_file] = report
         report_text = report.full_report()
         if to_file:
             cur_path = os.path.dirname(os.path.realpath(__file__))
@@ -232,7 +245,7 @@ def decode_file_group(filenames, entries=None, to_file=False):
         else:
             print("{}: {}".format(sample_file, report_text))
     cumulative_report = SampleGroupReport(cumulative_samples, entries)
-    return filemap
+    return cumulative_report
 
 
 entries = pokeapi.get_pokedex_entries()  # prerequisite pokedata
@@ -247,6 +260,5 @@ for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
             full_filenames.append(os.path.join(dirpath, fn))
     f.extend(full_filenames)
     break
-all_reports = decode_file_group(f, entries)
-
-
+all_reports = decode_file_group(f, entries, True)
+# vanilla_temps = sorted(list(filter(lambda s: s, all_reports
