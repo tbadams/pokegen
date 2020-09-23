@@ -2,6 +2,17 @@ import pokeapi
 from pokeapi import EncodedIndex, START_TOKEN, END_TOKEN, GPT2_SIMPLE_SAMPLE_DIVIDER
 # import gpt_2_simple as gpt2
 import os
+import math
+from enum import Enum
+
+
+class FilenameData(Enum):
+    RUN = 0
+    ROUNDS = 1
+    TIME = 2
+    TEMP = 3
+    K = 4
+    P = 5
 
 
 def tokenize_encoded_str(encoded_str):
@@ -39,6 +50,7 @@ def decode(encoded_str):
         except (ValueError, TypeError) as e:
             append_to_dict(data, None, field)
     return data
+
 
 def map_samples_to_fields(samples, field):
     return list(map(lambda sample: sample.get_valid_field(field.value).strip(), samples))
@@ -100,6 +112,21 @@ class SampleReport:
 
     def get_cols(self, index):
         return self.data.get(index, [])
+
+    def filename_info(self, enum):
+        if enum is FilenameData.RUN:
+            return self.run
+        elif enum is FilenameData.ROUNDS:
+            return self.rounds
+        elif enum is FilenameData.TIME:
+            return self.time
+        elif enum is FilenameData.TEMP:
+            return self.temp
+        elif enum is FilenameData.K:
+            return self.k
+        elif enum is FilenameData.P:
+            return self.p
+        raise TypeError("oops missing enum")
 
 
 class SampleGroupReport:
