@@ -5,7 +5,7 @@ import math
 import random
 from enum import Enum
 
-VERSION = "3c"
+VERSION = "4a"
 
 POKEFILE = "pokeapi/pokefile.json"
 POKE_PREFIX = "pokeapi/poke"
@@ -318,15 +318,15 @@ class PokedexEntry:
         elif field is EncodedIndex.CATEGORY:
             return self.category
         elif field is EncodedIndex.TYPES:
-            return self.type1, self.type2
+            return self.types_str()
         elif field is EncodedIndex.CATEGORY:
             return self.abilities
         elif field is EncodedIndex.MOVES:
             return self.moves
         elif field is EncodedIndex.HEIGHT:
-            return self.height_dm
+            return self.height_str()
         elif field is EncodedIndex.WEIGHT:
-            return self.weight_hg
+            return self.weight_str()
         elif field is EncodedIndex.COLOR:
             return self.color
         elif field is EncodedIndex.SHAPE:
@@ -471,222 +471,6 @@ def get_stats(dataname, lines):
         min_length = min(min_length, entry_length)
     print(dataname + ":count - " + str(count) + ", min - " + str(min_length) + ", max - " + str(max_length)
           + ", average length = " + str(total_length / count))
-
-
-def tokenize_encoded_str(encoded_str):
-    def remove_prefix(text, prefix):
-        if text.startswith(prefix):
-            return text[len(prefix):]
-        return text  # or whatever
-
-    def remove_suffix(text, suffix):
-        if text.endswith(suffix):
-            return text[:len(suffix)]
-        return text  # or whatever
-
-    content = remove_suffix(remove_prefix(encoded_str, START_TOKEN), END_TOKEN)
-    fields = content.split("|")
-    fields.sort()
-    return fields
-
-
-def append_to_dict(d, idx, thing):
-    if idx not in d:
-        d[idx] = []
-    d[idx].append(thing)
-
-
-def decode(encoded_str):
-    fields = tokenize_encoded_str(encoded_str)
-    data = {}
-    for field in fields:
-        index_str = field[0:2]
-        try:
-            index = int(index_str)
-            field_content = field[2:]
-            append_to_dict(data, index, field_content)
-        except (ValueError, TypeError) as e:
-            append_to_dict(data, None, field)
-    return data
-
-
-class SampleReport:
-    def __init__(self, data):
-        super().__init__()
-        self.data = data
-        self.perfect = True
-        self.field_counts = []
-        for l in range(len(EncodedIndex)):
-            instance_count = len(data.get(l, []))
-            self.field_counts.append(instance_count)
-            if instance_count is not 1:
-                self.perfect = False
-
-    def has_valid_field(self, index):
-        return index in self.data and len(self.data[index]) == 1
-
-    def get_valid_field(self, index):  # no validation
-        return self.get_cols(index)[0]
-
-    def is_field_unique(self, field, values):
-        if self.has_valid_field(field.value):
-            field_value_tokens = self.get_valid_field(field.value).strip().upper()
-            return field_value_tokens not in (pos_dup.strip().upper() for pos_dup in values)
-        return False
-
-    def get_missing_fields(self):
-        missing_fields = []
-        for ie in range(len(EncodedIndex)):
-            if self.field_counts[ie] == 0:
-                missing_fields.append(EncodedIndex(ie))
-        return missing_fields
-
-    def get_extra_fields(self):
-        extra_fields = []
-        for ie in range(len(EncodedIndex)):
-            field_count = self.field_counts[ie]
-            if field_count > 1:
-                for num_times in range(field_count - 1):
-                    extra_fields.append(EncodedIndex(ie))
-        return extra_fields
-
-    def get_cols(self, index):
-        return self.data.get(index, [])
-
-
-class SampleGroupReport:
-    CHECK_FIELDS = (EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.SHAPE, EncodedIndex.HABITAT,
-                    EncodedIndex.DESCRIPTION)
-
-    def __init__(self, samples, entries=None):
-        self.samples = samples
-        if entries is None:
-            entries = []
-        self.entries = entries
-
-    def perfect(self):
-        return list(filter(lambda sample: sample.perfect, self.samples))
-
-    def have_missing_fields(self):
-        return list(filter(lambda sample: sample.get_missing_fields() > 0, self.samples))
-
-    def have_extra_fields(self):
-        return list(filter(lambda sample: sample.get_extra_fields() > 0, self.samples))
-
-    def get_missing_fields_count(self):
-        field_sum = 0
-        for sample in self.samples:
-            field_sum = field_sum + len(sample.get_missing_fields())
-        return field_sum
-
-    def get_extra_fields_count(self):
-        field_sum = 0
-        for sample in self.samples:
-            field_sum = field_sum + len(sample.get_extra_fields())
-        return field_sum
-
-    def unique(self, field, values=None):
-        if values is None:
-            entry_field_values = list(map(lambda entry: entry.get_field(field), self.entries))
-            values = list(filter(lambda sam: isinstance(sam, str), entry_field_values))
-        return list(filter(lambda sample: sample.is_field_unique(field, values), self.samples))
-
-    def field_is_singular(self, field):
-        return list(filter(lambda sample: sample.has_valid_field(field.value), self.samples))
-
-    def field_is_missing(self, field):
-        return list(filter(lambda sample: len(sample.get_cols(field.value)) < 1, self.samples))
-
-    def field_has_extras(self, field):
-        return list(filter(lambda sample: len(sample.get_cols(field.value)) > 1, self.samples))
-
-    def __len__(self):
-        return len(self.samples)
-
-    def count(self):
-        return len(self)
-
-    def multi_filter(self, *args):
-        filtered_output = [[]] * len(args)
-        for sample in self.samples:
-            for predicate_index, predicate in enumerate(args):
-                if predicate(sample):
-                    filtered_output[predicate_index].append(sample)
-        return filtered_output
-
-    def ratio_str(self, number, total=None):
-        if total is None:
-            total = self.count()
-        return "{0:}/{1:} ({2:0.2f}%)".format(number, total, (number / total) * 100)
-
-    def field_nums_report(self, check_fields=CHECK_FIELDS):
-        str_template = "    {}: {},"
-        strout = ""
-        for field in check_fields:
-            strout = strout + field.name + ": "
-            strout = strout + str_template.format("unique", self.ratio_str(len(self.unique(field))))
-            strout = strout + str_template.format("valid", self.ratio_str(len(self.field_is_singular(field))))
-            strout = strout + str_template.format("missing", self.ratio_str(len(self.field_is_missing(field))))
-            strout = strout + str_template.format("extra", self.ratio_str(len(self.field_has_extras(field))))
-            strout = strout + "\n"
-        return strout
-
-    def full_report(self, sep="\n", fields=CHECK_FIELDS, entries=None):
-        if entries is None:
-            entries = []
-        strout = "\n"
-        strout = "{}Perfect Samples: {}{}".format(strout, self.ratio_str(len(self.perfect())), sep)
-        strout = "{}Missing Fields: {}{}".format(strout, self.get_missing_fields_count(), sep)
-        strout = "{}Extra Samples: {}{}".format(strout, self.get_extra_fields_count(), sep)
-        # strout = "{}\n".format(strout)
-        strout = strout + self.field_nums_report(fields)
-
-        return strout
-
-
-def decode_file(filename, entries=None):
-    def map_to_field(collection, field):
-        return list(map(lambda x: x.get_valid_field(field.value).strip(), collection))
-
-    if entries is None:
-        entries = []
-    check_unique = [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.SHAPE, EncodedIndex.HABITAT,
-                    EncodedIndex.DESCRIPTION]
-    with open(filename, "r") as fizz:
-        perfect_samples = 0
-        num_samples = 0
-        # unique = {}
-        # for field_type in check_unique:
-        #     unique[field_type] = []
-        lines = fizz.readlines()
-        all_samples = []
-        for line in lines:
-            if not line.startswith(GPT2_SIMPLE_SAMPLE_DIVIDER):
-                # gather info
-                linedata = SampleReport(decode(line))
-                all_samples.append(linedata)
-
-        #         # calculate stats
-        #         num_samples = num_samples + 1
-        #         if linedata.perfect:
-        #             perfect_samples = perfect_samples + 1
-        #         for field_type in check_unique:
-        #             if linedata.is_field_unique(field_type, pokenames):
-        #                 unique[field_type].append(linedata)
-        # unique_fielded = {}
-        # for field_type in check_unique:
-        #     unique_fielded[field_type] = map_to_field(unique[field_type], field_type)
-        return SampleGroupReport(all_samples, entries)
-
-
-def decode_file_group(filenames, entries=None):
-    cumulative_samples = []
-    for sample_file in filenames:
-        report = decode_file(sample_file, entries)
-        print("{}: {}".format(sample_file, report.full_report()))
-        cumulative_samples.extend(report.samples)
-    cumulative_report = SampleGroupReport(cumulative_samples, entries)
-    print(cumulative_report.full_report())
 
 
 def lines_to_file(filename, lines, extension=".txt"):
