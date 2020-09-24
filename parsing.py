@@ -7,6 +7,7 @@ from enum import Enum
 from collections import defaultdict, OrderedDict
 import time
 
+REPORTS_DIR = "reports"
 
 class FilenameData(Enum):
     RUN = 0
@@ -17,17 +18,19 @@ class FilenameData(Enum):
     P = 5
 
 
+def remove_prefix(text, prefix):
+    if text.startswith(prefix):
+        return text[len(prefix):]
+    return text  # or whatever
+
+
+def remove_suffix(text, suffix):
+    if text.endswith(suffix):
+        return text[:len(suffix)]
+    return text  # or whatever
+
+
 def tokenize_encoded_str(encoded_str):
-    def remove_prefix(text, prefix):
-        if text.startswith(prefix):
-            return text[len(prefix):]
-        return text  # or whatever
-
-    def remove_suffix(text, suffix):
-        if text.endswith(suffix):
-            return text[:len(suffix)]
-        return text  # or whatever
-
     content = remove_suffix(remove_prefix(encoded_str, START_TOKEN), END_TOKEN)
     fields = content.split("|")
     fields.sort()
@@ -62,7 +65,7 @@ class SampleReport:
     def __init__(self, data, filename):
         super().__init__()
         self.data = data
-        self.filename = filename
+        self.filename = os.path.basename(filename)
 
         self.perfect = True
         self.field_counts = []
@@ -320,7 +323,8 @@ class SampleGroupReport:
         return strout
 
     def mons(self):
-        return "\n".join(self.map(SgrUtil.print))
+        text = "\n".join(self.map(SgrUtil.print))
+        return text
 
 
 class SgrUtil:
@@ -331,6 +335,10 @@ class SgrUtil:
     @staticmethod
     def non_rounds(s):
         return (s.run, s.temp, s.k, s.p)
+
+    @staticmethod
+    def filename(s):
+        return s.filename
 
     @staticmethod
     def print(s):
@@ -366,7 +374,7 @@ def decode_file_group(filenames, entries, to_file=False):
             if to_file:
                 report_text = report.full_report()
                 cur_path = os.path.dirname(os.path.realpath(__file__))
-                report_filepath = os.path.join(cur_path, "reports", os.path.split(sample_file)[1])
+                report_filepath = os.path.join(cur_path, REPORTS_DIR, os.path.split(sample_file)[1])
                 with open(report_filepath, "w") as report_file:
                     report_file.write(report_text)
                     print("wrote report to {}".format(report_filepath))
@@ -378,6 +386,14 @@ def decode_file_group(filenames, entries, to_file=False):
     print("total decode time: {}".format(time.time() - starttime))
     cumulative_report = SampleGroupReport(cumulative_samples, entries)
     return cumulative_report
+
+
+def write_mons(report):
+    for filename, file_report in report.partition(SgrUtil.filename).items():
+        mon_filename = os.path.join(REPORTS_DIR, "mon_{}".format(filename))
+        with open(mon_filename, "w") as mon_file:
+            mon_file.write(file_report.mons())
+            print("wrote mons to {}".format(mon_filename))
 
 
 # dex_entries = pokeapi.get_pokedex_entries()  # prerequisite pokedata
@@ -394,11 +410,15 @@ for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
             full_filenames.append(os.path.join(dirpath, fn))
     f.extend(full_filenames)
     break
+write_reports = True
 tempstart = time.time()
-all_reports = decode_file_group(f, training_data, False)
+all_reports = decode_file_group(f, training_data, write_reports)
+if write_reports:
+    write_mons(all_reports)
 for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:
     print(check_field)
     print(all_reports.poor_plot(SgrUtil.report_unique_factory(check_field)))
+
 print("total time {} for {} samples".format(time.time() - tempstart, all_reports.count()))
 # for rounds, sr in all_reports.partition(lambda s: s.rounds).items():
 #     uniques = sr.unique(EncodedIndex.NAME)
