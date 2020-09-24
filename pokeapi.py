@@ -433,6 +433,17 @@ def get_pokedex_entries():
     return entries
 
 
+def get_encoded(entries, num_duplicates, shuffle=True):
+    # Encode and duplicate entries to avoid overfitting
+    encoded_entries = []
+    for entry in entries:
+        for j in range(num_duplicates):
+            encoded_entries.append(entry.encode() + "\n")
+    if shuffle:
+        random.shuffle(encoded_entries)  # shuffle to try and avoid it seeing large scale pattern
+    return encoded_entries
+
+
 def write_encoding_template(num_fields=10, num_lines=10000):
     fields = []
     for i in range(num_fields):
@@ -441,21 +452,6 @@ def write_encoding_template(num_fields=10, num_lines=10000):
             out = out + "0"
         fields.append(out + str(i))
     random.shuffle(fields)
-
-    def encode(self):
-        fields = ["00{}".format(self.display_name),
-                  "01{}".format(self.category_str()),
-                  "02{}".format(self.types_str()),
-                  "03{}".format(", ".join(self.abilities)),
-                  "04{}".format(self.moves_str()),
-                  "05{}".format(self.height_str()),
-                  "06{}".format(self.weight_str()),
-                  "07{}".format(self.color_str()),
-                  "08{}".format(self.shape_str()),
-                  "09{}".format(self.habitat_str()),
-                  "10{}".format(self.description())]
-        random.shuffle(fields)
-        return START_TOKEN + "|".join(fields) + END_TOKEN
 
 
 def get_stats(dataname, lines):
