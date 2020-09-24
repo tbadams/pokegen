@@ -5,6 +5,7 @@ import os
 import math
 from enum import Enum
 from collections import defaultdict, OrderedDict
+import time
 
 
 class FilenameData(Enum):
@@ -321,9 +322,6 @@ class SgrUtil:
 
 
 def decode_file(filename, entries=None):
-    def map_to_field(collection, field):
-        return list(map(lambda x: x.get_valid_field(field.value).strip(), collection))
-
     if entries is None:
         entries = []
     with open(filename, "r") as fizz:
@@ -337,10 +335,12 @@ def decode_file(filename, entries=None):
         return SampleGroupReport(all_samples, entries)
 
 
-def decode_file_group(filenames, entries=None, to_file=False):
+def decode_file_group(filenames, entries, to_file=False):
+    starttime = time.time()
     cumulative_samples = []
     for sample_file in filenames:
         try:
+            filestarttime = time.time()
             report = decode_file(sample_file, entries)
             cumulative_samples.extend(report.samples)
             report_text = report.full_report()
@@ -351,10 +351,11 @@ def decode_file_group(filenames, entries=None, to_file=False):
                     report_file.write(report_text)
                     print("wrote report to {}".format(report_filepath))
             else:
-                print("Parsed {}".format(sample_file))
+                print("Parsed {} in {}s".format(sample_file, time.time() - filestarttime))
                 # print("{}: {}".format(sample_file, report_text))
         except IndexError as e:
             print("problem reading file: " + str(e))
+    print("total decode time: {}".format(time.time() - starttime))
     cumulative_report = SampleGroupReport(cumulative_samples, entries)
     return cumulative_report
 
@@ -372,10 +373,12 @@ for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
             full_filenames.append(os.path.join(dirpath, fn))
     f.extend(full_filenames)
     break
+tempstart = time.time()
 all_reports = decode_file_group(f, dex_entries, False)
 for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:
     print(check_field)
     print(all_reports.poor_plot(SgrUtil.report_unique_factory(check_field)))
+print("total time {} for {} samples".format(time.time() - tempstart, all_reports.count()))
 # for rounds, sr in all_reports.partition(lambda s: s.rounds).items():
 #     uniques = sr.unique(EncodedIndex.NAME)
 #     print(str(rounds) + " : " + sr.ratio_str(len(uniques), sr.count()) + " " + ", ".join(
