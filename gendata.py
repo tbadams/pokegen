@@ -7,7 +7,7 @@ entries = pokeapi.get_pokedex_entries()
 names = pokeapi.get_pokemon_names(entries)
 
 # Encode and duplicate entries to avoid overfitting
-NUM_DUPLICATES = 10
+NUM_DUPLICATES = 2
 encoded_entries = []
 for entry in entries:
     for j in range(NUM_DUPLICATES):

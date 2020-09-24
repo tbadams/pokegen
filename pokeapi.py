@@ -5,7 +5,7 @@ import math
 import random
 from enum import Enum
 
-VERSION = "4a"
+VERSION = "4b"
 
 POKEFILE = "pokeapi/pokefile.json"
 POKE_PREFIX = "pokeapi/poke"
