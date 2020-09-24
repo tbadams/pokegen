@@ -4,6 +4,7 @@ from pokeapi import EncodedIndex, START_TOKEN, END_TOKEN, GPT2_SIMPLE_SAMPLE_DIV
 import os
 import math
 from enum import Enum
+from collections import defaultdict, OrderedDict
 
 
 class FilenameData(Enum):
@@ -78,7 +79,7 @@ class SampleReport:
             self.k = int(info[4][len("k")])
             self.p = float(info[5][len("p")])
         except IndexError as e:
-            print("fieldname exception " + str(e))
+            raise IndexError("unexpected filename format: " + self.filename, e)
 
     # todo use field not index
     def has_valid_field(self, index):
@@ -128,8 +129,16 @@ class SampleReport:
             return self.p
         raise TypeError("oops missing enum")
 
-    def quick_print(self, sep=","):
-        pass
+    def field_print(self, field):
+        return " / ".join(self.get_cols(field.value))
+
+    def quick_print(self, sep="|"):
+        out_lst = []
+        for field in list(EncodedIndex):
+            out_lst.append(self.field_print(field))
+        return sep.join(out_lst)
+
+
 # name UE type E cat U2E description E, habitat U, shape, color, height, weight
 # def viable(self, valentries, must_be_unique=(EncodedIndex.NAME, EncodedIndex.CATEGORY), must_be_present=(EncodedIndex.TYPES, EncodedIndex.CATEGORY, EncodedIndex.DESCRIPTION)):
 #     for unique_field in must_be_unique:
@@ -138,13 +147,11 @@ class SampleReport:
 
 class SampleGroupReport:
     CHECK_FIELDS = (
-    EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.SHAPE, EncodedIndex.HABITAT, EncodedIndex.TYPES,
-    EncodedIndex.COLOR)
+        EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.SHAPE, EncodedIndex.HABITAT, EncodedIndex.TYPES,
+        EncodedIndex.COLOR)
 
-    def __init__(self, samples, entries=None):
+    def __init__(self, samples, entries):
         self.samples = samples
-        if entries is None:
-            entries = []
         self.entries = entries
 
     def perfect(self):
@@ -175,7 +182,8 @@ class SampleGroupReport:
         if values is None:
             entry_field_values = list(map(lambda entry: entry.get_field(field), self.entries))
             values = list(filter(lambda sam: isinstance(sam, str), entry_field_values))
-        return list(filter(lambda sample: sample.is_field_unique(field, values), self.samples))
+        return SampleGroupReport(list(filter(lambda sample: sample.is_field_unique(field, values), self.samples)),
+                                 self.entries)
 
     def have_invalid_field_values(self):
         return list(filter(lambda sample: len(sample.get_cols(None)) > 0, self.samples))
@@ -199,7 +207,10 @@ class SampleGroupReport:
         return len(self)
 
     def filter(self, func):
-        return SampleGroupReport(list(filter(func, self.samples)))
+        return SampleGroupReport(list(filter(func, self.samples)), self.entries)
+
+    def map(self, func):
+        return list(map(func, self.samples))
 
     def multi_filter(self, *args):
         filtered_output = [[]] * len(args)
@@ -215,15 +226,37 @@ class SampleGroupReport:
                                           and (k == s.k)
                                           and (math.isclose(p, s.p, rel_tol=delta))))
 
+    def partition(self, map_func):
+        lst_dict = defaultdict(list)
+        for s in self.samples:
+            lst_dict[map_func(s)].append(s)
+        out_dict = OrderedDict()
+        for rounds in sorted(lst_dict.keys()):
+            out_dict[rounds] = SampleGroupReport(lst_dict[rounds], self.entries)
+        return out_dict
+
+    def poor_plot(self, report_func, title=None):
+        out = []
+        if title is not None:
+            out.append(title)
+        permutations = self.partition(SgrUtil.non_rounds)
+        for permutation, permutation_report in permutations.items():
+            permutation_out = [str(permutation)]
+            permutations_at_step = permutation_report.partition(SgrUtil.rounds)
+            for permutation_step, permutation_at_step_report in permutations_at_step.items():
+                permutation_out.append(str(permutation_step) + " : " + report_func(permutation_at_step_report))
+            out.append(", ".join(permutation_out))
+        return "\n".join(out)
+
     def sorted(self):
-        return self.samples.sort(key=lambda s: (s.run, s.temp, s.k, s.p, s.time, s.rounds,))
+        return sorted(self.samples, key=lambda s: (s.run, s.temp, s.k, s.p, s.time, s.rounds))
 
     def ratio_str(self, number, total=None):
         if total is None:
             total = self.count()
         return "{0:}/{1:} ({2:0.2f}%)".format(number, total, (number / total) * 100)
 
-    def field_nums_report(self, check_fields=CHECK_FIELDS):
+    def field_nums_report(self, check_fields=CHECK_FIELDS, sep="\n"):
         str_template = "{}: {}, "
         strout = ""
         for i_field in range(len(EncodedIndex)):
@@ -234,13 +267,16 @@ class SampleGroupReport:
             strout = strout + str_template.format("missing", self.ratio_str(len(self.field_is_missing(field))))
             strout = strout + str_template.format("extra", self.ratio_str(len(self.field_has_extras(field))))
             # strout = strout + str_template.format("empty", self.ratio_str(len(self.field_is_empty(field))))
-            strout = strout + "\n"
+            strout = strout + sep
         for field in check_fields:  # print actual uniques
             uniques = self.unique(field)
-            unique_field_values = map_samples_to_fields(uniques, field)
+            unique_field_values = map_samples_to_fields(uniques.samples, field)
             strout = strout + field.name + " - uniques: " + str(unique_field_values) + "\n"
 
         return strout
+
+    def to_field_values(self, field):
+        return map_samples_to_fields(self.samples, field)
 
     def full_report(self, sep="\n", fields=CHECK_FIELDS, entries=None):
         if entries is None:
@@ -253,9 +289,35 @@ class SampleGroupReport:
         strout = "{}Missing Values: {}{}".format(strout, self.get_missing_fields_count(), sep)
         strout = "{}Extra Values: {}{}".format(strout, self.get_extra_fields_count(), sep)
         strout = "{}Garbage Values: {}{}".format(strout, self.get_garbage_fields_count(), sep)
-        strout = strout + self.field_nums_report(fields)
+        strout = strout + self.field_nums_report(fields, sep=sep)
 
         return strout
+
+    def __str__(self):
+        return self.full_report(", ")
+
+    def mons(self):
+        return "\n".join(self.map(SgrUtil.print))
+
+
+class SgrUtil:
+    @staticmethod
+    def rounds(s):
+        return s.rounds
+
+    @staticmethod
+    def non_rounds(s):
+        return (s.run, s.temp, s.k, s.p)
+
+    @staticmethod
+    def print(s):
+        return s.quick_print()
+
+    @staticmethod
+    def report_unique_factory(field):
+        return lambda sr: sr.ratio_str(len(sr.unique(field)))
+
+
 
 
 def decode_file(filename, entries=None):
@@ -278,22 +340,26 @@ def decode_file(filename, entries=None):
 def decode_file_group(filenames, entries=None, to_file=False):
     cumulative_samples = []
     for sample_file in filenames:
-        report = decode_file(sample_file, entries)
-        cumulative_samples.extend(report.samples)
-        report_text = report.full_report()
-        if to_file:
-            cur_path = os.path.dirname(os.path.realpath(__file__))
-            report_filepath = os.path.join(cur_path, "reports", os.path.split(sample_file)[1])
-            with open(report_filepath, "w") as report_file:
-                report_file.write(report_text)
-                print("wrote report to {}".format(report_filepath))
-        else:
-            print("{}: {}".format(sample_file, report_text))
+        try:
+            report = decode_file(sample_file, entries)
+            cumulative_samples.extend(report.samples)
+            report_text = report.full_report()
+            if to_file:
+                cur_path = os.path.dirname(os.path.realpath(__file__))
+                report_filepath = os.path.join(cur_path, "reports", os.path.split(sample_file)[1])
+                with open(report_filepath, "w") as report_file:
+                    report_file.write(report_text)
+                    print("wrote report to {}".format(report_filepath))
+            else:
+                print("Parsed {}".format(sample_file))
+                # print("{}: {}".format(sample_file, report_text))
+        except IndexError as e:
+            print("problem reading file: " + str(e))
     cumulative_report = SampleGroupReport(cumulative_samples, entries)
     return cumulative_report
 
 
-entries = pokeapi.get_pokedex_entries()  # prerequisite pokedata
+dex_entries = pokeapi.get_pokedex_entries()  # prerequisite pokedata
 # get files to report on
 dir_path = os.path.dirname(os.path.realpath(__file__))
 target_path = "/out/gpoke4a/"
@@ -301,9 +367,18 @@ f = []
 for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
     full_filenames = []
     for fn in filenames:
-        if fn.endswith("txt"):
+        # if fn.endswith("temp0.7_k0_p0.0.txt"):
+        if fn.endswith("_k0_p0.0.txt"):
             full_filenames.append(os.path.join(dirpath, fn))
     f.extend(full_filenames)
     break
-all_reports = decode_file_group(f, entries, True)
+all_reports = decode_file_group(f, dex_entries, False)
+for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:
+    print(check_field)
+    print(all_reports.poor_plot(SgrUtil.report_unique_factory(check_field)))
+# for rounds, sr in all_reports.partition(lambda s: s.rounds).items():
+#     uniques = sr.unique(EncodedIndex.NAME)
+#     print(str(rounds) + " : " + sr.ratio_str(len(uniques), sr.count()) + " " + ", ".join(
+#         uniques.to_field_values(EncodedIndex.NAME)))
+# print("\n".join(all_reports.filter(lambda s:  s.rounds == 3000).unique(EncodedIndex.NAME).map(lambda s: s.quick_print())))
 # vanilla_temps = sorted(list(filter(lambda s: s, all_reports
