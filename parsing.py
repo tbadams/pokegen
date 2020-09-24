@@ -79,8 +79,30 @@ class SampleReport:
             self.temp = float(info[3][len("temp")])
             self.k = int(info[4][len("k")])
             self.p = float(info[5][len("p")])
-        except IndexError as e:
-            raise IndexError("unexpected filename format: " + self.filename, e)
+            # if len(info) > 1 and info[1].isnumeric():
+            #     self.rounds = int(info[1])
+            # else:
+            #     self.rounds = 0
+            # if len(info) > 2:
+            #     self.time = int(info[2])
+            # else:
+            #     self.time = 0
+            # if len(info) > 3:
+            #     self.temp = float(info[3][len("temp")])
+            # else:
+            #     self.temp = 0.0
+            # if len(info) > 4:
+            #     self.k = int(info[4][len("k")])
+            # else:
+            #     self.k = 0
+            # if len(info) > 5:
+            #     self.p = float(info[5][len("p")])
+            # else:
+            #     self.p = 0.0
+        except (IndexError, ValueError) as e:
+            pass
+            # TODO sorry
+            # print("unexpected filename format: " + self.filename + ", " + str(e))
 
     # todo use field not index
     def has_valid_field(self, index):
@@ -181,7 +203,7 @@ class SampleGroupReport:
 
     def unique(self, field, values=None):
         if values is None:
-            entry_field_values = list(map(lambda entry: entry.get_field(field), self.entries))
+            entry_field_values = map_samples_to_fields(self.entries.samples, field)
             values = list(filter(lambda sam: isinstance(sam, str), entry_field_values))
         return SampleGroupReport(list(filter(lambda sample: sample.is_field_unique(field, values), self.samples)),
                                  self.entries)
@@ -200,6 +222,9 @@ class SampleGroupReport:
 
     def field_is_empty(self, field):
         return list(filter(lambda s: s.get_valid_field(field) is '', self.field_is_singular(field)))
+
+    def average_field_length(self, field):
+        lengths = filter(lambda s: len(s), map_samples_to_fields(self.samples, field))
 
     def __len__(self):
         return len(self.samples)
@@ -294,9 +319,6 @@ class SampleGroupReport:
 
         return strout
 
-    def __str__(self):
-        return self.full_report(", ")
-
     def mons(self):
         return "\n".join(self.map(SgrUtil.print))
 
@@ -317,8 +339,6 @@ class SgrUtil:
     @staticmethod
     def report_unique_factory(field):
         return lambda sr: sr.ratio_str(len(sr.unique(field)))
-
-
 
 
 def decode_file(filename, entries=None):
@@ -343,8 +363,8 @@ def decode_file_group(filenames, entries, to_file=False):
             filestarttime = time.time()
             report = decode_file(sample_file, entries)
             cumulative_samples.extend(report.samples)
-            report_text = report.full_report()
             if to_file:
+                report_text = report.full_report()
                 cur_path = os.path.dirname(os.path.realpath(__file__))
                 report_filepath = os.path.join(cur_path, "reports", os.path.split(sample_file)[1])
                 with open(report_filepath, "w") as report_file:
@@ -360,7 +380,8 @@ def decode_file_group(filenames, entries, to_file=False):
     return cumulative_report
 
 
-dex_entries = pokeapi.get_pokedex_entries()  # prerequisite pokedata
+# dex_entries = pokeapi.get_pokedex_entries()  # prerequisite pokedata
+training_data = decode_file("poke_data.txt")
 # get files to report on
 dir_path = os.path.dirname(os.path.realpath(__file__))
 target_path = "/out/gpoke4a/"
@@ -374,7 +395,7 @@ for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
     f.extend(full_filenames)
     break
 tempstart = time.time()
-all_reports = decode_file_group(f, dex_entries, False)
+all_reports = decode_file_group(f, training_data, False)
 for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:
     print(check_field)
     print(all_reports.poor_plot(SgrUtil.report_unique_factory(check_field)))
