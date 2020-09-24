@@ -128,9 +128,18 @@ class SampleReport:
             return self.p
         raise TypeError("oops missing enum")
 
+    def quick_print(self, sep=","):
+        pass
+# name UE type E cat U2E description E, habitat U, shape, color, height, weight
+# def viable(self, valentries, must_be_unique=(EncodedIndex.NAME, EncodedIndex.CATEGORY), must_be_present=(EncodedIndex.TYPES, EncodedIndex.CATEGORY, EncodedIndex.DESCRIPTION)):
+#     for unique_field in must_be_unique:
+#         if not self.is_field_unique(field, )
+
 
 class SampleGroupReport:
-    CHECK_FIELDS = (EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.SHAPE, EncodedIndex.HABITAT, EncodedIndex.TYPES, EncodedIndex.COLOR)
+    CHECK_FIELDS = (
+    EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.SHAPE, EncodedIndex.HABITAT, EncodedIndex.TYPES,
+    EncodedIndex.COLOR)
 
     def __init__(self, samples, entries=None):
         self.samples = samples
@@ -199,6 +208,15 @@ class SampleGroupReport:
                 if predicate(sample):
                     filtered_output[predicate_index].append(sample)
         return filtered_output
+
+    def get_permutation(self, run="gpoke4a", temp=0.7, k=0, p=0.0, delta=0.001):
+        return self.filter(lambda s: run == s.run
+                                     and (math.isclose(temp, s.temp, rel_tol=delta)
+                                          and (k == s.k)
+                                          and (math.isclose(p, s.p, rel_tol=delta))))
+
+    def sorted(self):
+        return self.samples.sort(key=lambda s: (s.run, s.temp, s.k, s.p, s.time, s.rounds,))
 
     def ratio_str(self, number, total=None):
         if total is None:
