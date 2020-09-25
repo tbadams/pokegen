@@ -63,6 +63,11 @@ def map_samples_to_fields(samples, field):
     return list(map(lambda sample: sample.get_valid_field(field.value).strip(), samples))
 
 
+def is_not_dupe(a, dupes):
+    a_tokens = a.strip().upper()
+    return a_tokens is not '' and a_tokens not in (pos_dup.strip().upper() for pos_dup in dupes)
+
+
 class SampleReport:
     def __init__(self, data, filename):
         super().__init__()
@@ -102,10 +107,10 @@ class SampleReport:
         return self.get_cols(index)[0]
 
     def is_field_unique(self, field, values):
-        if self.has_valid_field(field.value):
-            field_value_tokens = self.get_valid_field(field.value).strip().upper()
-            return field_value_tokens not in (pos_dup.strip().upper() for pos_dup in values) \
-                   and field_value_tokens is not ''
+        for value in self.get_cols(field.value):
+            if is_not_dupe(value, values):
+                return True
+
         return False
 
     def get_missing_fields(self):
@@ -408,7 +413,7 @@ for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
 
 write_reports = True
 tempstart = time.time()
-all_reports = decode_file_group(f, training_data, False)
+all_reports = decode_file_group(f, training_data, write_reports)
 if write_reports:
     write_mons(all_reports)
 for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:

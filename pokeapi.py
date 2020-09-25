@@ -48,7 +48,7 @@ class EncodedIndex(Enum):
             EncodedIndex.HEIGHT: "Height: {}",
             EncodedIndex.WEIGHT: "Weight: {}",
             EncodedIndex.COLOR: "Color: {}",
-            EncodedIndex.SHAPE: "Shape {}",
+            EncodedIndex.SHAPE: "Shape: {}",
             EncodedIndex.HABITAT: "Habitat: {}"
         }
         if self in type_to_label:
