@@ -33,6 +33,7 @@ def remove_suffix(text, suffix):
 def tokenize_encoded_str(encoded_str):
     content = remove_suffix(remove_prefix(encoded_str, START_TOKEN), END_TOKEN)
     fields = content.split("|")
+    fields = list(map(lambda f: f.strip(), fields))
     fields.sort()
     return fields
 
@@ -82,29 +83,14 @@ class SampleReport:
             self.temp = float(info[3][len("temp")])
             self.k = int(info[4][len("k")])
             self.p = float(info[5][len("p")])
-            # if len(info) > 1 and info[1].isnumeric():
-            #     self.rounds = int(info[1])
-            # else:
-            #     self.rounds = 0
-            # if len(info) > 2:
-            #     self.time = int(info[2])
-            # else:
-            #     self.time = 0
-            # if len(info) > 3:
-            #     self.temp = float(info[3][len("temp")])
-            # else:
-            #     self.temp = 0.0
-            # if len(info) > 4:
-            #     self.k = int(info[4][len("k")])
-            # else:
-            #     self.k = 0
-            # if len(info) > 5:
-            #     self.p = float(info[5][len("p")])
-            # else:
-            #     self.p = 0.0
         except (IndexError, ValueError) as e:
-            pass
             # TODO sorry
+            self.run = ""
+            self.rounds = 0
+            self.time = 0
+            self.temp = 0.0
+            self.k = 0
+            self.p = 0.0
             # print("unexpected filename format: " + self.filename + ", " + str(e))
 
     # todo use field not index
@@ -406,10 +392,11 @@ for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
     full_filenames = []
     for fn in filenames:
         # if fn.endswith("temp0.7_k0_p0.0.txt"):
-        if fn.endswith("_k0_p0.0.txt"):
+        if fn.endswith(".txt"):
             full_filenames.append(os.path.join(dirpath, fn))
     f.extend(full_filenames)
     break
+
 write_reports = True
 tempstart = time.time()
 all_reports = decode_file_group(f, training_data, write_reports)
