@@ -401,8 +401,7 @@ f = []
 for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
     full_filenames = []
     for fn in filenames:
-        # if fn.endswith("temp0.7_k0_p0.0.txt"):
-        if fn.endswith(".txt"):
+        if os.path.basename(fn).startswith("gpoke") and fn.endswith(".txt"):
             full_filenames.append(os.path.join(dirpath, fn))
     f.extend(full_filenames)
     break
