@@ -9,6 +9,7 @@ import time
 
 REPORTS_DIR = "reports"
 
+
 class FilenameData(Enum):
     RUN = 0
     ROUNDS = 1
@@ -141,13 +142,18 @@ class SampleReport:
             return self.p
         raise TypeError("oops missing enum")
 
-    def field_print(self, field):
-        return " / ".join(self.get_cols(field.value))
+    def field_print(self, field, value_sep=" / "):
 
-    def quick_print(self, sep="|"):
+        return value_sep.join(list(filter(lambda col: len(col.strip()) > 0, self.get_cols(field.value))))
+
+    def quick_print(self, sep="|", value_sep=" / ", fields=None):
+        if fields is None:
+            fields = list(EncodedIndex)
         out_lst = []
-        for field in list(EncodedIndex):
-            out_lst.append(self.field_print(field))
+        for field in fields:
+            field_text = self.field_print(field, value_sep)
+            if len(field_text) > 0:
+                out_lst.append(field.label(field_text))
         return sep.join(out_lst)
 
 
@@ -327,8 +333,12 @@ class SgrUtil:
         return s.filename
 
     @staticmethod
-    def print(s):
+    def quick_print(s):
         return s.quick_print()
+
+    @staticmethod
+    def print(s):
+        return "{}\n".format(s.quick_print(sep="\n", value_sep="\n"))
 
     @staticmethod
     def report_unique_factory(field):
@@ -399,7 +409,7 @@ for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
 
 write_reports = True
 tempstart = time.time()
-all_reports = decode_file_group(f, training_data, write_reports)
+all_reports = decode_file_group(f, training_data, False)
 if write_reports:
     write_mons(all_reports)
 for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:

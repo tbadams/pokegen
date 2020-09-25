@@ -40,6 +40,21 @@ class EncodedIndex(Enum):
     HABITAT = 9
     DESCRIPTION = 10
 
+    def label(self, field_text):
+        type_to_label = {
+            EncodedIndex.TYPES: "Type: {}",
+            EncodedIndex.ABILITIES: "Abilities: {}",
+            EncodedIndex.MOVES: "Moves: {}",
+            EncodedIndex.HEIGHT: "Height: {}",
+            EncodedIndex.WEIGHT: "Weight: {}",
+            EncodedIndex.COLOR: "Color: {}",
+            EncodedIndex.SHAPE: "Shape {}",
+            EncodedIndex.HABITAT: "Habitat: {}"
+        }
+        if self in type_to_label:
+            return type_to_label[self].format(field_text)
+        return field_text
+
 
 def get_pokemon():
     outfile = open(POKEFILE, "w")
@@ -313,28 +328,33 @@ class PokedexEntry:
         return ""
 
     def get_field(self, field):
+        field_value = None
         if field is EncodedIndex.NAME:
-            return self.display_name
+            field_value = self.display_name
         elif field is EncodedIndex.CATEGORY:
-            return self.category
+            field_value = self.category
         elif field is EncodedIndex.TYPES:
-            return self.types_str()
+            field_value = self.types_str()
         elif field is EncodedIndex.CATEGORY:
-            return self.abilities
+            field_value = ", ".join(self.abilities)
         elif field is EncodedIndex.MOVES:
-            return self.moves
+            field_value = ", ".join(self.moves)
         elif field is EncodedIndex.HEIGHT:
-            return self.height_str()
+            field_value = self.height_str()
         elif field is EncodedIndex.WEIGHT:
-            return self.weight_str()
+            field_value = self.weight_str()
         elif field is EncodedIndex.COLOR:
-            return self.color
+            field_value = self.color
         elif field is EncodedIndex.SHAPE:
-            return self.shape
+            field_value = self.shape
         elif field is EncodedIndex.HABITAT:
-            return self.habitat
+            field_value = self.habitat
         elif field is EncodedIndex.DESCRIPTION:
-            return self.descriptions
+            field_value = self.description()
+        if field_value is None:
+            return ""
+        return field_value
+
 
     def encode(self):
         fields = ["00{}".format(self.display_name),
@@ -351,7 +371,7 @@ class PokedexEntry:
         random.shuffle(fields)
         return START_TOKEN + "|".join(fields) + END_TOKEN
 
-    def to_str_lines(self):
+    def to_str_lines(self): # TODO de-duplicate
         out = [
             "/========\\",
             self.display_name]
