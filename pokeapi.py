@@ -5,8 +5,6 @@ import math
 import random
 from enum import Enum
 
-VERSION = "4b"
-
 POKEFILE = "pokeapi/pokefile.json"
 POKE_PREFIX = "pokeapi/poke"
 
@@ -498,11 +496,11 @@ def lines_to_file(filename, lines, extension=".txt"):
         afile.writelines(utf8_lines)
 
 
-def write_display_entries(entries, out_filename):
+def write_display_entries(entries, out_filename, version):
     line_data = []
     for entry in entries:
         line_data.extend(entry.to_str_lines())
         line_data.append("\n")
         # print("wrote " + " - " + entry.name)
     lines_to_file(out_filename, line_data)  # Common name copy for actual use
-    lines_to_file(out_filename + VERSION, line_data)  # Versioned name copy for archiving
+    lines_to_file(out_filename + version, line_data)  # Versioned name copy for archiving
