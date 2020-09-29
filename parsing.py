@@ -149,8 +149,4 @@ def parse_outputs(*dirs, fname_filter=None, sample_filter=None, file_reports=Fal
     # vanilla_temps = sorted(list(filter(lambda s: s, all_reports
 
 
-def overfit_focus(sample):
-    return sample.k is 0 and math.isclose(0, sample.p, rel_tol=0.001)
-
-
-parse_outputs("/out/gpoke4a/", "/out/gpoke4b/", "/out/gpoke4c/", sample_filter=overfit_focus)
+parse_outputs("/out/gpoke4a/", "/out/gpoke4b/", "/out/gpoke4c/", sample_filter=SgrUtil.overfit_focus)

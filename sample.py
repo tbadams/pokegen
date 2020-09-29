@@ -281,3 +281,7 @@ class SgrUtil:
     @staticmethod
     def report_unique_factory(field):
         return lambda sr: sr.ratio_str(len(sr.unique(field)))
+
+    @staticmethod
+    def overfit_focus(sample):
+        return sample.k is 0 and math.isclose(0, sample.p, rel_tol=0.001)
