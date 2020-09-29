@@ -4,6 +4,7 @@ from os import listdir, path, makedirs
 import shutil
 import time
 import tarfile
+# import gpt_2_simple as gpt2
 
 try:  # if in Google Colaboratory
     import gpt_2_simple as gpt2
