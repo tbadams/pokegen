@@ -1,0 +1,25 @@
+
+Perfect: 117/509 (22.99%)
+Incomplete: 255/509 (50.10%)
+Have Extras: 199/509 (39.10%)
+Contain Garbage: 10/509 (1.96%)
+Missing Values: 678
+Extra Values: 250
+Garbage Values: 10
+NAME: unique: 73/509 (14.34%), valid: 447/509 (87.82%), missing: 42/509 (8.25%), extra: 20/509 (3.93%), 
+CATEGORY: unique: 72/509 (14.15%), valid: 437/509 (85.85%), missing: 60/509 (11.79%), extra: 12/509 (2.36%), 
+TYPES: unique: 26/509 (5.11%), valid: 423/509 (83.10%), missing: 53/509 (10.41%), extra: 33/509 (6.48%), 
+ABILITIES: unique: 110/509 (21.61%), valid: 439/509 (86.25%), missing: 40/509 (7.86%), extra: 30/509 (5.89%), 
+MOVES: unique: 397/509 (78.00%), valid: 393/509 (77.21%), missing: 75/509 (14.73%), extra: 41/509 (8.06%), 
+HEIGHT: unique: 2/509 (0.39%), valid: 426/509 (83.69%), missing: 63/509 (12.38%), extra: 20/509 (3.93%), 
+WEIGHT: unique: 40/509 (7.86%), valid: 399/509 (78.39%), missing: 93/509 (18.27%), extra: 17/509 (3.34%), 
+COLOR: unique: 1/509 (0.20%), valid: 432/509 (84.87%), missing: 64/509 (12.57%), extra: 13/509 (2.55%), 
+SHAPE: unique: 0/509 (0.00%), valid: 436/509 (85.66%), missing: 50/509 (9.82%), extra: 23/509 (4.52%), 
+HABITAT: unique: 0/509 (0.00%), valid: 442/509 (86.84%), missing: 35/509 (6.88%), extra: 32/509 (6.29%), 
+DESCRIPTION: unique: 406/509 (79.76%), valid: 398/509 (78.19%), missing: 103/509 (20.24%), extra: 8/509 (1.57%), 
+NAME - uniques: ['Itopingperor', 'Hattinpec', 'Multihit', 'Spritzday', 'Burumeister', 'Blipboom', 'Fearbeast', 'Little Rabbit', 'Swadire', 'Dragoste', 'Torchic', 'Boneomb', 'Zera', 'Kricketot', 'Rampart', 'Slomkie', 'Krokorokcolo', 'Mitotic', 'Spinybug', 'KRAIKOU', 'Inchron Pokémon', 'Ember', 'This Pokémon’s gaseous movements draw near, but sometimes they strike humans.', 'Crab doll', 'Hattattatt', 'Honirisab', 'Aura-Care', 'Drainlamb', 'Dredmor', 'Nidorina', 'Gogol’t', 'Moleon', 'Feintele', 'Megahorn', 'Deserte', 'Gossifleude', 'Cubakonc', 'Shelltac', 'DivingSandstorm', 'Aang', 'Beckon Dallas', 'Transform', 'HYPNOS', 'Ventilate', 'SIGILYPH', 'Dracov', 'Aivalile', 'Hawlonee', 'Hatip', 'Pyroandrils', 'Destiny', 'Driffish', 'HealIterator', 'Rievrio', 'Victimia', 'Patrat', 'Eternaptor', 'Yamure', 'Zecora', 'Beeheeyem', 'Sruffikun', 'Swadloff', 'Acornorax', 'Shorterhen', 'Wing Fish Pokémon', 'Dareik Abyssal', 'Slowwick', 'Eviolisk', 'Fuschiedrope', 'Posgy', 'Dragalage', 'Bunch', 'Megahorn']
+CATEGORY - uniques: ['Pig Tail Pokémon', 'Freshwater Pokémon', 'One Ring Pokémon', 'Trick Pokémon', 'Scalch Pokémon', 'Blip Pokémon', 'Posy Pick Dislocation Pokémon', 'Glimmering Pokémon', 'Rib Bug Pokémon', 'Firestorm Pokémon', 'Kangaroo Pokémon', 'Bisharp Pokémon', 'Zoroark Pokémon', 'Drag Team Pokémon', 'Rock Choke Pokémon', 'Long gone are the days when humans lived alone.', 'Mega Beast Pokémon', 'Pig Tail Pokémon', 'Kobold Pokémon', 'Carnivine Pokémon', 'Bone Quill Pokémon', 'Cunning Pokémon', 'Au\xad plicata Pokémon', 'Spike Pokémon', 'Reviving Pokémon', 'Fire Moth Pokémon', 'Moon Pokémon', 'Superior Pokémon', 'Chime Pokémon', 'Big Tail Pokémon', 'Dewgong Pokémon', 'Embodiment Pokémon', 'Pagan Pokémon', 'Spike Pokémon', 'Megaton', 'Karate Kid Pokémon', 'Megathron Pokémon', 'Kobold Pokémon', 'Heat Bird Pokémon', 'Ball Trainer Pokémon', 'White Snake Pokémon', 'Grumply Pokémon', 'Eelektrik Pokémon', 'Apple-like Pokémon', 'Wild Duck Hunt Pokémon', 'Lycanthropy Pokémon', 'Charm Pokémon', 'Restless Pokémon', 'Crust Pokémon', 'Superbug Pokémon', 'Wildame Pokémon', 'Lakes Pokémon', 'Skyling Pokémon', 'Munchlax Pokémon', 'Woolly Butcher Pokémon', 'Medicham Pokémon', 'Void Pokémon', 'Lazy Whale Pokémon', 'Nidoking Pokémon', 'Snow Whiskers Pokémon', 'Mud Snake Pokémon', 'Cazy Bird Pokémon', 'Roly Pokémon', 'Land Pokémon', 'Iron Scale Pokémon', 'Skate Pokémon', 'Royal Bee Pokémon', 'Vanquish Pokémon', 'Bounsweet Pokémon', 'Royal Jelly Pokémon', 'Score Pokémon', 'Long Fuse Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['grass water', 'water natural', 'fire electric', 'rock hard', 'ground ice', 'normal steel', 'rock blue', 'normal steel', 'urban', 'acid', 'normal food', 'grass pollen', 'rock electric', 'rock electric', 'white', 'flash', 'normal climb', 'water flying', 'electric scary ghost', 'ground skull', 'grass POKé', 'bug', 'normal jungle', 'poison fairy', 'normal ghost', 'ghost ghost']
+COLOR - uniques: ['muffled']

@@ -1,0 +1,25 @@
+
+Perfect: 70/500 (14.00%)
+Incomplete: 288/500 (57.60%)
+Have Extras: 228/500 (45.60%)
+Contain Garbage: 0/500 (0.00%)
+Missing Values: 758
+Extra Values: 322
+Garbage Values: 0
+NAME: unique: 96/500 (19.20%), valid: 405/500 (81.00%), missing: 61/500 (12.20%), extra: 34/500 (6.80%), 
+CATEGORY: unique: 94/500 (18.80%), valid: 393/500 (78.60%), missing: 89/500 (17.80%), extra: 18/500 (3.60%), 
+TYPES: unique: 27/500 (5.40%), valid: 408/500 (81.60%), missing: 71/500 (14.20%), extra: 21/500 (4.20%), 
+ABILITIES: unique: 170/500 (34.00%), valid: 394/500 (78.80%), missing: 69/500 (13.80%), extra: 37/500 (7.40%), 
+MOVES: unique: 335/500 (67.00%), valid: 381/500 (76.20%), missing: 106/500 (21.20%), extra: 13/500 (2.60%), 
+HEIGHT: unique: 8/500 (1.60%), valid: 404/500 (80.80%), missing: 55/500 (11.00%), extra: 41/500 (8.20%), 
+WEIGHT: unique: 64/500 (12.80%), valid: 387/500 (77.40%), missing: 87/500 (17.40%), extra: 26/500 (5.20%), 
+COLOR: unique: 0/500 (0.00%), valid: 423/500 (84.60%), missing: 60/500 (12.00%), extra: 17/500 (3.40%), 
+SHAPE: unique: 0/500 (0.00%), valid: 407/500 (81.40%), missing: 61/500 (12.20%), extra: 32/500 (6.40%), 
+HABITAT: unique: 1/500 (0.20%), valid: 409/500 (81.80%), missing: 31/500 (6.20%), extra: 60/500 (12.00%), 
+DESCRIPTION: unique: 432/500 (86.40%), valid: 409/500 (81.80%), missing: 68/500 (13.60%), extra: 23/500 (4.60%), 
+NAME - uniques: ['Asgard', 'LIDATA', 'Copperder', 'Foul Playground', 'Poitzer', 'Tranquilcher', 'Rigott', 'Cubonee', 'Staleon', 'Ballmerda', 'Corvus Cubchoo', 'Renfrow', 'Archer', 'Sea Surfer', 'Silent Hill', 'Multiscale', 'Geyser', 'ZeraBY', 'Skodoom', 'Luxitelline', 'Gunny♂', 'Sea Lily', 'Centiskunk', 'Linazosa', 'Little Helix', 'Sludge', 'Chef Louis', 'Chewtlefish', 'Torch', 'Asoleep', 'Jumbolossal', 'Calcarash', 'Crimp Meow', 'Slavia', 'Crawdandy', 'Twiglet', 'Punching', 'Boldon', 'Krokorokrock', 'Kelpsy', 'Mitosis', 'Multiscale', 'Beatango', 'Spooldowd', 'Flamethrower', 'Woolmer', 'Twincannon', 'Collectivol', 'Krakuto', 'Cobra', 'Greedor', 'Knowles', 'Cameras', 'Victreeck', 'Parasite', 'Sugant', 'Geyser', 'Lokeep', 'Thys', 'Throwsunge', 'ORDERO', 'Daring Treecko', 'Foxfire', 'Antwerp', 'Grubbull', 'Predator', 'Zarorting', 'Ebony', 'Formosa', 'Flaxangel', 'Lily', 'Brightedore', 'Volcanoes', 'Zigzag', 'Ragarian', 'Slowker', 'Valakutz', 'Kloof', 'Seelock', 'Martias', 'Patrat', 'YNOSPHO', 'Eloia', 'Skorup', 'Pugno', 'Wu\xad ou', 'Mackang', 'Moonrai', 'Eyjafjallaj', 'Bevylex', 'Superbug', 'Hardeen', 'Sergioh', 'Stoneow', 'Groddug', 'Hex Nut']
+CATEGORY - uniques: ['Frost giant', 'Bat Rabbit Pokémon', 'Windveil Pokémon', 'Servant Pokémon', 'Iron Tail Pokémon', 'Sharp Leg Pokémon', 'Cuttlefish Pokémon', 'Minuteman Pokémon', 'Bug Pokémon', 'Watchman Pokémon', 'Fire Pokémon', 'Seismic Body Pokémon', 'Fresh Bee Pokémon', 'Pitch-Black Pokémon', 'Golem Pokémon', 'Creeching Pokémon', 'Flotation Pokémon', 'Mummy Pokémon', 'Tower Pokémon', 'Celesteela Pokémon', 'Spore Pokémon', 'Plump Pokémon', 'Iron Barracuda Pokémon', 'Rainforest Pokémon', 'The World Tree Pokémon', 'Turning Pokémon', 'Volt Pokémon', 'Sea Icy Pokémon', 'Spiny Pokémon', 'Bypassing Pokémon', 'Squeeze Pokémon', 'Eliminate Grass Pokémon', 'Pinsir Pokémon', 'Masculine Pokémon', 'Sliding Pokémon', 'Poltergaunt Pokémon', 'Mitosis Pokémon', 'Comedian Pokémon', 'Ogre Pokémon', 'Blitze Pokémon', 'Desert Cat Pokémon', 'Bung Pile Pokémon', 'Pyro-Turf Pokémon', 'Era Rabbit Pokémon', 'Stuff Pokémon', 'Iron-Fist Pokémon', 'Uncle Tusk Pokémon', 'Collect Pokémon', 'Cove Pokémon', 'Pixilate Pokémon', 'Sea Sandy Sea Witch', 'Catfish Pokémon', 'Tiny Pinoy Pokémon', 'Spiny Bird Pokémon', 'Crushing Pokémon', 'Necromancer Pokémon', 'Loot Sea Pokémon', 'Golem Pokémon', 'Bronze Rabbit Pokémon', 'String Pokémon', 'Lingerue Pokémon', 'Beowolf Pokémon', 'Cotton Pigeon Pokémon', 'Gluttony Pokémon', 'Megaton Panda', 'Ogre Pokémon', 'Wing Pigeon Pokémon', 'Bright Milking Pokémon', 'Heirloom Pokémon', 'Delicate Pokémon', 'One Ring Pokémon', 'Black Rock Pokémon', 'Tiny Claw Pokémon', 'Zebstrika Pokémon', 'When Peak Pokémon come to life, these Pokémon huddle close to each other, blending in to share knowledge.', 'Sharp Sword Pokémon', 'Big Nose Pokémon', 'Arm Thrust', 'Escavalier Pokémon', 'Astral Pokémon', 'Ledybasa Pokémon', 'Goldbug Pokémon', 'Dog Pit Pokémon', 'Hexican Pokémon', 'What If Pokémon?', 'Purple Pokémon', 'Little Pokémon', 'Soft Core Pokémon', 'Brutal Bell Pokémon', 'Nectar Pokémon', 'Sea Star Pokémon', 'The Scorpion Pokémon', 'Ogre Pokémon', 'Clear Bell Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: ['grass']
+TYPES - uniques: ['fire fairy', 'bug poison', 'ice electricity', 'water', 'rock Pokémon', 'rock electricity', 'rock energy', 'poison sensing', 'grass rock', 'dark dark', 'grass water', 'normal Pokémon', 'bug wood Pokémon', 'ghost Pokémon', 'fire ground dragon', 'fighting POKé −0.5 m', 'steel', 'water water', 'fighting steel', 'magma dragon', 'bug wings', 'rock air', 'bug bug', 'ice sea', 'ghost fighting', 'water, sand', 'steel water']
+COLOR - uniques: []

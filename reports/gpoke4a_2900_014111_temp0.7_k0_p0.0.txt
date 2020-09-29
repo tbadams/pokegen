@@ -1,0 +1,25 @@
+
+Perfect: 135/500 (27.00%)
+Incomplete: 134/500 (26.80%)
+Have Extras: 251/500 (50.20%)
+Contain Garbage: 1/500 (0.20%)
+Missing Values: 246
+Extra Values: 338
+Garbage Values: 1
+NAME: unique: 43/500 (8.60%), valid: 448/500 (89.60%), missing: 11/500 (2.20%), extra: 41/500 (8.20%), 
+CATEGORY: unique: 65/500 (13.00%), valid: 449/500 (89.80%), missing: 32/500 (6.40%), extra: 19/500 (3.80%), 
+TYPES: unique: 6/500 (1.20%), valid: 431/500 (86.20%), missing: 17/500 (3.40%), extra: 52/500 (10.40%), 
+ABILITIES: unique: 56/500 (11.20%), valid: 450/500 (90.00%), missing: 15/500 (3.00%), extra: 35/500 (7.00%), 
+MOVES: unique: 349/500 (69.80%), valid: 447/500 (89.40%), missing: 30/500 (6.00%), extra: 23/500 (4.60%), 
+HEIGHT: unique: 0/500 (0.00%), valid: 456/500 (91.20%), missing: 15/500 (3.00%), extra: 29/500 (5.80%), 
+WEIGHT: unique: 25/500 (5.00%), valid: 448/500 (89.60%), missing: 34/500 (6.80%), extra: 18/500 (3.60%), 
+COLOR: unique: 0/500 (0.00%), valid: 457/500 (91.40%), missing: 33/500 (6.60%), extra: 10/500 (2.00%), 
+SHAPE: unique: 1/500 (0.20%), valid: 456/500 (91.20%), missing: 22/500 (4.40%), extra: 22/500 (4.40%), 
+HABITAT: unique: 1/500 (0.20%), valid: 407/500 (81.40%), missing: 10/500 (2.00%), extra: 83/500 (16.60%), 
+DESCRIPTION: unique: 473/500 (94.60%), valid: 467/500 (93.40%), missing: 27/500 (5.40%), extra: 6/500 (1.20%), 
+NAME - uniques: ['Wild Antoine', 'Greedhame', 'Thunderclap', 'Mudbrower', 'Striker', 'Neolution', 'Moldow', 'Chef Pete', 'Sorcery', 'Negan', 'Gearzero', 'Pitch-Black', 'Illuminy', 'levitate', 'Mushroom', 'Pig-ní', 'Panthera', 'Litlea', 'Pileggo', 'Barraskewer', 'Gotham', 'Owl', 'Misdred', 'Meringue', 'Young Hornet', 'Flounder', 'Vinculum', 'Tinyguard', 'Skye', 'Budewood', 'Natuveam', 'Budewing', 'Kelpsy', 'Illusion Fox', 'Gigantamax', 'Garnett', 'Cottonemongloper', 'LATIHOG', 'Mudbrower', 'Kraken', 'Mudbrime', 'Natu', 'Sap-sipper']
+CATEGORY - uniques: ['Fresh Rabbit Pokémon', 'Bash Up Pokémon', 'Pikachu Pokémon', 'Lime Pokémon', 'Flotation Pokémon', 'Tender Tissue Pokémon', 'Jude Pokémon', 'Chef Pokémon', 'Umbilical Pokémon', 'Dust Pokémon', 'Pikachu Pokémon', 'Fire Jet Pokémon', 'Hand Pokémon', 'Fly Pokémon', 'Mantyke Pokémon', 'Sturdy Pokémon', 'Flunky Pokémon', 'Pikachu Pokémon', 'Tiny Duck Pokémon', 'Gearfly Pokémon', 'Kobold Pokémon', 'Mummy Pokémon', 'Beedrill Pokémon', 'Tiny Leech Pokémon', 'Cat People Pokémon', 'Hoopa Pokémon', 'Jolly Panda Pokémon', 'Pineco Pokémon', 'Wild Mouse Pokémon', 'Dog Pit Pokémon', 'Barrage Pokémon', 'Tomboy Pokémon', 'Prankster Pokémon', 'Blitzle Pokémon', 'Lazy Pokémon', 'Dust Pokémon', 'Lure Pokémon', 'Illusion Fox Pokémon', 'Hoopa Pokémon', 'Bronze Peak Pokémon', 'Gloomdweller Pokémon', 'Flotation Pokémon', 'Hiding Pokémon', 'Water Shark Pokémon', 'Ogre Pokémon', 'Black Cat Pokémon', 'Guzzlord Pokémon', 'Energetic Pokémon', 'Black Pokémon', 'Beast-boost Pokémon', 'Spheal Pokémon', 'Bug Pokémon', 'Doubleday Pokémon', 'Star Pokémon', 'Sky Zoo Pokémon', 'Spore Pokémon', 'Tiny Crab Pokémon', 'Sharp Mouse Pokémon', 'Chandelure Pokémon', 'Mocking Pokémon', 'Tiny Fish Pokémon', 'Hardwood Pokémon', 'Tricky Pokémon', 'Gumshoe Pokémon', 'Chesnan Pokémon']
+SHAPE - uniques: ['up']
+HABITAT - uniques: ['oral']
+TYPES - uniques: ['fire fairy', 'ice bug Pokémon', 'poison fairy', 'fire poison', 'rock electric', 'ground normal']
+COLOR - uniques: []

@@ -1,0 +1,25 @@
+
+Perfect: 108/505 (21.39%)
+Incomplete: 275/505 (54.46%)
+Have Extras: 195/505 (38.61%)
+Contain Garbage: 1/505 (0.20%)
+Missing Values: 689
+Extra Values: 282
+Garbage Values: 2
+NAME: unique: 94/505 (18.61%), valid: 418/505 (82.77%), missing: 44/505 (8.71%), extra: 43/505 (8.51%), 
+CATEGORY: unique: 80/505 (15.84%), valid: 421/505 (83.37%), missing: 67/505 (13.27%), extra: 17/505 (3.37%), 
+TYPES: unique: 20/505 (3.96%), valid: 425/505 (84.16%), missing: 52/505 (10.30%), extra: 28/505 (5.54%), 
+ABILITIES: unique: 168/505 (33.27%), valid: 448/505 (88.71%), missing: 41/505 (8.12%), extra: 16/505 (3.17%), 
+MOVES: unique: 394/505 (78.02%), valid: 393/505 (77.82%), missing: 68/505 (13.47%), extra: 44/505 (8.71%), 
+HEIGHT: unique: 6/505 (1.19%), valid: 411/505 (81.39%), missing: 71/505 (14.06%), extra: 23/505 (4.55%), 
+WEIGHT: unique: 67/505 (13.27%), valid: 384/505 (76.04%), missing: 92/505 (18.22%), extra: 29/505 (5.74%), 
+COLOR: unique: 0/505 (0.00%), valid: 402/505 (79.60%), missing: 85/505 (16.83%), extra: 18/505 (3.56%), 
+SHAPE: unique: 5/505 (0.99%), valid: 416/505 (82.38%), missing: 64/505 (12.67%), extra: 25/505 (4.95%), 
+HABITAT: unique: 1/505 (0.20%), valid: 425/505 (84.16%), missing: 58/505 (11.49%), extra: 22/505 (4.36%), 
+DESCRIPTION: unique: 458/505 (90.69%), valid: 442/505 (87.52%), missing: 47/505 (9.31%), extra: 16/505 (3.17%), 
+NAME - uniques: ['Seedling', 'Sealeo":[{"id":"9081.0 kg', 'Auburn', 'Chef Deb', 'Furfe', 'Revivik', 'AWELE', 'Samus', 'Tenderloin', 'Muk', 'Psileplle', 'Zouma', 'D.Gladius', 'Scaroth', 'Vinculum', 'Dopew', 'Svanilla', 'Populous', 'Attaching Beam', 'Raven Heir', 'Clkefluff', 'Power-Be\\08upright', 'Will-O-Wisp', 'Aramill', 'Sebele', 'Starke', 'Totosema', 'Wu\xad', 'Phiaparé', 'Lilirim', 'Zera', 'Nelatval', 'Zigzag', 'Desecrat', 'Bubble Jet', 'Pitwe', 'Twigweed', 'Crested Crab', 'Eggmeleon', 'Posys', 'Ember', 'Arctos', 'Creeper', 'Cottonveil', 'Gusth', 'MYOGAR', 'Muscular×', 'Orecana', 'Magiknight', 'Fixam', 'Drowsing', 'Sim-car', 'Cherub', 'Urshif:', 'Zelanna', 'Oppen>00Oppen>08arms', 'Kricketross', 'Ruriconda', 'Dotcatcher', 'Mantygast', 'Studelidge', 'NINJA', 'Meganvale', 'Crockter', 'Jolt', 'Dwursmburr', 'Coalot', 'Eloi', 'Patrat', 'JoltPlug', 'Shuriken', 'SINNIN', 'Balloppo', 'Eidola', 'Pino Minior', 'Psiperior', 'Jet Airways', 'VINOECH', 'Avestno', 'Avianoid Pokémon', 'Gigantamax', 'Rudo', 'Buffy', 'Ritux', 'Ludacris', 'Tantrum', 'Painter', 'Nihair', 'Lengthen', 'Blobomb', 'Bonsai', 'Cell', 'ofidate', 'Quagga']
+CATEGORY - uniques: ['Mandibuzz Pokémon', 'Chef Pokémon', 'Mega Evolution Pokémon', 'Vulpix Pokémon', 'Blade Finisher Pokémon', 'Single Pawn Pokémon', 'Scratch Nail Pokémon', 'Big-Cat Pokémon', 'Automata Pokémon', 'Cataract Pokémon', 'Bounsweet Pokémon', 'Bug Catcher Pokémon', 'Cradle Pokémon', 'Rock Crab Pokémon', 'Goodness Pokémon', 'Leaf Nut Pokémon', 'Receiver Pokémon', 'Martial Pokémon', 'Deserving Pokémon', 'Mankey Pokémon', 'Dinspout Pokémon', 'Apples to Pansage Pokémon', 'Fly Croc Pokémon', 'Crocanosaurus Pokémon', 'Servant Pokémon', 'Smudge Pokémon', 'Crimson Sword Pokémon', 'Nose Pokémon', 'Cotton Fungus Pokémon', 'EleSquared Pokémon', 'Gluttony Pokémon', 'Era Pokémon', 'Rage Pokémon', 'Sof-Mite Pokémon', 'Iron Skin Pokémon', 'Gluttony Pokémon', 'Anteater Pokémon', 'Kart Pokémon', 'Slow Mouse Pokémon', 'Cast-iron Pokémon', 'Ant Carbink', 'Manty Mouse Pokémon', 'Pikachu Pokémon', 'Cat Rose Pokémon', 'Brognal Pokémon', 'Crock Pokémon', 'Gift Pod Pokémon', 'Explosion Pokémon', 'Centaur Pokémon', 'Prankster Pokémon', 'Flail Pokémon', 'Illusion-Blizzcon Pokémon', 'X-Mite Pokémon', 'Goldbug Pokémon', 'Synthetic Bird Pokémon', 'Goldbug Pokémon', 'Scatter Pokémon', 'Astral Journey Pokémon', 'Hoopa Pokémon', 'Copper Wing Pokémon', 'Bling Pokémon', 'Quicksilver Pokémon', 'Hairy Pokémon', 'Magnet Pokémon', 'Plump Pokémon', 'Prisoner Pokémon', 'Disseminator Pokémon', 'Cosmic Pokémon', 'Pile Peebee Pokémon', 'Lightweight Pokémon', 'Drivelin', 'Secret Sword Pokémon', 'Ogre', 'Dream Pokémon', 'Wild Snake Pokémon', 'Aurora Pokémon', 'Squirrel Pokémon', 'Spicy Pokémon', 'Single Leg Pokémon', 'Lunar Pokémon']
+SHAPE - uniques: ['up', 'shed-skin', 'outfright', 'outways', 'rough-terrain']
+HABITAT - uniques: ['']
+TYPES - uniques: ['electric energy', 'psychic Pokémon', 'grass Pokémon', 'steel normal', 'steel skin', 'normal combat', 'dragon egg', 'poison bug Pokémon', 'grassgrass', 'fighting dragon', 'normal plant', 'ghost ground', 'electric psychic', 'grass dragon', 'ice fairy', 'water normal', 'rock electric', 'fireground', 'dark fairy', 'ice water Water-pledge']
+COLOR - uniques: []

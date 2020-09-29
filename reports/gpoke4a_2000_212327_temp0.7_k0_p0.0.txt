@@ -1,0 +1,25 @@
+
+Perfect: 156/500 (31.20%)
+Incomplete: 154/500 (30.80%)
+Have Extras: 205/500 (41.00%)
+Contain Garbage: 0/500 (0.00%)
+Missing Values: 314
+Extra Values: 357
+Garbage Values: 0
+NAME: unique: 76/500 (15.20%), valid: 400/500 (80.00%), missing: 16/500 (3.20%), extra: 84/500 (16.80%), 
+CATEGORY: unique: 69/500 (13.80%), valid: 448/500 (89.60%), missing: 36/500 (7.20%), extra: 16/500 (3.20%), 
+TYPES: unique: 13/500 (2.60%), valid: 451/500 (90.20%), missing: 26/500 (5.20%), extra: 23/500 (4.60%), 
+ABILITIES: unique: 128/500 (25.60%), valid: 434/500 (86.80%), missing: 18/500 (3.60%), extra: 48/500 (9.60%), 
+MOVES: unique: 373/500 (74.60%), valid: 421/500 (84.20%), missing: 33/500 (6.60%), extra: 46/500 (9.20%), 
+HEIGHT: unique: 2/500 (0.40%), valid: 445/500 (89.00%), missing: 40/500 (8.00%), extra: 15/500 (3.00%), 
+WEIGHT: unique: 31/500 (6.20%), valid: 429/500 (85.80%), missing: 55/500 (11.00%), extra: 16/500 (3.20%), 
+COLOR: unique: 0/500 (0.00%), valid: 464/500 (92.80%), missing: 23/500 (4.60%), extra: 13/500 (2.60%), 
+SHAPE: unique: 0/500 (0.00%), valid: 450/500 (90.00%), missing: 37/500 (7.40%), extra: 13/500 (2.60%), 
+HABITAT: unique: 0/500 (0.00%), valid: 427/500 (85.40%), missing: 6/500 (1.20%), extra: 67/500 (13.40%), 
+DESCRIPTION: unique: 476/500 (95.20%), valid: 460/500 (92.00%), missing: 24/500 (4.80%), extra: 16/500 (3.20%), 
+NAME - uniques: ['Mushroom', 'Cocoon', 'Flower', 'Brutus', 'Bunchan', 'Serene', 'Feiunggly', 'Scorpion', 'Dizzapeon', 'Skeletor', 'Ironikal', 'Rock\xadhead', 'Lepra', 'Water Gun', 'Eggmeister', 'Mushroom', 'Megapede', 'Tartillery', 'Parasite', 'Cottoné', 'Eon', 'Larva', 'Durdle', 'Moleton', 'Patrat', 'Nidoran♂', 'Lingering Pokémon', 'Spew', 'Balding', 'Ling Pokémon', 'Wushu', 'Bouffalant', 'Boneow', 'Goutma', 'Spiny Armor', 'Gearramp', 'Rolento', 'Gigantamax', 'Grothbull', 'Kelpsy', 'Pugilist', 'Nagan', 'ScalyMouse', 'Sigilye', 'Gnosis', 'Quagsire', 'Faunress', 'Hiroki', 'Gasper', 'Mime Jr.', 'Peng', 'Sickle', 'Creeper', 'Hidetect', 'Zilean', 'Temeran', 'Sneak', 'Rango', 'Tinyx', 'Royal Fox', 'Mudbrower', 'Cherche', 'Foxfire', 'Blizzard', 'Chinchilla', 'Starling', 'Spinyrene', 'Cherchezaur', 'Golett', 'Chewtle', 'Espoo', 'Avianne', 'Balloon Pokémon', 'Granwhish’s wings. They can slice through even the thickest of snow.', 'Ekureda', 'Desert Gecko']
+CATEGORY - uniques: ['Fennekin Pokémon', 'Spiny Pokémon', 'Stone Age Pokémon', 'Fly Pokémon', 'Slowpoke Pokémon', 'Hairy Pokémon', 'Candy Pokémon', 'Wild Fowl Pokémon', 'Lep Pokémon', 'Boon Pokémon', 'Pidgeot Pokémon', 'Iron Armor Pokémon', 'Seductive Pokémon', 'Apple Cider Pokémon', 'Solo Pokémon', 'Dwelling Pokémon', 'Bash Mouth Pokémon', 'Apple Curd', 'Scaly Duck Pokémon', 'Gluttony Pokémon', 'Gumshoos Pokémon', 'Brutal Blade Pokémon', 'Tiny Fox Pokémon', 'Pursue Pokémon', 'Bunch Tree Pokémon', 'Bug Pokémon', 'Flare Pokémon', 'Iron Scale Pokémon', 'Cinderaceian Pokémon', 'Bone Home Pokémon', 'Spinack Pokémon', 'Sky Ferret Pokémon', 'Hydraulic Pokémon', 'Melee Pokémon', 'Bud Bee Pokémon', 'Fluff Pokémon', 'Lurantis Pokémon', 'Spiny Bird Pokémon', 'Mud Pokémon', 'Resurrection Pokémon', 'Knot Pokémon', 'Ball Pit Pokémon', 'Foetid Pokémon', 'Heat Wave Pokémon', 'Manty Mouse Pokémon', 'Bug Pokémon', 'Kangaskhan Pokémon', 'Alarm Pokémon', 'Tiny Pokémon', 'Water Horse Pokémon', 'Darude Pokémon', 'Ovis Pokémon', 'Comedy Pokémon', 'Fire Weed Pokémon', 'Sea Bird Pokémon', 'Cinderaceian Pokémon', 'Pony Pokémon', 'Aqua Pokémon', 'Flail Pokémon', 'Tiny Pokémon', 'Sandshrew Pokémon', 'Starve Pokémon', 'Chandelure Pokémon', 'Ogre Pokémon', 'Fly Pokémon', 'Fennekin Pokémon', 'Seven Star Pokémon', 'Bronze Gun Pokémon', 'Bite Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['ghost fighting', 'rock electric', 'grass electric', 'electric psychic', 'electric psychic', 'grass water', 'rock electric', 'grass Pokémon', 'bug ice', 'pressure', 'rock electric', 'irregular', 'fighting steel']
+COLOR - uniques: []

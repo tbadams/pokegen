@@ -1,0 +1,25 @@
+
+Perfect: 139/505 (27.52%)
+Incomplete: 210/505 (41.58%)
+Have Extras: 205/505 (40.59%)
+Contain Garbage: 4/505 (0.79%)
+Missing Values: 484
+Extra Values: 265
+Garbage Values: 4
+NAME: unique: 72/505 (14.26%), valid: 452/505 (89.50%), missing: 39/505 (7.72%), extra: 14/505 (2.77%), 
+CATEGORY: unique: 83/505 (16.44%), valid: 436/505 (86.34%), missing: 66/505 (13.07%), extra: 3/505 (0.59%), 
+TYPES: unique: 11/505 (2.18%), valid: 443/505 (87.72%), missing: 38/505 (7.52%), extra: 24/505 (4.75%), 
+ABILITIES: unique: 136/505 (26.93%), valid: 443/505 (87.72%), missing: 42/505 (8.32%), extra: 20/505 (3.96%), 
+MOVES: unique: 413/505 (81.78%), valid: 416/505 (82.38%), missing: 50/505 (9.90%), extra: 39/505 (7.72%), 
+HEIGHT: unique: 6/505 (1.19%), valid: 433/505 (85.74%), missing: 41/505 (8.12%), extra: 31/505 (6.14%), 
+WEIGHT: unique: 42/505 (8.32%), valid: 420/505 (83.17%), missing: 56/505 (11.09%), extra: 29/505 (5.74%), 
+COLOR: unique: 1/505 (0.20%), valid: 437/505 (86.53%), missing: 41/505 (8.12%), extra: 27/505 (5.35%), 
+SHAPE: unique: 2/505 (0.40%), valid: 430/505 (85.15%), missing: 37/505 (7.33%), extra: 38/505 (7.52%), 
+HABITAT: unique: 1/505 (0.20%), valid: 451/505 (89.31%), missing: 29/505 (5.74%), extra: 25/505 (4.95%), 
+DESCRIPTION: unique: 460/505 (91.09%), valid: 446/505 (88.32%), missing: 45/505 (8.91%), extra: 14/505 (2.77%), 
+NAME - uniques: ['Renf\xad Tinct Pokémon', 'Unburden', 'Hexepena', 'Gastroar', 'Prototurtle', 'Bornstellar', 'Zhangel', 'Frosgotham', 'Tapu Leafe', 'Hagavient', 'Baby Bouffalant', 'Stupendon', 'CRegice', 'Ember', 'Malhiba', 'Skewer', 'Jaw-Oh', 'Rushing Darumaka', 'Eggmeleon', 'Patrat', 'Punk', 'Wild Croagunk', 'Graveller', 'Milpitas', 'Saving Sturminko', 'Regirock', 'Tuskor', 'Gollyon', 'Chevalier', 'Wubret', 'Judo', 'Chevalier', 'Purr-ed', 'Collectivine', 'Rowotto', 'Mischief', 'Starling', 'Hans-Joh to rival any Pokémon of its kind. By using its sturdy legs, it can tackle thick trees without any trouble.', 'Beckenburg', 'Natuveam', 'Dubtongue', 'Vanquish', 'Melyle\xad “♂♀', 'flamebeast', 'Bold Kopi', 'Fryith', 'Turtle Bay', 'Hardenne', 'Crustil', 'Puzzlabs', 'Vigodile', 'Milbigus', 'Dragonblue', 'Scratnay', 'Polteage Oz', 'Pinky-Doucks', 'Kraken', 'Desperado', 'Toonboom', 'Holo-Claw', 'Hendrix', 'Charisserie', 'Lingenne', 'Itomonee', 'Toxicroak', 'Chewtlefish', 'Silicianro', 'Dusknoose', 'Guppy', 'Sky-Park', '’Bonsai', 'Playpen']
+CATEGORY - uniques: ['Big Bird Pokémon', 'Larveston Pokémon', 'Talon Pokémon', 'Copper Wing Pokémon', 'Curlpuppet Pokémon', 'Dive Pokémon', 'Growl Pokémon', 'Stealer Pokémon', 'Gnarrra Pokémon', 'Void Pokémon', 'Elegant Pokémon', 'Primeval Pokémon', 'Marsh Pokémon', 'Males foraging', 'Principled Shark Pokémon', 'Arms Up Pokémon', 'Fly Registeel Pokémon', 'Purple Pokémon', 'Volt Pokémon', 'Molecule Pokémon', 'Deserting Pokémon', 'Cosmo-Game Pokémon', 'Masamune Pokémon', 'Illusion Pokémon', 'Hairy Pokémon', 'River Croc Pokémon', 'Stuff Pokémon', 'Growl Pokémon', 'Blob Pokémon', 'Cantamax Pokémon', 'Royal Bird Pokémon', 'Emotionally Shredded Pokémon', 'EleCat Pokémon', 'Pikachu Pokémon', 'Single Rock Pokémon', 'Soft Spearow Pokémon', 'Scyther', 'Bag Pokémon', 'Poison Mouse Pokémon', 'Combating Pokémon', 'Bug Pokémon', 'Orang\xad tic Pokémon', 'Tricky Pokémon', 'Blitzle Pokémon', 'Rufflet Pokémon', 'Simulacrum Pokémon', 'Amphib Pokémon', 'Wild Creeper Pokémon', 'Fossicultural Pokémon', 'Steel Jaw Pokémon', 'Jaw-Cheek Pokémon', 'Sandcast', 'Spot Panda', 'Eerie Pokémon', 'Hip-Hop Pokémon', 'Bronze Raging Pokémon', 'Tiny Swimming Pokémon', 'Taillow Pokémon', 'Frost Cat Pokémon', 'Illustration Pokémon', 'Cotton Cat Pokémon', 'Live Mouse Pokémon', 'Stripper Pokémon', 'Lapras Pokémon', 'Fly Pokémon', 'Bungie Quiz Pokémon', 'Copper Wing Pokémon', 'Ball Fish Pokémon', 'Fire Frog Pokémon', 'Frost Pokémon', 'Cheeklessly Quill Pokémon', 'Iron Armor', 'Cavia Pokémon', 'Wild Pokémon', 'Embargo Pokémon', 'Generation Pokémon', 'Moon Pokémon', 'Pyro Bike Pokémon', 'Impidove Pokémon', 'Megaton Bird Pokémon', 'Dust Pokémon', 'Eelektrik Pokémon', 'Freshwater Pokémon']
+SHAPE - uniques: ['butt', 'upsy']
+HABITAT - uniques: ['forests']
+TYPES - uniques: ['ground ice', 'steel sand', 'ball ghost', 'fly', 'ghost fighting', 'rock ghost', 'rock electric', 'water u-turn', 'poison leaf', 'fighting steel', 'flying normal']
+COLOR - uniques: ['dark']

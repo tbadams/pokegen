@@ -1,0 +1,25 @@
+
+Perfect: 108/504 (21.43%)
+Incomplete: 201/504 (39.88%)
+Have Extras: 253/504 (50.20%)
+Contain Garbage: 4/504 (0.79%)
+Missing Values: 540
+Extra Values: 381
+Garbage Values: 4
+NAME: unique: 77/504 (15.28%), valid: 419/504 (83.13%), missing: 41/504 (8.13%), extra: 44/504 (8.73%), 
+CATEGORY: unique: 82/504 (16.27%), valid: 442/504 (87.70%), missing: 49/504 (9.72%), extra: 13/504 (2.58%), 
+TYPES: unique: 24/504 (4.76%), valid: 428/504 (84.92%), missing: 55/504 (10.91%), extra: 21/504 (4.17%), 
+ABILITIES: unique: 131/504 (25.99%), valid: 422/504 (83.73%), missing: 47/504 (9.33%), extra: 35/504 (6.94%), 
+MOVES: unique: 387/504 (76.79%), valid: 380/504 (75.40%), missing: 59/504 (11.71%), extra: 65/504 (12.90%), 
+HEIGHT: unique: 3/504 (0.60%), valid: 416/504 (82.54%), missing: 45/504 (8.93%), extra: 43/504 (8.53%), 
+WEIGHT: unique: 49/504 (9.72%), valid: 417/504 (82.74%), missing: 62/504 (12.30%), extra: 25/504 (4.96%), 
+COLOR: unique: 1/504 (0.20%), valid: 395/504 (78.37%), missing: 64/504 (12.70%), extra: 45/504 (8.93%), 
+SHAPE: unique: 3/504 (0.60%), valid: 433/504 (85.91%), missing: 50/504 (9.92%), extra: 21/504 (4.17%), 
+HABITAT: unique: 2/504 (0.40%), valid: 422/504 (83.73%), missing: 29/504 (5.75%), extra: 53/504 (10.52%), 
+DESCRIPTION: unique: 465/504 (92.26%), valid: 450/504 (89.29%), missing: 39/504 (7.74%), extra: 15/504 (2.98%), 
+NAME - uniques: ['Theyeples', 'Verse bike', 'Swunlix', 'Blaze', 'Twig', 'Icecel', 'Spikedale', 'Snake Pit', 'Patrat', 'Runater', 'Sakuhita', 'Milne', 'Finnet', 'Baby Creeper', 'Politoedore', 'Googradat', 'SIRINOTH', 'Snooper', 'Via Galileelle', 'Cottoneo', 'Jetblack', 'Shieldino', 'Arcinger', 'Dicroak', 'Fixate', 'Gloomy', 'yamper', 'Eaglet', 'Hokey', 'Heelorn', 'Greedensee', 'Formosa', 'Jubljash Trainers', 'Gigotock', 'Blaze', 'Virtive', 'Volcanoes', 'Fox', 'Carracow', 'Pincup', 'Calcarash', 'Electirizer', 'Torch', 'Blipipede', 'Zuoar', 'Youpières', 'Catty', 'Tooog', 'Stumpel', 'Trux', 'Mekans', 'Quagsgiruf', 'Zeref', 'Sworn":"What is this Pokémon doing here?"', 'Comedian', 'Silent Hill', 'Dynamo', 'Nidoking', 'Patrat', 'Mumm-It', 'Mr. Stop', 'ETimburr', 'Rottacee', 'Ecynow', 'Helian', 'Barrfax', 'Sofoar', 'Morroth', 'Trashox', 'Hurlan', 'Aashゴ', 'Cicavale', 'Dracovolt', 'Weresish', 'Orbeet Infestation', 'Cyndaquim', 'Sisduki']
+CATEGORY - uniques: ['Plant Pokémon', 'Changeling Pokémon', 'Copper Cow Pokémon', 'Grass Tree Pokémon', 'Fire Bird Pokémon', 'Long ago, there was no land where magic could be possessed.', 'Necromancer Pokémon', 'Copper Wing Pokémon', 'Wing Pigeon Pokémon', 'Sol Ring Pokémon', 'Silvered Sword Pokémon', 'Corrosion Pokémon', 'Rowdy Pokémon', 'Blitzle Pokémon', 'Jolt Crab Pokémon', 'Coble Pokémon', 'Bashupunk Pokémon', 'Tiny Spore Pokémon', 'Sickle-Eater Pokémon', 'Munchlax Pokémon', 'Arrival Pokémon', 'Heatproof Pokémon', 'Cunning Pokémon', 'Ooze Pokémon', 'Canty Pokémon', 'Fixate Pokémon', 'Polar Pokémon', 'Hippopotamus Pokémon', 'Sand Hat Pokémon', 'Plump Pokémon', 'Sea King Pokémon', 'Snorting Pokémon', 'Fragile Pokémon', 'River Pokémon', 'Woolly Pokémon', 'Meowth Pokémon', 'Floating Pokémon', 'Mage Pokémon', 'Zune Pokémon', 'Elusive Pokémon', 'Escapade Pokémon', 'Woolly Horse Pokémon', 'Dust Pokémon', 'Pyro Creeper Pokémon', 'Kyogre Pokémon', 'Leaf Snake Pokémon', 'Water Mouse Pokémon', 'Lopunny Pokémon', 'Iron Bird Pokémon', 'Clear Body Pokémon', 'Illusion-Punch Pokémon', 'Magma Moth Pokémon', 'Sheding Pokémon', 'Suction Pokémon', 'Shine-With’s Eye Pokémon', 'Cotton Pokémon', 'Vanquish Pokémon', 'Royal Pigeon Pokémon', 'Zap Pokémon', 'Big KOF Pokémon', 'Rowdy Pokémon', 'Stench Pokémon', 'Tiny Horn Pokémon', 'Pikachu Pokémon', 'Kubfu Pokémon', 'Princess Pokémon', 'Old King Pokémon', 'Fly Pokémon', 'Land Pokémon', 'Morpeco Pokémon', 'King Pokémon', 'Golduck Pokémon', 'Heatproof Pokémon', 'Gluttony Pokémon', 'Stake Outpost Pokémon', 'Barrfhing Pokémon', 'Atrocious Meteora Pokémon', 'Eon Blade Pokémon', 'Lush Pokémon', 'Dream Eater', 'Rain Pokémon', 'Lion Bloom Pokémon']
+SHAPE - uniques: ['fighting', 'rumpl and cellular structure', 'vessel']
+HABITAT - uniques: ['cave Pokémon', 'rough']
+TYPES - uniques: ['ground ground', 'fly', 'rock electric', 'fire electric', 'dragon steel', 'ice bug Pokémon', 'flying bug', 'electric shock', 'normal normalize', 'ice poison', 'fighting fighting', 'fighting steel', 'fighting dragon', 'fire', 'dragon dark', 'dragon', 'fire ice', 'ghost ghost', '', 'pickup', 'fighting steel', 'rock energy', 'poison grass', 'grass bug']
+COLOR - uniques: ['steel']

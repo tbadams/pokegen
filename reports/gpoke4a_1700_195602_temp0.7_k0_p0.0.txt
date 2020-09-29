@@ -1,0 +1,25 @@
+
+Perfect: 121/500 (24.20%)
+Incomplete: 160/500 (32.00%)
+Have Extras: 245/500 (49.00%)
+Contain Garbage: 0/500 (0.00%)
+Missing Values: 317
+Extra Values: 445
+Garbage Values: 0
+NAME: unique: 92/500 (18.40%), valid: 403/500 (80.60%), missing: 19/500 (3.80%), extra: 78/500 (15.60%), 
+CATEGORY: unique: 105/500 (21.00%), valid: 440/500 (88.00%), missing: 31/500 (6.20%), extra: 29/500 (5.80%), 
+TYPES: unique: 10/500 (2.00%), valid: 440/500 (88.00%), missing: 14/500 (2.80%), extra: 46/500 (9.20%), 
+ABILITIES: unique: 143/500 (28.60%), valid: 432/500 (86.40%), missing: 17/500 (3.40%), extra: 51/500 (10.20%), 
+MOVES: unique: 359/500 (71.80%), valid: 403/500 (80.60%), missing: 22/500 (4.40%), extra: 75/500 (15.00%), 
+HEIGHT: unique: 1/500 (0.20%), valid: 440/500 (88.00%), missing: 26/500 (5.20%), extra: 34/500 (6.80%), 
+WEIGHT: unique: 39/500 (7.80%), valid: 434/500 (86.80%), missing: 46/500 (9.20%), extra: 20/500 (4.00%), 
+COLOR: unique: 0/500 (0.00%), valid: 438/500 (87.60%), missing: 48/500 (9.60%), extra: 14/500 (2.80%), 
+SHAPE: unique: 1/500 (0.20%), valid: 428/500 (85.60%), missing: 29/500 (5.80%), extra: 43/500 (8.60%), 
+HABITAT: unique: 0/500 (0.00%), valid: 435/500 (87.00%), missing: 14/500 (2.80%), extra: 51/500 (10.20%), 
+DESCRIPTION: unique: 449/500 (89.80%), valid: 446/500 (89.20%), missing: 51/500 (10.20%), extra: 3/500 (0.60%), 
+NAME - uniques: ['Kelpsy', 'Ironguard', 'Cotton Bloom', 'Berry', 'Cherche', 'Cocoon', 'Gobbit', 'Spinyrene', 'Chercheon', 'Ballmer', 'BubbleBeam', 'BubbleJaw', 'Lunar', 'Diggory', 'Weedlett', 'Lich.', 'Chikorita', 'Hap-punch', 'Arno', 'Gobbit', 'Cheedile', 'Luring Fox', 'Seedorina', 'Lilith', 'Cocoon', 'Briondragon', 'Elder-Eon', 'Big Jaw', 'Gleam Eyes', 'Tartillery', 'Curlax', 'Cereoloo', 'TurtleKing', 'Nidorina', 'Hangarot', 'Nidorina', 'Fizz', 'Baldurr', 'Itcarl', 'Mudbrower', 'Leaflet', 'Spiral', 'Larva', 'Warrick', 'Beech', 'Megadred', 'Vegas', 'Fox', 'Lingeringus', 'Tantrum', 'Cricketot', 'Wild-Grenadine', 'Iceberg', 'Gudacorp', 'Murkrow', 'Scorpion', 'Grizzly', 'Tatterel', 'Timburger', 'Sludge', 'Fruit Ball', 'Cotton Bloom', 'AUGREG', 'Cottonweave', 'Giggler', 'Pallett', 'Skye', 'Safari', 'Ricott', 'Toonkorok', 'Moonlight', 'Ling Pokémon', 'Dragneo', 'Cocoon', 'Gigant', 'Elimander', 'Karate>00Kunabishi', 'Perrlet', 'Nidorina', 'Piglet', 'Rosemont', 'Zig-zag', 'Poltoul', 'Klink, Swalot', 'Ironbarrio', 'Gasper', 'Cottonbarrel', 'Tantrum', 'Royal Heir Pokémon', 'Cottonweed', 'Sapphire', 'Thrall']
+CATEGORY - uniques: ['Berry Pokémon', 'Fire Pokémon', 'Wine Pokémon', 'Iron Quill Pokémon', 'Rock Crab Pokémon', 'Snorlax Pokémon', 'Bike Monkey Pokémon', 'Sea Geyser Pokémon', 'Black Ant Pokémon', 'Berry Pokémon', 'Poison Spot Pokémon', 'Land Turtle Pokémon', 'Loud Pokémon', 'Illumise Pokémon', 'Tiny Quill Pokémon', 'Treecko Pokémon', 'Clamperl Pokémon', 'Arrow Dancer Pokémon', 'Spiny Pokémon', 'Vespiquen Pokémon', 'Bergmite Pokémon', 'Iron Dome Pokémon', 'Piplup Pokémon', 'New Pokémon Pokémon', 'Bolt Pokémon', 'Rocky Pokémon', 'Pig Nose Pokémon', 'Frost Pokémon', 'Scalp Pokémon', 'Minimize Pokémon', 'Illusion Pokémon', 'Wild Pokémon', 'Snorkeling Pokémon', 'Gastronaut Pokémon', 'Brion Pokémon', 'Pelipper Pokémon', 'Salarian Pokémon', 'Elder Bird Pokémon', 'Rhyvee Pokémon', 'Anteater Pokémon', 'Simian Pokémon', 'Cerebral Pokémon', 'Bronze Roll Pokémon', 'Float Land Pokémon', 'Tiny and Meringue Pokémon', 'Rock-Throgan Pokémon', 'Lichl Pokémon', 'Bald Pokémon', 'Bug Pokémon', 'Spike Pokémon', 'Bomber Pokémon', 'Magnet Core Pokémon', 'Honeybad', 'Mare Pokémon', 'Spiny Pokémon', 'Cinder Pokémon', 'Arm Thrusting Pokémon', 'Pony Pokémon', 'Snow Cat Pokémon', 'Lilligant Pokémon', 'Pangoro Pokémon', 'Cat Pokémon', 'Bellossom Pokémon', 'Wild-Grenadine Pokémon', 'Tattoo Pokémon', 'Tiny Cat Pokémon', 'Lillipup Pokémon', 'Fur Pokémon', 'Bone Armor Pokémon', 'Big Fire Pokémon', 'Scy Pokémon', 'Skyler Pokémon', 'Growlithe Pokémon', 'Chevalier Pokémon', 'Beedrill Pokémon', 'Climax Pokémon', 'Pulse Pokémon', 'Spike Pokémon', 'Land Turtle Pokémon', 'Croc Pokémon', 'Manty Mouse Pokémon', 'Shelter Pokémon', 'Dragoon Pokémon', 'Long Arm Pokémon', 'Black Shark Pokémon', 'Caring Pokémon', 'Rose Tea Tree Pokémon', 'Tedd: Heave-E, Roll Over!', 'Ogre Pokémon', 'Lures Pokémon', 'Land Shape Pokémon', 'Rose Ant Pokémon', 'Scent Pokémon', 'Jolt Pokémon', 'Faunous Pokémon', 'Polt Pokémon', 'Luminescent Pokémon', 'Snow Pokémon', 'Chesnaught Pokémon', 'Binchle Pokémon', 'Mimikyu Pokémon', 'Simian Pokémon', 'Orang-tomb Pokémon', 'Furball Pokémon', 'Radish Pokémon']
+SHAPE - uniques: ['princess']
+HABITAT - uniques: []
+TYPES - uniques: ['bullpup', 'rock grass', 'psychic psychic', 'grass electric', 'rock rock', 'bug bug', 'ghost ghost', 'rock sturdy', 'electric fire', 'poison poison']
+COLOR - uniques: []

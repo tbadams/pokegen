@@ -1,0 +1,25 @@
+
+Perfect: 134/505 (26.53%)
+Incomplete: 180/505 (35.64%)
+Have Extras: 253/505 (50.10%)
+Contain Garbage: 5/505 (0.99%)
+Missing Values: 437
+Extra Values: 345
+Garbage Values: 5
+NAME: unique: 69/505 (13.66%), valid: 466/505 (92.28%), missing: 19/505 (3.76%), extra: 20/505 (3.96%), 
+CATEGORY: unique: 70/505 (13.86%), valid: 440/505 (87.13%), missing: 53/505 (10.50%), extra: 12/505 (2.38%), 
+TYPES: unique: 32/505 (6.34%), valid: 416/505 (82.38%), missing: 25/505 (4.95%), extra: 64/505 (12.67%), 
+ABILITIES: unique: 115/505 (22.77%), valid: 429/505 (84.95%), missing: 34/505 (6.73%), extra: 42/505 (8.32%), 
+MOVES: unique: 434/505 (85.94%), valid: 399/505 (79.01%), missing: 43/505 (8.51%), extra: 63/505 (12.48%), 
+HEIGHT: unique: 6/505 (1.19%), valid: 429/505 (84.95%), missing: 60/505 (11.88%), extra: 16/505 (3.17%), 
+WEIGHT: unique: 51/505 (10.10%), valid: 425/505 (84.16%), missing: 39/505 (7.72%), extra: 41/505 (8.12%), 
+COLOR: unique: 1/505 (0.20%), valid: 436/505 (86.34%), missing: 41/505 (8.12%), extra: 28/505 (5.54%), 
+SHAPE: unique: 4/505 (0.79%), valid: 456/505 (90.30%), missing: 35/505 (6.93%), extra: 14/505 (2.77%), 
+HABITAT: unique: 1/505 (0.20%), valid: 434/505 (85.94%), missing: 33/505 (6.53%), extra: 38/505 (7.52%), 
+DESCRIPTION: unique: 450/505 (89.11%), valid: 443/505 (87.72%), missing: 55/505 (10.89%), extra: 7/505 (1.39%), 
+NAME - uniques: ['Spitfire', 'Golurau', 'Vitalizer', 'Ritux', 'Swine', 'Cinderle', 'Revivi', 'DesertSquirrel', 'Wrestling', 'Krebinos', 'Patrat', 'Arcora', 'Molly', 'Quagsus', 'Kite Trooper', 'Cormoran', 'Gigantamax', 'Mushroom', 'Ruffle', 'Seasel', 'Serene', 'Chewitch', 'Brine', 'Attaching Tea to Tailwind gives it a much sturdier coat of black.', 'Puffing', 'Chedenne', 'Calc Pagliacci', 'Beatang', 'Kartang', 'Greedylutz', 'Clefable', 'Beheeyen', 'Urshif', 'Flying-70', 'Tapu Kerch offers divine powers to this Pokémon, exceeding 10,000 becalms.', 'Mephisto', 'Frosgol', 'Stubbs', 'Lotus', 'Sizzlipo', 'Wild Magcargo', 'Ekilee', 'Vitalyu', 'Ekureda', 'Warhead', 'Mt. Shell', 'Srakko', 'Controled Crustacean', 'Scalyudc', 'Zenee', 'Attainamon', 'Nidlupine', 'Sheer Skin', 'Dedric', 'WOLFD', 'Spikeow', 'Rookidec', 'Mighty Whitney', 'Rockit024', 'Triple Null', 'Spew- ware', 'Buneary', 'Lengthen', 'Bustle', 'Crimson moon', 'Mudbrapple', 'Superior Koffing', 'Diceik', 'Resurre CPC']
+CATEGORY - uniques: ['Water Turtle Pokémon', 'Cinder Pokémon', 'Machop Pokémon', 'Wild Beasts', 'Flyskipper', 'Stag Reflex Pokémon', 'Cosmic Pokémon', 'Rock Break', 'Illuminate Pokémon', 'Flame Pokémon', 'Black Cauldron Pokémon', 'Shell Bell Pokémon', 'Plump Pokémon', 'Serene Crate Pokémon', 'Lurker Pokémon', 'Skater Pokémon', 'Plus/\u200bMinus Pokémon', 'Stun Ray Pokémon', 'Evolutionary Pokémon', 'Plant Pokémon', 'Jubilee Pokémon', 'Poke Pokémon', 'Cobweb Pokémon', 'Cremol Pokémon', 'Sky High Syndrome Pokémon', 'Toxic Pokémon', 'Carbuncle Pokémon', 'Armormaker Pokémon', 'Rapid Shaft Pokémon', 'Prime Pokémon', 'Fly Whereever', 'South Pacific Pokémon', 'Cosmic Pokémon', 'Poisony Pokémon', 'Stoutland Pokémon', 'Big Bird Pokémon', 'Brasfield Pokémon', 'Boiling Snow Pokémon', 'Bunch Frog Pokémon', 'Simian Pokémon', 'Lugian Pokémon', 'Time Prison Pokémon', 'Wild Flower Pokémon', 'Copper Wing Pokémon', 'Behe', 'Seat Pokémon', 'Hypno Pokémon', 'Tiny, Diminutive Pokémon', 'Wild Pokémon', 'Toxic Geyser Pokémon', 'Goldbug Pokémon', 'Simian Pokémon', 'Clamperma Pokémon', 'Milotic Pokémon', 'Emotion Fish Pokémon', 'Togeding Pokémon', 'Longreach Pokémon', 'Deaf Pokémon', 'Briar Pokémon', 'Rockit Pokémon', 'Convict Pokémon', 'Embargo Pokémon', 'The Greatest Pokémon of All', 'Wild Bird Pokémon', 'Astral Pokémon', 'Tiny Fish Pokémon', 'Deaf Pokémon', 'Kangaskhan Pokémon', 'Pig Scorpion Pokémon', 'King Boo Pokémon']
+SHAPE - uniques: ['quad========sand', 'slug', 'aerial', 'taunt']
+HABITAT - uniques: ['wimp']
+TYPES - uniques: ['fighting steel', 'fighting steel', 'rock Pokémon', 'pressure', 'grass Pokémon', 'ground scary', 'electric Pokémon', 'ground ghost', '', 'ground ice', 'rock ghost', 'rock rock', 'grass', 'fighting fire', 'grass grass', 'rock aerial', 'fighting steel', 'grass chlorp', 'electric shock', 'steel steel', 'ground normal', 'fire fairy', 'poison grass', 'grass fighting', 'rock ghost', 'rock icy', 'poison fairy', 'dragon dragon', 'ice fairy', 'poison rock', 'fire ice', 'rock electric']
+COLOR - uniques: ['dark']

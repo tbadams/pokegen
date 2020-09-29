@@ -1,0 +1,25 @@
+
+Perfect: 109/501 (21.76%)
+Incomplete: 299/501 (59.68%)
+Have Extras: 165/501 (32.93%)
+Contain Garbage: 3/501 (0.60%)
+Missing Values: 704
+Extra Values: 200
+Garbage Values: 3
+NAME: unique: 67/501 (13.37%), valid: 442/501 (88.22%), missing: 43/501 (8.58%), extra: 16/501 (3.19%), 
+CATEGORY: unique: 66/501 (13.17%), valid: 416/501 (83.03%), missing: 68/501 (13.57%), extra: 17/501 (3.39%), 
+TYPES: unique: 24/501 (4.79%), valid: 440/501 (87.82%), missing: 48/501 (9.58%), extra: 13/501 (2.59%), 
+ABILITIES: unique: 130/501 (25.95%), valid: 434/501 (86.63%), missing: 47/501 (9.38%), extra: 20/501 (3.99%), 
+MOVES: unique: 381/501 (76.05%), valid: 409/501 (81.64%), missing: 70/501 (13.97%), extra: 22/501 (4.39%), 
+HEIGHT: unique: 5/501 (1.00%), valid: 416/501 (83.03%), missing: 47/501 (9.38%), extra: 38/501 (7.58%), 
+WEIGHT: unique: 43/501 (8.58%), valid: 384/501 (76.65%), missing: 100/501 (19.96%), extra: 17/501 (3.39%), 
+COLOR: unique: 1/501 (0.20%), valid: 402/501 (80.24%), missing: 76/501 (15.17%), extra: 23/501 (4.59%), 
+SHAPE: unique: 5/501 (1.00%), valid: 415/501 (82.83%), missing: 79/501 (15.77%), extra: 7/501 (1.40%), 
+HABITAT: unique: 2/501 (0.40%), valid: 422/501 (84.23%), missing: 66/501 (13.17%), extra: 13/501 (2.59%), 
+DESCRIPTION: unique: 441/501 (88.02%), valid: 428/501 (85.43%), missing: 60/501 (11.98%), extra: 13/501 (2.59%), 
+NAME - uniques: ['Duffel Pokémon', 'Highfried', 'Byosis', 'Life-Stage', 'Ursaring Ratings', 'Tinyguard', 'Weatherlight', 'Malold', 'Melody', 'roderm', 'DesertSquirrel', 'Grimsitar', 'Krosak', 'Krewever', 'Seodo', 'Virtuumlock', 'Iron Armor', 'Chimchar', 'Pino-Pino', 'Viggo Mortell', 'Itomge', 'Contraindant', 'Zweilin Trainers', 'Iron-Fist Pokémon', 'Snorling', 'KLASSY', 'Will-O-Wisp', 'Snowgum', 'Klekka', 'Blazedyck', 'Krokit XY', 'Dottle', 'Attibuzz', 'GlameMe', 'Cureena', 'Turner', 'Dolomons', 'Anorith', 'Greedoom', 'Stonedog', 'Troubled Gentleman', 'RBY', 'Lunatron', 'Wiltrum', 'WaterWorm', 'Greedudo', 'Birdruff', 'Frijasky', 'Monchatt', 'Cherrim', 'Hakpertil', 'Numbandong', 'Hurkiwakum', 'Marstic', 'Dundew', 'Lion Cub', 'Rigglypuff', 'Shewlett', 'Scarecrow', 'Niantic', 'Warner-CL', '09.0 kg', 'Namisk', 'Pippokin', 'Chef Uzbekov', 'Ceavanna', 'Etrangoisy']
+CATEGORY - uniques: ['Impaler Pokémon', 'Chew Pokémon', 'Whip Pokémon', 'Cotton Roll Pokémon', 'Tiger Crab Pokémon', 'FLAME Pokémon', 'Lichu Pokémon', 'Imbued Pokémon', 'Cannon Pokémon', 'Vulpx Pokémon', 'Desert Squirrel Pokémon', 'Cornered Pokémon', 'Martial Pokémon', 'Typhlosion Pokémon', 'Poison Mouse Pokémon', 'Spear Pokémon', 'Mismagius Pokémon', 'Iron Geyser Pokémon', 'Skimmeh Pokémon', 'Bolt Switch Pokémon', 'Gold Digger Pokémon', 'Ice Peebee Pokémon', 'Iron Head Pokémon', 'Victory Quidditch Pokémon', 'Cursed Pokémon', 'Handcuff Pokémon', 'Drough Moth Pokémon', 'Milotic Pokémon', 'Headbutt Pokémon', 'Tough Onions Pokémon', 'Seredar Pokémon', 'Curing Pokémon', 'Tiny Bull Pokémon', 'Stripe Pokémon', 'Pulp Swap Pokémon', 'Triple Star Pokémon', 'Cotton Candy Pokémon', 'Dragon Chant', 'Glade Pokémon', 'Litten Pokémon', 'Punch Pokémon', 'Metall Armor Pokémon', 'Corrosion Pokémon', 'Milotic Pokémon', 'Happiness Seed Pokémon', 'Ancient Pokémon', 'NovaBat Pokémon', 'Scalch SAO MANGA Pokémon', 'Thorn Quill Pokémon', 'Blessing Pokémon', 'Picky Pokémon', 'Cinccin Pokémon', 'Powders Pokémon', 'High Peak Pokémon', 'Scatterbug Pokémon', 'Roly Croc Pokémon', 'Prankster Pokémon', 'Desert Pokémon', 'Land Spore Pokémon', 'FireFox Pokémon', 'Crust Pokémon', 'Vital Bug Pokémon', 'Sea Crab Pokémon', 'Nectar Pokémon', 'Sharp Skin Pokémon', 'Poison Mouse Pokémon']
+SHAPE - uniques: ['grass', 'fighting', 'dragonblue', 'headbutt', 'zen']
+HABITAT - uniques: ['water-facility', 'land']
+TYPES - uniques: ['fighting fire', 'fighting', 'fighting ground', 'normal electric', 'ghost normal', 'grass poison', 'fireground', 'urban flying', 'fighting black', 'psychic ground', 'grass electric', 'poison fairy', 'dragon dragon', 'fly', 'fighting steel', 'dragon song', 'water flying, helping-hand, trick, grass', 'electric electric', 'rock rock', 'normal poison', 'magic', 'rock electric', 'fighting steel', 'electric ground']
+COLOR - uniques: ['dragon']

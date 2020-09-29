@@ -1,0 +1,25 @@
+
+Perfect: 178/505 (35.25%)
+Incomplete: 191/505 (37.82%)
+Have Extras: 152/505 (30.10%)
+Contain Garbage: 6/505 (1.19%)
+Missing Values: 378
+Extra Values: 208
+Garbage Values: 6
+NAME: unique: 40/505 (7.92%), valid: 445/505 (88.12%), missing: 21/505 (4.16%), extra: 39/505 (7.72%), 
+CATEGORY: unique: 48/505 (9.50%), valid: 472/505 (93.47%), missing: 27/505 (5.35%), extra: 6/505 (1.19%), 
+TYPES: unique: 15/505 (2.97%), valid: 462/505 (91.49%), missing: 29/505 (5.74%), extra: 14/505 (2.77%), 
+ABILITIES: unique: 50/505 (9.90%), valid: 454/505 (89.90%), missing: 26/505 (5.15%), extra: 25/505 (4.95%), 
+MOVES: unique: 334/505 (66.14%), valid: 419/505 (82.97%), missing: 37/505 (7.33%), extra: 49/505 (9.70%), 
+HEIGHT: unique: 0/505 (0.00%), valid: 454/505 (89.90%), missing: 41/505 (8.12%), extra: 10/505 (1.98%), 
+WEIGHT: unique: 21/505 (4.16%), valid: 432/505 (85.54%), missing: 67/505 (13.27%), extra: 6/505 (1.19%), 
+COLOR: unique: 0/505 (0.00%), valid: 455/505 (90.10%), missing: 40/505 (7.92%), extra: 10/505 (1.98%), 
+SHAPE: unique: 1/505 (0.20%), valid: 453/505 (89.70%), missing: 39/505 (7.72%), extra: 13/505 (2.57%), 
+HABITAT: unique: 0/505 (0.00%), valid: 458/505 (90.69%), missing: 24/505 (4.75%), extra: 23/505 (4.55%), 
+DESCRIPTION: unique: 478/505 (94.65%), valid: 465/505 (92.08%), missing: 27/505 (5.35%), extra: 13/505 (2.57%), 
+NAME - uniques: ['Eggmeleon', 'Scorpion', 'Tyrogrel', 'Feiertoa', 'Greedom', 'Cream', 'Licking', 'Gudloof', 'Budsfun', 'Teddi Cat', 'Esprit', 'Gravegoose', 'Snowgift', 'Lingering Pokémon', 'Bunchan', 'Beebe', 'LAMADRA', 'Lingeringine', 'Tadpole', 'Greedoom', 'Gigantamax', 'Mushroom', 'Gangplank', 'Waterlogan', 'Vigoraph', 'Cricketot', 'Grimms', 'Fangiz', 'Dundun', 'Puncher', 'Ice-type Pokémon', 'Larva', 'Fangito', 'Dusknooper', 'Lurker', 'Greedior', 'Gogoat', 'Guring', 'Hapright', 'GUNTRAX']
+CATEGORY - uniques: ['Plant Pokémon', 'Dance Pokémon', 'Ludicoptera Pokémon', 'Cat Panda Pokémon', 'Fletchinder Pokémon', 'Reload Pokémon', 'Poochyena Pokémon', 'Scizor Pokémon', 'Honeycomb Pokémon', 'Elect Pokémon', 'Fire Ant Pokémon', 'Tornado Pokémon', 'Steel Body Pokémon', 'Gloomdweller Pokémon', 'Mush Pokémon', 'Mage Pokémon', 'Whirlpool Pokémon', 'Pidgeot Pokémon', 'Flame Pit Pokémon', 'Hooker Pokémon', 'Sea Toe Pokémon', 'Bone Vulture Pokémon', 'Spore Pokémon', 'Pig Tail Pokémon', 'Bunchanter Pokémon', 'Mock Kelp Pokémon.', 'Fire Pokémon', 'Dagger Pokémon', 'Lombivore Pokémon', 'Astral Pokémon', 'Blessing Pokémon', 'Pidgeot Pokémon', 'Bunch Tree Pokémon', 'Pig Tail Pokémon', 'Scizor Pokémon', 'Odd Pokémon', 'Lithe Pokémon', 'Nidoran Pokémon', 'Good-Numbness Pokémon', 'Palkia Pokémon', 'Single Transferion Pokémon', 'Sea Fox Pokémon', 'Trainer Pokémon', 'Beedrill Pokémon', 'Fire Pokémon', 'Pidgey Pokémon', 'Lucky Rabbit Pokémon', 'Skater Pokémon']
+SHAPE - uniques: ['fighting']
+HABITAT - uniques: []
+TYPES - uniques: ['fighting ground', 'fighting rock', 'fighting steel', 'electric psychic', 'ice poison', 'bug cotton', 'fire fairy', 'fossil', 'normal rock', 'normal rock', 'fighting steel', 'rock electric', 'ghost fighting', 'fighting steel', 'rock electric']
+COLOR - uniques: []

@@ -1,0 +1,25 @@
+
+Perfect: 153/502 (30.48%)
+Incomplete: 171/502 (34.06%)
+Have Extras: 189/502 (37.65%)
+Contain Garbage: 0/502 (0.00%)
+Missing Values: 328
+Extra Values: 244
+Garbage Values: 0
+NAME: unique: 36/502 (7.17%), valid: 474/502 (94.42%), missing: 19/502 (3.78%), extra: 9/502 (1.79%), 
+CATEGORY: unique: 51/502 (10.16%), valid: 461/502 (91.83%), missing: 29/502 (5.78%), extra: 12/502 (2.39%), 
+TYPES: unique: 8/502 (1.59%), valid: 458/502 (91.24%), missing: 40/502 (7.97%), extra: 4/502 (0.80%), 
+ABILITIES: unique: 42/502 (8.37%), valid: 468/502 (93.23%), missing: 24/502 (4.78%), extra: 10/502 (1.99%), 
+MOVES: unique: 328/502 (65.34%), valid: 422/502 (84.06%), missing: 41/502 (8.17%), extra: 39/502 (7.77%), 
+HEIGHT: unique: 0/502 (0.00%), valid: 453/502 (90.24%), missing: 35/502 (6.97%), extra: 14/502 (2.79%), 
+WEIGHT: unique: 21/502 (4.18%), valid: 436/502 (86.85%), missing: 57/502 (11.35%), extra: 9/502 (1.79%), 
+COLOR: unique: 0/502 (0.00%), valid: 461/502 (91.83%), missing: 27/502 (5.38%), extra: 14/502 (2.79%), 
+SHAPE: unique: 1/502 (0.20%), valid: 452/502 (90.04%), missing: 15/502 (2.99%), extra: 35/502 (6.97%), 
+HABITAT: unique: 0/502 (0.00%), valid: 405/502 (80.68%), missing: 9/502 (1.79%), extra: 88/502 (17.53%), 
+DESCRIPTION: unique: 469/502 (93.43%), valid: 460/502 (91.63%), missing: 32/502 (6.37%), extra: 10/502 (1.99%), 
+NAME - uniques: ['Lunar Pokémon', 'Bliss', 'Tyrantice', 'Bunearyle', 'Luringe', 'Sapiny', 'U-turn', 'Wushu', 'Tyrantank', 'Razzip', 'LuckyNoivern', 'Larva', 'Stoutrock', 'Revivi', 'Byers', 'Shedding', 'Dezepo', 'Scaly déjà vu', 'Gearrai', 'Sir Kane', 'Ember', 'Mephisto', 'Arctov', 'Face', 'Swumpert', 'Icarus', 'Dottle', 'Pawnbro', 'Fruitdale', 'Krokorok Samurai', 'Regirocco', 'Balloon Pokémon', 'Troglodytes', 'Rookidec', 'Rainbow', 'Shedding']
+CATEGORY - uniques: ['Coalossal Pokémon', 'Gloomdrum Pokémon', 'Fresh Water Pokémon', 'Metall Armor Pokémon', 'Oceans Pokémon', 'Pole Pokémon', 'Nuts Snake Pokémon', 'Bat Snake Pokémon', 'Sickle Grass', 'Pond Skorng Pokémon', 'Luxury Pokémon', 'Chespin Pokémon', 'Dance Pokémon', 'Golett Pokémon', 'Earl Pokémon', 'Brutal Thrust Pokémon', 'Guzzlord Pokémon', 'Kangaroo Pokémon', 'Gulchy Pokémon', 'Spoon Pokémon', 'Furret Pokémon', 'Revive Pokémon', 'Tentacled Pokémon', 'Black Forest Pokémon', 'Gloomdweller Pokémon', 'Skipper Pokémon', 'Wing Pigeon Pokémon', 'Slowpoke Pokémon', 'Mare Pokémon', 'Nihilego Pokémon', 'Guzzlord Pokémon', 'Virtue Pokémon', 'Elegant Pokémon', 'Berry Pokémon', 'Respiratory Pokémon', 'Scatterdust', 'Icarus Pokémon', 'Draugr Pokémon', 'Gumshoos Pokémon', 'Glutton Pokémon', 'Pyrochid Pokémon', 'Copper Wing Pokémon', 'Spore Pokémon', 'Elegant Pokémon', 'Sap Pokémon', 'First Heir Pokémon', 'White Pokémon', 'Long Jet Pokémon', 'Beartic Pokémon', 'Skiddo Pokémon', 'Mud Pokémon']
+SHAPE - uniques: ['waters-producing']
+HABITAT - uniques: []
+TYPES - uniques: ['dragon dragon', 'fighting steel', 'bug bug', 'dark rock', 'dark dark', 'normal fire', 'grass electro-unklift', 'grass grass']
+COLOR - uniques: []

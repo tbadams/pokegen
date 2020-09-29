@@ -1,0 +1,25 @@
+
+Perfect: 191/503 (37.97%)
+Incomplete: 151/503 (30.02%)
+Have Extras: 167/503 (33.20%)
+Contain Garbage: 0/503 (0.00%)
+Missing Values: 297
+Extra Values: 224
+Garbage Values: 0
+NAME: unique: 46/503 (9.15%), valid: 467/503 (92.84%), missing: 27/503 (5.37%), extra: 9/503 (1.79%), 
+CATEGORY: unique: 35/503 (6.96%), valid: 467/503 (92.84%), missing: 19/503 (3.78%), extra: 17/503 (3.38%), 
+TYPES: unique: 14/503 (2.78%), valid: 469/503 (93.24%), missing: 21/503 (4.17%), extra: 13/503 (2.58%), 
+ABILITIES: unique: 44/503 (8.75%), valid: 470/503 (93.44%), missing: 22/503 (4.37%), extra: 11/503 (2.19%), 
+MOVES: unique: 318/503 (63.22%), valid: 414/503 (82.31%), missing: 32/503 (6.36%), extra: 57/503 (11.33%), 
+HEIGHT: unique: 1/503 (0.20%), valid: 460/503 (91.45%), missing: 34/503 (6.76%), extra: 9/503 (1.79%), 
+WEIGHT: unique: 20/503 (3.98%), valid: 437/503 (86.88%), missing: 58/503 (11.53%), extra: 8/503 (1.59%), 
+COLOR: unique: 1/503 (0.20%), valid: 448/503 (89.07%), missing: 30/503 (5.96%), extra: 25/503 (4.97%), 
+SHAPE: unique: 2/503 (0.40%), valid: 448/503 (89.07%), missing: 30/503 (5.96%), extra: 25/503 (4.97%), 
+HABITAT: unique: 0/503 (0.00%), valid: 447/503 (88.87%), missing: 11/503 (2.19%), extra: 45/503 (8.95%), 
+DESCRIPTION: unique: 489/503 (97.22%), valid: 485/503 (96.42%), missing: 13/503 (2.58%), extra: 5/503 (0.99%), 
+NAME - uniques: ['Lingering Pokémon', 'Gossifleon', 'Placiduff', 'Lingering Monica', 'Hiten that were not born during evolution developed their tails to become Pokémon.', 'Poliwhorse', 'Poothrough', 'X-scales', 'Chewaptor', 'Leek Pokémon', 'Pit-bull', 'Trash Bag', 'Crockle', 'Frosgotham', 'Leafy', 'Poliwhirl Pokémon', 'Creeper', 'Larva', 'Chewitch', 'Sugaepurn', 'Drummond', 'Drifpee', 'Larva', 'Cherchezma', 'Creamy', 'Stoutong', 'Locthite', 'Shedding', 'Cotton Bloom', 'Burbuda', 'Viggo', 'Bunches', 'Ekemar', 'Beastly', 'Seguin', 'Wolf', 'Molde', 'Seabag', 'Urbok', 'Pino', 'Eon', 'Predator', 'Gigantamax', 'Zera Medium size', 'Dareikoma', 'Larva']
+CATEGORY - uniques: ['Fly Pokémon', 'Wing Pokémon', 'Gloomdweller Pokémon', 'Pigeon Pokémon', 'Single Blade Pokémon', 'Chingling Pokémon', 'Leek Pokémon', 'Eerie Pokémon', 'Moon Pokémon', 'Starling Pokémon', 'Panch King Pokémon', 'Munchlax Pokémon', 'Sead Pokémon', 'Flare Pokémon', 'Cream Pokémon', 'Greed Pokémon', 'Gumshoke Pokémon', 'Thief Pokémon', 'Lacquer Pokémon', 'Lucky Star Pokémon', 'Rock Armor Pokémon', 'Snarl Pokémon', 'Burbup Pokémon', 'Scizor Pokémon', 'Skull Pokémon', 'Tentacles Pokémon', 'Flame Pokémon', 'Cascoon Pokémon', 'Iron Heel Pokémon', 'Crust Pokémon', 'Bee Pokémon', 'Hairy Pokémon', 'Mown Pokémon', 'Iron Dome Pokémon', 'Dance Pokémon']
+SHAPE - uniques: ['fighting', 'human']
+HABITAT - uniques: []
+TYPES - uniques: ['metal', 'bug dark', 'steel cannon', 'ice fairy', 'flying', 'rock mud', 'steel lightning', 'fighting steel', 'fighting steel', 'water storm', 'grass electric', 'dark ground', 'ground normal', 'rock electric']
+COLOR - uniques: ['steel']

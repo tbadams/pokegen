@@ -1,0 +1,25 @@
+
+Perfect: 136/502 (27.09%)
+Incomplete: 170/502 (33.86%)
+Have Extras: 245/502 (48.80%)
+Contain Garbage: 2/502 (0.40%)
+Missing Values: 356
+Extra Values: 332
+Garbage Values: 5
+NAME: unique: 84/502 (16.73%), valid: 453/502 (90.24%), missing: 23/502 (4.58%), extra: 26/502 (5.18%), 
+CATEGORY: unique: 70/502 (13.94%), valid: 447/502 (89.04%), missing: 37/502 (7.37%), extra: 18/502 (3.59%), 
+TYPES: unique: 15/502 (2.99%), valid: 418/502 (83.27%), missing: 28/502 (5.58%), extra: 56/502 (11.16%), 
+ABILITIES: unique: 105/502 (20.92%), valid: 435/502 (86.65%), missing: 36/502 (7.17%), extra: 31/502 (6.18%), 
+MOVES: unique: 393/502 (78.29%), valid: 421/502 (83.86%), missing: 48/502 (9.56%), extra: 33/502 (6.57%), 
+HEIGHT: unique: 7/502 (1.39%), valid: 431/502 (85.86%), missing: 46/502 (9.16%), extra: 25/502 (4.98%), 
+WEIGHT: unique: 43/502 (8.57%), valid: 420/502 (83.67%), missing: 34/502 (6.77%), extra: 48/502 (9.56%), 
+COLOR: unique: 0/502 (0.00%), valid: 443/502 (88.25%), missing: 27/502 (5.38%), extra: 32/502 (6.37%), 
+SHAPE: unique: 3/502 (0.60%), valid: 454/502 (90.44%), missing: 32/502 (6.37%), extra: 16/502 (3.19%), 
+HABITAT: unique: 0/502 (0.00%), valid: 448/502 (89.24%), missing: 18/502 (3.59%), extra: 36/502 (7.17%), 
+DESCRIPTION: unique: 475/502 (94.62%), valid: 464/502 (92.43%), missing: 27/502 (5.38%), extra: 11/502 (2.19%), 
+NAME - uniques: ['Liddil', 'WALREIN', 'Greedoom', 'Snowgraveler', 'KYLELE', 'Panpour misterle', 'Seed is said to be proof that a Pokémon is healthy enough to live in any habitat.', 'Moleon', 'Intervening Vampire', 'Boldon', 'Skrill', 'Falconer', 'Karrab headbutt', 'Chef Jimmis', 'Megatron', 'Skrepa', 'Moonita', 'Growl', 'Knowlesi', 'Fluttershy', 'Giga Impact', 'Qyche', 'Riggiticks', 'Gronze', 'Zera', 'Aior', 'PanickedMan', 'Grimsne', 'With the use of scratches on its leaves and roots, Garbodor absorbs and stores back-up nutrition.', 'Chef Foucault', 'Nidorina', 'Atrocious', 'Minem', 'Beaklet', 'Beaté', 'Falconer', 'Mischief Darmanitan', 'Megolefs', 'Rainforest', 'Vitalion', 'StrobinOwl', 'Dracov', 'Hufflepuff', 'Spitfire', 'Fox', 'Drillburr', 'Arachno', 'darkseid', 'Syossog', 'Gearercocker', 'Thunderclap', 'Timburger', 'Urshifine', 'Frustration', 'Wartomp', 'Giruhan', 'Blipbee', 'Snooper', 'Pachirisau', 'Gigantamax', 'Comprat', 'Patrat', 'Toxicologist', 'Raticbuck', 'Shedonfang', 'Spikeow', 'Kino', 'Playpen', 'Blissey', 'Chewtlefish', 'Sunne', 'Sibylan', 'Snake Letharge', 'Gowinra', 'Rembolt', 'Balloon Pokémon', 'Metallias', 'Nidorina', 'Desert Croc', 'Pig-nasty', 'Roggeale', 'Muscular×Machamp', 'Kadorn', 'Siriddo']
+CATEGORY - uniques: ['Long Face Pokémon', 'Fire Fox Pokémon', 'Illustration Pokémon', 'Howl Pokémon', 'Wimp-o-quarters', 'Black Forest Pokémon', 'Sharpine Pokémon', 'Scalep Top Pokémon', 'Handcuff Pokémon', 'Wigglytuff Pokémon', 'Chef Pokémon', 'Hostile Pokémon', 'First Shrimp Pokémon', 'Megathrus Pokémon', 'Tricky Pokémon', 'Decay Pokémon', 'Brutal Congeal Pokémon', 'Moon Pokémon', 'Rib Arena Pokémon', 'Artistic Pokémon', 'EleSpit Beacon Pokémon', 'Bee Roving Pokémon', 'Tiny Fox Pokémon', 'Gloomdweller Pokémon', 'Litting-Pump Pokémon', 'Falster Pokémon', 'Void Pokémon', 'Axle-Raising Pokémon', "Sheep's Haunt Inn Pokémon", 'Frost Moth Pokémon', 'Roly-Eyed Pokémon', 'With A Laughs', 'Comfey Pokémon', 'Yamper Pokémon', 'Beaks Pokémon', 'Astral Journey Pokémon', 'Golett Pokémon', 'Cat Palpitoad Pokémon', 'String Pokémon', 'Scat Charm Pokémon', 'Aerodactyl Pokémon', 'Jaw Pokémon', 'Toilet Pokémon', 'Tiny Chameleon Pokémon', 'Blim4ct Pokémon', 'X-Stump Pokémon', 'Single Sealeye Pokémon', 'Venom Pokémon', 'Magma Pokémon', 'Cosmo-Military Pokémon', 'Sharp Rock Pokémon', 'Worryn Pokémon', 'Beautiful Pokémon', 'Receiver Pokémon', 'BlizzCon Pokémon', 'Apple Nectar Roll Pokémon', 'Poison Gas Snake Eater', 'Starlight Pokémon', 'Wicker Pokémon.', 'Eidetic Pokémon', 'Spotter Pokémon', 'Venom Pokémon', 'Mare Pokémon', 'Bolt Pokémon', 'Electric Snake Pokémon', 'Wound Pokémon', 'Allagan Pokémon', 'Eagruff Pokémon', 'Bud Bug Pokémon', 'Phantasm Pokémon']
+SHAPE - uniques: ['ground', 'own', 'fighting']
+HABITAT - uniques: []
+TYPES - uniques: ['steel lightning', 'ground electric', 'natural flying', 'fire fighting', 'ghost water', 'ground ice', 'poison Pokémon', 'ice cold', 'ground ice', 'rock electric', 'pink', 'fire', 'rock cooking', 'fighting grass', 'poison poison']
+COLOR - uniques: []

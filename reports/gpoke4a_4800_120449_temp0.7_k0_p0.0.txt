@@ -1,0 +1,25 @@
+
+Perfect: 163/509 (32.02%)
+Incomplete: 196/509 (38.51%)
+Have Extras: 163/509 (32.02%)
+Contain Garbage: 5/509 (0.98%)
+Missing Values: 414
+Extra Values: 189
+Garbage Values: 5
+NAME: unique: 27/509 (5.30%), valid: 455/509 (89.39%), missing: 30/509 (5.89%), extra: 24/509 (4.72%), 
+CATEGORY: unique: 52/509 (10.22%), valid: 463/509 (90.96%), missing: 36/509 (7.07%), extra: 10/509 (1.96%), 
+TYPES: unique: 6/509 (1.18%), valid: 455/509 (89.39%), missing: 45/509 (8.84%), extra: 9/509 (1.77%), 
+ABILITIES: unique: 33/509 (6.48%), valid: 460/509 (90.37%), missing: 32/509 (6.29%), extra: 17/509 (3.34%), 
+MOVES: unique: 343/509 (67.39%), valid: 426/509 (83.69%), missing: 56/509 (11.00%), extra: 27/509 (5.30%), 
+HEIGHT: unique: 0/509 (0.00%), valid: 448/509 (88.02%), missing: 49/509 (9.63%), extra: 12/509 (2.36%), 
+WEIGHT: unique: 12/509 (2.36%), valid: 449/509 (88.21%), missing: 51/509 (10.02%), extra: 9/509 (1.77%), 
+COLOR: unique: 0/509 (0.00%), valid: 465/509 (91.36%), missing: 26/509 (5.11%), extra: 18/509 (3.54%), 
+SHAPE: unique: 0/509 (0.00%), valid: 459/509 (90.18%), missing: 32/509 (6.29%), extra: 18/509 (3.54%), 
+HABITAT: unique: 0/509 (0.00%), valid: 446/509 (87.62%), missing: 23/509 (4.52%), extra: 40/509 (7.86%), 
+DESCRIPTION: unique: 471/509 (92.53%), valid: 470/509 (92.34%), missing: 34/509 (6.68%), extra: 5/509 (0.98%), 
+NAME - uniques: ['Graveless', 'Iceberg', 'Squabb Berry', 'Gigantamax', 'Wushu', 'Goopunk', 'Tusk+=052.2 m', 'Cateria', 'Itomance', 'Moufflaff', 'Good-Nose Fossil', 'Aurora', 'Aloe', 'Unfoul-feast', 'Dancing Robin', 'Bagworm', 'Meowthog', 'Snow龍', 'Loviana', 'Munna Pokémon', 'Swadron', 'Chewtle Pokémon', '-URPN', 'Blipbo', 'Disguise', 'Serena', 'Chednushi']
+CATEGORY - uniques: ['Stake Outrage Pokémon', 'Luxus Pokémon', 'Thunderrod Pokémon', 'Kyber Colin Pokémon', 'Cargochase Pokémon', 'Lillipup Pokémon', 'Cottongrass Pokémon', 'Creeper Pokémon', 'Magma Pokémon', 'Ledybasa Pokémon', 'Sword Sword Pokémon', 'Pond Skater', 'Oddish Pokémon', 'Pimp Pokémon', 'Buoyant Pokémon', 'Fire Snake Pokémon', 'Seadra Pokémon', 'Aloe', 'Pikachu Pokémon', 'Kyogre Pokémon', 'Swimming Pokémon', 'Molten Krab Pokémon', 'Oozing Pokémon', 'Slytherm Pokémon', 'Meowth Pokémon', 'Bone Keeper Pokémon', 'Gogly Pokémon', 'Mega Evolution Pokémon', 'Mush Pokémon', 'Starmie Pokémon', 'Plasty Pokémon', 'EKUJI', 'Row Bundy Pokémon', 'Tiny Rotten Beast', 'Ball Bolt Pokémon', 'Tiny Croc Pokémon', 'Radish Pokémon', 'Spike Pokémon', 'Skates Pokémon', 'Chew Pokémon', 'Serperior Pokémon', 'Kangaroo Pokémon', 'Tough Teller', 'Big Toge Pokémon', 'Gumshoos Pokémon', 'Cargo', 'Bastardly Pokémon', 'Lucky Rabbit Pokémon', 'Plump Pokémon', 'Pyro Bike Pokémon', 'Carnivine Pokémon', 'Kyogre Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['steel steel', 'fairy fairy', 'dark poison', 'grass grass', 'grass water', 'ground normal']
+COLOR - uniques: []

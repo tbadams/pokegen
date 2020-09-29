@@ -1,0 +1,25 @@
+
+Perfect: 160/500 (32.00%)
+Incomplete: 164/500 (32.80%)
+Have Extras: 208/500 (41.60%)
+Contain Garbage: 0/500 (0.00%)
+Missing Values: 266
+Extra Values: 313
+Garbage Values: 0
+NAME: unique: 60/500 (12.00%), valid: 433/500 (86.60%), missing: 14/500 (2.80%), extra: 53/500 (10.60%), 
+CATEGORY: unique: 57/500 (11.40%), valid: 471/500 (94.20%), missing: 13/500 (2.60%), extra: 16/500 (3.20%), 
+TYPES: unique: 3/500 (0.60%), valid: 449/500 (89.80%), missing: 12/500 (2.40%), extra: 39/500 (7.80%), 
+ABILITIES: unique: 76/500 (15.20%), valid: 464/500 (92.80%), missing: 11/500 (2.20%), extra: 25/500 (5.00%), 
+MOVES: unique: 354/500 (70.80%), valid: 428/500 (85.60%), missing: 19/500 (3.80%), extra: 53/500 (10.60%), 
+HEIGHT: unique: 3/500 (0.60%), valid: 444/500 (88.80%), missing: 42/500 (8.40%), extra: 14/500 (2.80%), 
+WEIGHT: unique: 38/500 (7.60%), valid: 425/500 (85.00%), missing: 60/500 (12.00%), extra: 15/500 (3.00%), 
+COLOR: unique: 1/500 (0.20%), valid: 448/500 (89.60%), missing: 35/500 (7.00%), extra: 17/500 (3.40%), 
+SHAPE: unique: 1/500 (0.20%), valid: 455/500 (91.00%), missing: 21/500 (4.20%), extra: 24/500 (4.80%), 
+HABITAT: unique: 0/500 (0.00%), valid: 443/500 (88.60%), missing: 20/500 (4.00%), extra: 37/500 (7.40%), 
+DESCRIPTION: unique: 481/500 (96.20%), valid: 461/500 (92.20%), missing: 19/500 (3.80%), extra: 20/500 (4.00%), 
+NAME - uniques: ['Kunabashi', 'Gunkcat', 'Bubble Jellicent', 'Seagull', 'Wynovangel', 'Ringyed', 'Cottonweave', 'Posyper', 'Wolf', 'Skarner', 'Cottonveil', 'Nidorina', 'Wynovivu', 'Prototurtle', 'Cottonburrow', 'Cotton Bloom', 'Dancing Pokémon', 'Cottonweave', 'Serena', 'Siberian', 'Lingering Pokémon', 'Cherchebas', 'Eggman', 'Hap- Racer', 'Mushroom', 'Mudbrower', 'Shedding', 'Spiny', 'Panther', 'Cottonweave', 'WALTER', 'Starling', 'Shedding Mouse', 'Lingering Harry', 'EleU’dance', 'Bounce', 'Sakoth', 'Weihun', 'Kartouko', 'Simoneering', 'Hexepod', 'Gnash Teeth', 'Pigfriend', 'Twister', 'Pizzacam', 'Aikido', 'Candlecko', 'Eaglet', 'Natu', 'Bustletoad', 'Mushroom', 'Krokitta', 'Pachirisu', 'DungBat', 'Troglodytes', 'Zabini', 'Spinybug', 'Itomge', 'Phloge', 'Wushu']
+CATEGORY - uniques: ['Sea Weasel Pokémon', 'CooBase Pokémon', 'Rolyco Pokémon', 'Sea World Pokémon', 'Melt Pokémon', 'Luxury Charm Pokémon', 'Pidgey Pokémon', 'Spiny Pokémon', 'Lit Swap Pokémon', 'Tiny Pokémon', 'Bash Mouth Pokémon', 'Fletchling Pokémon', 'Flash Fire Pokémon', 'Serene Bird Pokémon', 'Fennekin Pokémon', 'Blade Ranged Pokémon', 'Sea World Pokémon', 'Luxury Object Pokémon', 'Spheal Pokémon', 'Tiny Grass Pokémon', 'Sea World Pokémon', 'River Pokémon', 'Cottonee Pokémon', 'Flapping Pokémon', 'Bash Bloom Pokémon', 'Imitator Pokémon', 'Deerling Pokémon', 'Hairy Pokémon', 'Sandy Pokémon', 'Dialect Pokémon', 'Lombivolt Pokémon', 'Hairy Fox Pokémon', 'Simoneering Pokémon', 'Gear Monkey Pokémon', 'Vanillum Pokémon', 'Pig Tail Pokémon', 'Poochyena Pokémon', 'Wild Duck', 'Natu Pokémon', 'Chingling Pokémon', 'Sea World Pokémon', 'Chewtle Pokémon', 'Poison Gas', 'Bellsprout Pokémon', 'Sea Slug Pokémon', 'Troll Pokémon', 'Prankster Pokémon', 'Sandstorm Pokémon', 'Spiny Bug Pokémon', 'Skate Pokémon', 'Lithecat Pit Pokémon', 'Ponyta Pokémon', 'Sand Toe Pokémon', 'Gastly Pokémon', 'Iron Heel Pokémon', 'Bronzor Pokémon', 'Pig Pigeon Pokémon']
+SHAPE - uniques: ['bug']
+HABITAT - uniques: []
+TYPES - uniques: ['normal stealth', 'grass grass', '']
+COLOR - uniques: ['steel']

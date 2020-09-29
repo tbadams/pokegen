@@ -1,0 +1,25 @@
+
+Perfect: 92/503 (18.29%)
+Incomplete: 222/503 (44.14%)
+Have Extras: 241/503 (47.91%)
+Contain Garbage: 1/503 (0.20%)
+Missing Values: 491
+Extra Values: 426
+Garbage Values: 1
+NAME: unique: 102/503 (20.28%), valid: 421/503 (83.70%), missing: 33/503 (6.56%), extra: 49/503 (9.74%), 
+CATEGORY: unique: 109/503 (21.67%), valid: 424/503 (84.29%), missing: 73/503 (14.51%), extra: 6/503 (1.19%), 
+TYPES: unique: 14/503 (2.78%), valid: 426/503 (84.69%), missing: 26/503 (5.17%), extra: 51/503 (10.14%), 
+ABILITIES: unique: 161/503 (32.01%), valid: 413/503 (82.11%), missing: 48/503 (9.54%), extra: 42/503 (8.35%), 
+MOVES: unique: 232/503 (46.12%), valid: 414/503 (82.31%), missing: 45/503 (8.95%), extra: 44/503 (8.75%), 
+HEIGHT: unique: 2/503 (0.40%), valid: 421/503 (83.70%), missing: 60/503 (11.93%), extra: 22/503 (4.37%), 
+WEIGHT: unique: 49/503 (9.74%), valid: 401/503 (79.72%), missing: 80/503 (15.90%), extra: 22/503 (4.37%), 
+COLOR: unique: 0/503 (0.00%), valid: 448/503 (89.07%), missing: 20/503 (3.98%), extra: 35/503 (6.96%), 
+SHAPE: unique: 1/503 (0.20%), valid: 405/503 (80.52%), missing: 45/503 (8.95%), extra: 53/503 (10.54%), 
+HABITAT: unique: 1/503 (0.20%), valid: 412/503 (81.91%), missing: 13/503 (2.58%), extra: 78/503 (15.51%), 
+DESCRIPTION: unique: 455/503 (90.46%), valid: 433/503 (86.08%), missing: 48/503 (9.54%), extra: 22/503 (4.37%), 
+NAME - uniques: ['Thornfang', 'Courant', 'Greedoom', 'Wily', 'Grizzly', 'Cottonveil', 'Grizzly', 'Nidoking', 'Cottonveil', 'Shedding', 'Cobblie', 'Ciberbray', 'Ekcin', 'Appletuck', 'Gobbintail', 'Zoo Pokémon', 'Cottoné', 'Daring Beak', 'Chef Judy', 'Lion Cubchoo', 'Cottonweed', 'Gotham', 'Blaze', 'Blizzdon', 'Chimera', 'Lilith', 'Eggman', 'Graver', 'Bienfoo', 'Yamagik', 'Gigapadon', 'Nidoraj', 'Romeo', 'Gigantamax', 'Persimmon', 'Klerk', 'Bloxpoke', 'Yamagik', 'Sterling', 'Aurora', 'Ginccino', 'Cormoo', 'SavageOcelot', 'Blip', 'Megahorn', 'CoLAvox', 'Emi', 'Lingering Pokémon', 'Nebula', 'Cottonveil', 'Luxios', 'Hawk', 'Toxichemp', 'Hibitales', 'Greedom', 'ThornCub', 'Cherub>09', 'Warrick', 'Savage', 'Mushroom', 'E. tu', 'Woolfe', 'Primax', 'Cocoon', 'Drainstic', 'Poltik', 'CiracleDragon', 'Thornfang', 'Ceruval', 'Pooché', 'Lingering Buzz', 'Wool', 'Fox', 'Cottonweed', 'Cottonweave', 'Balloon', 'Cottonweed', 'Bloomheap', 'Tegruel', 'Ragnatuck', 'Lepreimus', 'Wily', 'Gigantamax', 'Cherche', 'Bunchan', 'Appletunishment', 'Wushu', 'Pinkmon', 'Horse', 'Tattletale', 'HALP', 'Cottonbarrel', 'Sage', 'Cherchez', '’Rattata', 'Drainstic', 'Brenew', 'Fruit Ball', 'Mushroom', 'Sawail', 'Traine', 'Larva']
+CATEGORY - uniques: ['Mage Pokémon', 'Spiny Tail Pokémon', 'Greed Pokémon', 'Arrow Skater Pokémon', 'Tiny Pokémon', 'Fire Fly Pokémon', 'Gloom Pokémon', 'Toxic Pokémon', 'Starve Pokémon', 'Light Body Pokémon', 'Bold Pokémon', 'Wind Pokémon', 'Tiny Spore Pokémon', 'Stuff Pokémon', 'Blast Star Pokémon', 'Shelter Pokémon', 'Pikachu Pokémon', 'Hardrock Pokémon', 'Snow Gecko Pokémon', 'Grass Nut Pokémon', 'Zoo Pokémon', 'Cotton Cowl Pokémon', 'Toxic Spikes Pokémon', 'Chef Pokémon', 'Big Bird Pokémon', 'Cotton Star Pokémon', 'Sea Heel Pokémon', 'Lion Pokémon', 'Omastar Pokémon', 'Fire Pokémon', 'Big-Planet Pokémon', 'Blaze Puff Pokémon', 'Spike Pokémon', 'Frost Turtle Pokémon', 'Big-Hunk Pokémon', 'Lilith Pokémon', 'Cotton Candy', 'Fraxure Pokémon', 'Pyro-Turret Pokémon', 'Goodness Telflosion Pokémon', 'Freshwater Pokémon', 'Wild Mouse Pokémon', 'Gravestone Pokémon', 'Poison Pokémon', 'Lumineon Pokémon', 'Bowl Pokémon', 'Rose Pokémon', 'Honey Bee Pokémon', 'Yamagik Pokémon', 'Water Worm Pokémon', 'Star Sickle Pokémon', 'Spicy Pokémon', 'Water Pokémon', 'Hedge Hunk Pokémon', 'Magnetize Pokémon', 'Scary Pokémon', 'Pleasant Pokémon', 'Pikachu Pokémon', 'Seaock Pokémon', 'Eating Pokémon', 'Land Turtle Pokémon', 'Chimper', 'Fang Monkey Pokémon', 'Pig Tail Pokémon', 'Fang Pokémon', 'Land Pokémon', 'Aqua Pokémon', 'Cotton Candy', 'Dragoon Pokémon', 'Bone Armor Pokémon', 'Milk Pokémon', 'Tranquill Pokémon', 'Sky Sea Pokémon', 'Bronze Bear Pokémon', 'Fly Pokémon', 'Iron Fox Pokémon', 'Water Horse Pokémon', 'Seismic Pokémon', 'Tiny Crab Pokémon', 'Climax Pokémon', 'Pigeon Pokémon', 'Bloomheap Pokémon', 'Flare Pokémon', 'Poke Pokémon', 'Little Rabbit Pokémon', 'Bunnel Pokémon', 'Water Horse Pokémon', 'Cotton Star Pokémon', 'Tiny Fish Pokémon', 'Icy Pokémon', 'Bug Pokémon', 'Beaver Pokémon.', 'Tattoo Pokémon', 'First Pokémon', 'Toxic Pokémon', 'Pidgeot Pokémon', 'Fly Pokémon', 'Scissor Pokémon', 'Spike Pokémon', 'Snow Pokémon', 'Bat Skin Pokémon', 'Lillipup Pokémon', 'Snorlax Pokémon', 'Muffler Pokémon', 'Big-Horn Pokémon', 'Big Wave Pokémon', 'Necrobasking Pokémon', 'Soft Pokémon', 'Hairy Pokémon']
+SHAPE - uniques: ['bug']
+HABITAT - uniques: ['away-rows']
+TYPES - uniques: ['water normal', 'grass electric', 'fighting ground', 'fire grass', 'grass rock', 'ground fairy', 'fighting steel', 'electric bug', 'psychic psychic', 'ice-water', 'dragon dragon', 'dragon fairy', 'ice fairy', 'steel energy']
+COLOR - uniques: []

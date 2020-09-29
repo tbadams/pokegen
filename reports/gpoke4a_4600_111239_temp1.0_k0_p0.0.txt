@@ -1,0 +1,25 @@
+
+Perfect: 137/509 (26.92%)
+Incomplete: 234/509 (45.97%)
+Have Extras: 188/509 (36.94%)
+Contain Garbage: 8/509 (1.57%)
+Missing Values: 573
+Extra Values: 234
+Garbage Values: 8
+NAME: unique: 75/509 (14.73%), valid: 453/509 (89.00%), missing: 49/509 (9.63%), extra: 7/509 (1.38%), 
+CATEGORY: unique: 65/509 (12.77%), valid: 453/509 (89.00%), missing: 46/509 (9.04%), extra: 10/509 (1.96%), 
+TYPES: unique: 18/509 (3.54%), valid: 437/509 (85.85%), missing: 47/509 (9.23%), extra: 25/509 (4.91%), 
+ABILITIES: unique: 104/509 (20.43%), valid: 444/509 (87.23%), missing: 51/509 (10.02%), extra: 14/509 (2.75%), 
+MOVES: unique: 382/509 (75.05%), valid: 413/509 (81.14%), missing: 50/509 (9.82%), extra: 46/509 (9.04%), 
+HEIGHT: unique: 5/509 (0.98%), valid: 423/509 (83.10%), missing: 61/509 (11.98%), extra: 25/509 (4.91%), 
+WEIGHT: unique: 40/509 (7.86%), valid: 432/509 (84.87%), missing: 61/509 (11.98%), extra: 16/509 (3.14%), 
+COLOR: unique: 0/509 (0.00%), valid: 431/509 (84.68%), missing: 63/509 (12.38%), extra: 15/509 (2.95%), 
+SHAPE: unique: 5/509 (0.98%), valid: 427/509 (83.89%), missing: 58/509 (11.39%), extra: 24/509 (4.72%), 
+HABITAT: unique: 0/509 (0.00%), valid: 428/509 (84.09%), missing: 36/509 (7.07%), extra: 45/509 (8.84%), 
+DESCRIPTION: unique: 458/509 (89.98%), valid: 452/509 (88.80%), missing: 51/509 (10.02%), extra: 6/509 (1.18%), 
+NAME - uniques: ['Mudsitas', 'Ice-type', 'Batcave Pokémon', 'Wool', 'BalloonChops', 'Swumpert', 'Placid', 'Servalli', 'Squabbles', 'Fruitstand', 'Revivi', 'Snakebet', 'Mantle', 'Protomar', 'Gale', 'Papillon', 'Seainch', 'Wubble', 'Aurora', 'Vinculus', 'Flower', 'DuralAT', 'Drainron', '’s Dratini', 'Seale', 'Clammon', 'Lomrio', 'Xerlind from one of these POKéMON is said to have become a male, which they called their predicament.', 'Protomartan', 'Terrapin', 'ID ポンビギュ', 'Iron Armor', 'Combu Pokémon', 'White Muellerax', 'Centiskke', 'Moldego', 'Zezu', 'BERNIE', 'Stonjour Pokémon', 'Greedhole', 'When Gothorita hears proud songs, she becomes alert and captures attention of others.', 'Plasmaoul', 'Kormwrestling', 'Formibug', 'Said to be a play on the Pokémon’s dance steps.', 'Alcoraz', 'Quagapass', 'Eddie', 'Riceora', 'Fairy-age', 'Skr owls', 'Charjabze', 'ELECTRIKE', 'Wimpne', 'Starling', 'Skymastar', 'Sandy Moon', 'Bockh, Marxism', 'Saidibose', 'Face', 'Cheren Bell', 'STARLE', 'Sirkiss', 'Ballerme', 'Lediancent\\": Benchitzer', 'Simulac', 'Mamo', 'Nebula', 'Calcindustrum', 'Sky High Pokémon', 'Wushu', 'Hap- Racer', 'Beastly', 'Meesteo', 'Radjabrow']
+CATEGORY - uniques: ['Alakazam Pokémon', 'Chomp Pokémon', 'Nicki Pokémon', 'Spore Pokémon', 'Toxic Pokémon', 'Pulp Rally Pokémon', 'Fluffy Pokémon', 'Servician Pokémon', 'Junkivant Pokémon', 'Ammonite Pokémon', 'Tame Tree Pokémon', 'Donkey Mouse Pokémon', 'Cresselia Pokémon', 'DeepSea\\"s', 'Hip-Hop Pokémon', 'Black Maelstrom Pokémon', 'Wild Ball Pokémon', 'Eirencall Pokémon', 'War Bee Pokémon', 'Gloom Dilett Pokémon', 'White Pokémon', 'Orb of the Sea', 'Noctowl Pokémon', 'Spike Pokémon', 'Bronze Glove Pokémon', 'Palkia Pokémon', 'Faun exploring', 'Searching Pokémon', 'First Solar Pokémon', 'Gloomdweller Pokémon', "Gloomdwellin': It loves your job. It’s projecting ominous dreams of ominous things.", 'Douglass Pokémon', 'Parody Pokémon', 'Poison Mummy Pokémon', 'Amphit Bee Pokémon', 'Gold Digging Pokémon', 'Simulate Pokémon', 'Duosion Bomb Pokémon', 'Clefable Pokémon', 'Gloomdweller Pokémon', 'Bug Pokémon', 'Classy Bird Pokémon', 'Pikachu Pokémon', 'Changeling Pokémon', 'Wood Chunk Pokémon', 'Stench Pokémon', 'Meow Launch Pokémon', 'Sky-Hill Pokémon', 'Soft Otter Pokémon', 'Dig Pokémon', 'Fire Tree Pokémon', 'Hood Cap Pokémon', 'River Pokémon', 'Sky Ball Pokémon', 'Thundermount Pokémon', 'Flabberglee Pokémon', 'Big Star Pokémon', 'Wood Pigeon Pokémon', 'Dredge Pokémon', 'Cascoon Pokémon', 'Dredge Pokémon', 'Lumineon Pokémon', 'Three Bird Pokémon', 'Haircutter Pokémon', 'Eclat Pokémon']
+SHAPE - uniques: ['waters-edge', 'fighting', 'bugish', 'cups', 'dream Pokémon']
+HABITAT - uniques: []
+TYPES - uniques: ['fireflying', 'normal bird', 'dragon style', 'electric ground', 'bug heavy', 'fireground', 'bug poison', 'poison fairy', 'rock rock', 'fighting steel', 'bug poison electric', 'natural grass', 'fireground', 'fighting electric', 'ground ice', 'fighting steel', 'fighting steel', 'normal Pokémon']
+COLOR - uniques: []

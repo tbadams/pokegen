@@ -1,0 +1,25 @@
+
+Perfect: 73/507 (14.40%)
+Incomplete: 365/507 (71.99%)
+Have Extras: 147/507 (28.99%)
+Contain Garbage: 7/507 (1.38%)
+Missing Values: 814
+Extra Values: 227
+Garbage Values: 9
+NAME: unique: 89/507 (17.55%), valid: 426/507 (84.02%), missing: 50/507 (9.86%), extra: 31/507 (6.11%), 
+CATEGORY: unique: 99/507 (19.53%), valid: 373/507 (73.57%), missing: 130/507 (25.64%), extra: 4/507 (0.79%), 
+TYPES: unique: 17/507 (3.35%), valid: 434/507 (85.60%), missing: 54/507 (10.65%), extra: 19/507 (3.75%), 
+ABILITIES: unique: 153/507 (30.18%), valid: 449/507 (88.56%), missing: 34/507 (6.71%), extra: 24/507 (4.73%), 
+MOVES: unique: 304/507 (59.96%), valid: 410/507 (80.87%), missing: 75/507 (14.79%), extra: 22/507 (4.34%), 
+HEIGHT: unique: 4/507 (0.79%), valid: 417/507 (82.25%), missing: 62/507 (12.23%), extra: 28/507 (5.52%), 
+WEIGHT: unique: 22/507 (4.34%), valid: 332/507 (65.48%), missing: 162/507 (31.95%), extra: 13/507 (2.56%), 
+COLOR: unique: 0/507 (0.00%), valid: 425/507 (83.83%), missing: 67/507 (13.21%), extra: 15/507 (2.96%), 
+SHAPE: unique: 3/507 (0.59%), valid: 405/507 (79.88%), missing: 82/507 (16.17%), extra: 20/507 (3.94%), 
+HABITAT: unique: 0/507 (0.00%), valid: 444/507 (87.57%), missing: 19/507 (3.75%), extra: 44/507 (8.68%), 
+DESCRIPTION: unique: 428/507 (84.42%), valid: 421/507 (83.04%), missing: 79/507 (15.58%), extra: 7/507 (1.38%), 
+NAME - uniques: ['Chesnuff', 'Earl', 'Corvikite', 'Starling', 'Lingrapus', 'Amber', 'Piggy', 'Diappyt', 'Lilith', 'Snapma', 'Torch', 'PoisonPunk', 'Natures Clauncher', 'Skymastar', 'Cottonweed', 'Renegade', 'Blossom', 'Troglak', 'Dragoon', 'Yugino', 'Blipbee', 'Bloomie', 'Subterrene', "Mime Jr.: Don't worry – we can help you out of the situation.", 'Lacith', 'Zilean', 'Mamoew', 'Dienegard', 'Cocoon', 'Rocky', 'Dewpider', 'Skreloom', 'Bigelpsy', 'Plantilax', 'Haparm', 'Hans-Hermann\xad—', 'Perrpr', 'MysticRaison', 'Mega-charizard', 'Chef Ericsson', 'Gravelvel', 'Vikrhenæst', 'Tapu Fini', 'Daggers', 'Blip', 'Gardenhe\xadgard', 'Cocoon', 'Snooper', 'Axeelly', 'Swagger', 'Stonescales', 'Bold</', 'Akey-LeFrodo', 'Skye', 'Zacalne', 'Cobra', 'Nectaridede', 'Pigeon', 'Aloe', 'Zaros', 'Abid', 'Goopunk', 'TorchArcade', 'Foggy', 'Eggme', 'Plump', 'Slug', 'Starling', 'Honorgbayan', 'Pulse', 'SeaShiner', 'Pigment', 'Rickoraptor', 'Loudwhisper', 'Drakko', 'Eunuch', 'Ringaz', 'Sawail', 'Twister', 'Brutus', 'Skyrock', 'Cottonain', 'Cheepy', 'Cottonweave', 'Larvex', 'Tranquillish', 'Rocky', 'Auwick', 'Magearma']
+CATEGORY - uniques: ['Tricky Mouse Pokémon', 'Corvish Pokémon', 'Troll Pokémon', 'Steel Bull Pokémon', 'Bug Pokémon', 'Sleeping Queen Pokémon', 'Cascoon Pokémon', 'Long Sword Pokémon', 'Jewel Roll Pokémon', 'Drawn Life Pokémon', 'Fire Gun Pokémon', 'Water Shark Pokémon', 'Chewtle Pokémon', 'Spiraling Pokémon', 'Pig Bird Pokémon', 'Bat Pokémon', 'Apple-Pig Pokémon', 'Croc Pokémon', 'Wind Pokémon', 'Kart Pokémon', 'Spiny Armor Pokémon<', 'Dragoon Pokémon', 'Lol Pokémon', 'Chew', 'Cremation Pokémon', 'Apple Candy', 'Electro-Giga Pokémon', 'Lillipup Pokémon', 'Cinder Pokémon', 'Spark Pokémon<', 'Mantyke Pokémon', 'Water Bag Pokémon', 'Snorlax Pokémon', 'Lileep Pokémon', 'Single Cub Pokémon', 'Mare Pokémon', 'Plant Pokémon', 'Era Pokémon', 'Bloom Pokémon', 'Pilosevious Pokémon', 'Wigglytuff Pokémon', 'Dwarf Pokémon', 'Chewtle Pokémon', 'Giraffes Pokémon', 'Crawd Horse Pokémon', 'Sea Cucumber Pokémon', 'Intuition Pokémon', 'Crop Seed Pokémon', 'Fire Creeper Pokémon', 'Lunatic Pokémon', 'Golem Pokémon', 'Wild Mouse Pokémon', 'Royal Bird Pokémon', 'Ludicolo Pokémon', 'Cotton Puff', 'Crawdaunt Pokémon', 'Elekid Pokémon', 'Sunspot Pokémon', 'Copper Head Pokémon', 'Nectar Pokémon', 'Gogor', 'Spicy Pokémon', 'Berry Pokémon', 'Cretacrux Pokémon', 'Aloe vera flower', 'Gleam Mouth Pokémon', 'Pounce Pokémon', 'Centaur Pokémon', 'Degrade Pokémon', 'Swirl Pokémon', 'Maw Pokémon', 'Flounder Pokémon', 'Iron Barracuda Pokémon', 'Tiger Shark Pokémon', 'Illusion-Punching Pokémon', 'Dracozolt Pokémon', 'Strong Rock Pokémon', 'Bloom Gland Pokémon', 'Mummy Pokémon', 'Plump Pupil Pokémon', 'Steel Core Pokémon', 'Pulse Pokémon', 'SeaShiner Pokémon', 'Toothpick Pokémon', 'Corrupted Bird Pokémon', 'Skate Jump Pokémon', 'Radish Pokémon', 'Stun Pokémon', 'Beed Pokémon', 'Single Pawn Pokémon', 'Eartle Pokémon', 'Secret Pokémon', 'Pulse Pokémon', 'Crystallite Pokémon', 'Snow Cat Pokémon', 'Archetype Pokémon', 'Blade Cutter', 'Purple Pokémon', 'Masquerain Pokémon']
+SHAPE - uniques: ['blob', 'quadruped down. Instead, it’s fascinated by a volcano.', 'upidate']
+HABITAT - uniques: []
+TYPES - uniques: ['flying normal', 'fighting steel', 'grass berries', 'dark poison', 'ghost water', 'flying rock', 'flying normal', 'dragon poison', 'big-jaw', 'steel steel', 'flying normal', 'dragonFlying', 'poison grass', 'poison', 'bug normal', 'purple fairy', 'flying ice']
+COLOR - uniques: []

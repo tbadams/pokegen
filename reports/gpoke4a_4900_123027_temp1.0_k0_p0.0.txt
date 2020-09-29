@@ -1,0 +1,25 @@
+
+Perfect: 109/507 (21.50%)
+Incomplete: 222/507 (43.79%)
+Have Extras: 228/507 (44.97%)
+Contain Garbage: 7/507 (1.38%)
+Missing Values: 584
+Extra Values: 307
+Garbage Values: 7
+NAME: unique: 74/507 (14.60%), valid: 448/507 (88.36%), missing: 35/507 (6.90%), extra: 24/507 (4.73%), 
+CATEGORY: unique: 72/507 (14.20%), valid: 440/507 (86.79%), missing: 56/507 (11.05%), extra: 11/507 (2.17%), 
+TYPES: unique: 22/507 (4.34%), valid: 420/507 (82.84%), missing: 58/507 (11.44%), extra: 29/507 (5.72%), 
+ABILITIES: unique: 99/507 (19.53%), valid: 421/507 (83.04%), missing: 58/507 (11.44%), extra: 28/507 (5.52%), 
+MOVES: unique: 359/507 (70.81%), valid: 394/507 (77.71%), missing: 85/507 (16.77%), extra: 28/507 (5.52%), 
+HEIGHT: unique: 3/507 (0.59%), valid: 421/507 (83.04%), missing: 54/507 (10.65%), extra: 32/507 (6.31%), 
+WEIGHT: unique: 38/507 (7.50%), valid: 418/507 (82.45%), missing: 55/507 (10.85%), extra: 34/507 (6.71%), 
+COLOR: unique: 0/507 (0.00%), valid: 430/507 (84.81%), missing: 60/507 (11.83%), extra: 17/507 (3.35%), 
+SHAPE: unique: 3/507 (0.59%), valid: 434/507 (85.60%), missing: 52/507 (10.26%), extra: 21/507 (4.14%), 
+HABITAT: unique: 3/507 (0.59%), valid: 413/507 (81.46%), missing: 31/507 (6.11%), extra: 63/507 (12.43%), 
+DESCRIPTION: unique: 466/507 (91.91%), valid: 447/507 (88.17%), missing: 40/507 (7.89%), extra: 20/507 (3.94%), 
+NAME - uniques: ['Patrat', 'Amstell', 'Nelty', 'Twister', 'Bladeprope', 'Mastish Protector', 'Zowsing', 'Himepard', 'Hulk', 'Ethery', 'Martags', 'Rundurn', 'Pillar', 'Ceadego', 'Tinkutor', 'Gurr*, burrow-cave Pokémon', 'Desperado', 'Auraix', 'Bidoof', 'Bloom Sickle', 'Foldie', 'Jounver', 'Multiscaleena', 'Litwickax', 'Sigilypp', 'Seagull', 'Bivalve Pokémon', 'Braix Coltund»', 'Skwuffe', 'Weave', 'Wing Duck', 'Beebaker', 'Soft joint', 'Raltakutz', 'Maractus', 'Beeew', 'Gourgeiv', 'Hooscoat', 'Klinkofty', 'Chednium', 'Litlea', 'Mokomma', 'Ragnorok', 'EKAN', 'Caring{0.1 m, -10cm', 'Scalepie', 'Atrocious Body, ancient magick, ancient power', '', 'Zera', 'TYPESTER', 'Shereyn', 'Muscular', 'Blazing', 'REGISTE', 'Chikashi', 'Arbelon', 'Durban', 'Pippen', 'Zoroark', 'Klinké', 'Bronin', 'Dream Eater', 'WoolBat', 'Sorcery', 'Sgor-Mites', 'fighting', 'Dediculously Cruel', 'Weedoold', 'Eternoboar', 'Fruitcakes', 'Gardenhose', 'Bite', 'Chedn-', 'Piscipennis']
+CATEGORY - uniques: ['EleSquiggle Pokémon', 'Yan Pokémon', 'Hippopotamus Pokémon', 'Necromunda Pokémon', 'Ether Pokémon', 'Scratch Armor Pokémon', 'Zygarde Pokémon', 'Igg Pokémon', 'Evolutionary Pokémon', 'Sail Pokémon', 'Ironed Pokémon', 'Sand Bag Pokémon', 'Guzzlord Pokémon', 'Long Neck', 'Pop Pheromones Pokémon', 'One Inch Pokémon', 'Copperneon', 'Goth', 'Starmie Pokémon', 'Leaf-Bat Pokémon', 'Ogre', 'Berry Pokémon', 'Eldrazi Pokémon', 'Gloomdweller Pokémon', 'Politoedge Pokémon', 'Black Misdreavus Pokémon', 'Pierilus Pokémon', 'Led Pokémon', 'Masonic Pokémon', 'Grass Quill Quill Pokémon', 'Bright Star Pokémon', 'Wing Duck Pokémon', 'Cunning Pokémon', 'Rage Pokémon', 'Tiny Pin Pokémon', 'Five-Star Depression Pokémon', 'Hoosch Pokémon', 'Coppervall', 'Toxic Monkey Pokémon', 'Ball Dig Pokémon', 'Copper Wing Pokémon', 'Killer Cheetah Pokémon', 'FLAME Pokémon', 'Praxis Pokémon', 'Door-Mon Pokémon', 'Zen Healer', 'Jaw-On Pokémon', 'White Pokémon', 'Laziness Pokémon', 'Single Star Pokémon', 'White Pokémon', 'Dark Forest Pokémon', 'Finest Pokémon', 'Coyceo Pokémon', 'Atoms Pokémon', 'Grass Pokémon', 'Clefairy Pokémon', 'Lift Pokémon', 'Bronzing Pokémon', 'Eaton Pokémon', 'Aqua Rabbit Pokémon', 'Regirole Pokémon', 'When Starlight Rises, Anticipation and a small ball of Itsogony gathers momentum and travels up to the surface of the ocean.', 'Anteater Pokémon', 'Stun Pokémon', 'Disk Pokémon', 'Know Their Friends Pokémon', 'Older Pokémon', 'Tiny Swore Pokémon', 'Martial Pokémon', 'Ant Corrosion Pokémon', 'Deer Shape Pokémon']
+SHAPE - uniques: ['fighting', 'green', 'up’s']
+HABITAT - uniques: ['rough', '', 'tantrum']
+TYPES - uniques: ['firework', 'fire Pokémon', 'fire fairy', 'ground', 'fighting steel', 'rock mountain', 'urban', 'bug Pokémon', 'fighting steel', 'water mud', 'flame', 'normal poison', 'fighting steel', 'ice fairy', 'black grass', 'fighting steel', 'steel lightning', 'fly', 'water head', 'rock electric', 'grass electric', 'fire fairy']
+COLOR - uniques: []

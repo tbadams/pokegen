@@ -1,0 +1,25 @@
+
+Perfect: 147/500 (29.40%)
+Incomplete: 159/500 (31.80%)
+Have Extras: 211/500 (42.20%)
+Contain Garbage: 0/500 (0.00%)
+Missing Values: 308
+Extra Values: 286
+Garbage Values: 0
+NAME: unique: 63/500 (12.60%), valid: 431/500 (86.20%), missing: 12/500 (2.40%), extra: 57/500 (11.40%), 
+CATEGORY: unique: 44/500 (8.80%), valid: 446/500 (89.20%), missing: 44/500 (8.80%), extra: 10/500 (2.00%), 
+TYPES: unique: 6/500 (1.20%), valid: 452/500 (90.40%), missing: 32/500 (6.40%), extra: 16/500 (3.20%), 
+ABILITIES: unique: 62/500 (12.40%), valid: 466/500 (93.20%), missing: 11/500 (2.20%), extra: 23/500 (4.60%), 
+MOVES: unique: 311/500 (62.20%), valid: 433/500 (86.60%), missing: 27/500 (5.40%), extra: 40/500 (8.00%), 
+HEIGHT: unique: 1/500 (0.20%), valid: 450/500 (90.00%), missing: 35/500 (7.00%), extra: 15/500 (3.00%), 
+WEIGHT: unique: 26/500 (5.20%), valid: 447/500 (89.40%), missing: 38/500 (7.60%), extra: 15/500 (3.00%), 
+COLOR: unique: 0/500 (0.00%), valid: 449/500 (89.80%), missing: 27/500 (5.40%), extra: 24/500 (4.80%), 
+SHAPE: unique: 0/500 (0.00%), valid: 425/500 (85.00%), missing: 29/500 (5.80%), extra: 46/500 (9.20%), 
+HABITAT: unique: 0/500 (0.00%), valid: 445/500 (89.00%), missing: 23/500 (4.60%), extra: 32/500 (6.40%), 
+DESCRIPTION: unique: 470/500 (94.00%), valid: 462/500 (92.40%), missing: 30/500 (6.00%), extra: 8/500 (1.60%), 
+NAME - uniques: ['Mayslash', 'Cottonveil', 'Nidorina', 'Patrat', 'Argyle', 'Eaglet', 'Pachirisau', 'Sky High Pokémon', 'Spinybug', 'Licking', 'Ironguard', 'Scorpion', 'Scorpion', 'Kraken', 'Gloomdweller', 'Lingering Pokémon', 'Atrocious Blade', 'Rangipour', 'Wily', 'Cocoon', 'Wushu', 'Pumpkake', 'Cottonemongloper', 'Shedding', 'Giantud Pokémon', 'Gearrath', 'Beebe', 'Big Hornet', 'Gasper', 'Mega-charizard', 'Viggo', 'Skye', 'Rugby', 'Cherchezaur', 'Ajabita', 'Audit', 'Honeydew', 'Contrary', 'Aridew', 'FangryDog', 'Windrai', 'Wool', 'Colbur', 'Alola', 'Cottonweed', 'Piglet', 'Bulk-Yard Pokémon', 'Iron Armor', 'Bubbleguys', 'Skewer', 'Balloonie', 'Royalpaw', 'Arako', 'Spinyrene', 'Bubblegum', 'Mawrock', 'SeaWool', 'Dracov', 'Changeling', 'Strong Arm', 'Cottonoon', 'Ravenit', 'Piglet']
+CATEGORY - uniques: ['Porygon Pokémon', 'Caterpie Pokémon', 'Crust Pokémon', 'Beed Pokémon', 'Nidoran Pokémon', 'Sky High Fly Pokémon', 'Anticipation Pokémon', 'Soybean Pokémon', 'Wing Pokémon', 'Moltdra Pokémon', 'Pig Pigeon Pokémon', 'Gloomdweller Pokémon', 'White Snake Pokémon', 'Hatred Pokémon', 'Lapras Pokémon', 'Poison Mouse Pokémon', 'Genetically Modified Pokémon', 'Wind Pokémon', 'Bling Pokémon', 'Sky High Fly Pokémon', 'Astral Being Pokémon', 'Fly Scorpion', 'Honeycomb Pokémon', 'Balloon Pokémon.', 'Wind Pokémon', 'Cobalion Pokémon', 'Cute Pokémon', 'Nose-Mount Pokémon', 'Tiny Pokémon', 'Classy Pokémon', 'EleBug Pokémon', 'Bin Pokémon', 'Wound Pokémon', 'Stak Pokémon', 'Flapping Bird Pokémon', 'Flail Pokémon', 'Mummy Pokémon', 'Teddi-buff Pokémon', 'Drac Pod Pokémon', 'Kangaskhan Pokémon', 'Pikachu Pokémon', 'Mummy Pokémon', 'Eelektrik Pokémon', 'Beetle Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['fighting grass', 'white flying', 'grass telepathy', 'ground ground', 'flying dragon', 'steel lightning']
+COLOR - uniques: []

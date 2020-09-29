@@ -1,0 +1,23 @@
+
+Perfect: 120/500 (24.00%)
+Incomplete: 312/500 (62.40%)
+Have Extras: 131/500 (26.20%)
+Contain Garbage: 0/500 (0.00%)
+Missing Values: 471
+Extra Values: 170
+Garbage Values: 0
+NAME: unique: 65/500 (13.00%), valid: 417/500 (83.40%), missing: 11/500 (2.20%), extra: 72/500 (14.40%), 
+CATEGORY: unique: 108/500 (21.60%), valid: 439/500 (87.80%), missing: 52/500 (10.40%), extra: 9/500 (1.80%), 
+TYPES: unique: 11/500 (2.20%), valid: 452/500 (90.40%), missing: 36/500 (7.20%), extra: 12/500 (2.40%), 
+ABILITIES: unique: 339/500 (67.80%), valid: 469/500 (93.80%), missing: 23/500 (4.60%), extra: 8/500 (1.60%), 
+MOVES: unique: 312/500 (62.40%), valid: 460/500 (92.00%), missing: 33/500 (6.60%), extra: 7/500 (1.40%), 
+HEIGHT: unique: 0/500 (0.00%), valid: 472/500 (94.40%), missing: 20/500 (4.00%), extra: 8/500 (1.60%), 
+WEIGHT: unique: 5/500 (1.00%), valid: 324/500 (64.80%), missing: 175/500 (35.00%), extra: 1/500 (0.20%), 
+COLOR: unique: 0/500 (0.00%), valid: 459/500 (91.80%), missing: 33/500 (6.60%), extra: 8/500 (1.60%), 
+SHAPE: unique: 0/500 (0.00%), valid: 470/500 (94.00%), missing: 16/500 (3.20%), extra: 14/500 (2.80%), 
+HABITAT: unique: 0/500 (0.00%), valid: 455/500 (91.00%), missing: 20/500 (4.00%), extra: 25/500 (5.00%), 
+DESCRIPTION: unique: 442/500 (88.40%), valid: 442/500 (88.40%), missing: 52/500 (10.40%), extra: 6/500 (1.20%), 
+NAME - uniques: ['Hexepath', 'Frost Goth', 'Tartillery', 'Pitbull', 'Bagworm', 'Cobra', 'Scarf', 'Coalombus', 'Cocoon', 'Cottonweed', 'Cottonweave Pokémon', 'Citwick', 'Lissile', 'Bagua', 'Fable', 'Tartillery', 'Gotham', 'Bubble Frog', 'Blip', 'Mushroom', 'Cottonwool', 'Larva', 'Melectric', 'Aurora', 'Hagga', 'Karting', 'Cottonwool', 'Diapered Star', 'Bagworm', 'Lunad', 'MouseKing', 'Citroard', 'Lingering Pokémon', 'Hexeposs', 'Troublemaker', 'Luxitruk', 'Mushroom', 'Lilith', 'Lilith', 'Zombian', 'Cocoon', 'Brutalisk', 'Spikes', 'Mushroom', 'Aurora', 'Torch', 'Flameyl', 'Candyem', 'Pugilax', 'Toxichearts', 'Fox', 'Stodoth', 'Nidoraj', 'Dottle', 'Shirota', 'Cottonweed', 'Blaze', 'Luxitale', 'Mudbrower', 'Melectric', 'Cottonweed', 'Megelacron', 'Avalanche', 'Lilith', 'Foxaur']
+CATEGORY - uniques: ['Bolt Pokémon', 'Arctozolt Pokémon', 'Spiny Pokémon', 'Frost Pokémon', 'Gleam Bird Pokémon', 'Eelektross Pokémon', 'Tiny Tree Pokémon', 'Tiny Tree Pokémon', 'Golem Pokémon', 'Fire Frog Pokémon', 'Lion King Pokémon', 'Frost Pokémon', 'Luxury Pokémon', 'Bouffalant Pokémon', 'Krokorok Pokémon', 'Citrus Pokémon', 'Ice Land Pokémon', 'Sky Tree Pokémon', 'Wing Pokémon', 'Fang Monkey Pokémon', 'Chewtle Pokémon', 'Fighter Pokémon', 'Wailmer Pokémon', 'Tornado Pokémon', 'Dive Pokémon', 'Tiny Whale Pokémon', 'FireFox Pokémon', 'Tiny Pokémon', 'Wild Fowl Pokémon', 'Mimicking Pokémon', 'Blob Pokémon', 'Iron Dome Pokémon', 'Hairy Pokémon', 'Cat Pit Pokémon', 'Pikachu Pokémon', 'Tiny Claw Pokémon', 'Dive Pokémon', 'Tranquill Pokémon', 'Necrobasil Pokémon', 'Wailmer Pokémon', 'Moon Pokémon', 'Electro-Ball Pokémon', 'Eating Pokémon', 'Aqua Pokémon', 'Nidoran Pokémon', 'Lillipup Pokémon', 'Land Turtle Pokémon', 'Blastoise Pokémon', 'Zombie Pokémon', 'Brutal Blade Pokémon', 'Big Bird Pokémon', 'Dawn Pokémon', 'Sandshrew Pokémon', 'Spike Pokémon', 'Fang Pokémon', 'Dive Pokémon', 'Makuhita Pokémon', 'Bouffalant Pokémon', 'Pondigram Pokémon', 'Ogre Snowman Pokémon', 'Tiny Cat Pokémon', 'Lilligant Pokémon', 'Fang Monkey Pokémon', 'Goth Pokémon', 'Tiny Cat Pokémon', 'Chewtle Pokémon', 'Sandygastian Pokémon', 'Lion Pokémon', 'Fang Pokémon', 'Star Pokémon', 'Nidoran♂ Pokémon', 'Apple Pokémon', 'Charm Pokémon', 'Tiny Fish Pokémon', 'Tropical Pokémon', 'Horse Pokémon', 'Ectoplasmic Pokémon', 'Snow Gecko Pokémon', 'Tiny Pokémon', 'Mud Pokémon', 'Luxury Pokémon', 'Stun Pokémon', 'Frost Pokémon', 'Mush Pokémon', 'Dodging Pokémon', 'Apple Tree Pokémon', 'Linguistic Pokémon', 'Stuff Pokémon', 'Melting Snow Pokémon', 'Pondweb Pokémon', 'Apple Curdle Pokémon', 'Single Mover Pokémon', 'Mud Pokémon', 'Blast Wave Pokémon', 'Snowman Pokémon', 'Furfrou Pokémon', 'Wailveld Pokémon', 'Plump Pokémon', 'Damp Pokémon', 'Luxury Pokémon', 'Bubble Pokémon', 'Blob Pokémon', 'Tiny Pokémon', 'Starve Pokémon', 'Lillipup Pokémon', 'Tyrantrum Pokémon', 'Fire Fox Pokémon', 'Chewtle Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []

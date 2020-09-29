@@ -1,0 +1,25 @@
+
+Perfect: 170/500 (34.00%)
+Incomplete: 135/500 (27.00%)
+Have Extras: 210/500 (42.00%)
+Contain Garbage: 1/500 (0.20%)
+Missing Values: 250
+Extra Values: 316
+Garbage Values: 1
+NAME: unique: 48/500 (9.60%), valid: 428/500 (85.60%), missing: 14/500 (2.80%), extra: 58/500 (11.60%), 
+CATEGORY: unique: 41/500 (8.20%), valid: 462/500 (92.40%), missing: 32/500 (6.40%), extra: 6/500 (1.20%), 
+TYPES: unique: 13/500 (2.60%), valid: 459/500 (91.80%), missing: 11/500 (2.20%), extra: 30/500 (6.00%), 
+ABILITIES: unique: 59/500 (11.80%), valid: 452/500 (90.40%), missing: 12/500 (2.40%), extra: 36/500 (7.20%), 
+MOVES: unique: 365/500 (73.00%), valid: 438/500 (87.60%), missing: 19/500 (3.80%), extra: 43/500 (8.60%), 
+HEIGHT: unique: 0/500 (0.00%), valid: 455/500 (91.00%), missing: 36/500 (7.20%), extra: 9/500 (1.80%), 
+WEIGHT: unique: 20/500 (4.00%), valid: 447/500 (89.40%), missing: 46/500 (9.20%), extra: 7/500 (1.40%), 
+COLOR: unique: 1/500 (0.20%), valid: 455/500 (91.00%), missing: 11/500 (2.20%), extra: 34/500 (6.80%), 
+SHAPE: unique: 1/500 (0.20%), valid: 440/500 (88.00%), missing: 18/500 (3.60%), extra: 42/500 (8.40%), 
+HABITAT: unique: 0/500 (0.00%), valid: 440/500 (88.00%), missing: 19/500 (3.80%), extra: 41/500 (8.20%), 
+DESCRIPTION: unique: 468/500 (93.60%), valid: 459/500 (91.80%), missing: 32/500 (6.40%), extra: 9/500 (1.80%), 
+NAME - uniques: ['Neeb', 'Mysticavia', 'Starling', 'Mantisaw', 'Synthetic', 'Kirby', 'Porygon2', 'Blazeed', 'Yawn', 'Ruffiol', 'Wushu', 'Royal Horn Pokémon', 'Catull', 'Thunderbolt', 'Wormhole', 'Mushroom', 'Megelos', 'Memento', 'ToxicheIGHT', 'Gloomdweller', 'Byers', 'Sapna', 'Ironguard', 'Vanilla', 'Gudacorp', 'Pigment', 'Owlpie', 'Triple Null', 'Bunchanse', 'Beegeys', 'Cottonweed', 'Pino-Cup', 'Coalix', 'Kadoodle', 'Larva', 'Swarm', 'Jewelajou', 'Marear', 'Sawmill', 'Pitwee', 'Dusknoir', 'Cottonweed', 'Reshiram', 'Gigantamax', 'Fryne', 'Renfrow', 'Royal Ant', 'Granplow']
+CATEGORY - uniques: ['Tricky Duck Pokémon', 'Heavyweight Armor Pokémon', 'Binacle Pokémon', 'Royal Horn Pokémon', 'Ogre Snake Pokémon', 'Cat Pokémon', 'Copper Wing Pokémon', 'Anime Pokémon', 'Dive Pokémon', 'Mage Pokémon', 'Nidoran Pokémon', 'Transforming Pokémon', 'Mere Bloom Pokémon', 'Gloomdance Pokémon', 'Necro\xad\xad log Pokémon', 'Sea Lion Pokémon', 'Mantine Pokémon', 'Binacle Pokémon', 'Longbow Pokémon', 'Sea Bird Pokémon', 'Moodle Pokémon', 'Mummy Pokémon', 'Mummy Pokémon', 'Chimecho Pokémon', 'Volt Pokémon', 'Muffler Pokémon', 'Mantyke Pokémon', 'Beed Pokémon', 'Munchlax Pokémon', 'Anteater Pokémon', 'Lit Lifesaver Pokémon', 'Pit Pokémon', 'EleMuscularMusic Pokémon', 'Ogre Pokémon', 'Simulacoll Pokémon', 'Pikachu Pokémon', 'Tiny Fish Pokémon', 'Gogol’t Pokémon', 'Single Pokémon', 'Frostbolt Pokémon', 'Corrosion Pokémon']
+SHAPE - uniques: ['fighting']
+HABITAT - uniques: []
+TYPES - uniques: ['fighting steel', 'steel steel', 'ghost', 'fighting steel', 'fighting steel', 'rock ghost', 'dragon rock', 'dragon steel', 'rock electric', 'ghost', 'water fire', 'frost fairy', 'dragon poison']
+COLOR - uniques: ['black']

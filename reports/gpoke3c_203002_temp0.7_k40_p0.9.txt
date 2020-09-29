@@ -1,0 +1,23 @@
+
+Perfect: 125/500 (25.00%)
+Incomplete: 294/500 (58.80%)
+Have Extras: 137/500 (27.40%)
+Contain Garbage: 1/500 (0.20%)
+Missing Values: 464
+Extra Values: 183
+Garbage Values: 1
+NAME: unique: 72/500 (14.40%), valid: 416/500 (83.20%), missing: 1/500 (0.20%), extra: 83/500 (16.60%), 
+CATEGORY: unique: 111/500 (22.20%), valid: 435/500 (87.00%), missing: 60/500 (12.00%), extra: 5/500 (1.00%), 
+TYPES: unique: 7/500 (1.40%), valid: 448/500 (89.60%), missing: 43/500 (8.60%), extra: 9/500 (1.80%), 
+ABILITIES: unique: 345/500 (69.00%), valid: 456/500 (91.20%), missing: 26/500 (5.20%), extra: 18/500 (3.60%), 
+MOVES: unique: 293/500 (58.60%), valid: 450/500 (90.00%), missing: 40/500 (8.00%), extra: 10/500 (2.00%), 
+HEIGHT: unique: 0/500 (0.00%), valid: 475/500 (95.00%), missing: 20/500 (4.00%), extra: 5/500 (1.00%), 
+WEIGHT: unique: 8/500 (1.60%), valid: 335/500 (67.00%), missing: 165/500 (33.00%), extra: 0/500 (0.00%), 
+COLOR: unique: 1/500 (0.20%), valid: 467/500 (93.40%), missing: 31/500 (6.20%), extra: 2/500 (0.40%), 
+SHAPE: unique: 0/500 (0.00%), valid: 458/500 (91.60%), missing: 20/500 (4.00%), extra: 22/500 (4.40%), 
+HABITAT: unique: 0/500 (0.00%), valid: 456/500 (91.20%), missing: 19/500 (3.80%), extra: 25/500 (5.00%), 
+DESCRIPTION: unique: 457/500 (91.40%), valid: 457/500 (91.40%), missing: 39/500 (7.80%), extra: 4/500 (0.80%), 
+NAME - uniques: ['Dopey', 'Nagan', 'Ravencrest', 'Ember', 'Generation’2', 'Megadred', 'Cocoon', 'Aurora', 'Ragnorok', 'Cottonweed', 'Ludicia', 'Ember', 'Citrochy', 'Grassow', 'Hawk', 'Sage', 'Memento', 'Fruit Ball', 'Bubble Bug', 'Baganet', 'Eggman', 'Gloomda', 'Poltup', 'Cocoon', 'Copperit', 'Fox', 'Gigapuda', 'Scalyder', 'Spinyrene', 'Gobburr', 'ValiantEggplant', 'Ludicatone', 'Purple', 'Fangry', 'Scaly', 'Citrus Pin', 'Moonbat', 'Duckka', 'Grassom', 'Cocoon', 'Scalyder', 'Bubblebeast', 'Mudbrower', 'Eggweaving', 'Scattergrass', 'Ruffiolu', 'Spinybug', 'Nidoraj', 'Viggo', 'TigerPUF', 'Scalyder', 'Lingering', 'Fangoroth', 'Gobbimbo', 'Bubble Frog', 'Klo\xadchan', 'Windfury', 'Sawail', 'Terrapod', 'Pugilist', 'Blazingox', 'Savage{3', 'Citwick', 'Blip', 'Xurkitra', 'Hulk', 'Poltergift', 'Zilean', 'Bonsai', 'Yamcha', 'Ravencrest', 'Cherchezus']
+CATEGORY - uniques: ['Kubfu Pokémon', 'Shelter Pokémon', 'Ectoplasm Pokémon', 'Berry Pokémon', 'Plankton Pokémon', 'Buneary Pokémon', 'Fisherman Pokémon', 'Megamune Pokémon', 'Odd Pokémon', 'Sandstorm Pokémon', 'Ice Cold Pokémon', 'Yamper Pokémon', 'Tyrantrum Pokémon', 'Tiny Pokémon', 'Charm Pokémon', 'Snow Gecko Pokémon', 'Rattata Pokémon.', 'Snorting Pokémon', 'Fire Pokémon', 'Hair Pokémon', 'Flail Pokémon', 'Lillipup Pokémon', 'Wild Mouse Pokémon', 'Vegan Pokémon', 'Horse Pokémon', 'Honeybee Pokémon', 'Pikachu Pokémon', 'Bubble Bug Pokémon', 'Tiny Grass Pokémon', 'Fisher Shark Pokémon', 'Pond Skater', 'Land Pokémon', 'Gleam Pokémon', 'Apple Pokémon', 'Copperite Pokémon', 'Scyther Pokémon', 'Illusion Pokémon', 'Fang Monkey Pokémon', 'Apple Pokémon', 'Cat Pokémon', 'Bug Pokémon', 'Spiny Pokémon', 'Fennekin Pokémon', 'Tiny Pokémon', 'Big-Skunk Pokémon', 'Ludicatone Pokémon', 'Pidgey Pokémon', 'Purple Pokémon', 'Horse Pokémon', 'Duck Sword Pokémon', 'Lion Pokémon', 'Pangoro Pokémon', 'Big-Pig Pokémon', 'Copper Wing Pokémon', 'Tiny Quill Pokémon', 'Beed Pokémon', 'Compound Pokémon', 'Drought Pokémon', 'Tiny Pokémon', 'Tiny Pokémon', 'Bash Up Pokémon', 'First Strike Pokémon', 'Cat Pokémon', 'Grass Nut Pokémon', 'Big-Skunk Pokémon', 'Tiny Cat Pokémon', 'Bubble Pokémon', 'Nidoran Pokémon', 'Mud Shark Pokémon', 'Big Body Pokémon', 'Sleeping Beauty Pokémon', 'Luxury Pokémon', 'Fletchling Pokémon', 'Spiny Bird Pokémon', 'Tiny Pokémon', 'Sea World Pokémon', 'Tiny Pokémon', 'Tiger Pin Pokémon', 'Bronze Peak Pokémon', 'Blob Pokémon', 'Beautiful Pokémon', 'Chewtle Pokémon', 'Brutal Sword Pokémon', 'Era Pokémon', 'Lunatic Pokémon', 'Mud Pokémon', 'Growl Pokémon', 'Windfury Pokémon', 'Terrain Pokémon', 'Mud Pokémon', 'Big-Brained Pokémon', 'Lure Pokémon', 'Ledyba Pokémon', 'Spicy Pokémon', 'Pigeon Pokémon', 'Frost Pokémon', 'Cater Pokémon', 'Drawn Innervation Pokémon', 'Litten Pokémon.', 'Kangaskhan Pokémon', 'Luxury Pokémon', 'Wood Armor Pokémon', 'Poltergift Pokémon', 'Spiny Pokémon', 'Wild Fox Pokémon', 'Moon Pokémon', 'Pony Pokémon', 'Frost Pokémon', 'Dung Beetle Pokémon', 'Flapping Bird Pokémon', 'Snow Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []

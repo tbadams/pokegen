@@ -1,0 +1,25 @@
+
+Perfect: 167/505 (33.07%)
+Incomplete: 119/505 (23.56%)
+Have Extras: 235/505 (46.53%)
+Contain Garbage: 6/505 (1.19%)
+Missing Values: 255
+Extra Values: 347
+Garbage Values: 37
+NAME: unique: 49/505 (9.70%), valid: 458/505 (90.69%), missing: 10/505 (1.98%), extra: 37/505 (7.33%), 
+CATEGORY: unique: 44/505 (8.71%), valid: 465/505 (92.08%), missing: 27/505 (5.35%), extra: 13/505 (2.57%), 
+TYPES: unique: 12/505 (2.38%), valid: 443/505 (87.72%), missing: 34/505 (6.73%), extra: 28/505 (5.54%), 
+ABILITIES: unique: 35/505 (6.93%), valid: 443/505 (87.72%), missing: 18/505 (3.56%), extra: 44/505 (8.71%), 
+MOVES: unique: 319/505 (63.17%), valid: 432/505 (85.54%), missing: 34/505 (6.73%), extra: 39/505 (7.72%), 
+HEIGHT: unique: 0/505 (0.00%), valid: 466/505 (92.28%), missing: 29/505 (5.74%), extra: 10/505 (1.98%), 
+WEIGHT: unique: 10/505 (1.98%), valid: 448/505 (88.71%), missing: 31/505 (6.14%), extra: 26/505 (5.15%), 
+COLOR: unique: 0/505 (0.00%), valid: 452/505 (89.50%), missing: 23/505 (4.55%), extra: 30/505 (5.94%), 
+SHAPE: unique: 0/505 (0.00%), valid: 469/505 (92.87%), missing: 21/505 (4.16%), extra: 15/505 (2.97%), 
+HABITAT: unique: 0/505 (0.00%), valid: 433/505 (85.74%), missing: 11/505 (2.18%), extra: 61/505 (12.08%), 
+DESCRIPTION: unique: 487/505 (96.44%), valid: 464/505 (91.88%), missing: 17/505 (3.37%), extra: 24/505 (4.75%), 
+NAME - uniques: ['Copperix', 'Sprout', 'Miluruful', 'Larva', 'Gothic', 'Rolycoat', 'Roly-Poly', 'togekiss', 'Snowgator', 'Pit-("Icy Overlord")', 'Wing Fish', 'Zenitet', 'Frostedgeom', 'Kadaphos', 'Ereco', 'Meringue', 'Mayseltax', 'isdre’ture', 'Español', 'Flaxangel', 'Dunkle', 'Ember', 'Meringue', 'Zombacite', 'Scraft Pokémon', 'Flareo', 'Poketank', 'Torterour like', 'Unicorn', 'Rillaboss', 'Flower', 'Disguise', 'Coalient', 'Sea Majesty', 'Balloon Pokémon', 'Poliwhirl Pokémon', 'Rikot', 'Bagel', 'Hexepul', 'Ciclops', 'Spider-Woman', 'Ludicantis', 'Yossarian', 'Eccurin', 'Curbice', 'Starve Pokémon', 'Pitwe', 'Tardencul', 'Larva']
+CATEGORY - uniques: ['Copperder Pokémon', 'Magearna Pokémon', 'Gothic Pokémon', 'Plant Pokémon', 'Royal Bird Pokémon', 'White Pokémon', 'Tough Pokémon', 'Honedge Pokémon', 'Munchlax Pokémon', 'Masonic Pokémon', 'Nihilego Pokémon', 'Gloom Pokémon', 'Flapping Turtle Pokémon', 'Ogre Pokémon', 'Punch Pokémon', 'Sea Bird Pokémon', 'Zombie Pokémon', 'Bat Pokémon', 'Larvitar Pokémon', 'Frost Spirit', 'Rain Pokémon', 'Psychic Pokémon', 'Iron Armor', 'Bulbム Pokémon', 'Martial Pokémon', 'Beheeyem Pokémon', 'Sand Scorpion Pokémon', 'Dredge Pokémon', 'Bronze Nose Pokémon', 'Carnivale Pokémon', 'Plant Pokémon', 'Dusk Pokémon', 'Smoking Pokémon', 'Spiny Ball Pokémon', 'Interdimensional Pokémon', 'Bay Area Pokémon', 'Furrowrle Pokémon', 'Swadly Pokémon', 'Snore Pokémon', 'Iron Beak Pokémon', 'Gumshower Pokémon', 'Berry Pokémon', 'Iron-Fist Pokémon', 'Gumshoos Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['rock electric', 'dark dark', 'flying dragon Pokémon', 'fighting steel', 'fighting steel', 'grassland', 'fire fairy', 'electric', 'pressure', 'electric', 'rock electric', 'fighting steel']
+COLOR - uniques: []

@@ -1,0 +1,25 @@
+
+Perfect: 149/505 (29.50%)
+Incomplete: 192/505 (38.02%)
+Have Extras: 185/505 (36.63%)
+Contain Garbage: 6/505 (1.19%)
+Missing Values: 402
+Extra Values: 264
+Garbage Values: 6
+NAME: unique: 78/505 (15.45%), valid: 430/505 (85.15%), missing: 27/505 (5.35%), extra: 48/505 (9.50%), 
+CATEGORY: unique: 73/505 (14.46%), valid: 441/505 (87.33%), missing: 38/505 (7.52%), extra: 26/505 (5.15%), 
+TYPES: unique: 11/505 (2.18%), valid: 466/505 (92.28%), missing: 19/505 (3.76%), extra: 20/505 (3.96%), 
+ABILITIES: unique: 82/505 (16.24%), valid: 462/505 (91.49%), missing: 30/505 (5.94%), extra: 13/505 (2.57%), 
+MOVES: unique: 280/505 (55.45%), valid: 417/505 (82.57%), missing: 52/505 (10.30%), extra: 36/505 (7.13%), 
+HEIGHT: unique: 1/505 (0.20%), valid: 441/505 (87.33%), missing: 52/505 (10.30%), extra: 12/505 (2.38%), 
+WEIGHT: unique: 35/505 (6.93%), valid: 446/505 (88.32%), missing: 38/505 (7.52%), extra: 21/505 (4.16%), 
+COLOR: unique: 0/505 (0.00%), valid: 432/505 (85.54%), missing: 51/505 (10.10%), extra: 22/505 (4.36%), 
+SHAPE: unique: 1/505 (0.20%), valid: 451/505 (89.31%), missing: 31/505 (6.14%), extra: 23/505 (4.55%), 
+HABITAT: unique: 0/505 (0.00%), valid: 453/505 (89.70%), missing: 20/505 (3.96%), extra: 32/505 (6.34%), 
+DESCRIPTION: unique: 461/505 (91.29%), valid: 450/505 (89.11%), missing: 44/505 (8.71%), extra: 11/505 (2.18%), 
+NAME - uniques: ['Iron Armor', 'Beehive', 'Boldo', 'Perfume Mage', 'Generator-00', 'Dracov', 'Apple', 'Megahorn', 'Snowpike', 'Bulkowski', 'Zenee', 'Starling', 'Whale', 'Scramble', 'Windfury', 'Copperix', 'Centipede', 'Puffin', 'Coffin', 'Cricket Pokémon', 'Muk:', 'CherchezCentipede', 'Blipede', 'Maracas', 'Cottonburrow', 'CopperToothBean', 'Cottonveil', 'Vast White', 'Greedoom', 'Kartouken', 'Bagworm', 'Twisloo', 'Romeo', 'Mushroom', 'Tinyx', 'Erikus', 'Fox', 'Tinyguard', 'Spheol', 'CottonNecroem', 'Cottonweave', 'Grothmeister', 'Cottonweed', 'Cocoon', 'Cottonweed', 'Bouquet', 'Cottonveil', 'Swine', 'Fairy', 'Iceberg', 'Cocoon', 'Mitosis', 'Starling', 'Cobbapoo', 'Gardenhe\xad gs', 'Grunge', 'Coalix', 'Shedding', 'Mushroom', 'Cottonburrow', 'Cottoney', 'Mamo', 'Greedor', 'Cheddoth', 'Lingering', 'Larva', 'Constraint', 'Nicki Bear', 'Lingeringina', 'Stagner', 'Kartouken', 'Stoney Cat', 'Hibiki', 'Nagan', 'Gearramp', 'Molde', 'Sparkrix', 'Eternals']
+CATEGORY - uniques: ['Rolycoly Pokémon', 'Pig Sickle Pokémon', 'Royal Bird Pokémon', 'Illusion Pokémon', 'Lightning Quill Pokémon', 'Goldbug', 'Curing Pokémon', 'Iron Will Pokémon', 'Crate Pokémon', 'Zebstrika Pokémon', 'Scramble Pokémon', 'Windfury Pokémon', 'Milk Pokémon', 'Dust Monkey Pokémon', 'Copper Wing Pokémon', 'Tornado Pokémon', 'Sea Turtle Pokémon', 'Krokorok Pokémon', 'Muk Pokémon', 'Mocking Pokémon', 'Chikorita Pokémon', 'Copperdermite', 'Cat Pokémon', 'Steep Spit Pokémon', 'Ledy Pokémon', 'Neural Pokémon', 'Gumshoos Pokémon', 'War Bird Pokémon', 'Zen Headbutt Pokémon', 'Dive Pokémon', 'Chewtle Pokémon', 'Tornado Pokémon', 'Cougar Pokémon', 'Venomage Pokémon', 'Cavia Pokémon', 'Manty Mouse Pokémon', 'Hippopotamus Pokémon', 'Bruxish Pokémon', 'Cotton Nectar Pokémon', 'Pig Puff Pokémon', 'Chewtle Pokémon', 'Wine Pokémon', 'Big Sea Pokémon', 'Litleo Pokémon', 'River Fish Pokémon', 'Luxury Pokémon', 'Eating Pokémon', 'Honeybee Pokémon', 'Powdered Pokémon', 'Bug Pokémon', 'Apple’s Skin. It’s a vital ingredient in cooking up a delicious apple.', 'Pidgeot Pokémon', 'Sea World Pokémon', 'Cottonee Pokémon', 'Hat Pokémon', 'Dig Pokémon', 'Fox Horn Pokémon', 'Rainforest Pokémon', 'Star Pokémon', 'Bash Mouth Pokémon', 'Fly Pokémon', 'Pikachu Pokémon', 'Smoothie Pokémon', 'Skull Pokémon', 'Black Cat Pokémon', 'Wild Duck', 'Nicki Bear Pokémon', 'Cinder Pokémon', 'Tiger Shark Pokémon', 'Scaly Cat Pokémon', 'Doduo Pokémon', 'Bug Horn Pokémon', 'Leaf Pokémon']
+SHAPE - uniques: ['bug']
+HABITAT - uniques: []
+TYPES - uniques: ['pressure', 'firefighting', 'fire grass', 'ice fairy', 'fireground', 'psychic psychic', 'ice fairy', 'ground ground', 'fire fairy', 'green grass', 'rock electric']
+COLOR - uniques: []

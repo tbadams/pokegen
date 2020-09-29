@@ -1,0 +1,25 @@
+
+Perfect: 140/500 (28.00%)
+Incomplete: 163/500 (32.60%)
+Have Extras: 221/500 (44.20%)
+Contain Garbage: 1/500 (0.20%)
+Missing Values: 299
+Extra Values: 328
+Garbage Values: 1
+NAME: unique: 68/500 (13.60%), valid: 405/500 (81.00%), missing: 11/500 (2.20%), extra: 84/500 (16.80%), 
+CATEGORY: unique: 74/500 (14.80%), valid: 455/500 (91.00%), missing: 39/500 (7.80%), extra: 6/500 (1.20%), 
+TYPES: unique: 14/500 (2.80%), valid: 464/500 (92.80%), missing: 15/500 (3.00%), extra: 21/500 (4.20%), 
+ABILITIES: unique: 66/500 (13.20%), valid: 452/500 (90.40%), missing: 19/500 (3.80%), extra: 29/500 (5.80%), 
+MOVES: unique: 316/500 (63.20%), valid: 423/500 (84.60%), missing: 20/500 (4.00%), extra: 57/500 (11.40%), 
+HEIGHT: unique: 2/500 (0.40%), valid: 446/500 (89.20%), missing: 42/500 (8.40%), extra: 12/500 (2.40%), 
+WEIGHT: unique: 27/500 (5.40%), valid: 430/500 (86.00%), missing: 58/500 (11.60%), extra: 12/500 (2.40%), 
+COLOR: unique: 0/500 (0.00%), valid: 452/500 (90.40%), missing: 14/500 (2.80%), extra: 34/500 (6.80%), 
+SHAPE: unique: 0/500 (0.00%), valid: 453/500 (90.60%), missing: 25/500 (5.00%), extra: 22/500 (4.40%), 
+HABITAT: unique: 0/500 (0.00%), valid: 434/500 (86.80%), missing: 26/500 (5.20%), extra: 40/500 (8.00%), 
+DESCRIPTION: unique: 470/500 (94.00%), valid: 459/500 (91.80%), missing: 30/500 (6.00%), extra: 11/500 (2.20%), 
+NAME - uniques: ['Toxicocat', 'Blipede', 'Spike Ball', 'Luxitale', 'Coppertooth', 'Gudloops', 'Tadpole', 'Chef Jim', 'Gobbuffet', 'Ember', 'Mushroom', 'TurtleKing', 'Lunar', 'Pikopup', 'Owls', 'Blazingo', 'Bloom Sickle', 'Eaton', 'Orcinus', 'Murdock', 'Litlea', 'Skippudo', 'Warring Bros. Pokémon', 'Protomail', 'Skye', 'Aurora', 'Cottonweed', 'Wiggwole', 'Gloomda', 'Mawfalud', 'Fluffy', 'Scalepy', 'Batcameleon', 'Cunodile', 'Windirug', 'Cobra', 'Spelunky', 'Cocoon', 'Cottonveil', 'Scarf', 'Venadine', 'Halrond', 'Handstand', 'Jewelajou', 'Skye', 'Falrood', 'Kraken', 'Fangry', 'Kun-----', 'Mossack', 'Gogoat', 'Fruit Ball', 'Hibiki', 'Torch', 'Fruit Hunt Pokémon', 'Moxie', 'Moonlight', 'Gobbimbat', 'Flycatcher', 'Moonlight', 'Gearraze', 'Zenee', 'Shedding', 'Cottonweave', 'Cottonweed', 'Larva', 'Weatherlight', 'Lingering']
+CATEGORY - uniques: ['Soporok Pokémon', 'Copperdermite', 'Toxic Pokémon', 'Meowth Pokémon', 'Chesnaught Pokémon', 'Chinch Pokémon', 'Garden Snake Pokémon', 'Wing Pokémon', 'Humpback Pokémon', 'Eaton Pokémon', 'Gumshoos Pokémon', 'Gulpin Pokémon', 'Swarm Pokémon', 'Beartic Pokémon', 'Megaton’s Pokémon Pokémon', 'Teddi-buff Pokémon', 'Inner Pokémon', 'Leech Pokémon', 'Automobile Pokémon', 'Kabuto Pokémon', 'Triple Team Pokémon', 'Tiny Nut Pokémon', 'Octopode Pokémon', 'Growl Pokémon', 'Strong Monkey Pokémon', 'Sea Pigeon', 'Scalp Pokémon', 'Mantyke Pokémon', 'Glaceon Pokémon', 'Grumpig Pokémon', 'Leaf Nut Pokémon', 'Squirrel Pokémon', 'Poppling Pokémon', 'Bug Pokémon', 'Pig Skin Pokémon', 'Pigeon Pokémon', 'Toucannon Pokémon', 'Blast Pile Pokémon', 'Slim Blade Pokémon', 'Plump Pokémon', 'Fresh Water Pokémon', 'Lit Bubble Pokémon', 'Leaflet Pokémon', 'Tiny and Unbreakable Pokémon', 'Pig Bird Pokémon', 'Yanma Pokémon', 'Moss Pokémon', 'Zigzag', 'Spew Pokémon', 'Bounsweet Pokémon', 'Pidgey Pokémon', 'Wild Bird Pokémon', 'Apple Bug Pokémon', 'Sea POKéMON Pokémon', 'Grumpling Pokémon', 'Dog Spot Pokémon', 'Mage Pokémon', 'Sylvemon Pokémon', 'Lilligant Pokémon', 'Land Turtle Pokémon', 'Starlight Pokémon', 'Chick-O-Rama Pokémon', 'Rain Pokémon', 'Plant Pokémon', 'Goldeen Pokémon', 'Skipper Pokémon', 'Pig Tail Pokémon', 'Bake Pokémon', 'Mush Pokémon', 'Plant Pokémon', 'Growl Pokémon', 'Gloomdweller Pokémon', 'Soft Mouse Pokémon', 'Paleoptera Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['flying electric', 'rock electric', 'grass electric', 'electric', 'grass electric', 'fly', 'grass chlorophyll', 'fighting grass', 'dragon steel', 'water water', 'fighting steel', 'electric steel', 'grass chlorophyll', 'fire fairy']
+COLOR - uniques: []

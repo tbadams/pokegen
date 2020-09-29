@@ -1,0 +1,25 @@
+
+Perfect: 124/502 (24.70%)
+Incomplete: 237/502 (47.21%)
+Have Extras: 211/502 (42.03%)
+Contain Garbage: 4/502 (0.80%)
+Missing Values: 673
+Extra Values: 300
+Garbage Values: 6
+NAME: unique: 97/502 (19.32%), valid: 425/502 (84.66%), missing: 44/502 (8.76%), extra: 33/502 (6.57%), 
+CATEGORY: unique: 89/502 (17.73%), valid: 426/502 (84.86%), missing: 59/502 (11.75%), extra: 17/502 (3.39%), 
+TYPES: unique: 19/502 (3.78%), valid: 426/502 (84.86%), missing: 56/502 (11.16%), extra: 20/502 (3.98%), 
+ABILITIES: unique: 140/502 (27.89%), valid: 419/502 (83.47%), missing: 57/502 (11.35%), extra: 26/502 (5.18%), 
+MOVES: unique: 388/502 (77.29%), valid: 390/502 (77.69%), missing: 75/502 (14.94%), extra: 37/502 (7.37%), 
+HEIGHT: unique: 6/502 (1.20%), valid: 413/502 (82.27%), missing: 60/502 (11.95%), extra: 29/502 (5.78%), 
+WEIGHT: unique: 51/502 (10.16%), valid: 401/502 (79.88%), missing: 77/502 (15.34%), extra: 24/502 (4.78%), 
+COLOR: unique: 0/502 (0.00%), valid: 408/502 (81.27%), missing: 67/502 (13.35%), extra: 27/502 (5.38%), 
+SHAPE: unique: 6/502 (1.20%), valid: 404/502 (80.48%), missing: 58/502 (11.55%), extra: 40/502 (7.97%), 
+HABITAT: unique: 3/502 (0.60%), valid: 421/502 (83.86%), missing: 53/502 (10.56%), extra: 28/502 (5.58%), 
+DESCRIPTION: unique: 435/502 (86.65%), valid: 418/502 (83.27%), missing: 67/502 (13.35%), extra: 17/502 (3.39%), 
+NAME - uniques: ['Headbutt', 'Royal Admiral', 'Muk Safety Pokémon', 'Polnagude', 'Gobbip', 'Amarill', '5Wurmple', 'Longlegs', 'Evolution', 'Zatyus', 'Play Rough', 'Skrel', 'Stoneough', 'Pinygoleon', 'Pineot', 'Shaco', 'Cream', 'Civinex', 'Etrugendan', 'Contraband', 'Ruffiol', 'Myndale', 'RABBY', 'Empedocles', 'Patrat', 'Asprinotto', 'Seven-Tacedron', 'DRG', 'Golugula', 'Magma Mia Pokémon', 'Spirits.Shell doll', 'OddByte', 'Cameo', 'Lmprak', 'Twister', 'Starling', 'Illum- ous Pokémon', 'Lacith', 'Tsundere', 'Lunacore', 'Bloom Sickle', 'Gurmagon', 'Ridgeon', 'Vikido', 'Strawberry', 'Rugby', 'Sea Cucumber', 'Theyechelon', 'Snape', 'Cetios', 'MukChampiny', 'Paly was chosen as a part of a cosmic train because, even if its pride grew, it still lived a happy and happy life.', 'Although it’s a good friend of Crabrawler, Crabrawler will attack with a bevy of tails or claws.', 'Ifrit', 'Lingering Pokémon', 'Gechnossom', 'Fluffy-G', 'Silentopolis', 'Shaco Sunshiny', 'attacher', 'Feral-E', 'Kino-taïen', 'Aikido', 'BunnelSquirrel', 'Formosa', 'ITILPIN', 'Machup', 'Triple Null', 'Rakem', 'Megawk', 'Slinky', 'Niantic', 'Trapi Protector', 'Morelize', 'Vital Spirit', 'Drossard', 'Black Tea', 'Darfur', 'Walang', 'Lookout', 'Florges Wired Pokémon', 'Asperg', 'Smallfin', 'Murdock', 'Pansy', 'Krokorok Samurai', 'Grothand', 'Devious', 'Horusko', 'Beech Barney', 'Sandsound', 'Swabian', 'Tomboloongue', 'Simic', 'Feralay', 'Decko', 'Mossy']
+CATEGORY - uniques: ['Cobweb Pokémon', 'Royal Pokémon Pokémon', 'Kart Pokémon', 'Rapid Star Pokémon', 'Eldrazi Pokémon', 'Growl Pokémon', 'Constrained Pokémon', 'Skrel Pokémon', 'River Fish Pokémon', 'Gigantic Effort', 'Pine Otter Pokémon', 'Pitch-Ceam Pokémon', 'New Polka Pokémon', 'Lava Armor Pokémon', 'Explosive Pokémon', 'Ele-Kart Pokémon', 'Pikachu Pokémon', 'Poltergeist Pokémon', 'Cosmo-Carbuncle Pokémon', 'Sickle', 'Clefable Pokémon', 'Shell Ball Pokémon', 'Krabby Pokémon', 'Kart Pokémon', 'Comfey Pokémon', 'Desert Pokémon', 'Metall Gas Pokémon', 'Black Bird Pokémon', 'Humanoid Pokémon', 'Moon Pokémon', 'Cleaver Pokémon', 'Lightweight Pokémon', 'Stronger Pokémon', 'Plush Pokémon', 'Astral Prison Pokémon', 'Little Pokémon', 'Arm In The Pin Pokémon', 'Duran Barron Pokémon', 'Golech Pokémon', 'Leg Scale Pokémon', 'Two-Thon Pokémon', 'Octogear Pokémon', 'Flyblown Pokémon', 'Black Cat Pokémon', 'Moodle Pokémon', 'Desert Snake Pokémon', 'Good Night Pokémon', 'Walrath Pokémon', 'Human Language Pokémon', 'Tusk Summit Pokémon', 'Hate Letter Pokémon', 'Dopey Pokémon', 'Hooker Pokémon', 'Leech Cow Pokémon', 'Singlece Pokémon', 'Poison Pile Pokémon', 'Gluttony Pokémon', 'Steep Teepee Pokémon', 'Bash Mouth Pokémon', 'Form Pokémon', 'Poison Pupil Pokémon', 'River Pokémon', 'Bug Pokémon', 'Skyler Pokémon', 'Herd Pokémon', 'Bash Bloom Pokémon', 'Cargo-Raising Pokémon', 'Chained Effort Pokémon', 'Quicksave Pokémon', 'Hippopotamus Pokémon', 'Mismagius Pokémon', 'Sturdy Pokémon', 'Deep Fry Pokémon', 'Rage Pokémon', 'Long Head Pokémon', 'Long Sword Pokémon', 'Pikipegg Pokémon', 'Buzz-Bust Pokémon', 'Riverous Pokémon', 'Wild Bee Pokémon', 'Quit Pokémon', 'Sea Cuckoo Mare Pokémon', 'Spore Ball Pokémon', 'Stereoscopic Pokémon', 'Skyling Pokémon', 'Combee Pokémon', 'Hip-Hop Pokémon', 'Zwart', 'Bruxish Pokémon']
+SHAPE - uniques: ['headbutt', 'fighting', 'headbutt', 'eyes', 'arms', 'bug']
+HABITAT - uniques: ['blue', '', '99.0 kg']
+TYPES - uniques: ['normal flying Pokémon', 'fighting', 'ground bug', 'steel ice', 'ice fairy', 'dancer', 'ice fairy', 'fighting steel', 'grass, sunny', 'dragon', 'fighting grass', 'fighting rock', 'steel fly', 'steel normal', 'psychic psychic', 'normal walking', 'grass electric', 'ghostling', 'steel confound']
+COLOR - uniques: []

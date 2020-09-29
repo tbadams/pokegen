@@ -1,0 +1,25 @@
+
+Perfect: 109/506 (21.54%)
+Incomplete: 246/506 (48.62%)
+Have Extras: 204/506 (40.32%)
+Contain Garbage: 3/506 (0.59%)
+Missing Values: 591
+Extra Values: 272
+Garbage Values: 3
+NAME: unique: 76/506 (15.02%), valid: 441/506 (87.15%), missing: 42/506 (8.30%), extra: 23/506 (4.55%), 
+CATEGORY: unique: 78/506 (15.42%), valid: 444/506 (87.75%), missing: 54/506 (10.67%), extra: 8/506 (1.58%), 
+TYPES: unique: 22/506 (4.35%), valid: 432/506 (85.38%), missing: 52/506 (10.28%), extra: 22/506 (4.35%), 
+ABILITIES: unique: 105/506 (20.75%), valid: 434/506 (85.77%), missing: 46/506 (9.09%), extra: 26/506 (5.14%), 
+MOVES: unique: 367/506 (72.53%), valid: 398/506 (78.66%), missing: 66/506 (13.04%), extra: 42/506 (8.30%), 
+HEIGHT: unique: 1/506 (0.20%), valid: 423/506 (83.60%), missing: 70/506 (13.83%), extra: 13/506 (2.57%), 
+WEIGHT: unique: 51/506 (10.08%), valid: 416/506 (82.21%), missing: 54/506 (10.67%), extra: 36/506 (7.11%), 
+COLOR: unique: 1/506 (0.20%), valid: 424/506 (83.79%), missing: 58/506 (11.46%), extra: 24/506 (4.74%), 
+SHAPE: unique: 2/506 (0.40%), valid: 428/506 (84.58%), missing: 59/506 (11.66%), extra: 19/506 (3.75%), 
+HABITAT: unique: 2/506 (0.40%), valid: 432/506 (85.38%), missing: 34/506 (6.72%), extra: 40/506 (7.91%), 
+DESCRIPTION: unique: 450/506 (88.93%), valid: 431/506 (85.18%), missing: 56/506 (11.07%), extra: 19/506 (3.75%), 
+NAME - uniques: ['Cherrypledge', 'Iceberg', 'Littenink', 'Ashtetroplus', 'Golisopiling', 'Roughteo', 'Saidix', 'Bagby', 'Prototomb', 'Subterrene', 'Seun\xad gourd', 'Sigily Paalaar', 'Asahi', 'Trainette', 'Teddiperl', 'Cruel Mas Juan Turbo', 'Arrokud', 'Cretak', 'Vegito', 'Dazzling Gleam', 'Apple’s wool-like feel-good properties.', 'Orecavia', 'Drifselaude', 'Waco', 'Loluna', 'Marionette', 'Lingering Pokémon', 'Candy Crowley', 'Saidi', 'Walreich', 'Elden', 'Moldovan', 'Parasit', 'Kunasky', 'WoolOO', 'Pincurchine', 'Coffin', 'Dros Mg', 'Stoneon', 'Milottel', 'Mummy', 'Lutz', 'Megahorn', 'Stoutou', 'Monsanto', 'Cheap Trick', 'Fireton', 'Smoochuck', 'Duckka', 'Lomascko', 'Bouffant', 'Gusth', 'Parasite', 'Dubar', 'Deserte', 'Milking Kelpsy', 'Notch', 'Somasuch', 'Weave', 'Skrelaptor', 'Suffixe', 'Blipkiy', 'Shanternbound', 'Dustbeast', 'Snmpu', 'Stalwart', 'Viegras', 'Tinybrick', 'Coffin', 'Hardedo', 'Rampardoter', 'Dediculously Clever', 'Megania', 'Chewtlegrass', 'Molung', 'Thunderclap, Horn Drill, Rollout']
+CATEGORY - uniques: ['Palpitator Pokémon', 'Iron Scale Pokémon', 'Arm Melugee Pokémon', 'Ribant Pokémon', 'Impulse Pokémon', 'Old Shinsuke Pokémon', 'Herb and Pokémon Bulucca Plants have bright colors and grow in popularity as simply the produce of man’s moisture and energy expenditure.', 'EleSquab Pokémon', 'Dog Spot Pokémon', 'Comfey Pokémon', 'First Pokémon', 'Magma Pokémon', 'Flounder Pokémon', 'White Pokémon', 'Spot Pokémon', 'Eternatus Pokémon', 'Wino-Man Pokémon', 'Fear Pokémon', 'Turn Pokémon', 'Furric Pokémon', 'Saidi Pokémon', 'Socks Corner Pokémon', 'Armor That Capable of Break Any Wave', 'Coltrulous Pokémon', 'Hermit Pokémon', 'Tiny Pokémon', 'First Alloy Pokémon', 'Lotus Leaf Pokémon', 'Shellder Pokémon', 'Candy Pokémon', 'Deep Spot Pokémon', 'Scuttle Pokémon', 'Cat Pokémon', 'Wild Pinna Pokémon', 'Purple Weed Pokémon', 'Ogre Pokémon', 'Volt Pokémon', 'Five Starved Pokémon', 'Arrow Podium Pokémon', 'Daunting Pokémon', 'Drawn Spirit Pokémon', 'Shine Cat Pokémon', 'Fear Pokémon', 'Lazy Horse Pokémon', 'Destruction Goddess Pokémon', 'Flapping Claw Pokémon', 'Hairy Quilt Pokémon', 'Sea Lick Pokémon', 'Misc. Pokémon', 'Kiwi Pokémon', 'Uncovered Pokémon', 'Vast Black Mass Pokémon', 'Pine Head Pokémon', 'One Ring Pokémon', 'Snow Pail Pokémon', 'Far-Cry Pokémon', 'Snow Pokémon', 'Lonely BST Trainer', 'Decoy Pokémon', 'Dust Pokémon', 'Cat People Pokémon', 'According to Northwestern Research Station Pokémon', 'Wild Vanquish Pokémon', 'Bug Pokémon', 'Illuminate Pokémon', 'Stuff Pokémon', 'Mere Beast Pokémon', 'White Pokémon', 'Horse Pokémon', 'Grassy Pokémon', 'Jumpluff Pokémon', 'Scalping Pokémon', 'Loyal Duck Pokémon', 'Pyro Bike Pokémon', 'Dottler Pokémon', 'Iron Spirit Pokémon', 'Tiny Rotten Pokémon', 'Palkia Pokémon']
+SHAPE - uniques: ['tough', 'outrage']
+HABITAT - uniques: ['blitzwing', 'humanoid']
+TYPES - uniques: ['poison poison', 'steel steel', 'steel skin', 'fly', 'fire fairy', 'ground normal', 'ghost psychic', 'ice bugling', 'fighting normal', 'normal electric', 'white flying', 'dark dark', 'normal ground fighting', 'water natural', 'electric fire', 'skunk', 'grass chemical', 'dark dark', 'normal', 'ghost ghost', 'bug bug', 'grass water']
+COLOR - uniques: ['magma']

@@ -1,0 +1,25 @@
+
+Perfect: 164/500 (32.80%)
+Incomplete: 106/500 (21.20%)
+Have Extras: 246/500 (49.20%)
+Contain Garbage: 0/500 (0.00%)
+Missing Values: 237
+Extra Values: 364
+Garbage Values: 0
+NAME: unique: 39/500 (7.80%), valid: 428/500 (85.60%), missing: 11/500 (2.20%), extra: 61/500 (12.20%), 
+CATEGORY: unique: 54/500 (10.80%), valid: 476/500 (95.20%), missing: 18/500 (3.60%), extra: 6/500 (1.20%), 
+TYPES: unique: 9/500 (1.80%), valid: 452/500 (90.40%), missing: 24/500 (4.80%), extra: 24/500 (4.80%), 
+ABILITIES: unique: 51/500 (10.20%), valid: 449/500 (89.80%), missing: 20/500 (4.00%), extra: 31/500 (6.20%), 
+MOVES: unique: 365/500 (73.00%), valid: 408/500 (81.60%), missing: 20/500 (4.00%), extra: 72/500 (14.40%), 
+HEIGHT: unique: 0/500 (0.00%), valid: 453/500 (90.60%), missing: 28/500 (5.60%), extra: 19/500 (3.80%), 
+WEIGHT: unique: 29/500 (5.80%), valid: 446/500 (89.20%), missing: 45/500 (9.00%), extra: 9/500 (1.80%), 
+COLOR: unique: 0/500 (0.00%), valid: 430/500 (86.00%), missing: 19/500 (3.80%), extra: 51/500 (10.20%), 
+SHAPE: unique: 0/500 (0.00%), valid: 458/500 (91.60%), missing: 25/500 (5.00%), extra: 17/500 (3.40%), 
+HABITAT: unique: 0/500 (0.00%), valid: 430/500 (86.00%), missing: 10/500 (2.00%), extra: 60/500 (12.00%), 
+DESCRIPTION: unique: 483/500 (96.60%), valid: 469/500 (93.80%), missing: 17/500 (3.40%), extra: 14/500 (2.80%), 
+NAME - uniques: ['Bagufuli', 'Eaglet', 'Illuminy', 'Vikings', 'Stunbi', 'Megahorn', 'Luxios', 'Sycamore', 'Ravenbrisk', 'Weatherlight', 'Tyrantank', 'Ledyba', 'Cottonveil', 'Mudbrower', 'Lingering Pokémon', 'pickup', 'Seedodile', 'Gardenhug', 'Brutal Thrust', 'Tyrantank', 'Starling', 'Woolcheroo', 'Thorn', 'Megahorn', 'Alpini', 'Cottonweep', 'Meteorite', 'Greedor', 'Dragonblue', 'Gossifleony', 'Eaglet', 'Sludge', 'Greedoom', 'Ekurec', 'Fox <[card]BOOST', 'Porteromics', 'Numbull', 'Cottonweave', 'Fruitieri']
+CATEGORY - uniques: ['Woolly Howl Pokémon', 'Toxic Pokémon', 'Gloomdweller Pokémon', 'Bibarel Pokémon', 'Luxury Pokémon', 'Uncle Tissue Pokémon', 'Lifter Pokémon', 'Scalchop Pokémon', 'Loving Pokémon', 'Gloomdweller Pokémon', 'Lit Repeater Pokémon', 'Kangaskhan Pokémon', 'Brionice Pokémon', 'Lily Pokémon', 'Metallist Pokémon', 'Mare Pokémon', 'Eelektrik Pokémon', 'Shelter Pokémon', 'Cosmic Pokémon', 'Magnetomedy Pokémon', 'Driveline Pokémon', 'Beed Pokémon', 'Nose Pokémon', 'Vanquish Pokémon', 'Despot Panda Pokémon', 'Magnet Area Wave', 'Draft Pokémon', 'Genetic Mashup Pokémon', 'Tornado Pokémon', 'Tiny Swine Pokémon', 'Furrowian Pokémon', 'Vacuum Turtle Pokémon', 'Sea Kelp Pokémon', 'Dewtacular Pokémon', 'Eerie Pokémon', 'Eelektrik Pokémon', 'Pigment Pokémon', 'Ribombee Pokémon', 'Regaler Pokémon', 'Fire Chariot Pokémon', 'Spotter Pokémon', 'Bashful Pokémon', 'Metall Armor Pokémon', 'Cutsalarian Pokémon', 'Wing Shark Pokémon', 'Caterpie Pokémon', 'Berry Pokémon', 'Kabuto Pokémon', 'Dust Pokémon', 'Five Star Movie Pokémon', 'Mantyke Pokémon', 'Pupitar Pokémon', 'Infestation Pokémon', 'Sand Armor Pokémon.']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['fire poison', 'poison grass', 'ghost', 'normal egg', 'fire ice', 'fighting steel', 'ground sludge', 'rock lightning', 'poison liquid']
+COLOR - uniques: []

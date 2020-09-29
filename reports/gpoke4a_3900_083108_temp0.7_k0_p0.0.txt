@@ -1,0 +1,25 @@
+
+Perfect: 164/502 (32.67%)
+Incomplete: 107/502 (21.31%)
+Have Extras: 243/502 (48.41%)
+Contain Garbage: 1/502 (0.20%)
+Missing Values: 220
+Extra Values: 361
+Garbage Values: 1
+NAME: unique: 33/502 (6.57%), valid: 470/502 (93.63%), missing: 10/502 (1.99%), extra: 22/502 (4.38%), 
+CATEGORY: unique: 50/502 (9.96%), valid: 465/502 (92.63%), missing: 24/502 (4.78%), extra: 13/502 (2.59%), 
+TYPES: unique: 7/502 (1.39%), valid: 439/502 (87.45%), missing: 9/502 (1.79%), extra: 54/502 (10.76%), 
+ABILITIES: unique: 61/502 (12.15%), valid: 431/502 (85.86%), missing: 21/502 (4.18%), extra: 50/502 (9.96%), 
+MOVES: unique: 403/502 (80.28%), valid: 386/502 (76.89%), missing: 28/502 (5.58%), extra: 88/502 (17.53%), 
+HEIGHT: unique: 0/502 (0.00%), valid: 459/502 (91.43%), missing: 30/502 (5.98%), extra: 13/502 (2.59%), 
+WEIGHT: unique: 15/502 (2.99%), valid: 458/502 (91.24%), missing: 22/502 (4.38%), extra: 22/502 (4.38%), 
+COLOR: unique: 1/502 (0.20%), valid: 451/502 (89.84%), missing: 24/502 (4.78%), extra: 27/502 (5.38%), 
+SHAPE: unique: 0/502 (0.00%), valid: 473/502 (94.22%), missing: 14/502 (2.79%), extra: 15/502 (2.99%), 
+HABITAT: unique: 0/502 (0.00%), valid: 441/502 (87.85%), missing: 13/502 (2.59%), extra: 48/502 (9.56%), 
+DESCRIPTION: unique: 477/502 (95.02%), valid: 468/502 (93.23%), missing: 25/502 (4.98%), extra: 9/502 (1.79%), 
+NAME - uniques: ['Blossom', 'Skyjab', 'Spinybug', 'Zera♀', 'Murloc', 'Chednitz', 'Torch', 'Comedian', 'Monkeon', 'Blaze', 'Gusth', 'Zera', 'Cyndaquim', 'Pitwe', 'Hapright', 'Mudbrower', 'Birdy', 'Jewellisk', 'Litwicki', 'Chikashi', 'Vikpo', 'Woodrow Kansas', 'Blade', 'Ruffioli', 'Penguin', 'Litwicky', 'Ember', 'Yamagik', 'Cocoon', 'Pigfriend', 'Kitten', 'Itola', 'Kricketoom']
+CATEGORY - uniques: ['Radish Pokémon', 'Cure Pokémon', 'Illusion-Punch Pokémon', 'Gale Pokémon', 'Illusion-Box Pokémon', 'Lava Quill Pokémon', 'Mockingly Beautiful Pokémon', 'Boon Pokémon', 'Pikachu Pokémon', 'Iron Dome Pokémon', 'Pidgey Pokémon', 'Pig Nose Pokémon', 'Blast Bee Pokémon', 'Swell Pokémon', 'Iron Tail Pokémon', 'Bin Pokémon', 'Seismic Catch Pokémon', 'First Chernobyl Pokémon', 'Plant Pokémon', 'Fist Pokémon', 'Berry Pokémon', 'Drakloak Pokémon', 'Superbug Pokémon', 'Shiny Pokémon', 'Alarm Pokémon', 'Sandman Pokémon', 'Bomber Pokémon', 'Oddish Pokémon', 'Kobold Pokémon', 'Brux Pokémon', 'Wood Chimp Pokémon', 'Plump Pokémon', 'Cannonball Pokémon', 'Bomber Pokémon', 'Two Bird Pokémon', 'Lomb Nut Pokémon', 'Swin Whale Pokémon', 'Honeybee Pokémon', 'Chesnaught Pokémon', 'Wild Dog Pokémon', 'Binacle Pokémon', 'Spiny Leaf Pokémon', 'Thievul Pokémon', 'Conkeldurr Pokémon', 'Frost Pokémon', 'Cosmic Pokémon', 'Armor that Break Armor Pokémon', 'Attached Mega Evolution Pokémon', 'Skipper Pokémon', 'Copper Wing Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['rock electric', 'fighting steel', 'grass water', 'rock rock', 'electric', 'acid', 'firedark']
+COLOR - uniques: ['steel']

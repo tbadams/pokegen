@@ -1,0 +1,25 @@
+
+Perfect: 128/506 (25.30%)
+Incomplete: 228/506 (45.06%)
+Have Extras: 202/506 (39.92%)
+Contain Garbage: 4/506 (0.79%)
+Missing Values: 563
+Extra Values: 248
+Garbage Values: 5
+NAME: unique: 72/506 (14.23%), valid: 432/506 (85.38%), missing: 56/506 (11.07%), extra: 18/506 (3.56%), 
+CATEGORY: unique: 75/506 (14.82%), valid: 430/506 (84.98%), missing: 59/506 (11.66%), extra: 17/506 (3.36%), 
+TYPES: unique: 21/506 (4.15%), valid: 442/506 (87.35%), missing: 51/506 (10.08%), extra: 13/506 (2.57%), 
+ABILITIES: unique: 100/506 (19.76%), valid: 441/506 (87.15%), missing: 38/506 (7.51%), extra: 27/506 (5.34%), 
+MOVES: unique: 355/506 (70.16%), valid: 399/506 (78.85%), missing: 83/506 (16.40%), extra: 24/506 (4.74%), 
+HEIGHT: unique: 5/506 (0.99%), valid: 433/506 (85.57%), missing: 48/506 (9.49%), extra: 25/506 (4.94%), 
+WEIGHT: unique: 44/506 (8.70%), valid: 425/506 (83.99%), missing: 60/506 (11.86%), extra: 21/506 (4.15%), 
+COLOR: unique: 0/506 (0.00%), valid: 444/506 (87.75%), missing: 41/506 (8.10%), extra: 21/506 (4.15%), 
+SHAPE: unique: 3/506 (0.59%), valid: 429/506 (84.78%), missing: 56/506 (11.07%), extra: 21/506 (4.15%), 
+HABITAT: unique: 1/506 (0.20%), valid: 428/506 (84.58%), missing: 30/506 (5.93%), extra: 48/506 (9.49%), 
+DESCRIPTION: unique: 465/506 (91.90%), valid: 452/506 (89.33%), missing: 41/506 (8.10%), extra: 13/506 (2.57%), 
+NAME - uniques: ['Hogsea', 'Palmetto', 'Meech journals', 'Possum', 'Skyrock', 'Woolfang', 'Mighty-Eight', 'Psiote', 'Skyes', 'Fireburne', 'Disguise Pokémon', 'Gossifleony', 'Luxitally', 'Noel', 'Shedinjab', 'Loudbore', 'Being-', 'Hairy, Drawn-To-Pray', 'Parasagal', 'Pipsette', 'Larva', 'Scalrew', 'Electowl', 'Eccoinnin', 'Clawdage', 'Mysticavia', 'Hony Loup', 'Hunkay', 'Ember', 'Clycove', 'Jubilantly', 'Polito', 'Caticapture Pokémon', 'Svenberg', 'Dunspar', 'Sigurdsson', 'Yugino', 'Handstand', 'Dynamo', 'Kinooke', 'Scorbirtax', 'Toonck', 'Gusth', 'ashtoblue', 'Brockow', 'Liscor', 'Swaryu', 'Careless Japan', 'Rushing Creeper', 'Lrockigar', 'Blipboi', 'Mischief Mouse', 'AEP', 'Shedding Floette', 'Bespoke', 'Mango', 'Rundacout', 'Ronda Rousey', 'Teddu', 'Old Shrimp', 'DesertSquirrel', 'Gurmosuke', 'Snakeape', 'Candleitzer', 'Cheeter', 'Razzik', 'Kritzkant', 'Drifickle', 'Painterius', 'Gossiflema', 'Luringe', 'Cruel University Pokémon']
+CATEGORY - uniques: ['EQ.computer', 'Grim Rata Pokémon', 'Flown Sword Pokémon', 'KWString Strike Pokémon', 'Dragon Scale Pokémon', 'Cheetah Pokémon', 'Play Spirit Pokémon', 'Turn Ball Pokémon', 'Hard Claw Pokémon', 'Worry Seed Pokémon', 'Dark Arts Pokémon', 'Hasspider Pokémon', 'Cool Pokémon', 'Iron Spirit Pokémon', 'Ele Beast Pokémon', 'Hexapider Pokémon', 'Fraxure Pokémon', 'Brutal Claw Pokémon', 'Electric Pig Pokémon', 'Bash Bloom Pokémon', 'Sycamore Pokémon', 'Gore Pokémon', 'Lotto Pokémon', 'Ancient Pokémon', 'Crisp Hot-Cups', 'Bike Runner Pokémon', 'Remedy Pokémon', 'Long Jet Pokémon', 'Brutal Thrust Pokémon', 'Pond Skweomer Pokémon', 'Type Pokémon', 'Polito Puffs Pokémon', 'Sturdy Pokémon', 'Float Pokémon', 'Bellsprout Pokémon', 'Nickit Pokémon', 'Sharp Beak Pokémon', 'Rufflet Pokémon', 'Eons of Starvation Pokémon', 'Krokorok Pokémon', 'Kino Tossing Pokémon', 'Ancient Pokémon', 'Lily Blade Pokémon', 'Darkness Pokémon', 'Destruction Goddess', 'Colombian Pokémon', 'Catch Bee Pokémon', 'Rockgon Pokémon', 'Mystic Snow', 'Discharge Pokémon', 'Puffing Pokémon', 'Electric Bug Pokémon', 'Mold Daughter Pokémon', 'Luxite Pokémon', 'Flounce Pokémon', 'Pig Tail Pokémon', 'Crovyle Pokémon', 'Beak Here', 'Acrobat Pokémon', 'Spirit Tree Pokémon', 'Regrowth Pokémon', 'Iron Dome Pokémon', 'Bool Pokémon', 'Sting Pokémon', 'Wine Pokémon', 'Dweller Pokémon', 'Tiny Rook Pokémon', 'White Pokémon', 'Hive Pokémon', 'Little Bird Pokémon', 'Astral Power Pokémon', 'Magical Banner Pokémon', 'Clefable Pokémon', 'Apple Nectar', 'Carrion Pokémon']
+SHAPE - uniques: ['arm', 'ghostlike', 'green']
+HABITAT - uniques: ['armor']
+TYPES - uniques: ['fire magic', 'dragon energy', 'fighting steel', 'fighting steel', 'dragon physical', 'fighting steel', 'pressure', 'ice bugling', 'ghost steel', 'rock lightning', 'dark fairy', 'water heavy', 'electric fire', 'rock liquid', 'poison sea', 'rock rock', 'sand', 'rock ghost', 'water rock Pokémon', 'psychic dark', 'fairy flying']
+COLOR - uniques: []

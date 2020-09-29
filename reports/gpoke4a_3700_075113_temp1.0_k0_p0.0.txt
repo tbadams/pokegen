@@ -1,0 +1,25 @@
+
+Perfect: 122/503 (24.25%)
+Incomplete: 216/503 (42.94%)
+Have Extras: 223/503 (44.33%)
+Contain Garbage: 3/503 (0.60%)
+Missing Values: 503
+Extra Values: 315
+Garbage Values: 3
+NAME: unique: 84/503 (16.70%), valid: 431/503 (85.69%), missing: 33/503 (6.56%), extra: 39/503 (7.75%), 
+CATEGORY: unique: 81/503 (16.10%), valid: 438/503 (87.08%), missing: 61/503 (12.13%), extra: 4/503 (0.80%), 
+TYPES: unique: 19/503 (3.78%), valid: 426/503 (84.69%), missing: 60/503 (11.93%), extra: 17/503 (3.38%), 
+ABILITIES: unique: 125/503 (24.85%), valid: 416/503 (82.70%), missing: 56/503 (11.13%), extra: 31/503 (6.16%), 
+MOVES: unique: 399/503 (79.32%), valid: 391/503 (77.73%), missing: 49/503 (9.74%), extra: 63/503 (12.52%), 
+HEIGHT: unique: 7/503 (1.39%), valid: 430/503 (85.49%), missing: 46/503 (9.15%), extra: 27/503 (5.37%), 
+WEIGHT: unique: 52/503 (10.34%), valid: 404/503 (80.32%), missing: 58/503 (11.53%), extra: 41/503 (8.15%), 
+COLOR: unique: 0/503 (0.00%), valid: 443/503 (88.07%), missing: 45/503 (8.95%), extra: 15/503 (2.98%), 
+SHAPE: unique: 1/503 (0.20%), valid: 445/503 (88.47%), missing: 34/503 (6.76%), extra: 24/503 (4.77%), 
+HABITAT: unique: 1/503 (0.20%), valid: 440/503 (87.48%), missing: 31/503 (6.16%), extra: 32/503 (6.36%), 
+DESCRIPTION: unique: 473/503 (94.04%), valid: 452/503 (89.86%), missing: 30/503 (5.96%), extra: 21/503 (4.17%), 
+NAME - uniques: ['Protomartan', 'Posyeyes', 'Ovory', 'Shedding', 'Calerax', 'Nidoran♀', 'Buoyant', 'Lingering Pokémon', 'Birdy', 'Itomge', 'Brasilyshark', 'Crustil', 'Deolisaper', 'Dagireep', 'Frost Weed', 'Chevalier', 'Sea Kelp', 'Drifselaude', 'Gillrimved', 'manyacres', 'Primordi', 'Wormbasa', 'Pouroshaitan', 'Gearrath', 'Aromatisse', 'CheechAA', 'Worms Pokémon', 'Purkiss', 'Painterius', 'WALREYS', 'Froo', 'Reinbelder', 'Argon', 'Eon', 'Frye', 'Ereco, Staraptor', 'Urbug', 'gloomy', 'Snorled', 'Comander', 'Seedtorch', 'Mountyutz', 'Cubak', 'LARGOOSE', 'Vileplume', 'BoltWindows', 'Bloom Floette', 'WINGWRE', 'Mango', 'Lava-Pod', 'Beetle', 'Clawe', 'Lavender', 'Thunderclap', 'Patrat', 'Chimera', 'Sigily 133.0 kg', 'Renegade', 'ACHIEVOU', 'Pumpk off', 'Corsola', 'Gunket', 'grumpig', 'Old Shrimp', 'Scrappy', 'Machyr', 'Drednoore', 'Antorus', 'Reste', 'Kuntarje', 'yottu', 'Predator', 'Freedmeister', 'Grimmsn Pokémon', 'Chewtlefish', 'Bioroid', 'Spinyrene', 'Spheth', 'Despot', 'Trunbeak', 'Gossom', 'Chewbuckling Pokémon', 'BANDAI', 'Vegan']
+CATEGORY - uniques: ['Punch Pokémon', 'Cameroon Pokémon', 'Stark Star Pokémon', 'Classy Bird Pokémon', 'Star Light Pokémon', 'Morgrem Pokémon', 'Frost Geyser Pokémon', 'Sea Kelp Pokémon', 'Victory Cry Pokémon', 'Uncle Rotten Pokémon', 'Key Scale Pokémon', 'Bone Home Pokémon', 'Zorovel Pokémon', 'Comfey Pokémon', 'Fear Pokémon', 'Sky-Eye Pokémon', 'Sky Squash Pokémon', 'Wool Cure Pokémon', 'Willow Pokémon', 'Geomancy Pokémon', 'Cheech Pokémon', 'Painterial Pokémon', 'Braviary Pokémon', 'Pipe Pokémon', 'Water Otter Pokémon', 'Meowth Pokémon', 'Sea Pigeon Pokémon', 'Vital Stat Pokémon', 'Rimming Shark Pokémon', 'Urn Spit Pokémon', 'Five Starved Pokémon', 'Gloomdweller Pokémon', 'Slacker Pokémon', 'Simulacrum Pokémon', 'Bronze Bronzor Pokémon', 'Honeybee Pokémon', 'Pop Quill Pokémon', 'Scourge Pokémon', 'Nozzle Pokémon', 'Sand Horse Pokémon', 'Basement Pokémon', 'Riverstorm Pokémon', 'Goldbug Pokémon', 'Plus-Two Pokémon', 'Curb Pokémon', 'Cinder Pokémon', 'bug water', 'Wood Chimp Pokémon', 'Prawn Pokémon', 'Accel Pokémon', 'Icy Ice Pokémon', 'Illumise Pokémon', 'Tiny Swore Pokémon', 'Diving Species Pokémon', 'Megemoneering Pokémon', 'Golettian Pokémon', 'Cat Ferocity Pokémon', 'Single Action Pokémon', 'Soft Chipper Pokémon', 'Blim', 'Fragile Pokémon', 'Orb of Unfavor', 'Caponical Pokémon', 'Tiny Blade Pokémon', 'Lilligant Pokémon', 'Bug Pokémon', 'Restful Pokémon', 'Buoyant Pokémon', 'Mice Pokémon', 'Emotionally Responsive Pokémon', 'Leper Pokémon', 'Hairy Pokémon', 'Howlin Sea Pokémon', 'Scatterbug Pokémon', 'Mummy Pokémon', 'Bolt Away Pokémon', 'Hairy Pokémon', 'Magnetomedy Pokémon', 'Shedding Cowboys', 'Pony Pokémon', 'Fire Inn Pokémon']
+SHAPE - uniques: ['grass']
+HABITAT - uniques: ['land']
+TYPES - uniques: ['fighting water', 'ice poison', 'fighting fighting', 'flying dragon', 'bug Pokémon', 'humanoid', 'battery', 'ground metallic', 'dragon fairy', 'rock lightning', 'ground ground', 'bug metal', 'fighting steel', 'fighting steel', 'poison fairy', 'normal snow', 'water bubble', 'rock rock', 'water sinking']
+COLOR - uniques: []

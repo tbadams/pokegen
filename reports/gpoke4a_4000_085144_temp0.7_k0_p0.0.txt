@@ -1,0 +1,25 @@
+
+Perfect: 193/501 (38.52%)
+Incomplete: 172/501 (34.33%)
+Have Extras: 147/501 (29.34%)
+Contain Garbage: 0/501 (0.00%)
+Missing Values: 313
+Extra Values: 193
+Garbage Values: 0
+NAME: unique: 41/501 (8.18%), valid: 460/501 (91.82%), missing: 13/501 (2.59%), extra: 28/501 (5.59%), 
+CATEGORY: unique: 43/501 (8.58%), valid: 466/501 (93.01%), missing: 26/501 (5.19%), extra: 9/501 (1.80%), 
+TYPES: unique: 12/501 (2.40%), valid: 462/501 (92.22%), missing: 27/501 (5.39%), extra: 12/501 (2.40%), 
+ABILITIES: unique: 35/501 (6.99%), valid: 470/501 (93.81%), missing: 13/501 (2.59%), extra: 18/501 (3.59%), 
+MOVES: unique: 297/501 (59.28%), valid: 424/501 (84.63%), missing: 40/501 (7.98%), extra: 37/501 (7.39%), 
+HEIGHT: unique: 1/501 (0.20%), valid: 435/501 (86.83%), missing: 62/501 (12.38%), extra: 4/501 (0.80%), 
+WEIGHT: unique: 26/501 (5.19%), valid: 469/501 (93.61%), missing: 20/501 (3.99%), extra: 12/501 (2.40%), 
+COLOR: unique: 1/501 (0.20%), valid: 458/501 (91.42%), missing: 35/501 (6.99%), extra: 8/501 (1.60%), 
+SHAPE: unique: 1/501 (0.20%), valid: 447/501 (89.22%), missing: 41/501 (8.18%), extra: 13/501 (2.59%), 
+HABITAT: unique: 0/501 (0.00%), valid: 444/501 (88.62%), missing: 13/501 (2.59%), extra: 44/501 (8.78%), 
+DESCRIPTION: unique: 476/501 (95.01%), valid: 470/501 (93.81%), missing: 23/501 (4.59%), extra: 8/501 (1.60%), 
+NAME - uniques: ['Lombros', 'Mushroom', 'Zera', 'Xerlindrag (#052-ia, giga-drain, payback))', 'Sevaldo', 'Sea Kelp', 'Flower', 'Miscy', 'Mudbrower', 'Bubble Frog', 'Don Quixote', 'Once-In-A-Centipede', 'LUNATONE', 'Gotham', 'Flowering-hearts', 'Zachaquil', 'Eon', 'Fruit Ball', 'Crustly', 'Chewtlefish', 'Lionel', 'Rookidecino', 'Gobbuffe', 'BERRIES', 'Penguin', 'Troglodytes', 'Ember', 'Otodile', 'Pinota', 'Birdy', 'Mantine>02water', 'Crawdum', 'Ribomian', 'Meringue', 'Gurmagon', 'Meteorite', 'Honbi', 'Illuminy', 'GraniteKA', 'Bee sitting quietly on its back, trying to catch a whiff of the honey it’s honey-soaking with its saliva.', 'ELECTRIKE']
+CATEGORY - uniques: ['Tornado Pokémon', 'Mega Evolution Pokémon', 'Howling Star Pokémon', 'Hairy Pokémon', 'Hermit Pokémon', 'Golett Pokémon', 'Pig Rock Pokémon', 'Cotton Nectars Pokémon', 'Melt Pokémon', 'Water Jet Pokémon', 'Pikipekinesis Pokémon', 'Disliking Pokémon', 'Bido Field Pokémon', 'Plump Pokémon', 'Copper Wing Pokémon', 'Ruffling Pokémon', 'Rock Out Pokémon', 'Eating Pokémon', 'Nose Pokémon', 'Crock Pokémon', 'Bronze Digging Pokémon', 'Phantasmic Pokémon', 'Slurpuff Pokémon', 'River Pokémon', 'Sandstorm Pokémon', 'Bite Pokémon', 'Lillipup Pokémon', 'Steel Blade Pokémon', 'Goldeen Pokémon', 'Transcendental Pokémon', 'Pigeon Pokémon', 'Heat Wave Pokémon', 'Intuition Pokémon', 'Brutal Fox Pokémon', 'Rib Bug Pokémon', 'Lant Equality Pokémon', 'Luxite Pokémon', 'Cute Pokémon', 'Porygon Pokémon', 'Granite Monkey Pokémon', 'Cavia Pokémon', 'Regirock Pokémon', 'Cobalion Pokémon']
+SHAPE - uniques: ['fighting']
+HABITAT - uniques: []
+TYPES - uniques: ['ghost fighting', 'fire ice', 'electric Pokémon', 'electric', 'grass cotton', 'fighting water', 'rock electric', 'humanoid', 'grass electric', 'fighting fire', 'rock lightning', '']
+COLOR - uniques: ['steel']

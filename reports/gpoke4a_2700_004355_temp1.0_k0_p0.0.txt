@@ -1,0 +1,25 @@
+
+Perfect: 103/504 (20.44%)
+Incomplete: 266/504 (52.78%)
+Have Extras: 213/504 (42.26%)
+Contain Garbage: 5/504 (0.99%)
+Missing Values: 620
+Extra Values: 272
+Garbage Values: 5
+NAME: unique: 87/504 (17.26%), valid: 437/504 (86.71%), missing: 35/504 (6.94%), extra: 32/504 (6.35%), 
+CATEGORY: unique: 93/504 (18.45%), valid: 420/504 (83.33%), missing: 74/504 (14.68%), extra: 10/504 (1.98%), 
+TYPES: unique: 27/504 (5.36%), valid: 424/504 (84.13%), missing: 56/504 (11.11%), extra: 24/504 (4.76%), 
+ABILITIES: unique: 129/504 (25.60%), valid: 426/504 (84.52%), missing: 52/504 (10.32%), extra: 26/504 (5.16%), 
+MOVES: unique: 383/504 (75.99%), valid: 411/504 (81.55%), missing: 69/504 (13.69%), extra: 24/504 (4.76%), 
+HEIGHT: unique: 8/504 (1.59%), valid: 415/504 (82.34%), missing: 66/504 (13.10%), extra: 23/504 (4.56%), 
+WEIGHT: unique: 63/504 (12.50%), valid: 422/504 (83.73%), missing: 49/504 (9.72%), extra: 33/504 (6.55%), 
+COLOR: unique: 1/504 (0.20%), valid: 418/504 (82.94%), missing: 59/504 (11.71%), extra: 27/504 (5.36%), 
+SHAPE: unique: 3/504 (0.60%), valid: 421/504 (83.53%), missing: 56/504 (11.11%), extra: 27/504 (5.36%), 
+HABITAT: unique: 0/504 (0.00%), valid: 418/504 (82.94%), missing: 52/504 (10.32%), extra: 34/504 (6.75%), 
+DESCRIPTION: unique: 452/504 (89.68%), valid: 440/504 (87.30%), missing: 52/504 (10.32%), extra: 12/504 (2.38%), 
+NAME - uniques: ['Eggmeister', 'Kangaskhan', 'Bloominja', 'Colbur', 'Squabish', 'Silicianro', 'Asper', 'Spiny Armor', 'Gravelert', 'Liveicorn', 'Lingeringine', 'Pabu', 'Polka Dot', 'Mossack', 'Pinchoppin', 'Aviary', 'Florges FrogBug', 'Tyrantrough', 'Nidorina', 'Parasite', 'Caprylic', 'Skrai', 'Golemsaur', 'Golisart', 'Molten Raymond', 'Tsunakaber', 'Trainorot', 'Bubble Jet', 'Gurshund', 'Twislip', 'Bilebas', 'Tamerlane', 'Renegade', 'Daring Hitmonmon', 'Coffin', 'wobbuffe', 'Snotbuck', 'Conkeldurk', 'Miscashu', 'Muk Cannon', 'Eviolisk', 'Zhinkool', 'Snowbug', 'DesertSquirrel', 'Ginarów', 'Born This Pokémon’s wings flutter. Its cries can be heard even in darkness.', 'Team Plasma', 'Carkbro', 'Corvisquire', 'Shellosina', 'Nebula', 'Irimandy', 'Pintle', 'Armoron', 'Sheatchiser', 'Kreukov', 'Magno', 'Luxaphra', 'Extreme Night', 'Revoke', 'Lissome', 'Forme', 'Foxlelio', 'Touhornobuette', 'Torch', 'Rolycoly', 'Drowsing', 'Black Salamise', 'Evoking Legwhistles', 'Nebula', 'Megapede', 'Raikou', 'Wushu', 'Punk', 'Atomoth', 'Freshman', 'Lingering', 'Diclops', 'Ember', 'Chefée', 'Stunz', 'Citave', 'Carracross', 'Hexepen', 'Revenant', 'Duck', 'Marvel']
+CATEGORY - uniques: ['Windfury Pokémon', 'Plant Pokémon', 'Stereotypical Pokémon', 'Arctudan Pokémon', 'Luxury Pokémon', 'Hibernate Pokémon', 'Honey Bee Pokémon', 'Sea Magma Pokémon', 'Ogre Darner', 'Woolly Bird Pokémon', 'Scaly Mouse Pokémon', 'Goldwing Pokémon', 'Most Ovarian Pokémon', 'Water Jet Pokémon', 'Venom Pokémon', 'Pulse Pokémon', 'The Star Pokémon', 'Gog Turtle Pokémon', 'Psi Pokémon Biologically this Pokémon is similar to a Pikachu.’ The illness it experiences is always hard to determine, however.', 'Sticky Pokémon', 'Ectoplasm Pokémon', 'Spore Pokémon', 'Wool Pokémon.', 'Applied Pokémon', 'Brion Pokémon', 'Coltrum Pokémon', 'Brionne Pokémon', 'Purple Pokémon', 'Honedge Pokémon', 'Cranid Pokémon', 'Flustered Pokémon', 'Honeybee Pokémon', 'Gluttony Pokémon', 'Tiny Bird Jaw Pokémon', 'Honeydew Pokémon', 'Transmetal Pokémon', 'Palpitant Pokémon', 'Pinky Pokémon', 'Clefairy Pokémon', 'Grappling Pokémon', 'Faunus Pokémon', 'Intimidate Pokémon', 'Cat Pokémon', 'Tiny Seed Pokémon', 'Dalmatian Pokémon', 'Azumarill Pokémon', 'Deep Fish Pokémon', 'Honeybee Pokémon', 'Fire Pokémon', 'Ball Pit Pokémon', 'Beheeyem Pokémon', 'Shellosino Pokémon', 'Taunt Rabbit Beast', 'Icing Pokémon', 'Plant Pokémon', 'Black Sandstorm Pokémon', 'Pikachu Pokémon', 'Classy Pokémon', 'Sevoran Pokémon', 'Manty Mouse Pokémon', 'Sketch Pokémon', 'Wild Bird Pokémon', 'Sea Croc Pokémon', 'Mysterious Being', 'Trash Pile Pokémon', 'Falster Pokémon', 'Bat Pokémon', 'Megaton Panda Pokémon', 'Shell Pokémon', 'Beed Pokémon', 'Yamper Pokémon', 'Toilet Pokémon', 'Tiger Bird Pokémon', 'Evolution Pokémon', 'Apples to Life Pokémon', 'Seductive Pokémon', 'Thorn Monkey', 'Illustration Pokémon', 'Pop Pipes Pokémon', 'Shedding Quill Pokémon', 'Aqua Moth Pokémon', 'Bolt Pokémon', 'Humanoid Pokémon', 'Feral-Fox Pokémon', 'Long Sword Pokémon', 'Cosmo-Dog Pokémon', 'Fox Pokémon', 'Acid Pokémon', 'Disembodied Pokémon', 'Armored Pokémon', 'Magician Pokémon', 'Marvel Pokémon', 'Scatterbug Pokémon']
+SHAPE - uniques: ['m', 'bulldoed', 'bug-covered']
+HABITAT - uniques: []
+TYPES - uniques: ['grass Pokémon', 'dragon poison', 'psychic water', 'electric lightning', 'illusion', 'ground fire', 'psychic psychic', 'bug flower', 'water spikes', 'shadow dragon', 'psychic scary', 'dancer', 'fireground', 'faceless', 'water pressure', 'grass electric', 'dark dark', 'electric fighting', 'shed-skin', 'bug ice', 'rock magic', 'pressure', 'ghost fire', 'dragon grass', 'blob', 'water normal', 'rock electric']
+COLOR - uniques: ['red']

@@ -1,0 +1,25 @@
+
+Perfect: 170/508 (33.46%)
+Incomplete: 164/508 (32.28%)
+Have Extras: 184/508 (36.22%)
+Contain Garbage: 4/508 (0.79%)
+Missing Values: 298
+Extra Values: 242
+Garbage Values: 4
+NAME: unique: 46/508 (9.06%), valid: 465/508 (91.54%), missing: 22/508 (4.33%), extra: 21/508 (4.13%), 
+CATEGORY: unique: 54/508 (10.63%), valid: 467/508 (91.93%), missing: 39/508 (7.68%), extra: 2/508 (0.39%), 
+TYPES: unique: 9/508 (1.77%), valid: 475/508 (93.50%), missing: 14/508 (2.76%), extra: 19/508 (3.74%), 
+ABILITIES: unique: 51/508 (10.04%), valid: 464/508 (91.34%), missing: 24/508 (4.72%), extra: 20/508 (3.94%), 
+MOVES: unique: 392/508 (77.17%), valid: 434/508 (85.43%), missing: 32/508 (6.30%), extra: 42/508 (8.27%), 
+HEIGHT: unique: 0/508 (0.00%), valid: 468/508 (92.13%), missing: 30/508 (5.91%), extra: 10/508 (1.97%), 
+WEIGHT: unique: 12/508 (2.36%), valid: 455/508 (89.57%), missing: 42/508 (8.27%), extra: 11/508 (2.17%), 
+COLOR: unique: 0/508 (0.00%), valid: 445/508 (87.60%), missing: 25/508 (4.92%), extra: 38/508 (7.48%), 
+SHAPE: unique: 0/508 (0.00%), valid: 442/508 (87.01%), missing: 20/508 (3.94%), extra: 46/508 (9.06%), 
+HABITAT: unique: 0/508 (0.00%), valid: 468/508 (92.13%), missing: 19/508 (3.74%), extra: 21/508 (4.13%), 
+DESCRIPTION: unique: 477/508 (93.90%), valid: 465/508 (91.54%), missing: 31/508 (6.10%), extra: 12/508 (2.36%), 
+NAME - uniques: ['Illuminy', 'Graveller', 'Skymast', 'Electowl', 'Dragala', 'Klerk', 'Frosgotham', 'Posy', 'Kelpsy', 'Polka Dot', 'Frybunny', 'Cottonweed', 'Chewtlefish', 'Chewtlefish', 'Gigantamax', 'WECEPASS', 'Rampart', 'Teddi fly by dancing in the night. They can also be seen drifting about in the daytime.', 'Spinyrene', 'Scorpion', 'Chewtlefish', 'Torch', 'EleCrow', 'Mudbray', 'Galarian', 'Despot', 'Sludge', 'Starladder', 'Chewtlefish', 'Snotbug', 'Raticse', 'Bird', 'Placidic', 'Shedding', 'Scorpion', 'Luringeve', 'Mushroom', 'Snowshoe Butterfree', 'Longevity', 'Tyrantank', 'Catty', 'Chewtlefish', 'Zera', 'Hierola', 'Mushroom', 'Moldoster']
+CATEGORY - uniques: ['Kubfu Pokémon', 'Anteater Pokémon', 'Pidgey Pokémon', 'Watchman Pokémon', 'Eelektrik Pokémon', 'Copperajah Pokémon', 'Teddipper Pokémon', 'Eelektrik Pokémon', 'Spore Pokémon', 'Plant Pokémon', 'Bash Mouth Pokémon', 'Sea Kelp Pokémon', 'Radish Pokémon', 'Munchlax Pokémon', 'Ledge Pokémon', 'Sickle Grass', 'Spiny Leaf Pokémon', 'Lilligant Pokémon', 'Black Cat Pokémon', 'Lombre Pokémon', 'Brutal Starfish', 'Palkia Pokémon', 'Pidgeotto Pokémon', 'Kricket Pokémon', 'Tough Mouse Pokémon', 'EleMuscular Pokémon', 'Stunnel Pokémon', 'Tiny Snake Pokémon', 'Scraper Pokémon', 'Swarms Pokémon', 'Sandstorm Pokémon', 'Leech Pokémon', 'Brutal Starfish Pokémon', 'Luxury Pokémon', 'Purple Shelmet Pokémon', 'Eelektrik Pokémon', 'Camerky Pokémon', 'Sickle Me.', 'Carnivine Pokémon', 'Astral Pokémon', 'Cataract Pokémon', 'Elegant Pokémon', 'Cure Pokémon', 'Swallow Tail Pokémon', 'Stuff Pokémon', 'Lurking Pokémon', 'Plunked Pokémon', 'Gloves Pokémon', 'Chimchar Pokémon', 'Riding Pokémon', 'Anteater Pokémon', 'Rampard Pokémon', 'Poliwag Pokémon', 'Dump Horse Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['ground ice', 'fighting steel', 'steel water', 'fighting steel', 'grass cotton', 'poison Pokémon', 'normal ice', 'steel steel', 'pressure psychic']
+COLOR - uniques: []

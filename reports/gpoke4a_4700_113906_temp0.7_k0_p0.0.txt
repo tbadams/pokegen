@@ -1,0 +1,25 @@
+
+Perfect: 173/503 (34.39%)
+Incomplete: 128/503 (25.45%)
+Have Extras: 212/503 (42.15%)
+Contain Garbage: 3/503 (0.60%)
+Missing Values: 259
+Extra Values: 280
+Garbage Values: 3
+NAME: unique: 41/503 (8.15%), valid: 461/503 (91.65%), missing: 21/503 (4.17%), extra: 21/503 (4.17%), 
+CATEGORY: unique: 66/503 (13.12%), valid: 464/503 (92.25%), missing: 26/503 (5.17%), extra: 13/503 (2.58%), 
+TYPES: unique: 7/503 (1.39%), valid: 461/503 (91.65%), missing: 18/503 (3.58%), extra: 24/503 (4.77%), 
+ABILITIES: unique: 42/503 (8.35%), valid: 458/503 (91.05%), missing: 16/503 (3.18%), extra: 29/503 (5.77%), 
+MOVES: unique: 358/503 (71.17%), valid: 416/503 (82.70%), missing: 44/503 (8.75%), extra: 43/503 (8.55%), 
+HEIGHT: unique: 0/503 (0.00%), valid: 445/503 (88.47%), missing: 24/503 (4.77%), extra: 34/503 (6.76%), 
+WEIGHT: unique: 16/503 (3.18%), valid: 443/503 (88.07%), missing: 36/503 (7.16%), extra: 24/503 (4.77%), 
+COLOR: unique: 0/503 (0.00%), valid: 468/503 (93.04%), missing: 21/503 (4.17%), extra: 14/503 (2.78%), 
+SHAPE: unique: 1/503 (0.20%), valid: 453/503 (90.06%), missing: 25/503 (4.97%), extra: 25/503 (4.97%), 
+HABITAT: unique: 1/503 (0.20%), valid: 454/503 (90.26%), missing: 9/503 (1.79%), extra: 40/503 (7.95%), 
+DESCRIPTION: unique: 483/503 (96.02%), valid: 471/503 (93.64%), missing: 19/503 (3.78%), extra: 13/503 (2.58%), 
+NAME - uniques: ['Pumpkake', 'Drowsing', 'Moonlight', 'Drummer mocks the moon with its own song.', 'Type: Null Pokémon', 'Desert Croc', 'Barnacubra', 'Mudbrower', 'Puffin', 'Boneongo', 'Hagavolt', 'Aetros', 'Chedg\xad leon', 'Kricketross', 'Copper Wing', 'Troglodytes', 'Sklink', 'Howeveo', 'Periwance', 'Frost Tree Pokémon', 'Creeel', 'Scaleroth', 'Bubblegum', 'Catalygos', 'LATITA', 'Moomblucha', 'Lepraus', 'Sap Skies', 'Ursarede', 'Coltrish', 'Gloomdwellin', 'Windfury', 'Playedagune', 'Natu Trainer', 'AIMBO', 'Nidorina', 'Lily of Golisopod', 'Kricketross', 'YugPokemon', 'Dinobas', 'Pigfriend']
+CATEGORY - uniques: ['Golett Pokémon', 'Horse Pokémon', 'Fire Pig Pokémon', 'Cotton Cowl Pokémon', 'Megatonite Pokémon', 'Gut Pokémon', 'Kyogre Pokémon', 'Firetail Pokémon', 'Happy Cow Pokémon', 'Black Bolt Pokémon', 'Poison Pinoy', 'Kaleidoscope Pokémon', 'Sapphire Pokémon', 'Frost Black Pokémon', 'Firetail Pokémon', 'Spinnfrost Pokémon', 'Rock To They', 'PsImbolic Pokémon', 'White Pokémon', 'Copper Wing Pokémon', 'Moltra Pokémon', 'Flail Pokémon', 'Single Bird Pokémon', 'Pipe Pokémon', 'Gluttony Pokémon', 'Pikachu Pokémon', 'Beckon Pokémon', 'Plant Pokémon', 'Golech Pokémon', 'Plump Pokémon', 'Plump Pokémon', 'Rock To The People Pokémon', 'Munchlax Pokémon', 'Poisona Pokémon', 'Lordsly Pokémon', 'Helioptile Pokémon', 'Moomblucha Pokémon', 'First rock Pokémon', 'Revive Pokémon', 'Kyogre Pokémon', 'Lion Pokémon', 'Tiny Leech Pokémon', 'Rimming Shark Pokémon', 'Bay Pokémon', 'Loud Pokémon', 'Wine Pokémon', 'Pikachu Pokémon', 'Pikachu Pokémon', 'Zen Pokémon', "Gloomdwellin': It uses its tentacles to capture its foes. However, it is so adept at these attacks, its prey will be unable to move.", 'Heat Wave Pokémon', 'Long Quarters Pokémon', 'Wind Fowl Pokémon', 'Mysterious Land Pokémon', 'Pikachu Pokémon', 'Freshwater Pokémon', 'Firetail Pokémon', 'Hopply Pokémon', 'Lily Shape', 'Ariadrop', 'Iron-Fist Pokémon', 'Cinder Pokémon', 'Weezing Pokémon', 'Yamask Pokémon', 'Pig Tail Pokémon', 'Tough Mouse Pokémon']
+SHAPE - uniques: ['tressed']
+HABITAT - uniques: ['09.2 kg']
+TYPES - uniques: ['fighting steel', 'fighting psychic', 'dark rock', 'fighting steel', 'poison grass', 'grass chlorophyll', 'ice fighting']
+COLOR - uniques: []

@@ -1,0 +1,25 @@
+
+Perfect: 186/501 (37.13%)
+Incomplete: 132/501 (26.35%)
+Have Extras: 202/501 (40.32%)
+Contain Garbage: 0/501 (0.00%)
+Missing Values: 240
+Extra Values: 297
+Garbage Values: 0
+NAME: unique: 60/501 (11.98%), valid: 448/501 (89.42%), missing: 9/501 (1.80%), extra: 44/501 (8.78%), 
+CATEGORY: unique: 63/501 (12.57%), valid: 466/501 (93.01%), missing: 32/501 (6.39%), extra: 3/501 (0.60%), 
+TYPES: unique: 6/501 (1.20%), valid: 456/501 (91.02%), missing: 30/501 (5.99%), extra: 15/501 (2.99%), 
+ABILITIES: unique: 46/501 (9.18%), valid: 455/501 (90.82%), missing: 25/501 (4.99%), extra: 21/501 (4.19%), 
+MOVES: unique: 366/501 (73.05%), valid: 405/501 (80.84%), missing: 25/501 (4.99%), extra: 71/501 (14.17%), 
+HEIGHT: unique: 1/501 (0.20%), valid: 456/501 (91.02%), missing: 23/501 (4.59%), extra: 22/501 (4.39%), 
+WEIGHT: unique: 15/501 (2.99%), valid: 453/501 (90.42%), missing: 32/501 (6.39%), extra: 16/501 (3.19%), 
+COLOR: unique: 0/501 (0.00%), valid: 464/501 (92.61%), missing: 23/501 (4.59%), extra: 14/501 (2.79%), 
+SHAPE: unique: 0/501 (0.00%), valid: 454/501 (90.62%), missing: 17/501 (3.39%), extra: 30/501 (5.99%), 
+HABITAT: unique: 0/501 (0.00%), valid: 457/501 (91.22%), missing: 12/501 (2.40%), extra: 32/501 (6.39%), 
+DESCRIPTION: unique: 489/501 (97.60%), valid: 460/501 (91.82%), missing: 12/501 (2.40%), extra: 29/501 (5.79%), 
+NAME - uniques: ['Wool', 'Frosted-skin', '-671', 'Rikzz', 'Litwickul', 'Eon', 'Litwickien', 'Cloudou', 'Skewer', 'Chewtlefish', 'Skrel', 'Cotton-n-Sheen', 'Litwickily', 'Gleam Eyes', 'Pigfriend', 'Lilyap Pokémon', 'Raven-Head Pokémon', 'Chewtlefish', 'Owlpie', 'Coalot', 'Litwickul', 'Stantaria', 'Gurshanas', 'Grimmsnabbit', 'Weatherlight', 'Growl', 'Eon', 'Garet', 'Spinybug', 'Gloomdwell', 'Gulliverorus', 'Litwickiens', 'Megan', 'Chewtlefish', 'Toonboom', 'Turskitop', 'Awe', 'Darkness', 'Raticse', 'Cottonweave', 'Piglet', 'Noseachtimon', 'Chewtlefish', 'Spitfire', 'Chewtlefish', 'Vast White', 'Rikabru’s heart rate monitor constantly checks its body temperature.', 'Rory', 'Gleam Eyes', 'Seadle', 'Grubia', 'Skeletomp', 'Cows', 'Stalwart', 'Chewtlefish', 'Sandygast', 'Meadow', 'Cottonveil', 'Iceberg', 'Tyrantank']
+CATEGORY - uniques: ['Frog Bird Pokémon', 'Dinner Pokémon', 'Growl Pokémon', 'Stuff Pokémon', 'Ruffling Pokémon', 'Music of a Very Different Kind', 'Frost Pokémon', 'Azumarill Pokémon', 'Crustle Pokémon', 'Scatter Star Pokémon', 'Luxury Charm Pokémon', 'Dusk Pokémon', 'Chingling Pokémon', 'Lit Beef Pokémon', 'Cancer Pokémon', 'Water Fly Pokémon', 'Lion Ring Pokémon', 'Multiply', 'Sheltered Pokémon', 'Muffler Pokémon', 'Skyling Pokémon', 'Tiny Swimming Pokémon', 'Rolycoly Pokémon', 'Water Fly Pokémon', 'Chesnaught Pokémon', 'Iceland Pokémon', 'Tiny Swallow', 'Moana Pokémon', 'Brutal Starfish Pokémon', 'Flail Pokémon', 'Flapping Pokémon', 'Emotionally Closed Pokémon', 'Berry Pokémon', 'Carracosta Pokémon', 'Cheeky Cat Pokémon', 'Boonie Pokémon', 'Slow Pokémon', 'Bravery Pokémon', 'EleSquash Pokémon', 'Mush Pokémon', 'Punch Pokémon', 'Snorting Pokémon', 'Klink Pokémon', 'Nose Pokémon', 'Bibarel Pokémon', 'Brutal Starfish Pokémon', 'Humanoid Pokémon', 'Tiny Swimming Pokémon', 'Kart Pokémon', 'Palkia Pokémon', 'Dreepy Pokémon', 'Chingling Pokémon', 'Shingle Pokémon', 'Lomb Pokémon', 'Milk Cow Skin Pokémon', 'Melt Pokémon', 'Little Star Pokémon', 'Staraptor Pokémon', 'Hand Pokémon', 'Cotton Caper Pokémon', 'Lichtle', 'Bool Pokémon', 'Dust Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['electric fighting', 'poison Pokémon', 'dragon steel', 'fighting steel', 'dark dark', 'dark psychic']
+COLOR - uniques: []

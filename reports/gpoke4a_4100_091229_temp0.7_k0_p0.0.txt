@@ -1,0 +1,25 @@
+
+Perfect: 172/511 (33.66%)
+Incomplete: 190/511 (37.18%)
+Have Extras: 172/511 (33.66%)
+Contain Garbage: 7/511 (1.37%)
+Missing Values: 435
+Extra Values: 221
+Garbage Values: 7
+NAME: unique: 33/511 (6.46%), valid: 467/511 (91.39%), missing: 17/511 (3.33%), extra: 27/511 (5.28%), 
+CATEGORY: unique: 41/511 (8.02%), valid: 450/511 (88.06%), missing: 44/511 (8.61%), extra: 17/511 (3.33%), 
+TYPES: unique: 11/511 (2.15%), valid: 463/511 (90.61%), missing: 29/511 (5.68%), extra: 19/511 (3.72%), 
+ABILITIES: unique: 37/511 (7.24%), valid: 467/511 (91.39%), missing: 23/511 (4.50%), extra: 21/511 (4.11%), 
+MOVES: unique: 373/511 (72.99%), valid: 407/511 (79.65%), missing: 54/511 (10.57%), extra: 50/511 (9.78%), 
+HEIGHT: unique: 0/511 (0.00%), valid: 456/511 (89.24%), missing: 51/511 (9.98%), extra: 4/511 (0.78%), 
+WEIGHT: unique: 16/511 (3.13%), valid: 439/511 (85.91%), missing: 66/511 (12.92%), extra: 6/511 (1.17%), 
+COLOR: unique: 0/511 (0.00%), valid: 465/511 (91.00%), missing: 28/511 (5.48%), extra: 18/511 (3.52%), 
+SHAPE: unique: 2/511 (0.39%), valid: 450/511 (88.06%), missing: 35/511 (6.85%), extra: 26/511 (5.09%), 
+HABITAT: unique: 1/511 (0.20%), valid: 466/511 (91.19%), missing: 19/511 (3.72%), extra: 26/511 (5.09%), 
+DESCRIPTION: unique: 442/511 (86.50%), valid: 436/511 (85.32%), missing: 69/511 (13.50%), extra: 6/511 (1.17%), 
+NAME - uniques: ['RIBBIT', 'Ember', 'Tux.Visas', 'Blipipede', 'Gigantamax', 'Duck', 'Duraltic', 'Spinyrene', 'Litwickill', 'Bubble Jet', 'Mephedra', 'Litwickul', 'Hachiman', 'Ottomir', 'Baganjy', 'Greedensee', 'Blipink', 'Fruit.–>00Pikachu', 'Pigfriend', 'Eaglet', 'Kricketross', 'Biosis', 'Golbat', 'Kricketot', 'Sky-Wolf', 'Hardenne', 'Cottonveil', 'Beasty-EE', 'Kricketrow', 'Ember', 'Mushroom', 'Smoochuck', 'Gurkrow']
+CATEGORY - uniques: ['Tiny Swimming Pokémon', 'Iron Quill Pokémon', 'Cure Pokémon', 'Blast Bee Pokémon', 'Milotic Pokémon', 'Bool Pokémon', 'Solitary Pokémon', 'Astral World Pokémon', 'Cunning Pokémon', 'Kobold Pokémon', 'Paw Pokémon', 'Transfiguration Pokémon', 'Bunchman Pokémon', 'Golett Pokémon', 'Darvik Pokémon', 'Tangel Pokémon', 'Gab Pokémon', 'Waterbug Pokémon', 'Magnet Area Wave', 'Chick Eater Pokémon', 'Nihilego Pokémon', 'Star Pokémon', 'Mantine Pokémon', 'Avian Pokémon', 'Luminescent Pokémon', 'Chesnaught Pokémon', 'Rain Pokémon', 'Lomb Nut Pokémon', 'Skyling Pokémon', 'Beedrill Pokémon', 'Alpha male Pokémon', 'Gastly Pokémon', 'Conkeldurr Pokémon', 'First Heir Pokémon', 'Krook Pokémon', 'Scratch Pokémon', 'Water Otter Pokémon', 'Carnivine Pokémon', 'Resin Pokémon', 'Golem Pokémon', 'Rowdy Pokémon']
+SHAPE - uniques: ['up', 'bugwings']
+HABITAT - uniques: ['rough']
+TYPES - uniques: ['ground flailing', 'bug bug', 'poison grass', 'rock electric', 'fighting fire', 'fire electric', 'rock electric', 'magma steel', 'fire', 'fighting steel', 'fire electric']
+COLOR - uniques: []

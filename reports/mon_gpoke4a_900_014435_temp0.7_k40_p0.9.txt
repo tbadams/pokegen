@@ -1,0 +1,4892 @@
+Seadilye
+Bird Pokémon
+Type: normal flying
+Abilities: stance-change, aftermath, inner-focus
+Weight: 230.0 kg
+Color: blue
+Shape: upright
+It gives off a strong sense of calm and quiet. It loves to relax and enjoy itself.
+
+Seedot
+Bivalve Pokémon
+Type: grass
+Abilities: guts, no-guard, guts
+Moves: swagger, return, rain-dance, giga-drain
+Weight: 29.0 kg
+Color: brown
+Shape: upright
+Seedot lives in soil and is never disturbed. It is very hardy.
+
+Savage
+Stag Beetle Pokémon
+Type: normal
+Height: 1.0 m
+Weight: 22.0 kg
+Color: blue
+Shape: quadruped
+It’s said that a Pokémon that had its body cut off by an earthquake was resurrected.
+
+Klefki
+Klefki
+Mummy Pokémon
+Type: water ground
+Height: 0.6 m
+Color: blue
+Shape: wings
+It’s hard to believe that a Pokémon that’s so popular with people would be so popular with people. It’s hard to believe that a Pokémon that’s popular with people would be so popular with people.
+
+Pinsir
+Bat Pokémon
+Type: electric
+Abilities: electric-body, lightning-rod, weak-armor
+thick-fat, sap-sipper, own-tempo
+Moves: flame-charge, cut, flash, swagger
+Height: 0.5 m
+Weight: 13.0 kg
+Color: blue
+Shape: upright
+Habitat: cave
+When it hears the sound of a thunderclap, it begins to tremble violently.
+
+Poltergift
+Poltergift Pokémon
+Type: ground flying
+Height: 1.2 m
+Weight: 55.0 kg
+Shape: wings
+It communicates by singing, and its melodies are very popular.
+
+Bartlett
+Fire Pig Pokémon
+Type: fire
+Abilities: gluttony, flash-fire
+sunny-day, flash-fire, infiltrator
+Moves: ghost-fire, lightning-rod, snore, fire-fang
+Height: 0.5 m
+Weight: 1.5 kg
+Color: red
+Shape: quadruped
+Habitat: forest
+This Pokémon is the leader of a group of fire Pokémon. They act as the guardians of the fire in the forest, guarding the forest from the elements.
+
+Zoroark
+Tiny Pokémon
+Type: fire
+Height: 1.0 m
+Weight: 29.0 kg
+Color: black
+Shape: quadruped
+A common sight in ancient times, its flames are lit by a special flame.
+
+Zubat
+Posy Pokémon
+Type: normal
+Weight: 28.0 kg
+Color: purple
+It possesses a powerful psychic power. It uses the power of its psychic power to telepathically communicate with others.
+
+Pikipek
+Earl Pokémon
+Type: normal
+Abilities: shed-skin, infiltrator
+Moves: superpower, electroweb, toxic, leaf-storm
+Weight: 55.5 kg
+Color: green
+Shape: wings
+A POKéMON that can fly at Mach 3. Its wings are covered with a thin layer of fur.
+
+Type: dragon
+Abilities: levitate
+Height: 0.4 m
+Color: purple
+
+Bunnelby
+Bite Pokémon
+Type: normal
+Abilities: dynamic-punch, shell-armor, pickpocket
+Moves: flamethrower, rock-smash, thunder-punch, frustration
+Height: 0.5 m
+Color: red
+Shape: humanoid
+Habitat: forest
+It can snatch up and kick its prey by the tail, then send them flying. It is said that its tail is the source of all life.
+
+Nidoking
+Type: ground
+Color: blue
+Shape: upright
+It has the power to make people feel good. It shows off its agility by running on its arms.
+
+Sunflora
+Sun Pokémon
+Type: grass
+Height: 0.4 m
+Color: green
+Shape: upright
+It lives in the desert. It can be found in caves and in the mountains.
+
+Gothita
+Seed Pokémon
+Type: bug
+Abilities: overgrow, poison-jab, infiltrator
+Moves: snore, thief, substitute, light-screen
+Height: 0.6 m
+Weight: 2.0 kg
+Shape: wings
+
+Chespin
+Tiny Mouse Pokémon
+Type: normal
+Abilities: own-tempo, flash-fire, flash-fire
+Moves: psych-up, mimic, substitute, mimic
+Height: 1.0 m
+Weight: 40.0 kg
+Color: brown
+Shape: quadruped
+
+Golett
+Type: normal
+Abilities: swarm, shell-armor, rattled
+Moves: iron-defense, double-team, roar, uproar
+Height: 0.5 m
+Weight: 52.0 kg
+Color: gray
+Shape: wings
+
+Elekid
+Elekid
+Egg Pokémon
+Type: normal
+Height: 1.1 m
+Weight: 61.0 kg
+Color: green
+Shape: upright
+It is said to have been born from a leftover egg. It’s said to have been eaten by Pokémon that lived in the ancient world.
+
+Cottonveil
+Cotton Candy Pokémon
+Type: normal
+Abilities: sturdy, rock-head, weak-armor
+Moves: return, string-shot, string-shot, iron-tail
+Height: 0.5 m
+Color: gray
+Shape: humanoid
+
+Tegrass
+Snowman Pokémon
+Type: ice
+Abilities: snow-cloak, snow-cloak, snow-cloak
+Height: 0.4 m
+Weight: 2.0 kg
+Color: red
+Shape: quadruped
+Habitat: mountain
+
+Hulk
+Fire Pokémon
+Type: fire
+Abilities: flash-fire, iron-fist, weak-armor
+Moves: fling, substitute, double-team, fury-swipes
+Height: 1.0 m
+Color: red
+Its body is made of flames, so it will burn if it gets too hot. Its favorite food is a slice of hot pink pebbles.
+
+Thief
+Thief Pokémon
+Abilities: anticipation, telepathy
+Weight: 2.0 kg
+Color: blue
+Shape: upright
+It loves to sing. It has a long, slow throat and a wide, dark-colored tongue. It even sings when it is asleep.
+
+Sibby
+Type: fighting
+Color: black
+Shape: upright
+
+Hatterene
+Pumpkin Pokémon
+Type: fire
+Abilities: own-tempo, flash-fire, flash-fire
+Moves: flash-cannon, water-pulse, rock-tomb, rock-tomb
+Height: 1.6 m
+Color: purple
+It is said that when the temperatures in the Pit are extremely low, it’s said to be a sign of spring.
+
+Mudbray
+Honey Bee Pokémon
+Type: grass
+Abilities: thick-fat, guts, overgrow
+Moves: confide, twister, leech-life, flamethrower
+Height: 0.6 m
+Color: brown
+Shape: quadruped
+It is said that if you touch a honeybee, it will grow wings. This POKéMON is very quick to learn new things.
+
+Lich
+Lich.
+Cactus Pokémon
+Type: fire ground
+Abilities: blaze, klutz, regenerator
+Moves: hidden-power, sweet-scent, round, safeguard
+Height: 0.4 m
+1.8 m
+Color: green
+Shape: humanoid
+Habitat: grassland
+Lich is a very popular Pokémon. It’s very popular because of the aroma of the grass in its ears. It’s very hard to see, so if you’re looking for it, it’s best to stay away from people.
+
+Kangaskhan
+Illuminating Pokémon
+Abilities: sunny-day, magic-guard, regenerator
+Height: 1.1 m
+Weight: 31.5 kg
+6.6 kg
+Color: blue
+Shape: quadruped
+Kangaskhan is said to be the embodiment of magic. This POKéMON has an intensely magical nature.
+
+Spitfire
+Bat Pokémon
+Abilities: lightning-rod, sturdy, regenerator
+Moves: sludge-bomb, wild-charge, rock-tomb, knock-off
+Height: 1.1 m
+Weight: 27.5 kg
+Color: blue
+Shape: wings
+A Pokémon that is said to have been born from a meteorite. It is said to have been born from a meteorite.
+
+Golett
+Land Spirit Pokémon
+Type: steel-armor
+Abilities: sturdy, sand-force, adaptability
+Moves: magnet-rise, rock-smash, thunderbolt, echoed-voice
+Height: 1.0 m
+Color: blue
+Shape: upright
+Habitat: mountain
+The shape of its head is so huge that it can hold a boat. It’s said to have swallowed up people and brought them to a point of exhaustion.
+
+Porygon2
+Type: grass
+Abilities: inner-focus, inner-focus
+Moves: rest, fling, string-shot, fire-punch
+Height: 0.3 m
+Weight: 3.2 kg
+Color: green
+Shape: quadruped
+Habitat: grassland
+The POKéMON has a hard time distinguishing its surroundings from the surroundings of other POKéMON.
+
+Pigment
+Pig Monkey Pokémon
+Type: steel
+Moves: beast-boost, telekinesis, earth-power, iron-tail
+Color: red
+
+Gunkin
+Gangster Pokémon
+Type: normal
+Abilities: sturdy, sand-veil, rough-skin
+Moves: swagger, swagger, snore, safeguard
+Height: 0.9 m
+Weight: 30.5 kg
+Color: green
+Shape: upright
+It’s a very special Pokémon. It can’t be left alone. It’s so popular that it’s been called the Pokémon of the forest.
+
+Tentacool
+Fossil Pokémon
+Type: ice
+Abilities: thick-fat, ice-body, sturdy
+Height: 0.6 m
+Weight: 10.8 kg
+Color: gray
+Shape: upright
+It has an icy shell and can be easily broken by any foe. It also has a sense of humor.
+
+Nidoran♀
+Bird Pokémon
+Type: normal
+Abilities: sturdy, shell-armor, weak-armor
+Moves: swagger, flame-charge, double-edge, double-team
+Height: 1.0 m
+Color: brown
+Shape: wings
+It lies in wait for prey to come along, and when it does, it puts the prey to sleep.
+
+Mimic
+Type: ice
+Abilities: levitate, frisk, forewarn
+Moves: safeguard, iron-tail, ice-beam, thunder-punch
+Weight: 3.5 kg
+Color: green
+Shape: quadruped
+It’s said that if it has a special ice-type Pokémon, it will always be able to protect its friends.
+
+Toxicore
+Worm Pokémon
+Type: grass
+Height: 1.3 m
+Weight: 3.8 kg
+Color: green
+Shape: armor
+It is highly intelligent. It can easily detect a person’s movements and will fight to the death to keep them from escaping.
+
+Pidgey
+Big Eater Pokémon
+Type: ice water
+Abilities: pressure, ice-body
+Moves: poison-jab, echoed-voice, ice-beam, solar-beam
+Height: 1.1 m
+Weight: 10.0 kg
+Color: blue
+Shape: upright
+It swallows a lot of ice, but it can also freeze a full moon. This POKéMON’s body temperature is a secret.
+
+Kangaskhan
+Tiny Fish Pokémon
+Type: normal
+Abilities: intimidate, scrappy
+Moves: strength, sweet-scent, ice-beam, facade
+Height: 1.2 m
+Weight: 1.5 kg
+Color: gray
+Habitat: forest
+It licks its prey with a sharp stick. It will eat anything.
+
+Drifblim
+Drifblim
+Drill Pokémon
+Type: bug grass
+Abilities: swarm, iron-fist, mold-breaker
+Moves: fury-cutter, bug-bite, curse, grass-knot
+Height: 1.5 m
+Weight: 29.0 kg
+Color: white
+Shape: armor
+It can take on any form and is said to be reborn in the night. It’s said to be the embodiment of night.
+
+Seadra
+Wicked Pokémon
+Type: normal fairy
+rock fairy
+Abilities: sturdy, rock-head, weak-armor
+Moves: facade, rock-smash, thunder-wave, protect
+Height: 0.3 m
+Weight: 39.5 kg
+Color: gray
+yellow
+Shape: quadruped
+It was created to safeguard the people of Azumarill. It has a habit of using its large stomach to swallow up anything it sees.
+
+Celesteela
+Land Spirit Pokémon
+Type: normal
+Abilities: levitate
+Moves: captivate, sleep-talk, natural-gift, covet
+Height: 1.5 m
+Shape: blob
+They live in swamps and rivers. They are very hardy and adaptable.
+
+Reedot
+Reedot
+Bite Pokémon
+Abilities: effect-spore, swift-swim, rain-dance
+Moves: payback, rock-tomb, substitute, heal-bell
+Height: 0.6 m
+Weight: 21.0 kg
+Color: green
+Shape: humanoid
+Habitat: grassland
+It is said to be the ancestor of the first humans.
+
+Teddiursa
+Type: fighting
+Abilities: beast-boost
+Weight: 10.5 kg
+Color: blue
+Shape: upright
+
+Lilacore
+Water Cow Pokémon
+Type: water grass
+Abilities: chlorophyll, chlorophyll, leaf-guard
+Moves: fish-veil, toxic, attract, shadow-ball
+Height: 1.4 m
+Weight: 7.5 kg
+Color: blue
+Shape: upright
+Lilacore has a very good memory. It will do anything for anyone.
+
+Togedemaru
+Pig Tail Pokémon
+Type: grass flying
+Abilities: sunny-day, hydration, moxie
+Moves: fire-fang, twister, attract, strength
+Height: 0.6 m
+Weight: 20.0 kg
+Color: green
+
+Bounsweet
+Fairy Pokémon
+Type: grass
+Abilities: overgrow, leaf-guard, infiltrator
+Moves: facade, aqua-tail, grass-pelt, toxic
+Height: 1.2 m
+Weight: 28.0 kg
+Color: blue
+Shape: upright
+Its thin body allows it to run at over 100 miles per hour. The water it passes through has a rich, sweet flavor.
+
+Mudkip
+Radiator Pokémon
+Type: grass
+Height: 1.3 m
+Color: green
+Shape: upright
+It’s a bit like a rock that was made from a fossil. It uses its huge jaws to bite the roots of trees that are growing.
+
+Lingering Pokémon
+Lingering Pokémon
+Lingering Pokémon
+Type: rock water
+Abilities: rivalry, intimidate, sand-attack
+Moves: curse, natural-gift, rock-polish, steel-wing
+Height: 1.4 m
+Weight: 230.0 kg
+Color: blue
+Shape: upright
+Habitat: mountain
+Lingering Pokémon are capable of turning into rocks and using their tremendous strength to dive deep into the sea.
+
+Moves: toxic, rock-smash, rock-throw, flail
+Shape: quadruped
+Habitat: grassland
+It uses its sharp claws to cut through trees and treeshine. It is said to have the power to make human bones.
+
+Swing>03shed-skin, hyper-cutter
+Moves: return, waterfall, safeguard, snore
+Color: blue
+
+Cottonwool
+Cottonwool
+Pig Pokémon
+Type: grass
+Abilities: intimidate, iron-fist, rain-dish
+Moves: sucker-punch, snore, mud-slap, frustration
+Height: 0.5 m
+Weight: 2.0 kg
+Color: purple
+Shape: quadruped
+It can take a long time to get used to the smell of its fur. This POKéMON is also known as a sweet scent.
+
+Tyrantrum
+Poison Pin Pokémon
+Type: electric
+Abilities: soul-heart, poison-point, sniper
+Moves: teleport, sleep-talk, poison-powder, sludge-bomb
+Height: 1.2 m
+Weight: 120.8 kg
+Color: red
+It is said to be a Pokémon whose body is an ember of fire. It’s said to be incapable of living in a dry place without exposure to air temperature.
+
+Drowzee
+Snow Pokémon
+Type: dark
+Abilities: snow-cloak, snow-cloak, overcoat
+Moves: rest, rock-slide, flame-spray, shock-wave
+Height: 0.2 m
+Weight: 6.2 kg
+Color: brown
+Shape: upright
+Habitat: mountain
+The snow on its head is like a piece of gold. It attracts prey by freezing them down.
+
+Drifblim
+Drill Pokémon
+Type: ground rock
+Abilities: swarm, sand-force, iron-fist
+Height: 0.6 m
+Weight: 2.0 kg
+Color: brown
+Shape: quadruped
+Its body is made of sand. It lives in the sand.
+
+Klinklang
+Cocoon Pokémon
+Type: normal flying
+Abilities: inner-focus, infiltrator
+Height: 0.6 m
+Weight: 22.2 kg
+Shape: wings
+It hides itself from the enemy by disguising its body with a piece of cloth. It will quickly flee if it finds out you are hiding.
+
+Wailmer
+Wool Pokémon
+Type: normal
+Moves: spite, swagger, snore, crunch
+Height: 1.3 m
+Color: red
+
+Lopunny
+Lopunny
+Damp Pokémon
+Honey Bee Pokémon
+Type: flying fairy
+Abilities: swarm, intimidate, rattled
+water-absorb, damp, damp
+Moves: waterfall, confide, rain-dance, sunny-day
+Height: 0.7 m
+Weight: 33.0 kg
+Color: red
+Shape: upright
+upright
+Its elegant wings look just like the sweet, sweet aroma of flowers. It will not stop its captivating captivating captivating captivating captivating captivating captivating captivating captivating captivating
+
+Faunus
+Snow Pokémon
+Abilities: snow-cloak, snow-cloak, weak-armor
+Moves: poison-sting, toxic, confide, hail
+Weight: 14.0 kg
+Color: white
+Shape: wings
+
+Krokorok
+Land Spirit Pokémon
+Type: rock ground
+Abilities: intimidate, rock-head, reckless
+Moves: sleep-talk, rock-smash, protect, rock-smash
+Height: 1.0 m
+Weight: 32.0 kg
+Shape: quadruped
+It lives in the mountains. It can be found on the slopes of mountains.
+
+Momma
+Type: electric
+Weight: 2.2 kg
+Color: red
+
+Oddish
+Bite Pokémon
+Type: electric
+Abilities: shield-dust, weak-armor, sniper
+swarm, lightning-rod, rage
+Moves: charge-beam, taunt, rock-tomb, rock-tomb
+Height: 0.3 m
+Weight: 20.0 kg
+Color: green
+Shape: quadruped
+It controls a huge swarm of Anteaters. When its tail is plucked, it can snatch up a whole swarm of Anteaters.
+
+Teddiursa
+Seed Pokémon
+Abilities: honey-gather, swarm, solar-beam
+Moves: harden, poison-sleuth, ice-beam, round
+Height: 1.2 m
+Weight: 11.0 kg
+Color: purple
+Shape: upright
+It lives in swamps. It uses the vines on its body to grow crops.
+
+Toxicroak
+Bivalve Pokémon
+Type: grass
+Abilities: overgrow, shell-armor
+Moves: facade, thunder-wave, hidden-power, solar-beam
+Height: 1.2 m
+Weight: 32.0 kg
+Color: brown
+Shape: quadruped
+Habitat: mountain
+
+Litten
+Cottonweed Pokémon
+Type: grass
+Abilities: overgrow, leaf-guard, seed-bomb
+Moves: overgrow, double-team, substitute, sunny-day
+Height: 1.1 m
+Color: green
+Shape: humanoid
+It’s the height of a skyscraper. Its wings are as big as skyscrapers, and it can fly at over 60 mph.
+
+Rolyoth
+New World Pokémon
+Type: steel steel
+Height: 0.5 m
+Color: gray
+Shape: upright
+It’s hard to tell when it is a new birth. It is always, however, born in the spring.
+
+Sandygast
+Sandygast Pokémon
+Type: water
+Abilities: swift-swim, hydration, hydration-soul
+Moves: frustration, giga-impact, toxic, rock-tomb
+Height: 1.8 m
+Weight: 25.5 kg
+Color: blue
+Shape: upright
+It swims constantly to avoid danger. It is very intelligent, so it is very smart.
+
+Bagarian
+Cerebral Pokémon
+Type: rock ground
+Abilities: rock-head, sheer-force, hustle
+Moves: fling, bulldoze, rock-tomb, blizzard
+Height: 1.5 m
+Weight: 23.6 kg
+Color: green
+Shape: quadruped
+When it grows big, it sheds its cloak to return to its nest.
+
+Sylveon
+Lycanroc Pokémon
+Type: fighting
+Height: 1.2 m
+Weight: 27.0 kg
+Color: black
+It is said that the Lycanroc evolve to become Lycanroc.
+
+Mawile
+Seed Pokémon
+Type: grass
+Abilities: overgrow, hydration
+Moves: rain-dance, strength, chlorophyll
+Height: 0.5 m
+Color: red
+Shape: upright
+It has a hard shell on its back, but it can still make moves that are hard to counter. This Pokémon’s shell is made from a large, heavy-duty seed that has been exposed to the elements.
+
+Mareanie
+Flame Pokémon
+Type: fire fairy
+Abilities: flame-body, klutz, super-fang
+Height: 1.2 m
+Color: red
+Shape: quadruped
+Habitat: cave
+It can be said to have the power to transform the surrounding world into aflame. It is said to be the embodiment of fire.
+
+Mew
+Puppy Pokémon
+Type: psychic fairy
+Abilities: cute-charm, magic-room, infiltrator
+Moves: attract, swagger, bug-bite, sleep-talk
+Height: 1.3 m
+Color: brown
+Shape: humanoid
+It buries itself in the ground. It is a sort of psychic ghost.
+
+Bloom
+Seedot
+Bubble Frog Pokémon
+Type: grass poison
+Abilities: early-bird-shred
+Moves: poison-jab, energy-ball, mimic, mimic
+Height: 1.6 m
+Weight: 330.5 kg
+Color: green
+Shape: upright
+It is said that the berries that Bloom’s parents drink can’t be grown. Bloom’s parents love it because it has a sweet fragrance.
+
+Larva
+Larva
+Skewer Pokémon
+Type: normal
+Abilities: inner-focus, sniper, sniper
+Height: 1.5 m
+Weight: 55.0 kg
+Color: brown
+Shape: quadruped
+quadruped
+A skilled sniper, Larva’s forelegs are sturdy enough to withstand the rigors of a battle.
+
+Bewear
+Beedrill Pokémon
+Type: grass poison
+Abilities: overgrow, rain-dish
+Moves: slam, thunder-wave, light-screen, bulk-up
+Height: 1.5 m
+Color: blue
+Shape: quadruped
+Habitat: grassland
+It shares its hardy habitat with other Beedrill. It uses its long arms to generate electricity.
+
+Spinda
+Spinda
+Toxic Pokémon
+Type: poison
+Abilities: poison-point, rivalry, adaptability
+Moves: dig, snore, sludge-bomb, endure
+Height: 1.0 m
+Weight: 6.5 kg
+Color: blue
+Shape: humanoid
+Habitat: grassland
+It is said that the poison on its body is poisonous. It’s said to have been born from the poisonous berries on its back.
+
+Rookac
+Rookac
+Bagworm Pokémon
+Type: dark
+Height: 0.3 m
+Weight: 2.3 kg
+Color: green
+Shape: quadruped
+It is said that its wings are as light as diamonds.
+
+Crobat
+Dragon Pokémon
+Type: water poison
+Abilities: own-tempo, technician, pickup
+Height: 0.4 m
+Weight: 3.0 kg
+Color: blue
+Shape: upright
+Habitat: mountain
+The chlorophyll it absorbs from its body is extremely potent. It can shatter the shell of even a mountain.
+
+Screech
+Screech
+Screech Pokémon
+Type: water
+Abilities: swift-swim, water-veil, water-veil
+water-absorb, damp, damp
+Moves: slam, water-gun, rock-tomb, toxic
+Height: 0.8 m
+Weight: 13.0 kg
+Color: blue
+Shape: ball
+Habitat: sea
+Its body is so heavy, it can be broken down to pieces. It is said to be the last Pokémon left on this world.
+
+Porygon
+Porygon-Z
+Shell Neck Pokémon
+Type: normal
+Height: 0.3 m
+Weight: 1.2 kg
+Color: brown
+Shape: squiggle
+It uses the entire body of its shell to catch prey. It’s hard to see when it is fighting.
+
+Lionel
+Lion Pokémon
+Type: fire
+Abilities: soundproof, rock-head, sheer-force
+Moves: dragon-pulse, counter, taunt, protect
+Height: 1.0 m
+Color: gray
+Shape: quadruped
+It can shout to send a thunderstorm. It’s very skilled at this kind of speech.
+
+Lingering
+Lingering Pokémon
+Type: fairy
+Height: 1.8 m
+Color: white
+Shape: upright
+It has a slightly more mysterious disposition. It can be seen limberly with its long black hair.
+
+Thornfang
+Flame Pokémon
+Type: fire flying
+Abilities: levitate, flame-body, snore
+Height: 1.8 m
+Weight: 50.0 kg
+Color: red
+Shape: wings
+It flies around with its wings wide open. It feeds on the air it inhales.
+
+Spinyrene
+Spiny Pokémon
+Type: grass
+Abilities: overgrow, sand-veil
+Height: 1.2 m
+Color: green
+Shape: upright
+Habitat: grassland
+It’s said that the power of its tail’s spines is enough to propel a car, but it’s unclear whether this Pokémon has ever lived.
+
+Scatterbug
+Bat Bug Pokémon
+Type: bug
+Height: 1.0 m
+Color: brown
+Shape: quadruped
+It appears as a flying bug. It is said to be a guardian deity.
+
+Bunnelby
+Hippopotamus Pokémon
+Type: grass poison
+Abilities: cute-charm, competitive, klutz
+Moves: rain-dance, thief, leer, swagger
+Height: 1.0 m
+Color: green
+Habitat: forest
+It eats the fruit on its back and then moves around in a circle, making the fruits fall to the ground.
+
+Mushroom
+Mushroom Pokémon
+Type: electric
+Abilities: intimidate, rock-head, thick-fat
+Moves: substitute, sleep-talk, rest, sleep-talk
+Height: 1.2 m
+Weight: 15.0 kg
+Color: purple
+Shape: upright
+It lives in the desert, where its habitat is often in desert. Its body is covered in moss.
+
+Muk
+Crystalline Pokémon
+Type: rock
+Abilities: justified
+Height: 0.5 m
+Weight: 3.4 kg
+Shape: quadruped
+
+Komodo dragon
+Dragon Pokémon
+Type: dragon
+Height: 1.0 m
+Weight: 33.5 kg
+Color: blue
+It lives in groups. When it is alone, it lives alone. It may take on a different appearance depending on the mood of the group.
+
+Gotham
+Swine Pokémon
+Abilities: swift-swim, hydration, water-absorb
+Moves: rest, surf, aqua-tail, toxic
+Height: 1.5 m
+Weight: 55.5 kg
+Color: blue
+Shape: upright
+Habitat: sea
+This Pokémon has a very nice and long-lasting sense of smell. It lives in the ocean depths.
+
+Cherubi
+Big Bird Pokémon
+Type: electric
+Abilities: inner-focus, quick-feet, unburden
+Moves: inner-focus, swagger, rest, shadow-ball
+Height: 1.2 m
+Weight: 30.5 kg
+Color: purple
+Shape: wings
+It flies on the wind. It is capable of rolling on the wind like a rolling pin.
+
+Teddiursa
+Shellfish Pokémon
+Type: normal
+Abilities: stakeout, shell-armor, shell-armor
+Moves: confide, natural-gift, facade, rock-tomb
+Height: 1.0 m
+Weight: 23.5 kg
+Color: brown
+Shape: wings
+It evolves from a shell. When it spots a prey, it sends out a powerful cry of fury to retaliate.
+
+Lickilicky
+Seed Pokémon
+Type: grass poison
+Abilities: swarm, poison-point, thick-fat
+Moves: sleep-talk, flame-burst, double-team, confide
+Height: 1.4 m
+Weight: 150.0 kg
+Color: red
+Shape: humanoid
+Habitat: mountain
+It eats the leaves on its head. When it grows up, it uses its full body to fight.
+
+Cobalion
+Gluttony Pokémon
+Abilities: swarm, water-absorb
+Moves: blizzard, water-gun, x-scissor, facade
+Weight: 28.0 kg
+Color: blue
+Shape: upright
+It is said that this Pokémon is very popular because it is always in bloom.
+
+Houndour
+Houndour Pokémon
+Abilities: pressure, inner-focus
+Moves: strength, thunder-wave, dragon-wave, heavy-ball
+Height: 1.2 m
+Color: blue
+Shape: humanoid
+Its body is so heavy, it can withstand the pressure of a jet plane. It’s capable of flying at speeds of up to Mach 1.0.
+
+Rhydon
+Fox Pokémon
+Abilities: blaze, flash-fire, flash-fire
+Moves: fire-punch, counter, giga-impact, flash-fang
+Height: 1.1 m
+Weight: 40.0 kg
+Color: black
+It is capable of emitting a dazzling light that can be seen over a mile away. Its superpower is its sheer power.
+
+Tauros
+Hex Nut Pokémon
+Type: water
+Abilities: intimidate, ice-body, oblivious
+Moves: toxic, flash, toxic, flash
+Height: 0.6 m
+Color: blue
+Shape: upright
+Habitat: sea
+Its body is made up of liquid. It can withstand a rain of acid without burning.
+
+Sylvanas
+Type: water
+Abilities: swift-swim, rain-dish, liquid-ooil
+Moves: water-gun, water-gun, headbutt, sunny-day
+Height: 1.5 m
+Color: blue
+Habitat: waters-edge
+
+Stagemoo
+Stagemoo
+Fairy Pokémon
+Type: flying
+Abilities: wings-down, super-luck, unburden
+Moves: thief, fire-punch, rest, blizzard
+Height: 1.5 m
+Weight: 31.5 kg
+Color: black
+Shape: wings
+The wings on its back are made of feathers. It’s said that it’s the best at flying.
+
+Breloom
+Nectar Pokémon
+Type: psychic fairy
+Abilities: natural-cure, ice-body, sap-sipper
+Moves: natural-gift, ice-pulse, sleep-talk, safeguard
+Height: 1.0 m
+Color: blue
+Shape: quadruped
+It uses the psychic power of its wings to communicate with its allies.
+
+Jynx
+Cotton Cowl Pokémon
+Type: normal
+Abilities: shed-skin, thick-fat, overgrow
+Moves: natural-gift, substitute, bullet-seed, water-pulse
+Height: 1.0 m
+Weight: 55.0 kg
+Color: purple
+Shape: humanoid
+It always looks out for its prey. It pounces on its prey if it sees them.
+
+Rookan
+Fish Pokémon
+Type: water
+Height: 1.5 m
+Weight: 55.0 kg
+Color: blue
+Shape: fish
+Habitat: sea
+It is said that it came from the depths of the sea. Its prey’s teeth are coated with a special substance.
+
+Rampardos
+Big Jaw Pokémon
+Abilities: swift-swim, shell-armor, shell-armor
+Moves: sunny-day, snore, thief, blizzard
+Height: 1.0 m
+Color: gray
+Shape: quadruped
+Habitat: sea
+
+Gothitelle
+Gothitelle
+Fruit Pokémon
+Type: rock dragon
+stone
+Height: 1.0 m
+Weight: 25.0 kg
+Color: green
+Shape: ball
+It is said that a child born with a rare gemstone will never be able to live another day.
+It is said to be the Pokémon that saved the world. This Pokémon is said to have lived long enough to have been born.
+
+Boldow
+Bronze Pokémon
+Abilities: sturdy, rock-head, weak-armor
+Moves: dragon-pulse, protect, facade, giga-impact
+Height: 1.2 m
+Weight: 21.5 kg
+Color: gray
+Shape: upright
+It’s said that the earth’s magnetic fields will cause Pokémon to evolve. In the future, this Pokémon may evolve into a Pokémon.
+
+Pikipek
+Ninja Pokémon
+Type: psychic
+Moves: protect, confide, thunder-wave, rain-dance
+Height: 1.2 m
+Color: blue
+Shape: upright
+It fires a powerful thunderbolt that can reach 100 mph. It’s said to be the strongest Pokémon in the world.
+
+Boldo
+Big Bird Pokémon
+Type: dark
+Abilities: overgrow, chlorophyll
+Moves: soul-beat, tackle, uproar, sleep-talk
+Height: 1.6 m
+Weight: 39.0 kg
+Color: red
+Shape: wings
+
+Tynamo
+Dark Pokémon
+Type: dark
+Height: 0.4 m
+Weight: 28.5 kg
+Color: green
+Shape: upright
+Habitat: grassland
+The most powerful Pokémon in the world, it has a simple habit of eating anything that moves. It always spends its days in the grass.
+
+Klink
+Mole Pokémon
+Type: normal
+normal
+Height: 1.5 m
+Weight: 28.0 kg
+Color: brown
+Shape: wings
+It will chase down any Pokémon that steps on its tail. In this world, all Pokémon are born with the same tail.
+It’s a POKéMON with a tail. Its tail is always very long, so it can easily run over a cliff.
+
+Beldum
+Beldum
+Type: psychic
+Abilities: telepathy, regenerator
+Moves: focus-punch, electroweb, sleep-talk, substitute
+Height: 1.6 m
+Weight: 3.0 kg
+Color: blue
+Shape: quadruped
+It’s a symbol of the cosmic forces that have made its world. The symbols on its body are said to represent the evolution of the universe.
+
+Natu
+Bivalve Pokémon
+Type: fire
+Height: 0.3 m
+Color: blue
+blue
+Shape: quadruped
+It can absorb fire and ice, but it is a very dangerous Pokémon.
+
+Tyrantrum
+Type: bug
+Moves: confusion, dream-eater, confide, infestation
+Height: 0.5 m
+Color: purple
+
+Rock Pokémon
+Abilities: rock-head, sheer-force, damp
+Moves: dance-song, rock-tomb, rock-tomb, torment
+Height: 0.4 m
+Color: gray
+Shape: upright
+Habitat: mountain
+
+Damprock
+Ball Pokémon
+Type: electric
+Abilities: overgrow, chlorophyll
+Height: 0.5 m
+Weight: 11.5 kg
+Color: green
+Shape: ball
+The tip of its tail’s thin, flexible shell is incredibly flexible. It can withstand extreme pressure.
+
+Shedinja
+Shedinja
+Grass Snake Pokémon
+Type: water
+Abilities: swift-swim, poison-touch, hydration
+Moves: thief, toxic, water-sport, fling, giga-impact
+Height: 1.5 m
+Weight: 30.0 kg
+Color: brown
+Shape: wings
+Habitat: cave
+grassland
+Shedinja has a unique way of breathing water. The cotton on its neck is then soaked with a special fluid. When it’s thirsty, the cotton dries up and the cotton wraps around its neck.
+
+Toxic
+Toxic Pokémon
+Type: poison
+Abilities: swarm, sand-veil
+Height: 0.4 m
+Weight: 33.0 kg
+Color: blue
+Shape: armor
+Toxic has a sharp tongue. If a person touches it, the tongue gets pummelled.
+
+Citwahm
+Penguin Pokémon
+Moves: uproar, sleep-talk, snore, shock-wave
+Height: 0.3 m
+Shape: quadruped
+
+Ribombee
+Poison Puff Pokémon
+Type: poison
+Height: 1.3 m
+Weight: 220.0 kg
+Color: red
+Shape: quadruped
+It swallows up the air around it, and if it gets too close, it swallows up the entire area around it.
+
+Koffing
+Shelter Pokémon
+Type: water
+Abilities: sturdy, sand-veil, sand-force
+Height: 0.3 m
+Color: blue
+Shape: ball
+Habitat: sea
+A POKéMON that feeds on water. It’s known to float around on the sea floor, keeping its mouth open for prey.
+
+Drowzee
+Dragon Pokémon
+Type: dragon ground
+Abilities: overgrow, light-metal
+Moves: confide, double-team, rock-tomb, dragon-breath
+Height: 1.1 m
+Color: blue
+Shape: upright
+It can breathe fire and is said to have the ability to teleport. Its arms and legs are covered in fur.
+
+Chespin
+Tornado Pokémon
+Type: water ground
+Abilities: swift-swim, water-absorb
+Moves: sleep-talk, sleep-talk, bubble-beam, sweet-kiss
+Height: 0.3 m
+Color: blue
+Shape: quadruped
+Habitat: grassland
+The sound of the screech of a bulldozer can be heard all the way to the ground. It is a common sight to see bulldozers bulldozing trees in the fields.
+
+Crobat
+Crobat
+Mouse Pokémon
+Type: normal flying
+Abilities: insomnia, telepathy, tonberry
+Moves: sunny-day, flash-cannon, flash-cannon, sleep-talk
+Height: 1.1 m
+Color: red
+Shape: upright
+wings
+Habitat: grassland
+It is said to have been formed from the remains of a cocoon that was found in a cave.
+
+Eelektross
+Lava Pokémon
+Type: water
+Abilities: swift-swim, water-veil, dry-skin
+Height: 0.3 m
+Weight: 11.5 kg
+Color: blue
+Shape: quadruped
+It carries a small rock with it. The rock has a strong odor that can be smelled for a long time.
+
+Pidgeot
+Type: water
+Height: 0.9 m
+Color: gray
+It can swim at over 1,000 feet. Its body is covered in thick, thick, sticky mucus.
+
+Cherchel
+Coal Pokémon
+Type: steel
+Abilities: torrent, sniper
+Moves: fury-swipes, snore, sleep-talk, telekinesis
+Height: 1.2 m
+Color: red
+Shape: quadruped
+Aquarion’s natural abilities are powerful. The quills on its head are powerful, but they’re hard to remove.
+
+Lillipup
+Lillipup
+Big Horn Pokémon
+Type: normal
+Height: 0.4 m
+Weight: 3.5 kg
+Color: gray
+Shape: upright
+It’s the largest Horned Pokémon in the world. It’s even bigger than a pegasus.
+
+Dwebble
+Land Spirit Pokémon
+Type: normal
+Height: 0.5 m
+Weight: 19.0 kg
+Color: blue
+Shape: upright
+It can also be seen flying around the world. It is said to have become the most powerful Pokémon in the world after it defeated a Pokémon of the same name.
+
+Bivalve Pokémon
+Type: fire fighting
+Height: 0.8 m
+Weight: 45.0 kg
+Color: brown
+Shape: humanoid
+
+Stagemash
+Stag Beetle Pokémon
+Type: grass
+Abilities: overgrow, contrary
+Moves: dark-pulse, double-team, attract, hidden-power
+Height: 0.5 m
+Weight: 24.5 kg
+Color: green
+Shape: quadruped
+
+Ruffia
+Ruffia
+Sea Crab Pokémon
+Type: water
+Abilities: swift-swim, water-veil
+Height: 0.6 m
+Weight: 10.0 kg
+Color: blue
+Shape: quadruped
+It can return to its ancient form by using its swim-swim ability.
+
+Razelles
+Rabbit Pokémon
+Type: ghost grass
+Abilities: leaf-guard, light-metal
+Moves: sunny-day, shadow-ball, protect, snore
+Height: 1.1 m
+Weight: 15.0 kg
+Color: gray
+Shape: humanoid
+Habitat: mountain
+A RABELLES that live in forests. They are very well-behaved, and are quick to anger.
+
+Sealeo
+Type: water
+Abilities: natural-cure, regenerator
+Moves: confide, flash, substitute, water-gun
+Height: 1.4 m
+Color: blue
+Shape: upright
+
+Litten
+Land Turtle Pokémon
+Type: ice
+Abilities: plus, ice-body
+Moves: iron-tail, ice-fang, double-edge, ice-beam
+Height: 1.0 m
+Weight: 7.5 kg
+Color: white
+Shape: quadruped
+It attacks with a powerful ice-body. It launches ice bolts from its mouth.
+
+Tantrum
+Shield Pokémon
+Type: rock
+Abilities: damp, serene-grace, regenerator
+Moves: recharge, double-edge, bounce, rock-tomb
+Height: 0.5 m
+Color: green
+Shape: blob
+
+Seedot
+Seed Pokémon
+Type: grass
+Abilities: shed-skin, light-metal, weak-armor
+Height: 1.2 m
+Weight: 3.0 kg
+Color: green
+Shape: quadruped
+They live in a small, unkempt desert. They do not eat, but they do steal food.
+
+Tyrantrum
+Tyrantrum
+Frost Pokémon
+Type: fire psychic
+Abilities: dynamic-power, endure, flash
+Moves: telekinesis, curse, flame-burst, flame-burst
+Height: 0.6 m
+Weight: 19.0 kg
+Color: white
+Shape: quadruped
+upright
+The flames that glow from its body are the light of the moon. The flames are used to illuminate the land and its mountains.
+
+Habuto
+Habuto
+Superpower Pokémon
+Type: electric
+Abilities: overgrow, light-screen, regenerator
+Moves: toxic, rock-tomb, sleep-talk, substitute
+Height: 0.4 m
+Weight: 1.0 kg
+Color: blue
+Shape: upright
+It can move without using its hands. However, its movements are so rapid, they can take the lives of a truckload of people.
+
+Nidoran♀
+Nidorina
+Fruit Pokémon
+Type: grass
+grass
+Height: 0.7 m
+Weight: 17.5 kg
+Color: green
+Shape: quadruped
+It lives in fields. It emits a faint, sweet scent. When it’s thirsty, it swallows its prey whole.
+
+Tynamo
+Purple Pokémon
+Type: electric
+Abilities: natural-cure, frisk, pickpocket
+Moves: attract, thunder-wave, rock-tomb, iron-defense
+Height: 0.9 m
+Weight: 20.5 kg
+Color: purple
+Shape: upright
+With its long, pointed ears, it can sense the rhythm of the thunder in the air. The Pokémon’s ears are very sensitive.
+
+Lanturn
+Tiny Pokémon
+Type: fighting
+Abilities: rivalry, guts, guts
+Moves: frustration, substitute, return, frustration
+Height: 1.0 m
+Weight: 27.0 kg
+Shape: quadruped
+It becomes a Pokémon with a slight twang. It is said to be the best at both defense and offense.
+
+Lillipup
+Hypnosis Pokémon
+Type: grass
+Abilities: early-bird, shadow-ball, early-bird
+Height: 0.4 m
+Weight: 10.5 kg
+Color: blue
+Shape: humanoid
+A powerful psychic power, it can sense the movements of its opponents. It is also capable of teleporting itself.
+
+Nidoking
+Tiny Bird Pokémon
+Type: normal
+Abilities: sleep-talk, inner-focus
+Moves: recover, aerial-ace, hidden-power, frustration
+Weight: 18.0 kg
+Color: green
+Shape: quadruped
+
+Mesprit
+Type: dragon
+Abilities: thick-fat, ice-body, huge-power
+Height: 1.2 m
+Color: white
+Shape: upright
+The spiky spikes on its back have a lot of power. It will charge at a foe and break its arm to shreds.
+
+Golurk
+Golurk
+Fossil Pokémon
+Type: bug flying
+Height: 0.5 m
+Weight: 10.5 kg
+Color: green
+Shape: wings
+It is said to live in forests where there is no sunlight.
+
+Sylveon
+Cave Pokémon
+Type: dark
+Weight: 30.5 kg
+Color: red
+Shape: blob
+It’s said that a group of individuals can evolve into a new form.
+
+Tyrantrum
+Height: 0.5 m
+Weight: 27.0 kg
+Color: green
+Shape: quadruped
+The three-pronged Pokémon use their hands to control their Pokémon. It is said to be the Pokémon that creates the world.
+
+Rattata
+Fossil Pokémon
+Type: normal flying
+Abilities: normal, flash-fire
+Moves: secret-power, rock-smash, sleep-talk, sleep-talk
+Height: 0.4 m
+Weight: 40.5 kg
+Color: blue
+Shape: quadruped
+Habitat: mountain
+If it can throw an energy ball, it can mimic the movements of its Trainer. This Pokémon is known as a ninja.
+
+Lance
+Weight: 20.5 kg
+Shape: upright
+
+Lumineon
+Plant Pokémon
+Type: grass
+Abilities: sturdy, rock-head, weak-armor
+Moves: facade, technician, swagger, iron-defense
+Height: 1.2 m
+Weight: 33.0 kg
+Color: blue
+Shape: upright
+It has a keen sense of smell and can sense the earth. It can tell if a tree is growing.
+
+Kangaskhan
+Sleeping Pokémon
+Type: normal fairy
+Abilities: natural-cure, cloud-nine
+Moves: harden, substitute, substitute, mimic
+Height: 0.6 m
+Weight: 17.5 kg
+Color: blue
+Shape: humanoid
+It lives in damp, muddy areas. It is known to invade areas of low rainfall.
+
+
+
+Growlithe
+Type: grass poison
+Abilities: levitate
+Height: 0.4 m
+Weight: 19.5 kg
+Color: green
+Shape: upright
+It sneaks into people and steals their berries. It is said to have been born in the future.
+
+Graveler
+Bite Pokémon
+Type: grass
+Abilities: blaze, flash-fire, weak-armor
+Moves: snore, sunny-day, substitute, body-slam
+Height: 1.8 m
+Color: green
+Shape: upright
+Habitat: urban
+It is said that it is the most powerful thing on the face of the earth. It is said that the king who has seen it will become an ancestor of this Pokémon.
+
+Scytherian
+Scytherian
+Scytherian Pokémon
+Type: psychic
+psychic
+Height: 0.6 m
+Weight: 1.5 kg
+Color: green
+Shape: upright
+upright
+A Pokémon with a psychic power. It uses its psychic power to communicate with people and Pokémon.
+
+Tapu Fini
+Transport Pokémon
+Type: normal
+Abilities: levitate
+Height: 1.1 m
+Weight: 1.0 kg
+Color: blue
+Shape: quadruped
+It can move at speeds of up to 20 mph. It can also float in the air.
+
+Chespin
+Bite Pokémon
+Type: dark
+Height: 0.5 m
+Weight: 30.0 kg
+Color: gray
+Shape: blob
+The shell on its head is harder than steel. The skull has an internal strength of roughly 10,000 kg.
+
+Poliwag
+Poliwag
+Duck Pokémon
+Type: steel fairy
+Abilities: overgrow, chlorophyll
+Moves: hyper-beam, cut, confide, sleep-talk
+Height: 1.0 m
+Weight: 110.0 kg
+Color: gray
+Shape: humanoid
+quadruped
+It’s said that the Pokémon with the most power has the most power. In the Pokémon’s world, this power is nothing but the power of its body.
+
+Pleasant Pokémon
+Type: electric
+Moves: work-up, facade, snore, focus-blast
+Height: 0.3 m
+Weight: 3.0 kg
+Color: green
+Habitat: urban
+
+Piloswine
+Piloswine
+Season Pokémon
+Type: grass
+Height: 0.4 m
+Weight: 34.0 kg
+Color: gray
+Shape: quadruped
+The leaves on its back are so small, they can be seen through the trees. They are a favorite of Pokémon that live in forests.
+
+Royal Fox
+Royal Pokémon
+Type: bug flying
+Abilities: run-away, inner-focus, reckless
+Moves: confide, rock-tomb, nature-power, bug-bite
+Height: 0.7 m
+Weight: 2.0 kg
+Color: brown
+Shape: quadruped
+wings
+Habitat: grassland
+Its body is very sturdy, so it is very easy to pick up. It can even be found flying.
+
+Charmander
+Charm Pokémon
+Type: fighting
+Height: 1.3 m
+Weight: 13.5 kg
+Color: green
+Shape: upright
+It’s a bit of a wild Pokémon, but it’s still quite powerful. This Pokémon is capable of causing serious bodily injury if it is attacked.
+
+Stagemaru
+Seed Pokémon
+Type: grass
+Abilities: anticipation, telepathy
+Moves: return, mud-slap, toxic, mud-slap
+Height: 1.0 m
+Color: green
+Shape: upright
+It lives in swamps and caves, searching for food. It eats berries that it finds nearby.
+
+Nidoking
+Illuminating Pokémon
+Type: dark dark
+Abilities: natural-cure, magic-guard, regenerator
+Height: 0.6 m
+Weight: 31.5 kg
+Color: black
+Shape: upright
+It lives in a world where it can see only its own reflection. Its eyes and ears are all that is known about this Pokémon.
+
+Golurk
+Type: grass poison
+Abilities: levitate
+Height: 0.2 m
+Weight: 1.4 kg
+Shape: upright
+
+Zangoose
+Generator Pokémon
+Type: grass
+Abilities: overgrow, telepathy
+Moves: swagger, snore, toxic, giga-impact
+Height: 0.3 m
+Weight: 2.0 kg
+Color: gray
+Shape: quadruped
+Zangoose’s arms are steel-like, but they can’t be broken. They are very durable.
+
+Seedot
+Seedot
+Spiny Bird Pokémon
+Spiny Bird Pokémon
+Type: grass
+Height: 1.3 m
+Weight: 23.5 kg
+Color: green
+Shape: upright
+It’s said that this Pokémon’s movements are mysterious. It’s said that it’s the source of all the information that Pokémon gather.
+
+Sylveon
+Swimming Pokémon
+Type: fighting
+Height: 1.3 m
+Weight: 102.5 kg
+Color: green
+Shape: upright
+If you’re feeling a little down, it can swim by taking a deep breath.
+
+Lilligant
+Ball Pokémon
+Type: grass
+Abilities: blaze, flash-fire
+Height: 1.1 m
+Color: green
+Shape: quadruped
+It can throw a ball of fireballs, which is useful when the flames in your cheeks are burning hot.
+
+Zubat
+Flycatcher Pokémon
+Type: electric
+Abilities: volt-absorb, frisk, protean
+Moves: endure, substitute, substitute, mimic
+Height: 1.1 m
+Weight: 70.5 kg
+Color: blue
+Shape: upright
+If you see a ZUBAT that looks like a zebra, you can see its brain. This Pokémon’s brain is a tiny piece of a zebra’s brain.
+
+Tyrunt
+Tyrunt
+Tiny Fish Pokémon
+Type: normal
+Abilities: intimidate, thick-fat
+Moves: return, snore, snore, swagger
+Height: 0.6 m
+Color: blue
+green
+Shape: humanoid
+Habitat: waters-edge
+It swallows prey with its long, sharp tongue. It will eat anything. It is the leader of its group.
+
+Pheromosa
+Pheromosa
+Fish Jaw Pokémon
+Type: normal
+Abilities: swift-swim, shell-armor, steadfast
+Height: 1.1 m
+Weight: 39.5 kg
+Color: blue
+Shape: wings
+The male has a long tongue. This Pokémon is said to be the best at it.
+
+Skitty
+Big Jaw Pokémon
+Type: normal
+Abilities: snow-cloak, shadow-tag, heavy-metal
+Moves: dig, hyper-voice, poison-jab, dream-eater
+Height: 1.0 m
+Color: brown
+Shape: upright
+It is said to have been born from a single shell. It is said to have been born in the same place and that the shell was the same as the shell of its mother.
+
+Dreepy
+Sea Turtle Pokémon
+Type: normal
+Height: 0.3 m
+Weight: 3.5 kg
+Color: green
+Shape: upright
+It is said that Dreepy will make its nest at the edge of the sea.
+
+Gothita
+Bite Pokémon
+Type: dragon
+Abilities: sap-sipper, pressure-broke, rock-head
+Moves: facade, mud-slap, natural-gift, sandstorm
+Height: 1.3 m
+Weight: 30.0 kg
+Color: black
+Shape: humanoid
+It can withstand the pressure of a large jet pack. It can also endure the heat of an earthquake.
+
+Starling
+Starling Pokémon
+Abilities: shed-skin, big-pecks, shell-armor
+Height: 0.3 m
+Weight: 17.0 kg
+Color: blue
+Shape: upright
+It’s said that if it’s born in a nest, Starling Pokémon will be born. This POKéMON is also said to have a strong sense of smell.
+
+Skitty
+Bivalve Pokémon
+Type: grass
+Height: 1.1 m
+Weight: 34.5 kg
+Color: gray
+Shape: quadruped
+Habitat: forest
+It can pick berries and eat them whole. It’s very popular as a pet.
+
+Corvus
+Swine Pokémon
+Type: electric
+Abilities: swift-swim, water-veil
+Moves: water-slash, protect, rock-tomb, thunder-punch
+Weight: 55.5 kg
+Color: blue
+Shape: upright
+Habitat: waters-edge
+It swims in icy water. It is extremely sluggish. It can swim at speeds of up to 100 mph.
+
+Pidgeot
+Worm Pokémon
+Type: normal
+Abilities: sunny-day, psychic, water-absorb
+Height: 0.9 m
+Color: brown
+It lives in holes in the ground. If it gets too close to a tree, it will fall to the ground.
+
+Cocoon
+Sun Pokémon
+Type: ice
+Abilities: mold-breaker, hydration, snow-cloak
+Moves: ice-beam, sunny-day, hyper-voice, headbutt
+Height: 0.8 m
+Weight: 17.5 kg
+Color: green
+Shape: humanoid
+Habitat: forest
+It is said that if you see the sun, you will feel the warmth of its face.
+
+Hawkud
+Aura Pokémon
+Type: normal flying
+Height: 1.1 m
+Shape: quadruped
+It is believed that it is the ancestor of all humans. Its head is hidden in its pouch, and it is said to have been reborn from a place of darkness.
+
+Cottonwool
+Cottonwool
+Cottonweed Pokémon
+Type: grass
+normal
+Height: 1.2 m
+Color: red
+Shape: quadruped
+Habitat: mountain
+It’s called a vine. It grows in the mountains. It keeps its leaf in its leaf sac.
+
+Pikachu
+Pikipek
+Penguin Pokémon
+Type: normal
+Moves: dive, ice-beam, thunder, fire-punch
+Height: 1.5 m
+Color: blue
+Shape: upright
+wings
+It’s the Pokémon that flew to space. It’s said to have been born on a comet.
+
+Bellsprout
+Longevity Pokémon
+Type: grass
+Abilities: fairy-like, sunny-day, sand-force
+Moves: water-gun, facade, facade, facade
+Height: 0.4 m
+Weight: 20.0 kg
+Color: blue
+Shape: humanoid
+upright
+It lives in the heart of nature. The young are born with a healthy body and a healthy brain.
+
+Charmander
+Cave Pokémon
+Type: electric
+Height: 0.5 m
+Weight: 10.5 kg
+Color: purple
+Shape: humanoid
+The fire in its tail can melt a whole house in one go. It’s a marvel to watch, but it’s not enough to make a thief’t fall in love.
+
+Chedda
+Chedda
+Type: normal
+Abilities: cute-charm, normalize, own-tempo
+Moves: rock-smash, rock-throw, snore, sleep-talk
+Height: 1.4 m
+Color: white
+Shape: quadruped
+It is capable of delivering thunder bolts with a single heavy punch. Its weak points are its sheer strength.
+
+Berry Pokémon
+Abilities: natural-cure, ice-body
+Moves: confide, double-team, substitute, mimic
+Weight: 220.0 kg
+Color: blue
+Shape: upright
+They have a knack for finding food and food that is sweet and tasty. They can also be seen eating berries.
+
+Starling
+Starling Pokémon
+Type: water
+Abilities: hyper-cutter, shell-armor, scrappy
+Moves: substitute, double-team, substitute, substitute
+Height: 0.3 m
+Weight: 9.0 kg
+Color: blue
+Shape: fish
+Habitat: cave
+
+Bunnelby
+Bunnelby
+Cottonweed Pokémon
+Type: bug poison
+Abilities: swarm, poison-touch, damp
+Moves: substitute, swift, sleep-talk, mimic
+Weight: 57.0 kg
+Color: purple
+Shape: humanoid
+Habitat: grassland
+It’s said that the cottonweed grows around its head.
+
+Kadabra
+Lingering Pokémon
+Type: electric
+Abilities: static, flash-fire, lightning-rod
+static, oblivious
+Moves: stomp, swagger, zen-headbutt, zen-headbutt
+Height: 0.5 m
+Weight: 16.5 kg
+Color: green
+Shape: quadruped
+Habitat: urban
+It was created to be used as a substitute for the dead body. Its mysterious power can cause other people to forget its existence.
+
+Ducklett
+Dive Pokémon
+Type: water ground
+Abilities: chlorophyll, sap-sipper, own-tempo
+Moves: swift, water-pulse, secret-power, thunder-wave
+Height: 1.0 m
+Weight: 12.5 kg
+Color: green
+Shape: quadruped
+They are friendly toward people who live near them. They become attached to people who come to live with them.
+
+Latias
+Mouse Pokémon
+Type: fire
+Abilities: keen-eye, infiltrator, sheer-force
+Moves: earth-power, thunderbolt, thunder-wave, swagger
+Height: 1.4 m
+Weight: 12.0 kg
+Color: red
+Shape: wings
+It has a very calm temperament, and it makes its nest in the mountains. It’s a very smart Pokémon.
+
+Houndour
+Grass Snake Pokémon
+Abilities: shield-dust, sand-veil, tangled-feet
+Moves: teleport, body-slam, steel-wing, headbutt
+Height: 1.5 m
+Color: red
+Shape: upright
+Habitat: mountain
+A giant Pokémon that lives in mountains and lakes. It lives in caves and tunnels. It is said to be a guardian deity.
+
+Hawkud
+Axe-Wrestling Pokémon
+Height: 1.5 m
+Weight: 17.0 kg
+Shape: upright
+It’s a powerful magician that can create an illusion of any kind. It can cause a disturbance in the climate of a mountain and cause the volcano to erupt.
+
+Chansey
+Charm Pokémon
+Type: bug
+Height: 0.4 m
+Weight: 12.5 kg
+Color: black
+Shape: quadruped
+
+Rhyhorn
+Type: normal
+Abilities: sap-sipper, sticky-hold, tinted-lens
+Height: 0.6 m
+Color: blue
+Shape: upright
+It wraps itself in its own web to protect its surroundings. It has a sense of smell.
+
+Cerebral
+Cerebral Pokémon
+Type: psychic
+Height: 1.3 m
+Weight: 45.0 kg
+Color: blue
+Shape: humanoid
+Cerebral Pokémon are highly intelligent and very popular among Pokémon collectors. They are known to be very cautious and aggressive.
+
+Linoone
+Fire Pokémon
+Type: fire
+Abilities: beast-boost
+Moves: fling, return, swagger, substitute
+Height: 1.4 m
+Color: red
+Shape: upright
+It has an extremely powerful spirit. It can cause a storm by using its body as a shelter.
+
+Swadloon
+Water Pokémon
+Type: water water
+Abilities: swift-swim, water-absorb, damp
+Height: 0.6 m
+Weight: 6.5 kg
+Color: blue
+Shape: fish
+This Pokémon has the power to change its body. It sleeps for a month.
+
+Vileplume
+Bird Pokémon
+Abilities: early-bird, scrappy, cloud-nine
+Height: 0.5 m
+Weight: 210.0 kg
+Color: gray
+Shape: quadruped
+It’s a clever Pokémon. It runs in circles and whips around in the air to get around. It is said to be the guardian of the skies.
+
+Citadel
+Type: electric
+Height: 0.6 m
+Weight: 2.0 kg
+Shape: wings
+It can fly at speeds of up to 390 mph.
+
+Plumpit
+Fairy Pokémon
+Type: electric
+Abilities: hyper-cutter, shell-armor, weak-armor
+Moves: rest, toxic, dragon-pulse, sleep-talk, hidden-power
+Height: 1.1 m
+Weight: 10.0 kg
+Color: blue
+Habitat: grassland
+
+Porygon2
+Fire Pig Pokémon
+Type: fire
+Abilities: swarm, iron-fist, regenerator
+Moves: giga-impact, foresight, fire-blast, fire-punch
+Height: 1.1 m
+Color: red
+Shape: quadruped
+The only Pokémon capable of running at speeds of more than 120 mph. It is thought to have a very strong sense of smell.
+
+Grimm
+Cottonweed Pokémon
+Type: grass
+Abilities: overgrow, inner-focus
+Moves: take-down, flash-cannon, thief, bug-bite
+Height: 1.8 m
+Color: red
+Shape: wings
+Habitat: forest
+It senses the wind by moving its whiskers to move. It’s capable of moving at a speed of over 100 mph.
+
+Lavaoth
+Type: electric
+Height: 0.9 m
+Color: green
+Shape: blob
+It can withstand any amount of damage. It’s capable of living for as long as a hundred years.
+
+Bunnelby
+Land Spirit Pokémon
+Type: grass
+Height: 1.0 m
+Weight: 22.5 kg
+Color: green
+Shape: upright
+It burrows into the ground to escape its attackers. It’s very sturdy.
+
+Tyrantrum
+Worm Pokémon
+Type: grass poison
+Abilities: overgrow, early-bird, early-bird
+Height: 0.5 m
+Weight: 28.5 kg
+Shape: upright
+Habitat: grassland
+
+Azumarill
+Azumarill
+Bird Pokémon
+Type: grass
+Abilities: early-bird, early-bird, quick-feet
+Height: 0.4 m
+Shape: quadruped
+Habitat: grassland
+It has a keen sense of smell, and it can detect the scent of rotten eggs. It can be seen walking along the shore in the water.
+
+Terene­chan
+Honey Bee Pokémon
+Type: grass
+Abilities: overgrow, light-metal
+Moves: refrigerate, solar-beam, sunny-day, double-team
+Height: 1.2 m
+Color: green
+Shape: humanoid
+Habitat: forest
+Its arms are like honeycomb. The arms are strong enough to withstand the pressure of a hurricane.
+
+Tantrum Pokémon
+Type: ground
+Height: 1.4 m
+Color: brown
+Shape: upright
+It can throw a tantrum by sticking its head in a hole in the ground.
+
+Nidorina
+Bivalve Pokémon
+Type: water
+Abilities: guts, sheer-force, guts
+Moves: acid, thunder, natural-gift, confide
+Height: 0.5 m
+Color: blue
+Habitat: sea
+This Pokémon was originally from a world that was inhabited by a race of Pokémon. When it was found, it became the focus of an intense battle.
+
+Tyrantrum
+Tyrantrum
+Icy Pokémon
+Type: normal
+Moves: substitute, fake-out, curse, rest
+Height: 1.4 m
+Color: green
+Shape: ball
+It’s the only Pokémon that can’t grow back. It’s stuck on a mountain.
+
+Mushroom
+Mushroom Pokémon
+Type: grass
+Abilities: cute-charm, magic-guard, prankster
+Moves: mud-slap, shadow-ball, mud-slap, ice-beam
+Height: 0.6 m
+Color: green
+Shape: quadruped
+Habitat: grassland
+The shell on the back of its head is the shell of a mantis. The shell on its back is the shell of a dragon.
+
+Pichu
+Type: normal
+Abilities: shed-skin, overcoat
+Moves: snore, endure, mirror-coat, cut
+Height: 0.2 m
+Color: blue
+Shape: upright
+It’s a popular Pokémon. It is very popular with people because of its ability to control the emotions of others.
+
+Kite
+Superpower Pokémon
+Type: ground
+Abilities: levitate
+Height: 0.5 m
+Color: green
+Shape: upright
+They use a special power to emit a faint signal that they can be heard over a mile away.
+
+Bagua
+Bagua
+Sludge Pokémon
+Type: water
+Height: 0.5 m
+Weight: 2.5 kg
+Color: gray
+Shape: upright
+Habitat: cave
+In an effort to contain its frustration, Bagua has sunken into the ocean and is drowning.
+
+Tyrantrum
+Seed Pokémon
+Type: grass
+Abilities: overgrow, leaf-guard
+Moves: swagger, facade, swagger, wild-charge
+Height: 1.5 m
+Weight: 10.0 kg
+Color: green
+Shape: wings
+Tyrantrum grows to over a foot long and weighs as much as a car. Its branches grow back at a rapid rate.
+
+Kabuto
+Kabuto
+Sword Pokémon
+Type: water
+Height: 1.8 m
+Weight: 23.0 kg
+Color: blue
+Shape: upright
+The very tip of its tail is highly sensitive to the temperature of the air it is flying in. This Pokémon’s tail has an extremely sensitive, temperature sensitive chemical composition.
+
+Nidoking
+Stun Pokémon
+Type: rock flying
+Abilities: shed-skin, cloud-nine
+Moves: dragon-pulse, iron-tail, thunder-punch, steel-wing
+Weight: 2.0 kg
+Color: blue
+Shape: quadruped
+The shockwave it creates causes the prey to flee. It sends its tail feathers flying as a warning.
+
+Whiscash
+Flower Pokémon
+Type: grass
+Abilities: overgrow, cloud-nine, rain-dance
+Moves: fling, leaf-storm, facade, grass-knot
+Height: 0.6 m
+Color: purple
+Shape: wings
+It was discovered that a Pokémon that’s injured was unable to breathe. This Pokémon’s body temperature is about 300 degrees Fahrenheit.
+
+Mantine
+Toxic Pokémon
+Type: electric
+electric steel
+Height: 1.2 m
+Weight: 2.5 kg
+Color: red
+Shape: upright
+It can unleash a blast of the power of its arms. This POKéMON is highly skilled at using its fists to crush prey.
+
+Bisharp
+Beaver Pokémon
+Type: ice
+Abilities: iron-fist, snow-cloak, weak-armor
+Height: 0.8 m
+Color: brown
+Shape: quadruped
+Habitat: cave
+Its fur is thick and durable. It eats any and all food it can get its hands on. It is said to live in an ice age.
+
+Silicobra
+Scaly Pokémon
+Type: normal
+Weight: 3.9 kg
+Color: gray
+Shape: upright
+It’s hard to tell if it was born with a plump body or a child’s. Because it’s so small, it’s hard to see.
+
+Bergmite
+Type: water
+Weight: 11.0 kg
+Color: blue
+Shape: squiggle
+It has a large mouth. It swallows prey whole.
+
+Lingering
+Forest Pokémon
+Type: normal
+Moves: shadow-claw, secret-power, thunderbolt, rock-tomb
+Height: 0.8 m
+Color: blue
+Shape: upright
+It’s said that the people who live in forests are the people who discovered its existence.
+
+Wurmple
+Wurmple
+Aurora Pokémon
+Type: normal
+normal
+Moves: ghost-voice, psychic, psych-up, psychic
+Height: 0.4 m
+Weight: 10.5 kg
+Color: blue
+Shape: humanoid
+quadruped
+The tentacles on its back are extremely strong, so it’s advisable to use them as swords.
+
+Cinderace
+Toxic Pokémon
+Type: ground
+Abilities: compound-eyes, sniper, flash-fire
+Moves: toxic, hyper-voice, thunder-wave, swagger
+Height: 0.7 m
+Color: brown
+Shape: quadruped
+Its body is so strong, it can tear apart the entire facade of a skyscraper. It’s very powerful.
+
+Wynovki
+Type: dragon flying
+Abilities: hyper-cutter, shell-armor, overcoat
+Moves: magnet-cannon, icy-wind, thunder-wave, defense-curl
+Height: 1.8 m
+Color: blue
+Shape: wings
+Habitat: urban
+
+Rampardos
+Rampardos
+Tiny Duck Pokémon
+Type: water
+Height: 1.1 m
+Weight: 3.0 kg
+Color: blue
+Shape: upright
+A sturdy, sturdy Pokémon. It can move with the tip of its tail. It’s a popular pet.
+
+Muk
+Cotton Quilt Pokémon
+Type: fire
+Abilities: illuminate, flame-body, keen-eye
+Moves: sunny-day, natural-gift, focus-blast, secret-power
+Height: 0.4 m
+Weight: 16.8 kg
+Color: black
+Shape: arms
+If it is strong enough, it can carry a heavy load. However, if it is weak, it will be forced to endure a terrifying battle.
+
+Tyrantrum
+Cotton Candy Pokémon
+Type: fire fighting
+Abilities: gluttony, speed, sheer-force
+Moves: rain-dance, swagger, fling, superpower
+Height: 1.5 m
+Weight: 27.5 kg
+Color: brown
+Shape: quadruped
+
+Panther
+Honey Bee Pokémon
+Type: grass
+Abilities: natural-cure, regenerator
+Height: 0.4 m
+Weight: 55.0 kg
+Color: green
+Shape: upright
+Habitat: grassland
+It is said that a POKéMON that’s born with a red head can be said to have the appearance of a POKéMON.
+
+Garchomp
+Bird Pokémon
+Abilities: swift-swim, water-veil, damp
+Moves: swagger, swift, roar, leer
+Height: 0.7 m
+Shape: wings
+It communicates with the others by swinging its wings. Its pincers are also flexible and can be used to strike back.
+
+Rideh
+Type: psychic
+Abilities: synchronize, telepathy
+Moves: swift, return, growl, sunny-day
+Height: 0.4 m
+Weight: 10.0 kg
+Color: white
+Shape: quadruped
+
+Lunala
+Lunala
+EleFish Pokémon
+Type: electric
+water
+Height: 1.5 m
+Weight: 11.5 kg
+Color: blue
+red
+Shape: quadruped
+Habitat: waters-edge
+The one who gets most of the sunlight. Its body is covered with a coat of dark fur.
+
+Hoppip
+Cavalry Pokémon
+Type: fighting
+Abilities: swift-swim, water-absorb, shell-armor
+Moves: giga-impact, headbutt, double-edge, toxic
+Height: 0.6 m
+Weight: 33.5 kg
+Color: blue
+Shape: armor
+Its body is covered with a thick, dense mucus. It’s very sensitive to temperature, so it will not let go of its prey.
+
+Sewaddle
+Cottonweed Pokémon
+Type: bug grass
+Abilities: shed-skin, skin-rust, sap-sipper
+Moves: stun-speculator, substitute, blizzard, dark-pulse
+Height: 0.6 m
+Weight: 55.5 kg
+Shape: upright
+The cotton on its back is the key to its ability to withstand cold. It’s also the cotton on its tail.
+
+Cottonbark
+Cotton Bird Pokémon
+Abilities: swarm, swarm, bug-bite
+Moves: swagger, curse, aerial-ace, fling
+Height: 1.5 m
+Weight: 32.0 kg
+Color: blue
+Shape: upright
+It lives in forests, where it eats a variety of plants.
+
+Jynx
+Type: normal fairy
+Abilities: inner-focus, telepathy
+Moves: forewarn, magic-coat, feint, rain-dance
+Height: 1.3 m
+Weight: 4.0 kg
+Color: blue
+Shape: humanoid
+The trickiest part of its trick is that it can't see the world in its full form. This is because its entire body is hidden in its own body.
+
+Victreebel
+Sun Pokémon
+Type: dark flying
+Abilities: keen-eye, flash-fire, reckless
+Moves: facade, flash, body-slam, return, payback
+Height: 1.0 m
+Weight: 12.5 kg
+Color: brown
+Shape: wings
+It is said that its skin is the first to become yellow.
+
+Fang
+Type: grass
+Abilities: hustle, iron-fist, anger-point
+Moves: wish, mimic, electro-ball, bug-bite
+Height: 1.1 m
+Weight: 20.5 kg
+Color: green
+Shape: humanoid
+It is said that the evolution of its body is as strong as its brain. It grows stronger by taking on new forms.
+
+Grasskudan
+Grass Snake Pokémon
+Abilities: natural-cure, regenerator, pickpocket
+Moves: natural-gift, flash, toxic, flash
+Height: 0.4 m
+Weight: 9.5 kg
+Color: red
+Shape: upright
+Habitat: grassland
+When it spots a weak spot, it immediately runs to the spot. The grass grows in size from the seed it has grown on.
+
+Gothita
+Striker Pokémon
+Type: dragon
+Abilities: levitate, super-luck, storm-drain
+Height: 1.1 m
+Weight: 5.0 kg
+Color: green
+Shape: blob
+The young are more powerful than the adults, and this is because they grow in size. It is said that the young are the most powerful Pokémon in the world.
+
+Cottonwool
+Cottonweed Pokémon
+Type: grass
+Abilities: leaf-guard, poison-touch, early-bird
+Moves: strength, toxic, flash, toxic
+Height: 1.0 m
+Color: green
+Shape: quadruped
+Habitat: grassland
+It lives in forests, where it stores seeds in the leaves.
+
+Toxicroak
+Woodland Pokémon
+Type: grass
+Weight: 2.3 kg
+Shape: quadruped
+Habitat: forest
+It is said to live in the woods. Its habit is to chew through trees with its long spines.
+
+Luxio
+Lion Blade Pokémon
+Type: poison flying
+Abilities: sweet-veil, poison-heal, sniper
+Moves: electric-terrain, iron-defense, hyper-beam, shadow-ball
+Height: 1.0 m
+Weight: 34.5 kg
+Color: red
+Shape: wings
+It lies in wait for prey to come by flashing its wings and shining its light.
+
+Dodrio
+Dodrio
+Skunk Pokémon
+Type: electric
+Abilities: swarm, scrappy
+Height: 1.4 m
+Weight: 24.0 kg
+Color: red
+Shape: quadruped
+Its legs are hardened to withstand the rigors of a long day. It’s the only Pokémon that can’t fly.
+
+Rattata
+Fish Pokémon
+Abilities: swift-swim, sniper, shell-fist
+Moves: swift, secret-power, ice-punch, double-team
+Height: 0.5 m
+Weight: 23.5 kg
+Color: blue
+Shape: upright
+Habitat: waters-edge
+It lives in the deep seas. It swims in the shallow water of the ocean.
+
+Beedrill
+Water Lizard Pokémon
+Type: water
+Abilities: swift-swim, hydration, water-absorb
+Moves: drain-punch, return, water-pulse, return
+Height: 1.0 m
+Weight: 102.0 kg
+Color: brown
+Shape: fish
+It breathes a toxic fluid from its mouth and then swallows the liquid. It’s very quick at finding its prey.
+
+Kun-Ling
+Kun-Ling
+Lingering Pokémon
+Type: normal
+Weight: 45.0 kg
+Color: brown
+Shape: upright
+They live in the mountains, but they can be seen in the distance. Their bodies are covered by a thick fur.
+
+Delcatty
+Licking Pokémon
+Type: bug poison
+Abilities: stakeout, hustle, quick-feet
+Moves: ice-beam, headbutt, dragon-tail, curse
+Height: 1.8 m
+Color: brown
+Shape: wings
+Its saliva is so sticky, you can feel the heat of its body from the tip of its tail.
+
+Larvitar
+Bite Pokémon
+Type: normal
+Abilities: natural-cure, sniper
+Moves: swagger, water-pulse, rock-smash, rock-tomb
+Height: 0.5 m
+Weight: 1.5 kg
+Shape: blob
+LARVIT stands on its hind legs and attacks by bouncing around. This Pokémon’s movements are extremely fast. If you see this Pokémon in a nearby park, make sure you don’t forget to pay attention.
+
+Krookodile
+Pig Pokémon
+Type: electric
+Abilities: sturdy, chlorophyll, own-tempo
+Moves: snore, flame-burst, flame-charge, protect
+Height: 1.6 m
+Weight: 2.1 kg
+Color: purple
+Shape: quadruped
+It is an ancient Pokémon. It’s said to have been reborn in a hidden cave in the past.
+
+Oshawott
+Dark Pokémon
+Type: dark
+Abilities: levitate
+Moves: attract, snore, rock-tomb, snore
+Height: 0.5 m
+Weight: 10.5 kg
+Color: black
+Shape: quadruped
+upright
+It is said to be the guardian of the dark forest.
+
+Boldo
+Bee Pokémon
+Abilities: swarm, guts, overcoat
+Moves: secret-power, confide, roar, secret-power
+Weight: 18.5 kg
+Shape: quadruped
+Habitat: grassland
+It can generate electricity from any of its many senses. Its ability to sense wind and rain is astounding.
+
+Scout Pokémon
+Abilities: beast-boost
+Height: 1.2 m
+Weight: 60.0 kg
+Color: gray
+Shape: wings
+
+Savage
+Snow Bear Pokémon
+Type: rock
+Abilities: snow-cloak, snow-cloak, snow-cloak
+Moves: thunder-punch, thunder-punch, feint, ice-beam
+Height: 1.5 m
+Weight: 14.5 kg
+Color: white
+Shape: quadruped
+Habitat: urban
+In winter, it sheds snow and grass in a slick, slick, rolling motion.
+
+Nidoran♀
+Big Bird Pokémon
+Type: grass
+Abilities: clear-body, sheer-force, bide
+Moves: thunder-wave, mud-slap, secret-power, frustration
+Height: 1.5 m
+Color: red
+Shape: upright
+When it senses danger, it looks for a nest, then strikes a nest with its tail.
+
+Rhyhorn
+Rhyhorn
+Herring Pokémon
+Type: grass
+Abilities: healer, leaf-guard, regenerator
+Moves: swagger, bug-bite, blizzard, energy-ball
+Height: 0.5 m
+Weight: 40.5 kg
+Color: green
+Shape: upright
+It’s said that the fragrance of its leaves turns a dark shade of red.
+
+Mudbray
+Type: ghost grass
+Abilities: natural-cure, regenerator
+Moves: substitute, mud-slap, psych-up, sleep-talk
+Weight: 55.5 kg
+Color: brown
+Shape: quadruped
+Habitat: urban
+
+Koffing
+Blaze Pokémon
+Type: fire
+Abilities: torrent, flash-fire
+Moves: fire-punch, double-team, fling, torment
+Height: 1.2 m
+Weight: 55.5 kg
+Color: yellow
+Shape: quadruped
+It can unleash a powerful blast of flame to incinerate an opponent.
+
+Houndour
+Cave Pokémon
+Type: dark
+Height: 0.7 m
+Weight: 1.3 kg
+Shape: upright
+Habitat: urban
+A Pokémon that lives in forests and mountains. It will attack any Pokémon that moves.
+
+Seadra
+Seadra
+Puppet Pokémon
+Puppet Pokémon
+Type: grass
+Abilities: mold-breaker, mold-breaker, weak-armor
+Moves: giga-impact, aerial-ace, return, bulk-up
+Height: 1.2 m
+Weight: 120.0 kg
+Color: purple
+Shape: quadruped
+Habitat: grassland
+Seadra is said to be the guardian of the earth. It’s said that if it’s attacked, it will strike back with all its might.
+
+Lickitung
+Licking Pokémon
+Height: 1.0 m
+Weight: 20.0 kg
+Color: black
+Shape: wings
+It feeds on the leaves of trees and leaves them to help it grow.
+
+Dorik
+Avenging Pokémon
+Type: dark flying
+Moves: darkness, rock-tomb, tail-whip, secret-power
+Height: 1.0 m
+Color: blue
+Shape: wings
+It lives in the shadow of a volcano. Its body is covered with scales and it sleeps on its back.
+
+Scatterbug
+Scatterbug Pokémon
+Type: grass
+grass poison
+Abilities: overgrow, overgrow
+Moves: thunder, facade, sunny-day, charm
+Height: 1.2 m
+Weight: 40.5 kg
+Color: red
+Shape: quadruped
+Habitat: grassland
+Scatterbug has the ability to instantly scatter the pollen on its body, which is said to have an effect on the climate of its habitat.
+
+Horse
+
+Rufflet
+Type: normal flying
+Height: 1.3 m
+Weight: 9.0 kg
+Color: blue
+Shape: wings
+It flies around in a circle, then sets itself on fire. It’s quite a sweetheart.
+
+Eve
+Evestic
+Lava Pokémon
+Type: grass
+Abilities: overgrow, sand-veil
+Moves: rain-dance, trick-room, attract, rock-tomb
+Height: 0.5 m
+Weight: 25.5 kg
+Color: white
+Shape: quadruped
+upright
+It is a dangerous Pokémon. It eats a lot of sand, and it is hard to get off. It has a habit of rolling up its belly to avoid being eaten by a sandstorm.
+
+Seedot
+Type: grass flying
+Abilities: gluttony, gluttony, tinder
+Moves: rain-dance, retaliate, substitute, aerial-ace
+Height: 1.3 m
+Weight: 20.0 kg
+Color: green
+Shape: quadruped
+Habitat: grassland
+
+Scraggy
+Sewing Pokémon
+Type: bug
+Abilities: swarm, shell-iron, steadfast
+Weight: 29.5 kg
+Color: blue
+Shape: humanoid
+It likes to live with its large, sweet smelling nose.
+
+Shuckle
+Void Pokémon
+Type: electric
+ground
+Abilities: oblivious, quick-feet, sand-force
+Height: 0.5 m
+Weight: 22.5 kg
+Color: green
+Shape: quadruped
+It is said to be capable of self-destructing. Its bodies are covered in dark, writhing fluids.
+
+Mime Jr.
+Mime Pokémon
+Moon Pokémon
+Type: normal flying
+Abilities: beast-boost
+Height: 1.6 m
+Weight: 16.5 kg
+Color: black
+Shape: wings
+If it spots any Pokémon that is flying, it will usually return to the nest with the Pokémon. It is said that this Pokémon’s wings have the power to swallow the living Pokémon’s entire body.
+
+Lanturn
+Lion Pokémon
+Type: grass
+Abilities: swift-swim, water-veil, damp
+Height: 0.5 m
+Weight: 25.5 kg
+Color: blue
+green
+Shape: upright
+Lanturn was discovered during a research expedition on a lake in southern China. It is said that it has the ability to float, and its water is so strong that it can crush the enemy’s body.
+
+Mothim
+Elegy Pokémon
+Abilities: lightning-rod, sniper, moody
+Moves: light-screen, flame-charge, confide
+Height: 0.2 m
+Weight: 24.0 kg
+Color: brown
+Shape: quadruped
+Habitat: forest
+A dark-skinned bird that lives in the woods. It is said to have come from a world where the sun was a rare sight.
+
+Bonsly
+Bonsai Pokémon
+Type: fairy
+fairy
+Abilities: torrent, defiant
+Height: 0.2 m
+Weight: 9.0 kg
+Color: black
+Shape: upright
+It is said that it could become the leader of a troop. It’s said that it’s capable of delivering the most powerful blow of all.
+
+Sword Pokémon
+Type: water
+Abilities: swift-swim, water-veil
+Moves: sketch, mimic, rain-dance, ice-beam
+Height: 1.0 m
+Color: blue
+Habitat: waters-edge
+It uses its wide-bladed sword to slice its way through thickets. The sound of this Pokémon’s screeching and screeching echoes around its surroundings.
+
+Flareon
+Firefly Pokémon
+Abilities: damp, rain-dish
+Height: 1.3 m
+Weight: 60.0 kg
+Shape: upright
+Habitat: mountain
+
+Mantis
+Mantis
+Mantis Pokémon
+Type: dark flying
+dark flying
+Abilities: inner-focus, infiltrator, infiltrator
+Moves: hidden-power, substitute, toxic, secret-power
+revenge, swagger, reflect, mimic
+Height: 1.2 m
+Weight: 18.4 kg
+Color: purple
+Shape: humanoid
+The secret of its existence is to avoid predators and avoid the pursuit of them.
+
+Azurill
+Mold Pokémon
+Abilities: fairy-like, mold-breaker, cloud-nine
+Moves: double-team, shadow-ball, facade, facade
+Height: 0.5 m
+Weight: 29.5 kg
+Color: brown
+Shape: upright
+
+Gothitelle
+Fox Pokémon
+Abilities: pressure, anticipation
+Moves: steel-wing, supersonic, iron-head, iron-head
+Height: 1.5 m
+Weight: 28.0 kg
+Color: blue
+Shape: wings
+It’s a rare bird. It lives in jungles and forests. When it does, it blows air bubbles that blow out of its mouth to unleash a powerful electric shock.
+
+Hiroki
+Type: water
+Height: 1.1 m
+Weight: 35.0 kg
+Color: blue
+
+Swoobat
+Earl Pokémon
+Type: rock
+Abilities: swarm, storm-drain, leer
+Height: 1.0 m
+Weight: 9.2 kg
+Color: blue
+Shape: upright
+
+Gigalith
+Gigalith
+Seed Pokémon
+Type: normal flying
+Abilities: mega-launcher
+Moves: giga-impact, toxic, toxic, toxic
+Height: 1.5 m
+Color: blue
+Shape: upright
+It flies on the tip of its tail. It is always on the lookout for prey.
+
+Gigantic Pokémon
+Abilities: overgrow, chlorophyll
+Moves: protect, bide, sleep-talk, giga-impact
+Height: 0.5 m
+Weight: 21.0 kg
+
+Frooth
+Ember Pokémon
+Type: electric
+Moves: magnet-wave, tail-whip, double-team, focus-punch
+Height: 2.2 m
+Color: blue
+Shape: humanoid
+It is a rare species of bird. It is the only species of bird that does not have the ability to fly. It is said to be capable of flying at speeds of over 50 mph.
+
+Chespin
+Chespin
+Sleeping Pokémon
+Type: dark fairy
+Abilities: healer, sniper, steadfast
+Height: 1.0 m
+Weight: 32.0 kg
+Color: black
+Shape: blob
+Habitat: forest
+It makes its nest in mountains. Its nest is about 100 m deep. It will not leave its nest.
+
+Pidgeot
+Type: water
+Height: 0.4 m
+Color: green
+It lives in an ocean. It is said to live in the midst of a sea.
+
+Cobalion
+Cobalion
+Cobalion Pokémon
+Type: dark
+Height: 0.9 m
+Weight: 11.0 kg
+Color: gray
+Shape: blob
+It is said to have the power to create a world. It is said to have a special power that allows it to control the weather.
+
+Beechoo
+Beechoo
+Bee Fly Pokémon
+Type: bug flying
+Abilities: swarm, poison-touch, rattled
+Moves: hidden-power, facade, leer, charm
+Height: 1.4 m
+Weight: 29.0 kg
+Color: brown
+Shape: upright
+When it senses danger, it flies in the direction of the danger. It has a sweet aroma.
+
+Zilean
+Type: water
+Abilities: pressure, ice-body
+Moves: water-gun, thunder-wave, rock-tomb, water-gun
+Height: 1.5 m
+Color: blue
+Shape: quadruped
+It uses its pincers to protect its body. It can withstand the cold of the sea by making its body warm with the cold air.
+
+Pinsir
+Apple Bloom Pokémon
+Type: grass poison
+Abilities: shed-skin, sap-tsunami
+sweet-veil, liquid-vedge, sweet-veil
+Moves: facade, feint-attack, rock-tomb, hidden-power
+rain-dance, earthquake, protect, secret-power
+Height: 0.8 m
+Weight: 19.5 kg
+Color: red
+Shape: humanoid
+If it finds a ripe apple, it will soon grow to be a full grown Pincer.
+The scent of roasted apple leaves is thought to be the secret ingredient for its pleasant aroma.
+
+Drifblim
+Seed Pokémon
+Type: grass
+Abilities: overgrow, cloud-nine
+Moves: shadow-ball, confide, confide, flash-cannon
+Weight: 19.0 kg
+Color: blue
+Shape: wings
+Habitat: forest
+It is said that this Pokémon was once a living Pokémon. It was raised in a forest by an ancestor.
+
+Thornfang
+Thorn Pokémon
+Type: grass flying
+Moves: round, double-edge, twister, charge-beam
+Height: 0.6 m
+Weight: 5.5 kg
+Color: green
+Shape: quadruped
+Habitat: mountain
+It protects itself by waving its huge tail. It is able to beat any opponent.
+
+Seedot
+Seed Pokémon
+Type: grass
+Abilities: sturdy, sand-veil, rain-dish
+Height: 0.3 m
+1.0 m
+Weight: 2.5 kg
+Color: green
+Shape: upright
+This Pokémon is known to grow a seed’s body temperature to an astounding 108 degrees Fahrenheit.
+
+Pansage
+Fossil Pokémon
+Abilities: levitate
+Moves: sunny-day, rock-tomb, body-slam, rock-tomb
+Height: 1.3 m
+Color: brown
+Shape: upright
+Habitat: mountain
+It’s the perfect Pokémon for picking berries. Picking berries can be a joyous endeavor, and it’s known to give birth to beautiful blooms.
+
+Tranquill
+Bagworm Pokémon
+Type: bug
+Abilities: guts, guts, snore
+Moves: big-pecks, rest, sunny-day, snore
+Height: 0.6 m
+Weight: 30.5 kg
+Color: brown
+Habitat: cave
+
+Babysaur
+Babysaur
+Babysaur Pokémon
+Type: rock
+Abilities: soundproof, rock-head, sheer-force
+Moves: secret-power, smack-down, rock-tomb, zen-headbutt
+Weight: 40.0 kg
+Color: blue
+Shape: quadruped
+It is said to be a legend. The legend that has been broken is that of its mysterious power.
+
+Shedinja
+Bubblefish Pokémon
+Type: water water
+Abilities: swift-swim, water-veil
+Moves: hyper-cutter, bounce, snore, rock-tomb
+Height: 0.8 m
+Weight: 260.0 kg
+Color: blue
+Shape: quadruped
+When it’s hungry, it swallows a large amount of food. It is known to eat the water of the sea.
+
+Bunnelby
+Land Spirit Pokémon
+Abilities: shield-dance, natural-cure, regenerator
+Moves: hone-claws, solar-beam, magic-coat, toxic
+Height: 1.2 m
+Weight: 2.0 kg
+Color: yellow
+Shape: upright
+The power of its body is greater than anything on the face of the earth. It can even tear a tree limb apart.
+
+Luxray
+Tiny Pokémon
+Type: electric
+Abilities: beast-boost
+Moves: confide, rain-dance, flash-cannon, confide
+Height: 1.2 m
+Color: purple
+Shape: quadruped
+Habitat: urban
+It glows when it is in a state of high energy. It’s said that a LEXRIO has the power to control the world’s weather.
+
+Komala
+Leaf Pokémon
+Type: grass
+Abilities: sap-sipper, sand-veil, dry-skin
+Height: 0.8 m
+Color: brown
+Shape: wings
+Habitat: grassland
+This POKéMON has a habit of eating grass. It does so by eating the leaves of the grass on its head.
+
+Mimikyu
+Tiny Pokémon
+Type: ground
+normal
+Abilities: swarm, sand-attack, damp
+Moves: rest, iron-tail, rest, rest
+Height: 0.5 m
+Weight: 2.2 kg
+Color: purple
+Shape: humanoid
+Habitat: urban
+Mimikyu is very popular among the people of Pokémon. It is said that the people of this world live in a world of happiness.
+
+Royal Bellossom
+Royal Pokémon
+Type: water
+Moves: round, water-pulse, thunder-wave, protect
+Height: 0.8 m
+Color: blue
+Shape: quadruped
+
+Spiky-no-Ki
+Abilities: effect-spore, regenerator
+Moves: bide, snore, flash, mega-punch
+Height: 1.6 m
+Color: blue
+It’s hard to believe that it even existed. The only thing that appears to have been left behind is a string of small limbs.
+
+Nidoran♀
+Nidoran Pokémon
+Type: dark
+Abilities: intimidate, quick-feet, quick-feet
+Height: 0.5 m
+Weight: 27.0 kg
+Shape: quadruped
+Habitat: forest
+
+Rooki
+Rooki
+Type: grass
+Moves: grass-knot, rain-dance, grass-pledge, leaf-storm
+Height: 1.8 m
+Color: green
+Shape: upright
+With its leafy appearance, it is a symbol of its peaceful disposition.
+
+Magearna
+Magical Pokémon
+Type: water
+water
+Height: 0.5 m
+Color: blue
+Shape: upright
+It’s said that the power of the magearna’s power is greater than the magearna itself.
+
+Bubblebeast
+Water Bubble Pokémon
+Type: water flying
+Abilities: water-absorb, hydration
+Height: 1.0 m
+Weight: 6.5 kg
+Color: green
+Shape: upright
+The flying Pokémon is known to bathe in the sun. The sound of its wings singing makes the people around it happy.
+
+Wailord
+Fox Pokémon
+Type: dark fairy
+Abilities: torrent, shadow-ball
+Moves: work-up, thunder-wave, toxic, rest
+Height: 0.5 m
+Weight: 20.0 kg
+Color: black
+It is said that the number one secret weapon of the universe is its power to control the solar wind.
+
+Panther
+Panther Pokémon
+Height: 2.8 m
+Weight: 3.5 kg
+Color: green
+Shape: quadruped
+It is said that if a POKéMON is put to sleep, it will become so tired that it can no longer move.
+
+Chinchou
+Tiny Monkey Pokémon
+Type: electric
+Moves: electricity, flash, rock-climb, rock-tomb
+Height: 0.7 m
+Weight: 24.0 kg
+Shape: quadruped
+Habitat: grassland
+
+Rolybat
+Dragon Pokémon
+Type: water
+Height: 0.5 m
+Color: blue
+Shape: quadruped
+If the current Pokémon is asleep, the Pokémon will start moving.
+
+Caterpie
+Type: normal
+Height: 1.0 m
+Weight: 40.0 kg
+Color: gray
+Shape: ball
+It lives in the jungles of the rainforests. Its fur is thick, and it’s very sticky.
+
+Bagpile
+Fox Pokémon
+Type: grass poison
+Abilities: shed-skin, guts, hustle
+Weight: 40.0 kg
+Color: green
+Shape: quadruped
+It spins the string on its head to strike its enemies. If it is hit, it can be knocked out before it can retaliate.
+
+Bisharp
+Bivalve Pokémon
+Type: bug
+Abilities: swarm, storm-drain, inner-focus
+Height: 0.6 m
+Color: blue
+Shape: upright
+It loves to eat berries and berries are its favorite food. It’s even been said that this Pokémon’s tail can be used to hold a weapon.
+
+Lapras
+Forest Pokémon
+Type: grass
+Abilities: levitate
+Moves: teleport, giga-impact, headbutt, sleep-talk
+Height: 0.4 m
+Color: green
+Habitat: grassland
+It's hard to tell what it eats, but it does eat a lot of grass. It always eats grass that is too small to eat.
+
+Kadango
+Sea Kelp Pokémon
+Type: water
+Height: 1.2 m
+Weight: 330.0 kg
+Color: blue
+Shape: upright
+It’s said that the young one born at birth is the first to see a sea of kangaroos.
+
+Kadabra
+Type: fairy
+Abilities: healer, serene-grace, regenerator
+Moves: sleep-talk, secret-power, sleep-talk, confide
+Height: 1.3 m
+Color: black
+Shape: blob
+
+Hulk
+Hulk Pokémon
+Type: normal
+Abilities: swarm, prankster, prankster
+Weight: 11.5 kg
+Color: gray
+Shape: quadruped
+It wraps itself around its prey by wrapping its arms around its body. It then digs for food.
+
+Lillipup
+Lillipup
+Type: normal
+Height: 0.5 m
+Weight: 10.5 kg
+Color: blue
+Shape: upright
+It’s kind to its Trainer. It can’t be bothered to maintain a calm facade. It always battles with its Trainer for the Pokémon’s attention.
+
+Eelektrik
+Type: ground
+Height: 0.9 m
+Color: green
+A puddle of liquid formed by its wounds is its constant source of sustenance.
+
+Greedoom
+Grass Snake Pokémon
+Type: normal flying
+Abilities: lightning-rod, flash-fire, vital-spirit
+Moves: infestation, u-turn, attract, confide
+Height: 1.8 m
+Weight: 3.2 kg
+Color: green
+Shape: wings
+
+Mudbray
+Tiny Fish Pokémon
+Type: water ground
+Abilities: swift-swim, hydration, sand-veil
+Moves: sand-attack, rock-polish, rock-polish, mud-slap
+Height: 0.4 m
+Color: blue
+Shape: fish
+Habitat: sea
+A very large bird that can be found flying around the world. It is said that it was once the guardian of the sea.
+
+Lanturn
+Land Spirit Pokémon
+Type: water flying
+Abilities: keen-eye, hydration
+Height: 1.4 m
+Weight: 8.5 kg
+Color: blue
+Shape: wings
+It doesn’t have legs, so it can only fly on its back. It’s totally incapable of flying, so it flies around on its back.
+
+Druddigon
+Drill Pokémon
+Type: rock ground
+Abilities: keen-eye, technician, prankster
+Height: 0.6 m
+Weight: 1.0 kg
+Color: gray
+Shape: quadruped
+
+Chespin
+Sun Pokémon
+Type: grass
+Abilities: dark-touch, solar-force, regenerator
+Moves: rest, snore, hyper-voice, poison-jab
+Height: 1.8 m
+Color: blue
+Shape: quadruped
+
+Boldore
+Boldore
+Sludge Pokémon
+Type: poison water
+water poison
+Abilities: natural-cure, bulletproof, super-fang
+Height: 1.4 m
+Weight: 10.5 kg
+Color: brown
+Shape: upright
+Habitat: cave
+It is said to be the last Pokémon that has been found. This Pokémon was discovered on a desert island.
+
+Lilligant
+Legendary Pokémon
+Type: normal
+Height: 0.5 m
+Weight: 60.0 kg
+Color: brown
+brown
+Shape: quadruped
+A new Pokémon was born in the same year as Pokémon Ultra Trainers. It is said to have evolved from a Galar region Pokémon.
+
+Spiky
+Type: rock flying
+Abilities: snow-cloak, cold-touch, sleep-talk
+
+Lanturn
+Dragon Pokémon
+Type: water ground
+water ground
+Abilities: stance-change, aftermath, calm-mind
+Moves: double-team, captivate, poison-jab, safeguard
+dynamic-punch, mud-slap, headbutt, sludge-bomb
+Height: 0.6 m
+Weight: 13.5 kg
+Color: blue
+Shape: quadruped
+Habitat: waters-edge
+waters-edge
+Lanturn is a Pokémon with a sweet, sweet aroma that can be smelled by any Pokémon. It has the ability to sense the beauty of nature.
+
+Golett
+Sea Pokémon
+Type: rock fire
+Height: 0.5 m
+Weight: 25.0 kg
+Color: gray
+Shape: upright
+It is said that the time it will take to evolve is only 10 years. It is said to live in the depths of the sea, where it will evolve into a new form.
+
+Citwick
+Shape: quadruped
+It creates a jet of energy by absorbing the air around it. The energy that gets stored in the jet is passed along to the next generation.
+
+Dracouffe
+Draco-like Pokémon
+Type: fire
+Height: 1.0 m
+Weight: 4.0 kg
+Color: brown
+Shape: upright
+It’s said to be the Pokémon’s ancestor. It’s said to have been born on the moon.
+
+Rhyhorn
+Iron Claw Pokémon
+Type: normal
+Abilities: beast-boost
+Height: 1.2 m
+Weight: 33.0 kg
+Color: green
+Shape: wings
+Rhyhorn is extremely intelligent. It will pay for any weakness it finds in its guard. It will always be the first to make a mistake, so its pride is always justified.
+
+Savage
+Abilities: shield-dust, bulletproof
+Weight: 55.0 kg
+Shape: upright
+
+Ludicias
+Big Horn Pokémon
+Type: electric
+Abilities: chlorophyll, leaf-guard, telepathy
+overgrow, chlorophyll
+Moves: mega-punch, payback, swagger, fire-fang
+Height: 1.0 m
+Weight: 18.0 kg
+Color: green
+Shape: upright
+Habitat: grassland
+Ludicias have a way of making an opponent cry, so they are known to cause massive amounts of frustration.
+
+Dhelmise
+Rogue Pokémon
+Type: steel
+Moves: stakeout, substitute, substitute, substitute
+Height: 0.5 m
+Weight: 2.0 kg
+Color: gray
+Shape: quadruped
+upright
+Dhelmise is a legendary Pokémon. Its sharp claws can cut through even the toughest of rocks.
+
+Cottonenne
+Cotton Candy Pokémon
+Type: grass
+Abilities: swift-swim, water-veil, hydration
+Moves: thunder-punch, thunder-wave, thunder-wave, shock-wave
+Height: 0.5 m
+1.5 m
+Weight: 2.2 kg
+Color: yellow
+Shape: upright
+If it’s startled, it will come to terms with its surroundings. If you see it in the dark, you are going to be very scared.
+
+Turtwig
+Cocoon Pokémon
+Type: normal flying
+Abilities: sturdy, sand-force, sand-force
+Height: 1.2 m
+Color: brown
+Shape: wings
+Habitat: mountain
+The nest in which this Pokémon lives is a serene, serene place. It’s believed that this Pokémon lived in the same world as people.
+
+Ember
+Baby Pokémon
+Type: dragon
+Height: 1.2 m
+Color: black
+Shape: upright
+It breathes the air of the moon. It absorbs the energy of the moon with its solar plexus.
+It’s apparently reborn from a seed’s egg. It is said that the seed’s power is enough to stop the dragon’s rampage.
+
+Drakantooth
+Drakantooth
+Dark Pokémon
+Type: dark flying
+dark flying
+Height: 0.8 m
+1.0 m
+Weight: 10.5 kg
+Color: green
+Shape: wings
+It’s said that when it’s hungry, it will fly away. This Pokémon lives in forests.
+
+Fox
+Type: grass
+Height: 0.8 m
+Weight: 33.0 kg
+
+Sawsbuck
+Bubble Frog Pokémon
+Type: normal flying
+Abilities: snow-cloak, sand-veil
+Moves: sludge-bomb, sand-attack, facade, sandstorm
+Height: 1.5 m
+Weight: 20.5 kg
+Color: brown
+Shape: wings
+Habitat: mountain
+It swims in an uproar of sorts, using its wings to make its way down rivers, lakes, and mountains.
+
+Pinsir
+Pigeon Pokémon
+Type: bug
+Abilities: levitate
+Moves: guts, swagger, secret-power, attract
+Height: 0.5 m
+Color: brown
+Shape: bug-wings
+
+Nidoking
+Nidoking
+Charm Pokémon
+Type: fire fighting
+Abilities: shed-skin, vital-spirit
+Moves: attract, shadow-ball, attract, captivate
+Height: 0.4 m
+Weight: 10.0 kg
+Color: brown
+Shape: upright
+It will use its body to block and crush opponents with its tremendous strength.
+
+Shuppet
+Scaly Pokémon
+Type: dark
+Height: 0.5 m
+Weight: 30.0 kg
+Color: brown
+Shape: wings
+It can detect the movements of its prey’s movements and moves them with its three arms.
+
+Cherubi
+Water Snake Pokémon
+Type: normal
+Abilities: keen-eye, hydration, hydration
+Height: 0.5 m
+Weight: 2.0 kg
+Color: blue
+Shape: quadruped
+It spends its whole life in the depths of the ocean. When it is not swimming, it swallows up nutrients and turns into a kindling.
+
+Snorunt
+Type: water ground
+Abilities: torrent, sniper
+Height: 1.2 m
+Weight: 40.5 kg
+Shape: upright
+Its tentacles are so thick, they can withstand the pressure of a jet plane.
+
+Pidgeot
+Pidgeotto
+Gigantic Pokémon
+Type: dragon
+Abilities: intimidate, flash-fire, haze
+Moves: mega-kick, dragon-attack, safeguard, giga-impact
+Height: 0.7 m
+Weight: 28.5 kg
+Color: blue
+Shape: humanoid
+It has a hard shell, so it can withstand being bitten by a POKéMON. It also has a weak stomach.
+
+Pidgey
+Type: fighting
+Height: 1.0 m
+Color: gray
+Shape: humanoid
+It can break through walls and ceilings in seconds. If it starts to sweat, it will grow out of its shell.
+
+Type: normal
+Abilities: overgrow, mold-breaker, rain-dish
+Moves: sludge-wave, electroweb, return, giga-drain
+Height: 1.0 m
+Color: gray
+Its body is made of clay. It’s basically a bat, but with the tip of its tail attached.
+
+Pikipek
+Penguin Pokémon
+Type: water
+Abilities: swift-swim, water-veil, water-veil
+Moves: fish-veil, endure, endure, flash
+Height: 0.4 m
+Weight: 1.8 kg
+Color: blue
+Shape: quadruped
+Habitat: sea
+This POKéMON lives in the oceans. They are very popular with people seeking to catch prey.
+
+Bisharp
+Bivalve Pokémon
+Type: water
+Abilities: swift-swim, water-veil, grass-pelt
+Moves: natural-gift, toxic, fling, substitute
+Height: 1.5 m
+Weight: 5.0 kg
+Color: brown
+Shape: fish
+It is said that Bisharp’s body temperature is about a hundred degrees Fahrenheit.
+
+Happiness
+Happiness
+Empowering Pokémon
+Type: water fairy
+Abilities: compound-eyes, inner-focus, reckless
+Moves: confide, poison-sting, endure, captivate
+Height: 1.0 m
+Color: brown
+Shape: quadruped
+Habitat: waters-edge
+It lets go of anything in the universe to focus on its own happiness. It is said that it creates an infinite number of beautiful flowers.
+
+Clefairy
+Empower Pokémon
+Type: electric
+Abilities: overgrow, chlorophyll
+Moves: giga-impact, thunder-wave, substitute, swagger
+Height: 1.6 m
+Weight: 40.0 kg
+Color: yellow
+Shape: upright
+It uses the tiniest of its three legs to crush anything. It’s always in trouble.
+
+Gastly
+Type: electric
+Abilities: swarm, rattled, quick-feet
+Height: 0.3 m
+Weight: 27.0 kg
+Color: blue
+
+Mothim
+Ball Pokémon
+Type: steel
+Height: 0.5 m
+Color: red
+It’s said that this Pokémon’s belly is filled with the power of a thousand small balls.
+
+Luxray
+Luxury Pokémon
+Type: grass poison
+Abilities: swarm, flash-fire, technician
+Moves: rage, confide, sludge-bomb, flash-cannon
+Height: 1.1 m
+Weight: 55.0 kg
+Color: green
+Shape: quadruped
+It lives in swamps. It moves along with the wind, making its way through the land. It has a strong sense of smell.
+
+Twiggy
+Tiny Pokémon
+Type: normal
+Abilities: mimic, magic-bounce, scrappy
+Moves: fury-swipes, water-gun, ice-beam, fire-punch
+Height: 1.2 m
+Weight: 10.5 kg
+Color: blue
+Shape: blob
+When it’s cold, it gives its tail a gentle shake. It’s said to be the best friend the Pokémon has.
+
+Piloswine
+Jewel Pokémon
+Type: psychic fairy
+Abilities: synchronize, magician
+Moves: flash-cannon, substitute, zen-headbutt, curse-powder
+Height: 1.0 m
+Color: blue
+Shape: quadruped
+Habitat: forest
+It is said that Piloswine was born from a jewel in the sky. It is said that Piloswine was born from a jewel in the sky.
+
+Rhyperior
+Rhyperior
+Sun Pokémon
+Type: fairy
+Height: 1.0 m
+Weight: 1.0 kg
+Color: brown
+Shape: quadruped
+It is said that the sun is the source of energy in the solar system. It is said that the sun will appear when it shines.
+
+Cubchoo
+Fox Pokémon
+Height: 1.0 m
+Color: red
+Shape: humanoid
+A Pokémon with the ability to instantly evolve. It does not evolve.
+
+Roserade
+Type: ground
+Color: gray
+It’s said that people with more than one form of Pokémon can form a Pokémon.
+
+Bouffalant
+Bouffaloo Pokémon
+Type: psychic fairy
+Abilities: telepathy, telepathy
+Height: 1.0 m
+Weight: 30.5 kg
+Shape: upright
+Habitat: grassland
+It uses its psychic power to control its body and mind. It uses its psychic power to control its body and mind.
+
+Scyther
+Sand Snake Pokémon
+Abilities: sand-veil, sand-force
+Moves: sand-attack, sleep-talk, confide, double-team
+Height: 2.1 m
+Color: gray
+Shape: upright
+It uses its sharp claws to dig up the ground and its fur to protect its territory. It is said that it can use its claws to smash through boulders and walls.
+
+Golbat
+FireFox Pokémon
+Type: fire fighting
+Moves: fling, fire-blast, flame-charge, reflect
+Height: 1.4 m
+Weight: 110.0 kg
+Color: green
+Shape: quadruped
+It throws fireballs in the air. These fireballs are said to be the strongest and most powerful of all Pokémon.
+
+Gobbimbo
+Arrow Pokémon
+Type: water water
+Abilities: water-absorb, infiltrator, chlorophyll
+Moves: hydro-pump, rock-polish, mud-slap, round
+Height: 0.9 m
+Weight: 1.1 kg
+Color: blue
+It can absorb water without touching its body. It is said to have the power to heal itself.
+
+Molecule
+Sea Lion Pokémon
+Type: electric
+Height: 0.6 m
+Color: blue
+Shape: wings
+It is said that the wild Pokémon that live in the deep sea can detect and understand the rhythm of the waves.
+
+Pidgeot
+Sea Lion Pokémon
+Type: water
+Moves: protect, natural-gift, snore, roar
+Height: 1.8 m
+Color: blue
+Shape: upright
+If a Pokémon is on the verge of extinction, it will faint and be buried in a pit beneath the sea.
+
+Snover
+Snapping Pokémon
+Type: normal
+Height: 0.7 m
+Weight: 5.0 kg
+Color: blue
+Shape: upright
+A Pokémon that lived in caves. It was said to have taken a large boulder and pumped it with a spring-like energy.
+
+Kun-----
+Firebug Pokémon
+Type: fire
+Abilities: blaze, flash-fire, rage
+Moves: flame-charge, flame-spray, flamethrower, feint-attack
+Height: 1.3 m
+Weight: 13.5 kg
+Color: brown
+Shape: quadruped
+Kun-Ty has a flame-sensitive body and is extremely sensitive to fire. When it is attacked, it releases a powerful explosion that incinerates the area around it.
+
+Scraggy
+Type: fighting
+Abilities: stakeout, scrappy
+stakeout, sturdy, weak-armor
+Moves: quadruped, natural-gift, hyper-beam, double-team
+Height: 0.4 m
+Weight: 1.2 kg
+Color: black
+Shape: quadruped
+The enemy Pokémon is very hard to spot, so it is best to stay away. The harder it is to spot, the more difficult it becomes to spot.
+
+Cocoon
+Cocoon Pokémon
+Type: dark
+Abilities: sunny-day, psychic, quick-feet
+Moves: hyper-fang, sleep-talk, rest, sleep-talk
+Height: 0.4 m
+Color: blue
+Shape: quadruped
+It uses its antennae to gather electricity. It is very active and active.
+
+Krabby
+Fruit Pokémon
+Type: grass
+Abilities: compound-eyes, infiltrator
+Height: 0.6 m
+Weight: 15.0 kg
+Color: green
+Shape: humanoid
+It carries a large amount of moisture. It is said to be the most nutritious food on the land.
+
+Cherubi
+Type: grass
+Abilities: own-tempo, poison-point, pickup
+Height: 1.3 m
+Weight: 2.0 kg
+Shape: upright
+It lives in cracks in the ground. It punches holes in the ground to raise the temperature of the air in its shell.
+
+Scizor
+Scratch Pokémon
+Type: rock ground
+Height: 0.4 m
+Weight: 1.0 kg
+Color: green
+They live in caves deep within caves. They attack by biting their prey with their sharp claws.
+
+Kangaskhan
+Lava Snake Pokémon
+Abilities: shed-skin, rain-dish, weak-armor
+Moves: guts, thunder-wave, shadow-ball, hyper-beam
+Height: 0.2 m
+Weight: 2.1 kg
+Color: blue
+Shape: quadruped
+A large, ghostly Pokémon that lives in caves. It sleeps on its back. The body is covered with a mysterious liquid.
+
+Avalanche
+Avalanche
+Dragon Pokémon
+Type: dragon fighting
+Abilities: overgrow, leaf-guard, infiltrator
+Moves: overgrow, thunder-wave, confide, rock-smash
+Height: 1.5 m
+Weight: 19.0 kg
+Color: green
+Shape: quadruped
+Habitat: forest
+It sleeps in trees that grow on the ground. It takes a lot of care in the fields.
+It takes care of its own food. It’s never hungry.
+
+Chinchou
+Chill Pokémon
+Type: fire
+Abilities: blaze, intimidate
+Height: 0.3 m
+Weight: 33.5 kg
+Color: gray
+Shape: quadruped
+When it starts to cry, it cries out for help. It has a special sound that can be heard around the world.
+
+Rattata
+Rattata Pokémon
+Type: fighting
+Height: 1.3 m
+Color: white
+Shape: upright
+It breathes the most intensely. It’s so hard it won’t even scratch its face.
+
+Furret
+Dark Horse Pokémon
+Moves: natural-gift, round, swift, protect
+Height: 0.6 m
+Color: blue
+Shape: wings
+
+Pikipek
+Big Horn Pokémon
+Type: grass
+Abilities: rock-head, sturdy, sheer-force
+Moves: sleep-talk, bulldoze, protect, leaf-guard
+Height: 0.5 m
+Weight: 20.5 kg
+Color: green
+Shape: humanoid
+quadruped
+It has a wide variety of body shapes. It has a large, round body, but it can also be mistaken for a small bird.
+
+Wurmple
+Cocoon Pokémon
+Type: normal
+Abilities: chlorophyll, leaf-guard, infiltrator
+Moves: solar-beam, thunder-wave, hyper-beam, substitute
+Height: 1.0 m
+Weight: 15.5 kg
+Color: white
+Shape: wings
+It’s not much of a Pokémon. It’s only a small bird that lives in the forest. It’s always at the lookout.
+
+Flareon
+Flareon
+Type: ground flying
+Abilities: swift-swim, water-veil, rain-dish
+Height: 0.9 m
+Color: gray
+Shape: quadruped
+It uses its long arms to move, so it can move around like a car. It’s also capable of swimming.
+
+Lillipup
+Cell Pokémon
+Abilities: synchronize, telepathy
+Moves: synchronize, work-up, skill-swap, snore
+Color: blue
+When it encounters a foe, it uses its brain to determine what kind of prey it is facing.
+
+Nidorina
+Type: normal
+Abilities: anticipation, telepathy, trace
+Moves: flash-cannon, rock-smash, rock-tomb, crunch
+Height: 0.7 m
+Color: green
+
+Trapinch
+Mushroom Pokémon
+Type: grass
+Abilities: levitate
+Moves: giga-impact, dig, toxic, return
+Height: 0.6 m
+Color: red
+
+Swampert
+Type: bug poison
+Abilities: swarm, intimidate, rattled
+Moves: thunder, attract, substitute, snore
+Height: 1.5 m
+Shape: upright
+It has a strange bond with its prey. It is said to have been born from a pollen sac.
+
+Lanturn
+Scorpion Pokémon
+Type: fighting
+Abilities: swarm, sniper, prankster
+Moves: attract, double-team, protect, flash-cannon, protect
+Height: 0.5 m
+Weight: 13.5 kg
+Color: gray
+
+Dewgong
+Armor Pokémon
+Type: steel
+Abilities: swarm, chlorophyll
+Height: 0.5 m
+Weight: 17.0 kg
+Color: purple
+Shape: humanoid
+The bird Pokémon that’s guarding it is covered in fur. If it’s not feeling well, it’s chasing its prey to the bottom of the sea.
+
+Bubblebeast
+Bubble Pokémon
+Type: fire flying
+Abilities: insomnia, flash-fire, quick-feet
+Moves: fling, flash-fire, thunder-wave, double-team
+Height: 0.4 m
+Weight: 22.0 kg
+Color: blue
+Shape: quadruped
+It can live for hours in darkness. It sleeps with its two arms extended.
+
+Luxie
+Royal Pokémon
+Abilities: sap-sipper, poison-breath, prankster
+Height: 0.5 m
+Color: brown
+Shape: quadruped
+The sound of its wings can be heard as it flies around. The feathers on Luxie's feet are also popular with bird Pokémon.
+
+Leafeon
+Stag Beetle Pokémon
+Type: water
+Abilities: swift-swim, water-absorb, damp
+Height: 0.5 m
+Color: blue
+Shape: quadruped
+
+Jolteon
+Type: water water
+Abilities: swift-swim, water-veil
+Height: 0.6 m
+Color: black
+Shape: fish
+Jolteon is very popular with people because it has the ability to swim in icy waters. It is said that it can reach over one mile in a day.
+
+Gengar
+Type: grass
+Abilities: thick-fat, shell-armor
+Moves: rain-dance, rock-climb, swagger, sandstorm
+Height: 0.5 m
+Weight: 13.0 kg
+Color: green
+Shape: upright
+The first time it walks, it produces a flash of green energy. It is said to have developed a unique way of distinguishing grass from cotton.
+
+Lanturn
+Bagworm Pokémon
+Type: grass
+Abilities: overgrow, cloud-nine
+Moves: mud-slap, secret-power, protect, water-gun
+Height: 0.5 m
+Weight: 2.5 kg
+Shape: quadruped
+Habitat: grassland
+
+Tyrantrum
+Star Pokémon
+Type: dark
+Height: 1.0 m
+Weight: 28.0 kg
+Color: green
+Shape: quadruped
+It’s said that if it’s brave enough, it will appear in the sky. This Pokémon won’t be fooled by an illusion.
+
+Golem
+Cocoon Pokémon
+Type: grass flying
+Abilities: leaf-guard, sniper, regenerator
+Height: 1.0 m
+Color: blue
+Shape: upright
+
+Rhyhorn
+Rabbit Pokémon
+Abilities: stench, unnerve, sap-sipper
+Moves: confide, frustration, substitute, hidden-power
+Height: 1.3 m
+Color: green
+Shape: quadruped
+A RBY’s fur has a unique scent that makes it hard to distinguish it from other RBYs.
+
+Nidorina
+Nidorina
+Lava Pokémon
+Type: fire
+Height: 1.1 m
+Weight: 17.5 kg
+71.0 kg
+Color: red
+Shape: blob
+It’s the only Pokémon that can’t evolve. It’s a fairy Pokémon that lived in a fairy world.
+
+Seedot
+Seedot
+Rushing Pokémon
+Type: grass
+Abilities: vital-spirit, infiltrator, infiltrator
+Height: 0.3 m
+Weight: 3.8 kg
+Color: green
+Shape: wings
+It can also be seen peering over its foe with its big, ominous eyes.
+
+Kangaskhan
+Rock Pokémon
+Type: rock
+Abilities: rock-head, thick-fat, sniper
+Moves: fury-swipes, surf, iron-defense, thunderbolt
+Weight: 1.0 kg
+
+Silent Hill
+Tree Pokémon
+Type: grass
+Abilities: levitate, sand-force
+Moves: sand-attack, cut, sleep-talk, scald
+Height: 1.8 m
+Color: green
+Shape: upright
+This Pokémon is intelligent, capable of making a sound with its body. It can sound as if it is asleep.
+
+Tyrantrum
+Turtle Pokémon
+Type: water
+Abilities: swift-swim, rain-dish
+Height: 0.8 m
+Weight: 29.0 kg
+Color: blue
+Shape: upright
+It can swim at over three miles an hour. It doesn’t have much of a sense of direction.
+
+Nidoran♀
+Nidorina
+Scaly Pokémon
+Type: fire flying
+Abilities: blaze, intimidate, unnerve
+Moves: rest, substitute, ice-beam, protect
+Height: 0.6 m
+Weight: 14.5 kg
+Color: red
+Shape: quadruped
+Habitat: grassland
+It’s said that it’s the most powerful Pokémon in the world. It’s said to have possessed a hundred million people.
+
+Linoone
+Mushroom Pokémon
+Type: fighting
+Abilities: own-tempo, light-metal, reckless
+Moves: wish, endure, frustration, frustration
+Weight: 260.0 kg
+Color: brown
+Shape: upright
+It has no need for a fighting partner. It will take care of itself if it gets used to living in a kind of warm, sunny land.
+
+Wily
+Type: water
+Abilities: thick-fat, ice-body, weak-armor
+Height: 1.4 m
+Weight: 29.5 kg
+Color: gray
+Shape: upright
+When the Pokémon is asleep, it floats on the air. If it is agitated, it will go into a frenzy.
+
+Zebstrika
+Zebstrika
+Lava Pokémon
+Type: electric
+Height: 1.0 m
+Weight: 6.5 kg
+Color: green
+yellow
+Shape: upright
+It has the ability to download the solar energy from its body. It can then download and store that energy into its body.
+Its body is thin and weak. It’s a Pokémon that never sleeps.
+
+Kricketot
+Type: normal
+Abilities: chlorophyll, protean, protean
+Height: 1.0 m
+Weight: 100.0 kg
+Color: green
+Shape: upright
+The water on its face is its own saliva. It uses the saliva to control its movements.
+
+Stunnel
+Aura Pokémon
+Type: ground
+Abilities: rock-head, sturdy, steadfast
+Moves: round, round, substitute, sleep-talk
+Height: 0.4 m
+Weight: 17.5 kg
+Color: red
+Shape: quadruped
+Habitat: forest
+It is feared as a Pokémon that can disable walls. It can be seen in the distance.
+
+Kakuna
+Spiral Pokémon
+Type: water
+Abilities: torrent, unburden
+Height: 1.0 m
+Weight: 40.0 kg
+Color: blue
+Shape: wings
+Habitat: waters-edge
+The seeds on its wings are quite nutritious. It is said to have an ability to make a man’s life a living nightmare.
+
+Furret
+Eating Pokémon
+Type: dragon
+dragon fighting
+Height: 0.6 m
+Weight: 1.1 kg
+Color: blue
+Shape: quadruped
+Habitat: mountain
+It’s so proud of its adorable petals. It’s a Pokémon that makes its nest in the ground.
+
+Tyrantrum
+Tyrantrum
+Cerebral Pokémon
+Type: grass poison
+Abilities: overgrow, chlorophyll
+Moves: blizzard, confide, rain-dance, dark-pulse
+Height: 0.5 m
+Weight: 60.0 kg
+Color: green
+Shape: wings
+Tyrantrum’s body is covered by a sticky film, so it’s impossible to see its face. It’s also unable to see its face.
+
+Golurk
+Moth Pokémon
+Type: fighting
+Abilities: swarm, sand-force
+Height: 0.6 m
+Weight: 14.5 kg
+Color: blue
+Shape: upright
+The core of this Pokémon’s body is entirely hardened, making it hard to move. Its body is covered in scales.
+
+Puppy
+Puppy Pokémon
+Type: fire
+Height: 1.8 m
+Weight: 55.0 kg
+Color: blue
+Shape: upright
+The Pokémon’s body is covered by a thin membrane. If the Pokémon is not careful, it can cause the membrane to break.
+
+Caretaker
+Dragon Pokémon
+Type: dragon
+Moves: curse, protect, rest, attract
+Height: 0.4 m
+Weight: 2.0 kg
+Color: blue
+Shape: humanoid
+
+Giratina
+Type: psychic fairy
+Height: 0.6 m
+Weight: 11.5 kg
+Color: blue
+Shape: quadruped
+It has a mysterious power that enables it to predict the future. It’s so powerful, even a child with a normal brain could be able to predict the future.
+
+Dewpider
+Water Bird Pokémon
+Type: water flying
+Height: 0.6 m
+Weight: 5.0 kg
+Color: blue
+Shape: upright
+They fly around the world in an aerial rhythm. They live in ponds, lakes, and forests.
+
+Lanturn
+Wing Pokémon
+Type: fire
+Moves: swagger, ice-punch, double-team, thunder-punch
+Height: 1.0 m
+Color: blue
+Shape: wings
+It attacks by spinning its body to create a vortex. It can also fly by spinning its wings.
+
+Sothoth
+Sothoth
+Dragon Pokémon
+Type: dragon
+Abilities: sap-sipper, hydration
+Height: 1.0 m
+Weight: 27.0 kg
+Color: red
+Shape: upright
+When its body is transformed, it transforms into the form of an extinct dragon.
+
+Roserade
+Cream Pokémon
+Type: electric
+Abilities: inner-focus, telepathy, quick-feet
+Moves: swagger, dragon-tail, energy-ball, thunder-wave
+Height: 0.6 m
+Color: blue
+Shape: quadruped
+
+Mantine
+Cosmo-Man Pokémon
+Height: 0.6 m
+Weight: 3.5 kg
+Shape: upright
+The world is a place of wonder and wonder. It is said that this place has been made a part of by the birth of a child.
+
+Thief
+Bounce Pokémon
+Type: bug water
+bug water
+Abilities: oblivious, hydration, hydration-worm
+Moves: captivate, swagger, swagger, mud-slap
+Height: 0.4 m
+Weight: 5.0 kg
+Color: yellow
+Shape: upright
+Its body is covered with a thick, flexible shell. The shell is hard and sticky. It digs up any weak spots it finds.
+
+Wurmple
+Wurmple
+Cotton Doll Pokémon
+Type: grass poison
+Abilities: hustle, sand-veil, rain-dish
+Moves: rock-slide, blizzard, rock-slide, rock-polish
+Height: 1.4 m
+Weight: 102.5 kg
+Color: green
+Shape: upright
+Habitat: grassland
+If it spots a WURMLE, it will try to bite it with a scalpel, but if it spots a WURMLE, it will try to stab it with its scalpel.
+
+Zangoose
+Zangoose
+Cotton Bird Pokémon
+Type: electric
+Abilities: overgrow, light-metal-armor
+Height: 1.1 m
+Weight: 40.5 kg
+Color: yellow
+Shape: quadruped
+Aided by its tiny tail, it can raise its tail to the height of a telephone pole.
+
+Coalion
+Coal Pokémon
+Abilities: beast-boost
+Height: 1.5 m
+Weight: 55.0 kg
+Color: purple
+Shape: quadruped
+It’s said that a coal-covered rock contains more copper than coal.
+
+Togedemaru
+Rock Pokémon
+Type: rock ground
+Moves: big-pecks, rock-smash, rock-smash, hidden-power
+Height: 1.0 m
+Weight: 6.0 kg
+Color: gray
+Shape: quadruped
+The Pokémon that eats rocks is called a rock. The Pokémon eats them, because they are hardened by the rock.
+
+Sandygast
+Type: grass poison
+Abilities: swift-swim, sniper, snore
+Height: 0.8 m
+Color: green
+It is said that there is a mysterious power that appears when a Pokémon’s heart beats.
+
+Skorupi
+Type: water
+Weight: 11.0 kg
+Color: green
+It’s said that Skorupi’s fur is as soft as cotton.
+
+Luxios
+Mantis Pokémon
+Type: fighting
+Abilities: pressure, frisk
+Moves: flail, sleep-talk, swords-dance, confide
+Height: 0.3 m
+Weight: 120.0 kg
+Color: red
+Shape: quadruped
+Habitat: mountain
+It has an intense sense of smell. It can see people at night, and even in the daytime, it can see an entire city at once.
+
+Bisharp
+Bisharp
+Penguin Pokémon
+Type: water
+Abilities: chlorophyll, protean, regenerator
+Moves: water-gun, thief, bide, aqua-tail
+Height: 1.2 m
+Weight: 26.0 kg
+Color: blue
+Shape: fish
+Habitat: sea
+The smaller the shell, the bigger it is. It can withstand a blow from a pound of sand.
+
+Mimic
+Worm Pokémon
+Abilities: overgrow, leaf-guard
+Moves: captivate, protect, flash, substitute
+Height: 0.7 m
+Color: green
+Shape: quadruped
+
+Viluggear
+Pipe Pokémon
+Type: fire
+Abilities: own-tempo, flash-fire, flame-body
+Moves: hyper-fang, flail, rollout, rock-tomb
+Height: 1.5 m
+Color: red
+Shape: quadruped
+It is the last Pokémon left in the wild. The lives of its friends have been taken.
+
+Chesnaught
+Water Lizard Pokémon
+Type: ground water
+Abilities: swift-swim, hydration, water-absorb
+Moves: sucker-punch, water-gun, rock-tomb, flash
+Height: 1.1 m
+Weight: 28.0 kg
+Color: purple
+Shape: quadruped
+It can swim at speeds of over 300 mph. It can easily swim at a depth of 16 feet. It is also said to live in the seas.
+
+Mimic
+Turtle Pokémon
+Type: grass
+Weight: 1.8 kg
+Color: green
+Shape: upright
+It attacks with a powerful electric shock that can knock people out. It can be broken off at will.
+
+Zubat
+Zubat Pokémon
+Type: normal flying
+Abilities: shed-skin, unburden
+Height: 0.8 m
+Weight: 150.0 kg
+Color: brown
+Shape: wings
+It is said that when it flies, its wings can barely flap. The wings are a strange kind of magic.
+
+Rasholt
+Duck Pokémon
+Type: grass poison
+Abilities: overgrow, chlorophyll
+Moves: grass-knot, toxic, mud-slap, sleep-talk
+Height: 0.4 m
+Weight: 1.0 kg
+Color: green
+Shape: quadruped
+Habitat: urban
+Its body is covered in a thin covering of fur. It doesn’t move much, but its eyes can be seen in the distance.
+
+Tantrum
+Tantrum Pokémon
+Type: electric
+Abilities: swift-swim, storm-drain, hydration
+Moves: substitute, electroweb, surf, aqua-tail
+Height: 1.1 m
+Weight: 39.5 kg
+Color: blue
+Shape: quadruped
+It lives in warm areas. It swims in the frigid air of the ocean.
+
+Swampert
+Lance Pokémon
+Type: water fighting
+Abilities: swift-swim, water-veil
+Moves: attract, swagger, hidden-power, water-gun
+Height: 0.8 m
+Weight: 10.5 kg
+Color: blue
+Shape: upright
+When it’s fighting, it appears from the depths of the ocean.
+
+Florges
+Type: grass
+Abilities: early-bird, shadow-ball, reckless
+Moves: substitute, facade, thief, facade
+Height: 1.3 m
+Shape: wings
+
+Tapu Bulu
+Fruit Pokémon
+Type: grass
+Abilities: fairy-aura, magic-guard, just-kiss
+Height: 0.7 m
+Weight: 7.5 kg
+Color: red
+Shape: upright
+The smell of this Pokémon makes it itch. It’s said to be a source of happiness for people and Pokémon alike.
+
+Meowth
+Muscular Pokémon
+Abilities: keen-eye, sniper
+Moves: sting-hose, flash-cannon, headbutt, tackle
+Height: 1.3 m
+Color: gray
+Shape: quadruped
+
+Bouffalant
+Bouffalant
+Cottonweed Pokémon
+Type: bug
+Abilities: torrent, insomnia, damp
+Moves: growl, psychic, secret-power, toxic
+Height: 0.7 m
+Weight: 8.0 kg
+Color: green
+Shape: bug-wings
+Habitat: grassland
+It carries a powerful curse that can bind anyone. It has the ability to control the weather.
+
+Torkoal
+Torkoal
+Sword Pokémon
+Type: water ground
+Abilities: torrent, swift-swim, water-veil
+Moves: attract, protect, iron-head, sludge-wave
+Height: 0.9 m
+Color: blue
+Shape: quadruped
+Habitat: urban
+The legendary swordsman that lives in the heart of the city of Golis­ tia has won the rivalry of the world.
+
+Cherche
+Bounce Pokémon
+Abilities: overgrow, unburden
+Moves: mega-kick, snore, substitute, tackle
+Height: 0.3 m
+Color: red
+Shape: upright
+A Pokémon that is quick to retaliate, it is said to be the greatest technician in all of Pokémon’s world.
+
+Golem
+Type: grass
+Abilities: sand-veil, sand-force
+When it gets close, it will make a living by helping others.
+
+Golbat
+Dragon Pokémon
+Type: dark flying
+Abilities: illuminate, symbiosis
+Moves: ice-beam, strength, hyper-voice, iron-tail
+Height: 0.4 m
+Weight: 25.0 kg
+Shape: quadruped
+
+Klingonauts
+Fossil Pokémon
+Type: electric flying
+Abilities: swift-swim, water-absorb, ice-body
+Height: 0.6 m
+Weight: 14.0 kg
+Color: blue
+Shape: fish
+
+Sneasel
+Bagworm Pokémon
+Abilities: snow-cloak, ice-body, weak-armor
+Moves: focus-blast, facade, facade, shadow-ball
+Height: 1.3 m
+Weight: 57.0 kg
+Shape: upright
+It has no problem finding prey by using its frozen body as a gun. It will not stop searching for prey until it finds one.
+
+Tyrunt
+Licking Pokémon
+Type: normal
+Height: 0.8 m
+Weight: 2.0 kg
+Color: green
+Shape: humanoid
+The feeling of being touched by its own body is not too unpleasant.
+
+Goblin
+Big Bird Pokémon
+Type: bug
+Abilities: swarm, technician, shell-armor
+Moves: toxic, snore, protect, toxic
+Height: 0.8 m
+Color: blue
+Shape: quadruped
+It’s a very popular bird Pokémon. It’s very popular because it is very smart, but it doesn’t like to be bothered with it.
+
+Drednaw
+Duck Pokémon
+Type: normal
+Moves: frustration, astonish, endure, frustration
+Height: 0.5 m
+Weight: 32.0 kg
+Color: green
+Shape: humanoid
+It uses its tail to crush boulders and dig up fallen trees. Its special attack is to dig up a single tree.
+
+Froakie
+Frog Pokémon
+Type: normal flying
+Abilities: intimidate, gluttony, weak-armor
+Height: 1.3 m
+Weight: 34.0 kg
+Color: green
+Shape: wings
+The tail on its head is a piece of bark. It can walk on its own without any help.
+
+Scatterbug
+Scatterbug
+Cotton Cowl Pokémon
+Type: bug flying
+Abilities: shed-skin, cloud-nine
+Moves: captivate, flash-cannon, light-screen, hidden-power
+Height: 1.0 m
+Weight: 27.0 kg
+Color: red
+Shape: wings
+The male is always on guard, waiting for its prey to flee.
+When it gets excited, it causes uproar by swinging its wings in a defiant way.
+
+Pheromosa
+Type: normal
+Abilities: natural-cure, serene-grace, regenerator
+Height: 1.2 m
+Weight: 120.0 kg
+Color: brown
+Shape: humanoid
+
+Gangplank
+Iron Pokémon
+Type: fire
+Abilities: sap-sipper, iron-fist, frisk
+Moves: return, fire-blast, poison-sting, giga-impact
+Height: 0.8 m
+Weight: 40.5 kg
+Color: brown
+Shape: quadruped
+It is said that it has the power to change the world. It has an iron core.
+
+Meltan
+Licking Pokémon
+Type: normal
+Abilities: damp, frisk, prankster
+Moves: natural-gift, fling, facade, iron-head
+Height: 1.0 m
+Weight: 13.0 kg
+Shape: upright
+It gets its food from the pebbles on its head. It uses this Pokémon to make its homes.
+
+Rhyhorn
+Penguin Pokémon
+Type: normal
+Height: 0.8 m
+Color: green
+Shape: upright
+If it spots a Pokémon that is apparently hiding in a cave, it raises its head to see if the Pokémon is there. This is the only way it can learn what Pokémon are hiding.
+
+Ferrothorn
+Big Horn Pokémon
+Type: fire
+Abilities: blaze, technician, sap-sipper
+Height: 0.5 m
+Weight: 1.0 kg
+Shape: upright
+The horn is used to intimidate prey. It is said to be a vital ingredient in cooking.
+
+Cherubi
+Fruit Pokémon
+Type: grass
+Abilities: natural-cure, poison-point, smart-strike
+Moves: protect, blizzard, rest, rest
+Height: 0.7 m
+Color: red
+Shape: humanoid
+It uses the seeds of its berries to create its own food. If it fails to eat, it will be eaten by others.
+
+Lunatone
+Lunar Pokémon
+Type: grass grass
+Abilities: overgrow, leaf-guard, overcoat
+Moves: natural-gift, strength, substitute, rock-tomb
+Height: 1.3 m
+Weight: 39.0 kg
+Color: brown
+Shape: quadruped
+LUNATONE has a sweet fragrance. When it hears the cries of people and Pokémon, it’s ready to go wild.
+
+Lance
+Type: electric
+Moves: grass-knot, string-shot, return, thunder-wave
+Height: 0.4 m
+Color: green
+
+Solrock
+Strong Pokémon
+Abilities: swarm, quick-feet, overcoat
+Moves: shock-wave, toxic, rock-climb, swagger
+Height: 0.4 m
+Weight: 10.5 kg
+Color: red
+Shape: humanoid
+
+Lilligant
+Mushroom Pokémon
+Type: grass
+Height: 0.6 m
+Weight: 39.0 kg
+Color: red
+Shape: wings
+Habitat: forest
+It lives in caves that look like mountains. It feeds on mushrooms and other plants.
+
+Tyrantrum
+Cotton Bird Pokémon
+Type: grass
+Abilities: shed-skin, inner-focus
+Height: 0.4 m
+Weight: 2.1 kg
+Color: green
+Shape: wings
+It’s a huge cotton bird that will never be satisfied. It will eat anything. It will pick cotton to make cotton.
+
+Giratina
+Water Bubble Pokémon
+Type: water
+Abilities: water-absorb, hydration, sand-veil
+Moves: screech, mimic, surf, water-gun
+Height: 1.1 m
+Weight: 20.0 kg
+Color: blue
+Shape: upright
+Its body is a hardy substitute for a normal water-based Pokémon. It’s said to live in the sea for more than 100 million years.
+
+Golduck
+Jewel Pokémon
+Type: dark fairy
+Moves: fairy-wind, charge-beam, confide, protect
+Color: black
+Shape: blob
+A scientist who has been fascinated by the nature of life, he has discovered the power of light.
+
+Lunatone
+Fox Pokémon
+Type: grass
+Abilities: illuminate, anticipation, oblivious
+Moves: endure, poison-jab, round, double-team
+Height: 0.5 m
+Weight: 13.0 kg
+Color: green
+Shape: quadruped
+Habitat: grassland
+It uses its incredible power to protect its flock of 10,000 flock. It is feared for its outstanding agility.
+
+Chesnaught
+Bud Pokémon
+Type: grass fairy
+Abilities: leaf-guard, chlorophyll, no-guard
+Height: 1.2 m
+Weight: 12.0 kg
+Color: green
+Shape: humanoid
+It is said that if you eat a leaf, the leaf will sprout from its bud.
+
+Riolu
+Rogue Pokémon
+Type: steel fairy
+Abilities: sturdy, frisk, minus
+Moves: dance-dance, quick-attack, iron-defense, double-team
+Height: 1.3 m
+Weight: 81.0 kg
+Color: brown
+Shape: armor
+Habitat: mountain
+It is the only Pokémon that can evolve into a human. It’s capable of turning itself into a human.
+
+Stantler
+Type: water ground
+Abilities: anticipation, adaptability, adaptability
+Moves: sleep-talk, substitute, blizzard, confide
+Height: 0.5 m
+Color: blue
+Habitat: mountain
+
+Pidove
+Pidove
+Vine Pokémon
+Type: bug fighting
+Abilities: sleep-sap, super-luck, super-luck
+Height: 0.6 m
+Weight: 30.5 kg
+Color: purple
+Shape: upright
+It is said that the flowers on its back are used as a symbol of good fortune.
+
+Spinda
+Mushroom Pokémon
+Type: grass ground
+Abilities: overgrow, cloud-nine, klutz
+Moves: giga-drain, rain-dance, sleep-talk, mega-punch
+Weight: 9.0 kg
+Color: blue
+Shape: quadruped
+It sleeps for a week in the desert. In the daytime, it sleeps for a month in the mountains.
+
+Sylvanas
+Sylvanas
+Torch Pokémon
+Type: fire
+Abilities: own-tempo, flash-fire, flash-fire
+Moves: snore, feint, dream-eater, solar-beam
+Height: 1.8 m
+Color: red
+This Pokémon’s body is extremely strong, but it’s also very weak. It’s also extremely weak at low levels.
+
+Krokorok
+Spiral Pokémon
+Abilities: snow-cloak, snow-cloak, weak-armor
+Moves: blizzard, ice-beam, ice-punch, ice-punch
+Height: 1.3 m
+Weight: 40.8 kg
+Shape: wings
+In snowy areas, it is known as a guardian of snow. It protects the town from the chill of the cold.
+
+Chandelure
+Fossil Pokémon
+Type: poison
+Abilities: own-tempo, technician, regenerator
+thick-fat, poison-touch, adaptability
+Moves: poison-powder, return, growl, roar
+Height: 0.4 m
+Weight: 19.6 kg
+Color: yellow
+Shape: quadruped
+Its thick, spiny body is an ideal weapon for fighting. Its sharp claws can slice through steel.
+
+Mudkip
+Duck Pokémon
+Abilities: inner-focus, mold-breaker, hustle
+Height: 0.3 m
+Shape: quadruped
+Its head is a pair of hard, curved claws. It will attack any foe that approaches it with its sharp claws.
+
+Gothita
+Gothita
+Electric Pokémon
+Type: electric
+electric
+Height: 1.6 m
+Weight: 28.0 kg
+Color: purple
+Shape: quadruped
+upright
+It has a strong sense of smell. It will run when it is in danger.
+The super-poisonous nature of this Pokémon’s venom can’t be ignored. If you’re bitten by this Pokémon, you’ll need to check your surroundings.
+
+Carnivine
+Carnivine
+Heat Wave Pokémon
+Type: fire
+Abilities: blaze, intimidate, flame-body
+Moves: fire-punch, double-team, rock-tomb, thunder
+Height: 1.5 m
+Color: blue
+Shape: upright
+Habitat: urban
+It tugs on its opponent's horns to release a powerful heat wave. This POKéMON is also known as a hot dog.
+
+Lanturn
+Toxic Pokémon
+Type: normal flying
+Abilities: stench, poison-touch, hydration
+Height: 1.2 m
+Weight: 11.5 kg
+Color: green
+Shape: wings
+The wings on its back are like tentacles. It will shoot toxic gases at you.
+
+Wailmer
+Poison Pin Pokémon
+Type: poison poison
+Abilities: speed-boost, hydration, klutz
+Moves: dynamic-punch, steel-wing, zen-headbutt, rest
+Weight: 100.0 kg
+Shape: upright
+
+Magmortar
+Puppet Pokémon
+Type: normal flying
+Abilities: sunny-day, unnerve, pickpocket
+Moves: frustration, flash, brick-break, light-screen
+Height: 1.0 m
+Weight: 23.5 kg
+Color: red
+Shape: quadruped
+This Pokémon has a remarkable ability to manipulate the air around it. It can make its wings flaps appear to be of a flying nature.
+
+Luxio
+Turtle Pokémon
+Type: water
+Moves: rest, rest, sleep-talk, round, mimic
+Height: 0.3 m
+Weight: 10.5 kg
+Color: blue
+Habitat: sea
+
+Cottonweed
+Cottonweed Pokémon
+Abilities: pickup, flash-fire, poison-point
+Moves: swagger, confide, leer, string-shot
+Height: 0.4 m
+Color: red
+Shape: quadruped
+It wraps its arms around a small cotton ball and spins it to blow air out.
+
+Rhyhorn
+Long-Toss Pokémon
+Abilities: swarm, battle-armor
+Moves: toxic, ice-beam, return, protect
+Height: 0.3 m
+Weight: 1.1 kg
+Color: blue
+Shape: quadruped
+Habitat: cave
+It lives in the depths of mountains. It strikes with its long tail and then runs away.
+
+Boldore
+Boldore
+Colt Pokémon
+Type: fire flying
+Abilities: flamethrower, flame-body
+Moves: flail, flame-burst, toxic, flame-throw
+Height: 0.5 m
+Weight: 39.0 kg
+Color: brown
+Shape: wings
+It is said that if it is attacked with a single blow, the flame will be turned white.
+
+Mothim
+Lurking Pokémon
+Type: electric
+Abilities: hustle, telepathy
+Height: 1.5 m
+Weight: 15.0 kg
+Color: blue
+Its mind is overflowing with feelings of joy and happiness. Its body is as cold as ice.
+
+Piloswine
+Mushroom Pokémon
+Type: normal
+Moves: teleport, flash, fire-burst, fire-fang
+Height: 1.2 m
+Color: brown
+Shape: quadruped
+It will move its body around and show off its dazzling body.
+
+Mothim
+Pigeon Pokémon
+Type: dark flying
+Abilities: inner-focus, telepathy
+Height: 1.0 m
+Weight: 55.5 kg
+Color: gray
+Shape: wings
+It can fly at over 400 mph. It is said to be the most powerful flying bird in the world.
+
+Blastoise
+Toxic Pokémon
+Type: poison
+Height: 1.5 m
+Weight: 20.0 kg
+40.0 kg
+Color: blue
+Shape: blob
+It is said that a toxic Pokémon that’s been born with a bullet lodged in its tail will die if its tail isn’t washed away.
+
+Mudkip
+Sea Slug Pokémon
+Type: water
+Abilities: keen-eye, hydration, sand-force
+Height: 1.2 m
+Color: blue
+Shape: squiggle
+It is said that the sand that formed the bottom of the sea will never return to its original state.
+
+Kadabra
+Spiny Bird Pokémon
+Type: bug grass
+Abilities: thick-fat, sniper, moody
+Moves: substitute, substitute, dream-eater, headbutt
+Height: 0.6 m
+Weight: 23.0 kg
+Color: blue
+Shape: bug-wings
+Habitat: grassland
+Kadabra is a very popular bird Pokémon. It’s said to be the source of the happiness of many people.
+
+Clefairy
+Head Butt Pokémon
+Type: grass
+Abilities: overgrow, keen-eye
+Moves: grass-knot, rest, headbutt, iron-defense
+Height: 1.3 m
+Color: green
+Shape: quadruped
+It uses its long legs to absorb nutrients and then buries itself in the soil to eat.
+
+Rookick
+Rookick
+Wing Pokémon
+Type: fighting
+Abilities: overgrow, infiltrator, sniper
+Moves: return, protect, rest, rest
+Height: 1.3 m
+Weight: 56.0 kg
+Color: blue
+Shape: quadruped
+It’s a type of Rookick. It’s found on a lot of crops. Its wings are covered by a covering covering.
+
+Gothorita
+Goth Pokémon
+Type: grass
+Abilities: overgrow, light-metal, light-metal
+Moves: hyper-beam, swagger, confide, dark-pulse
+Height: 0.3 m
+Weight: 10.5 kg
+Color: blue
+Shape: quadruped
+They live in large groups and can be easily split into groups. They are said to be the best at keeping up with the rest of their group.
+
+Lanturn
+Lanturn
+Mushroom Pokémon
+Type: grass poison
+Abilities: thick-fat, guts, huge-power
+Moves: rest, double-team, confide, secret-power
+Height: 1.5 m
+Weight: 34.5 kg
+Color: blue
+Shape: upright
+Habitat: forest
+The fur on its tail is used to create a sweet aroma. It’s said to be a strong healer.
+
+Nincada
+Cactus Pokémon
+Type: grass poison
+Abilities: overgrow, telepathy
+Height: 0.5 m
+Weight: 23.5 kg
+Color: green
+Shape: quadruped
+It will chew through anything, including its own fur. If you see it with its big fur, just pay close attention.
+
+Porygon-Z
+Porygon-Z
+Fresh Snow Pokémon
+Type: ice
+Abilities: healer, sniper, weak-armor
+overgrow, rain-dish
+Moves: mega-drain, psychic, shadow-ball, return
+return, sandstorm, substitute, strength
+Height: 1.0 m
+Weight: 3.5 kg
+Color: blue
+Shape: quadruped
+It can store up to 1,600 POKéMON in its body. It will take any Pokémon with it.
+
+Furfrou
+Superpower Pokémon
+Type: rock
+Abilities: levitate, anger-point, regenerator
+Moves: hone-look, thunder-wave, swagger, rock-smash
+Height: 0.4 m
+Weight: 1.5 kg
+Color: purple
+
+Eelektrik
+Wish Pokémon
+Type: grass
+Height: 0.6 m
+Color: blue
+Shape: quadruped
+The membrane on its back is like a magician's wand. It is made of cotton, so it can absorb the cotton with ease.
+
+Rhydon
+Rhydon
+Magician Pokémon
+Type: electric
+Moves: natural-gift, flash, swords-dance, rain-dance
+Height: 0.8 m
+Weight: 22.0 kg
+Color: blue
+Shape: upright
+It is said that the magic power of this Pokémon is that of a magician.

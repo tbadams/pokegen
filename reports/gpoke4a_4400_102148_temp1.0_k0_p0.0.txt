@@ -1,0 +1,25 @@
+
+Perfect: 120/504 (23.81%)
+Incomplete: 207/504 (41.07%)
+Have Extras: 220/504 (43.65%)
+Contain Garbage: 6/504 (1.19%)
+Missing Values: 561
+Extra Values: 314
+Garbage Values: 8
+NAME: unique: 78/504 (15.48%), valid: 429/504 (85.12%), missing: 43/504 (8.53%), extra: 32/504 (6.35%), 
+CATEGORY: unique: 71/504 (14.09%), valid: 428/504 (84.92%), missing: 49/504 (9.72%), extra: 27/504 (5.36%), 
+TYPES: unique: 14/504 (2.78%), valid: 430/504 (85.32%), missing: 51/504 (10.12%), extra: 23/504 (4.56%), 
+ABILITIES: unique: 96/504 (19.05%), valid: 430/504 (85.32%), missing: 54/504 (10.71%), extra: 20/504 (3.97%), 
+MOVES: unique: 382/504 (75.79%), valid: 391/504 (77.58%), missing: 73/504 (14.48%), extra: 40/504 (7.94%), 
+HEIGHT: unique: 3/504 (0.60%), valid: 418/504 (82.94%), missing: 59/504 (11.71%), extra: 27/504 (5.36%), 
+WEIGHT: unique: 48/504 (9.52%), valid: 415/504 (82.34%), missing: 49/504 (9.72%), extra: 40/504 (7.94%), 
+COLOR: unique: 2/504 (0.40%), valid: 429/504 (85.12%), missing: 55/504 (10.91%), extra: 20/504 (3.97%), 
+SHAPE: unique: 1/504 (0.20%), valid: 447/504 (88.69%), missing: 30/504 (5.95%), extra: 27/504 (5.36%), 
+HABITAT: unique: 1/504 (0.20%), valid: 430/504 (85.32%), missing: 29/504 (5.75%), extra: 45/504 (8.93%), 
+DESCRIPTION: unique: 435/504 (86.31%), valid: 422/504 (83.73%), missing: 69/504 (13.69%), extra: 13/504 (2.58%), 
+NAME - uniques: ['Batcave Pokémon', 'Arno', 'Sibleye', 'Ottu', 'Terrapin', 'Chick', 'Bloomheel', 'Swadlindra', 'Nih PeshFIG', 'Chedenne', 'Chaunna', 'Desperado', 'Jubilantly', 'Rituet', 'Spearing-Tree', 'Boundie', 'Makarov', 'Oroach', 'Twisloom', 'Herool', 'Applegred', 'Cryogonal Pokémon', 'Mega Sceptile', 'Atula', 'Romeon', 'Greed', 'Skalania', 'Corrigegus', 'Puncher', 'Beehive Pokémon', 'Pig Bull', 'Dragonrattlet', 'Patrat', '18', 'Triple Null', 'Ottomans', 'Urshifile', 'Landorus-Therian', 'Giraffa', 'Via benedict', 'Dirtouga', 'broodsham', 'Lunatrain', 'Deceiver', 'Xeratisse', 'Frye', 'Superpower', 'Raticse', 'Drunee', 'Snoring', 'Kadabra', 'Beaver', 'Slashbur', 'Ottool>00Ottool', 'pinat', 'Verily', 'Bugsy', 'Beeiwashi', 'ValiantRogue', 'Wolf', 'Snoop Dog', 'Iceberg', 'NOSARO', 'Ravenviro', 'Aramill', 'Litwickul', 'Gummet', 'Cryogonal Pokémon', 'Azurecession', 'Ruffioli', 'Turchull', 'Chingchou', 'Snoop Lion', 'Playmoth', 'Elimarr', 'Daunoo', 'Ruffula', 'Norgue, Wormtail']
+CATEGORY - uniques: ['Colony Pokémon', 'Bullet Jet Pokémon', 'Serene Bug Pokémon', 'Deceiver Pokémon', 'Terraforming Pokémon', 'Using Thousand Tusk Pokémon', 'Royal Sylveon Pokémon', 'Spot Pokémon', 'Hairy Pokémon', 'Blob Pokémon', 'Looting Pokémon', 'Lava Circulating Pokémon', 'Embargo Pokémon', 'Buillafon Purdue’s bones have sharp, venomous edges. These bones are sour and often mold. They’re used as medicine in medicine scents.', 'Regrowth Pokémon', 'Amoonguss Pokémon', 'Heavy Armor Pokémon', 'Coppericle Pokémon', 'Live Pokémon', 'Sandstorm Pokémon', 'Big Bird Pokémon', 'Berry Pokémon', 'Combustible Leg Pokémon', 'Gladiator Pokémon', 'Float Pokémon', 'Cat Core Pokémon', 'Tiny Pincer Pokémon', 'Ball Pummel', 'Historic Pokémon', 'Emotion Pokémon', 'Leap Turtle Pokémon', 'Earthenware Pokémon', 'Anime Pokémon', 'Ice Pigeon Pokémon', 'Cinccino Pokémon', 'Pig Tail Pokémon', 'Duck Pokémon', 'Pikachu Pokémon', 'Zombie Pokémon', 'Coalossal Pokémon', 'Wing Pigeon Pokémon', 'Tiny Grass Pokémon', 'Mach Doodle Pokémon', 'Molot Pokémon', 'Disliking Pokémon', 'Snore Pokémon', 'Pig Snow Pokémon', 'Aqua Turtle Pokémon', 'Long Consecutive Strike Pokémon', 'Pangoro Pokémon', 'Endusk Pokémon', 'Cinder Pokémon', 'Kyuzan Pokémon', 'Royal Heap Pokémon', 'Long Nose Dig Pokémon', 'Ball Poké Ball Pokémon', 'Sapphire Pokémon', 'Ogre Armor Pokémon', 'Blim eon', 'Ball Rash Pokémon', 'Poison Cow Pokémon', 'Thorn Digger', 'Goth', 'High Rock Site Pokémon', 'Spike Pokémon', 'Squirrel Pokémon', 'Luffy Pokémon', 'Dalmatian Pokémon', 'Cotton Pokémon', 'Longclaw Pokémon', 'Punch Pokémon']
+SHAPE - uniques: ['brood']
+HABITAT - uniques: ['humanoid']
+TYPES - uniques: ['angler', 'ice fairy', 'grass grass', 'ghostfire', 'ghost ice', 'fighting steel', 'detect', 'rock electric', 'rock steel', 'fighting magic', 'static water', 'sound static', 'groundghost', 'rock soil']
+COLOR - uniques: ['wurm', 'cave']

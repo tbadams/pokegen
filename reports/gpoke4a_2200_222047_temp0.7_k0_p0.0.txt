@@ -1,0 +1,25 @@
+
+Perfect: 135/500 (27.00%)
+Incomplete: 161/500 (32.20%)
+Have Extras: 222/500 (44.40%)
+Contain Garbage: 0/500 (0.00%)
+Missing Values: 270
+Extra Values: 338
+Garbage Values: 0
+NAME: unique: 56/500 (11.20%), valid: 448/500 (89.60%), missing: 7/500 (1.40%), extra: 45/500 (9.00%), 
+CATEGORY: unique: 64/500 (12.80%), valid: 439/500 (87.80%), missing: 53/500 (10.60%), extra: 8/500 (1.60%), 
+TYPES: unique: 7/500 (1.40%), valid: 461/500 (92.20%), missing: 27/500 (5.40%), extra: 12/500 (2.40%), 
+ABILITIES: unique: 67/500 (13.40%), valid: 451/500 (90.20%), missing: 16/500 (3.20%), extra: 33/500 (6.60%), 
+MOVES: unique: 291/500 (58.20%), valid: 426/500 (85.20%), missing: 44/500 (8.80%), extra: 30/500 (6.00%), 
+HEIGHT: unique: 0/500 (0.00%), valid: 462/500 (92.40%), missing: 14/500 (2.80%), extra: 24/500 (4.80%), 
+WEIGHT: unique: 14/500 (2.80%), valid: 436/500 (87.20%), missing: 46/500 (9.20%), extra: 18/500 (3.60%), 
+COLOR: unique: 0/500 (0.00%), valid: 462/500 (92.40%), missing: 15/500 (3.00%), extra: 23/500 (4.60%), 
+SHAPE: unique: 0/500 (0.00%), valid: 437/500 (87.40%), missing: 21/500 (4.20%), extra: 42/500 (8.40%), 
+HABITAT: unique: 0/500 (0.00%), valid: 413/500 (82.60%), missing: 8/500 (1.60%), extra: 79/500 (15.80%), 
+DESCRIPTION: unique: 481/500 (96.20%), valid: 457/500 (91.40%), missing: 19/500 (3.80%), extra: 24/500 (4.80%), 
+NAME - uniques: ['Lingering Pokémon', 'Cottonweave', 'Iceakantora', 'Mime Jr.', 'Shedding', 'Kirby', 'Koopa', 'Raven-or-Ewok', 'Ludicool', 'Chimp', 'Giggly', 'Theize', 'Ekomile', 'Shedding', 'Balloon', 'Bouquet', 'Seedull', 'Spinyrene', 'Turtle Boom', 'Creeper', 'BerryMini', 'LATIN', 'Bloomick', 'Gurshud', 'Pikipu', 'Natuvee', 'Appleare', 'Gobbintail', 'Granmet', 'Cereolace', 'Totopé', 'Cantyo', 'Mushroom', 'Sudeproof', 'Seaorus', 'Cherche', 'Mudbrower', 'Greedhameet', 'Toxichearts', 'Formosa', 'Patrat', 'Faunrow', 'Gossifle', 'Turtlecco', 'Cinderoth', 'Toxicocat', 'Kartouken', 'Razzle', 'Poiscorch', 'Kunabishi', 'Formosa', 'Wild Croagunk', 'Galarian', 'Frogadier', 'Superpower', 'Pumpkake']
+CATEGORY - uniques: ['Pidgey Pokémon', 'Cumple Pokémon', 'Albatross Pokémon', 'Tiny Quill Pokémon', 'Pidgeot Pokémon', 'Gumshoos Pokémon', 'Cinder Pokémon', 'Kirby Pokémon', 'Scratch Pokémon', 'Kubfu Pokémon', 'Teddiursa Pokémon', 'Blip Pokémon', 'Maw Pokémon', 'Earthenware Pokémon', 'Crocodile Pokémon', 'Garden Snake Pokémon', 'Spiny Fox Pokémon', 'Nectar Pokémon', 'Berry Pokémon', 'Corrosion Pokémon', 'Victini Pokémon', 'Furries Pokémon', 'Scratch Murmur Pokémon', 'Cormorant Pokémon', 'Littern Pokémon', 'Furfrou', 'Leech Pokémon', 'Lomb-Yard Pokémon', 'Skateboard Pokémon', 'Sky Nose Pokémon', 'Bergmite Pokémon', 'Hatfields Pokémon', 'Espurr Pokémon', 'Azumarill Pokémon', 'Chesnaught Pokémon', 'Leaf Nut Pokémon', 'Pidgeot Pokémon', 'Shiny Mouse Pokémon', 'Tentacled Pokémon', 'Tiny Riolu Pokémon', 'Cotton Bug Pokémon', 'Float Pokémon', 'Jolly Panda Pokémon', 'Patty Pokémon', 'Form Pokémon', 'Triple-Handed Pokémon', 'Sea World Pokémon', 'Big Lapis Drilling Pokémon', 'Bash Mouth Pokémon', 'Windveil Pokémon', 'Plump Pokémon', 'Royal Bird Pokémon', 'Pulse Pokémon', 'Galaxy Pokémon', 'Soupy Pokémon', 'Long Sword Pokémon', 'Magneton Pokémon', 'Stuff Pokémon', 'Dalmatian Pokémon', 'Blackbird Pokémon', 'Guzzard Pokémon', 'Pidgey Pokémon', 'Aqua Bird Pokémon', 'Cotton Cowl Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['ghost fighting', 'poison poison', 'poison grass', 'electric grass', 'grass electric', 'electric psychic', 'fighting steel']
+COLOR - uniques: []

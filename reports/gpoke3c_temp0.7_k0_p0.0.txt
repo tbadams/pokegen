@@ -1,0 +1,23 @@
+
+Perfect: 16/100 (16.00%)
+Incomplete: 66/100 (66.00%)
+Have Extras: 43/100 (43.00%)
+Contain Garbage: 0/100 (0.00%)
+Missing Values: 145
+Extra Values: 57
+Garbage Values: 0
+NAME: unique: 23/100 (23.00%), valid: 80/100 (80.00%), missing: 6/100 (6.00%), extra: 14/100 (14.00%), 
+CATEGORY: unique: 29/100 (29.00%), valid: 83/100 (83.00%), missing: 16/100 (16.00%), extra: 1/100 (1.00%), 
+TYPES: unique: 3/100 (3.00%), valid: 83/100 (83.00%), missing: 14/100 (14.00%), extra: 3/100 (3.00%), 
+ABILITIES: unique: 66/100 (66.00%), valid: 85/100 (85.00%), missing: 9/100 (9.00%), extra: 6/100 (6.00%), 
+MOVES: unique: 56/100 (56.00%), valid: 79/100 (79.00%), missing: 17/100 (17.00%), extra: 4/100 (4.00%), 
+HEIGHT: unique: 0/100 (0.00%), valid: 82/100 (82.00%), missing: 8/100 (8.00%), extra: 10/100 (10.00%), 
+WEIGHT: unique: 3/100 (3.00%), valid: 64/100 (64.00%), missing: 35/100 (35.00%), extra: 1/100 (1.00%), 
+COLOR: unique: 0/100 (0.00%), valid: 89/100 (89.00%), missing: 9/100 (9.00%), extra: 2/100 (2.00%), 
+SHAPE: unique: 0/100 (0.00%), valid: 90/100 (90.00%), missing: 6/100 (6.00%), extra: 4/100 (4.00%), 
+HABITAT: unique: 0/100 (0.00%), valid: 86/100 (86.00%), missing: 6/100 (6.00%), extra: 8/100 (8.00%), 
+DESCRIPTION: unique: 77/100 (77.00%), valid: 77/100 (77.00%), missing: 19/100 (19.00%), extra: 4/100 (4.00%), 
+NAME - uniques: ['Bubble Frog', 'Tynamomancy', 'Selling Wish', 'Puncheon', 'Larva', 'Greedor', 'Bubblebug', 'Cocoon', 'Cocoon', 'Skye', 'Gloomda', 'Kunabishi', 'Gigapuda', 'Wu\xad', 'Puncher', 'Sapphire', 'Gigantamax', 'Melmoth', 'Ironbarrel', 'Scolex', 'Yukari', 'Blizzaria', 'Scalyudre']
+CATEGORY - uniques: ['Windfury Pokémon', 'Selling Pokémon', 'Singing Pokémon', 'Pig Tail Pokémon', 'Big-Type Pokémon', 'Frost Pokémon', 'Mud Pokémon', 'Easter Pokémon', 'Bubblebug Pokémon', 'Primordial Pokémon', 'Tiny Fox Pokémon', 'Sky Pigeon Pokémon', 'Toxic Pokémon', 'Slime Pokémon', 'Bug Pokémon', 'Unfezant Pokémon', 'Melodious Pokémon', 'Empowering Pokémon', 'Fly Pokémon', 'Slim Pokémon', 'Toxic Monkey Pokémon', 'Tiny Pokémon', 'Iron Monkey Pokémon', 'Chewtle Pokémon', 'Wild Fungus Pokémon', 'Color Bird Pokémon', 'Cat Pokémon', 'Pikipewag', 'Tiny Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []

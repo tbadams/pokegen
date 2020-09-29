@@ -1,0 +1,25 @@
+
+Perfect: 111/505 (21.98%)
+Incomplete: 197/505 (39.01%)
+Have Extras: 242/505 (47.92%)
+Contain Garbage: 5/505 (0.99%)
+Missing Values: 394
+Extra Values: 415
+Garbage Values: 5
+NAME: unique: 93/505 (18.42%), valid: 398/505 (78.81%), missing: 18/505 (3.56%), extra: 89/505 (17.62%), 
+CATEGORY: unique: 99/505 (19.60%), valid: 431/505 (85.35%), missing: 69/505 (13.66%), extra: 5/505 (0.99%), 
+TYPES: unique: 23/505 (4.55%), valid: 428/505 (84.75%), missing: 24/505 (4.75%), extra: 53/505 (10.50%), 
+ABILITIES: unique: 149/505 (29.50%), valid: 429/505 (84.95%), missing: 16/505 (3.17%), extra: 60/505 (11.88%), 
+MOVES: unique: 239/505 (47.33%), valid: 423/505 (83.76%), missing: 27/505 (5.35%), extra: 55/505 (10.89%), 
+HEIGHT: unique: 0/505 (0.00%), valid: 446/505 (88.32%), missing: 38/505 (7.52%), extra: 21/505 (4.16%), 
+WEIGHT: unique: 40/505 (7.92%), valid: 432/505 (85.54%), missing: 56/505 (11.09%), extra: 17/505 (3.37%), 
+COLOR: unique: 0/505 (0.00%), valid: 444/505 (87.92%), missing: 26/505 (5.15%), extra: 35/505 (6.93%), 
+SHAPE: unique: 0/505 (0.00%), valid: 432/505 (85.54%), missing: 51/505 (10.10%), extra: 22/505 (4.36%), 
+HABITAT: unique: 1/505 (0.20%), valid: 436/505 (86.34%), missing: 29/505 (5.74%), extra: 40/505 (7.92%), 
+DESCRIPTION: unique: 465/505 (92.08%), valid: 447/505 (88.51%), missing: 40/505 (7.92%), extra: 18/505 (3.56%), 
+NAME - uniques: ['Miscray', 'Greedom', 'Happin', 'Mango', 'Hirafuda', 'Coalos', 'Hattereye', 'Arodarr', 'Hatred', 'Cocoon', 'Weatherlight', 'Horus-Heatran', 'Hardee', 'Scorbow', 'Cottonweed', 'Malkwag', 'Megadred', 'Cottonveil', 'Pumpkaboo', 'Grimmsnatch', 'Panthera', 'Curseoul', 'Cottonweed', 'Cottoné', 'Sternick', 'Colbur', 'Cocoon', 'BOMBY', 'Plover', 'Scorpion', 'Sigilye', 'Muffler', 'Guda', 'Kozilek', 'Sellingtoad', 'Possum', 'Fangora', 'Galarhys', 'Swain', 'Gundam', 'Crioper', 'Lich.', 'Caretaker', 'Mordrem', 'Gastroar', 'Mukava', 'Wild-Girlav', 'Fei\xad son', 'Big Boss', 'Romeo', 'Tantrum', 'Legio', 'Flatter', 'Batchelor', 'Litlea', 'Mime Jr.: You can become a ghost if you live in a place where you can feel the ghostly energy of your parents.', 'Tartillery', 'Ekeena', 'Albino', 'Sage', 'Lava-ion', 'Sphoud', 'Iceock', 'Cubone-E', 'Krokorokorok', 'Cocoon', 'Bagworm', 'Swingone', 'Eggmeister', 'Twiglet', 'Protomegan', 'Cupent', 'Gunket', 'SavageOgre', 'Eldritch', 'Cohwin-pink', 'KATARU', 'Fairy Tale', 'Alarian’s shimmering eyes.', 'Cottonveil', 'Lissile', 'Sebastian', 'Protomarr', 'Cupodile', 'Seadouga', 'Tartax', 'Ironikun', 'Sparks', 'Muntank', 'Sea Bell', 'Wily', 'Crimson Jellicent', 'Curlipede']
+CATEGORY - uniques: ['Bug Pokémon', 'Spike Pokémon', 'Land Turtle Pokémon', 'EleFish Pokémon Pokémon', 'Bathing Pokémon', 'Dart Pokémon', 'Pidgeot Pokémon', 'Hardee Pokémon', 'Hexapunk Pokémon', 'Classy Pokémon', 'Coyozoin Pokémon', 'Escavalier Pokémon', 'Gloomdance Pokémon', 'Spinda Pokémon', 'Eliminate Pokémon', 'Bagpoles Pokémon', 'Chewtle Pokémon', 'Pioneer Pokémon', 'Curse Pokémon', 'Single Pawniard Pokémon', 'Pidgey Pokémon', 'Chesnaught Pokémon', 'Stone Age Pokémon', 'Pig Bird Pokémon', 'Colbur Pokémon', 'Chewtle Pokémon', 'Snow Pigeon Pokémon', 'Nocturnal Pokémon', 'Illusion-Dream Pokémon', 'Flooding Pokémon', 'Bomber Pokémon', 'Plover Pokémon', 'Spike Pokémon', 'Muffler Pokémon', 'Fang Shark Pokémon', 'Hedge-Mentor Pokémon', 'Pond Pokémon', 'Big-Axis Pokémon', 'Tap Out Pokémon', 'Royal Pokémon Pokémon', 'Copperdermite', 'Axe-Fist Pokémon', 'Wood Geyser Pokémon', 'Black Cat Pokémon', 'Arrow Pokémon', 'Brutal Blade Pokémon', 'Bag Pokémon', 'Bounsweet Pokémon', 'Rock Crab Pokémon', 'Shell Turtle Pokémon', 'Dazzling Pokémon', 'Golduck Pokémon', 'Mare Pokémon', 'Copper Wing Pokémon', 'Stiff Night Pokémon', 'Royal Pokémon Pokémon', 'Hairy Pokémon', 'Hairy Pokémon', 'Big-Wench Pokémon', 'Tiny Pokémon', 'Elder Pokémon', 'Heat Wave Pokémon', 'Mummy Pokémon', 'Bat Skin Pokémon', 'Hippolyte Pokémon', 'Blastoise Pokémon', 'Copperder Pokémon', 'Excavate Pokémon', 'Land Pokémon', 'Taunt Pokémon', 'Apples Pokémon', 'Snivy Pokémon', 'Gluttony Pokémon', 'Spiny Bird Pokémon', 'New Pokémon', 'Brutal Blade Pokémon', 'Pumpkin Pokémon.', 'Vile Fly Pokémon', 'Zoo Pokémon', 'Tiger Bird Pokémon', 'Leaf Nut Pokémon', 'Scy Pokémon', 'Sea Pigeon Pokémon', 'Big-Smash Pokémon', 'Mud Pokémon', 'Imposter Pokémon', 'Primordial Pokémon', 'Spit-Eating Pokémon', 'Young Bird Pokémon', 'Sand Horse Pokémon', 'Apples to Pansy Pokémon', 'Audit Pokémon', 'Vast Vast Teamwork Pokémon', 'Cupodile Pokémon', 'Explosive Pokémon', 'Land Turtle Pokémon', 'Magnet Wave Pokémon', 'Seadra Pokémon', 'Magnet Wave Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: ['']
+TYPES - uniques: ['dragon legend', 'electric', 'ghost light', 'electric', 'ground', 'electric grass', 'flying ice', 'fighting dragon', 'dark fairy', 'ice grass', 'fire grass', 'dark metal', 'poison', 'steel ghost', 'dark', 'steel water', 'ice poison', 'dragon poison', 'normal bird', '', 'steel dark', 'ice poison', 'poison Pokémon']
+COLOR - uniques: []

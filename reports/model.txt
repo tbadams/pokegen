@@ -1,0 +1,25 @@
+
+Perfect: 0/1 (0.00%)
+Incomplete: 1/1 (100.00%)
+Have Extras: 0/1 (0.00%)
+Contain Garbage: 0/1 (0.00%)
+Missing Values: 11
+Extra Values: 0
+Garbage Values: 0
+NAME: unique: 0/1 (0.00%), valid: 0/1 (0.00%), missing: 1/1 (100.00%), extra: 0/1 (0.00%), 
+CATEGORY: unique: 0/1 (0.00%), valid: 0/1 (0.00%), missing: 1/1 (100.00%), extra: 0/1 (0.00%), 
+TYPES: unique: 0/1 (0.00%), valid: 0/1 (0.00%), missing: 1/1 (100.00%), extra: 0/1 (0.00%), 
+ABILITIES: unique: 0/1 (0.00%), valid: 0/1 (0.00%), missing: 1/1 (100.00%), extra: 0/1 (0.00%), 
+MOVES: unique: 0/1 (0.00%), valid: 0/1 (0.00%), missing: 1/1 (100.00%), extra: 0/1 (0.00%), 
+HEIGHT: unique: 0/1 (0.00%), valid: 0/1 (0.00%), missing: 1/1 (100.00%), extra: 0/1 (0.00%), 
+WEIGHT: unique: 0/1 (0.00%), valid: 0/1 (0.00%), missing: 1/1 (100.00%), extra: 0/1 (0.00%), 
+COLOR: unique: 0/1 (0.00%), valid: 0/1 (0.00%), missing: 1/1 (100.00%), extra: 0/1 (0.00%), 
+SHAPE: unique: 0/1 (0.00%), valid: 0/1 (0.00%), missing: 1/1 (100.00%), extra: 0/1 (0.00%), 
+HABITAT: unique: 0/1 (0.00%), valid: 0/1 (0.00%), missing: 1/1 (100.00%), extra: 0/1 (0.00%), 
+DESCRIPTION: unique: 0/1 (0.00%), valid: 0/1 (0.00%), missing: 1/1 (100.00%), extra: 0/1 (0.00%), 
+NAME - uniques: []
+CATEGORY - uniques: []
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: []
+COLOR - uniques: []

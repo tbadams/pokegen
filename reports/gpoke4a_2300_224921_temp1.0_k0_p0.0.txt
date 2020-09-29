@@ -1,0 +1,25 @@
+
+Perfect: 108/501 (21.56%)
+Incomplete: 256/501 (51.10%)
+Have Extras: 211/501 (42.12%)
+Contain Garbage: 4/501 (0.80%)
+Missing Values: 612
+Extra Values: 316
+Garbage Values: 4
+NAME: unique: 98/501 (19.56%), valid: 407/501 (81.24%), missing: 44/501 (8.78%), extra: 50/501 (9.98%), 
+CATEGORY: unique: 88/501 (17.56%), valid: 422/501 (84.23%), missing: 60/501 (11.98%), extra: 19/501 (3.79%), 
+TYPES: unique: 33/501 (6.59%), valid: 432/501 (86.23%), missing: 46/501 (9.18%), extra: 23/501 (4.59%), 
+ABILITIES: unique: 160/501 (31.94%), valid: 428/501 (85.43%), missing: 46/501 (9.18%), extra: 27/501 (5.39%), 
+MOVES: unique: 401/501 (80.04%), valid: 395/501 (78.84%), missing: 47/501 (9.38%), extra: 59/501 (11.78%), 
+HEIGHT: unique: 7/501 (1.40%), valid: 425/501 (84.83%), missing: 52/501 (10.38%), extra: 24/501 (4.79%), 
+WEIGHT: unique: 47/501 (9.38%), valid: 399/501 (79.64%), missing: 79/501 (15.77%), extra: 23/501 (4.59%), 
+COLOR: unique: 0/501 (0.00%), valid: 408/501 (81.44%), missing: 54/501 (10.78%), extra: 39/501 (7.78%), 
+SHAPE: unique: 1/501 (0.20%), valid: 434/501 (86.63%), missing: 49/501 (9.78%), extra: 18/501 (3.59%), 
+HABITAT: unique: 2/501 (0.40%), valid: 426/501 (85.03%), missing: 49/501 (9.78%), extra: 26/501 (5.19%), 
+DESCRIPTION: unique: 415/501 (82.83%), valid: 407/501 (81.24%), missing: 86/501 (17.17%), extra: 8/501 (1.60%), 
+NAME - uniques: ['Telmet', 'Luresvett', 'Polka Dot', 'Purple Sewaddle', 'Nidorina', 'Fangar', 'Ropaquil', 'Stunnoofen', 'Dorfuge', 'Young Machop', 'Craspin', 'Caring', 'Ironguard', 'Baretta', 'Tegaquorah', 'Bronzeix', 'Hulk', 'Rolypreter', 'Ice-ion', 'Dorfang', 'Scorpion', 'Weatherlight', 'Hibikyu', 'Ziéys', 'Panicful', '060.0 kg', 'Hagalot', 'Lingeringine', 'Charjabika', 'Appraise', 'Caring', 'MOUSE', 'Rhedesire', 'Mushroom', 'Fangfu', 'Staark', 'Oddish', 'Antlembox', 'Sting>03bulked-away, tangled-feet, unburden', 'Cruel Chunk', 'Rotationom', 'Punch', 'Larva', 'Bectiwoo', 'Fiddlesticks', 'Mummy', 'Métierra', 'Shadowloo', 'Ebuhnum', 'Durskit', 'Willamette', 'Mushroom', 'Oshawark', 'Totome', 'Brutus', 'Strong Boop', 'Thunderbolt', 'Zebstela', 'Solgalea', 'Gorgon', 'Pomperand', 'Ballantoul', 'Tatuvarac', 'Hawthorn', 'Machosis', 'Porter♂', 'Rampage', 'Fangry', 'Ember', 'Whirlpool', 'Sea Kelp', 'Foalie', 'Illyior', 'Tyrogrel', 'Mantyra', 'TurtleKing', 'Eriadu', 'Marth', 'Walu’dle', 'Thiski', 'MYLEO', 'Lingering Pokémon', 'Cobra', 'Tinkotorb', 'Dragoon', 'Dottlers', 'Loebrook', 'Gascones', 'BubbleBubble', 'Trilazine', 'Quagma', 'Snow-Slug', 'Niveil', 'Slugnoof', 'Revival', 'Mushroom', 'Grudge', 'Garnet']
+CATEGORY - uniques: ['Extremely Odd Pokémon', 'Lotus Pokémon', 'Purple Weed Pokémon', 'Serpents Pokémon', 'Ogre Pokémon', 'Armoured Armor Pokémon', 'Politically Incorrect Pokémon', 'Hairy Fox Pokémon', 'Psyche Pokémon', 'Aqua Whale Pokémon', 'Sea Worm Pokémon', 'Woolly Bird Pokémon', 'Shelter Pokémon', 'Frost Bee Pokémon', 'Scyther Pokémon', 'Milk Pokémon', 'Wynchrog Pokémon', 'Passive Pokémon', 'Dog Pit Pokémon', 'Cascoon Pokémon', 'Dagger Pokémon', 'Rogue Bird Pokémon', 'Purple Lizard Pokémon', 'Poisonle Pokémon', 'Apple N Seed Pokémon', 'Panic Pokémon', 'Lamp Pokémon', 'Smoking Pokémon', 'Old Fowl Pokémon', 'Doubly Bird Pokémon', 'Arm Thrust, Sword Blade, Blade-Care, Shape-Shift', 'Mockingbird Pokémon', 'Tiny Leech Pokémon', 'Sea Cat Pokémon', 'Hairy Heel Pokémon', 'Deep Fry Pokémon', 'Big Pecks Pokémon', 'EleVine Pokémon', 'Bouquet Pokémon', 'Single Star Pokémon', 'Playground Pokémon', 'Kabuki Tree Pokémon', 'Skateboard Pokémon', 'Wind Eater Pokémon', 'Vanilla Pokémon', 'Tentacled Pokémon', 'Classy Pokémon', 'Wild Ant Pokémon', 'Illuminating Pokémon', 'Woodchuck Pokémon', 'Burst Pokémon', 'Box Pokémon', 'EQUally Odd Pokémon', 'Cat Pokémon', 'Conker-Eyeball Pokémon', 'Rogue Pokémon', 'Snarl Pokémon', 'Apples to Tree Pokémon', 'Soft Pod Pokémon', 'Mach Mega Pokémon', 'Mega Fire Pokémon', 'Combo Pokémon', 'Helioptile Pokémon', 'Zen Pokémon', 'Ogre Pokémon', 'Tickle Pokémon', 'Pan Pokémon', 'Iron Tail Pokémon', 'Vanilla Pokémon', 'Grappling Pokémon', 'Dragoon Pokémon', 'Carrion Pokémon', 'Elecore Pokémon', 'Float Ferret Pokémon', 'Bumphead Pokémon', 'Tiny Swallow', 'Classy Pokémon', 'Mothman Pokémon', 'Choking Pokémon', 'Claws Pokémon', 'Snow Sickle Pokémon', 'Sketch Pokémon', 'Jigglypuff Pokémon', 'Hood Monkey Pokémon', 'Strict Pet Pokémon', 'EleRock Pokémon', 'Dark Weave Pokémon', 'Teddi-Pad Pokémon']
+SHAPE - uniques: ['barrier']
+HABITAT - uniques: ['humanoid', 'Water Land']
+TYPES - uniques: ['fairy fairy', 'steel steel', 'rock heavy', 'fighting fire', 'normal walking', 'steel nightmare', 'normal armored', 'fighting-knot', 'steel steel', 'fighting dragon', 'water water', 'fighting dragon', 'ground water', 'rock rock', 'water bird', 'water--', 'poise flying', 'water smart Pokémon', 'pressure', 'electric mud', 'dragon poison', 'grass', 'grass electric', 'dragon psychic', 'water normal', 'grass electric', 'dragon dragon', 'rock rock', 'ghost psychic', 'rockchant', 'water wild', 'ground strange', 'ice poison']
+COLOR - uniques: []

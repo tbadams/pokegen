@@ -1,0 +1,25 @@
+
+Perfect: 116/500 (23.20%)
+Incomplete: 220/500 (44.00%)
+Have Extras: 207/500 (41.40%)
+Contain Garbage: 2/500 (0.40%)
+Missing Values: 436
+Extra Values: 287
+Garbage Values: 2
+NAME: unique: 71/500 (14.20%), valid: 418/500 (83.60%), missing: 19/500 (3.80%), extra: 63/500 (12.60%), 
+CATEGORY: unique: 85/500 (17.00%), valid: 434/500 (86.80%), missing: 40/500 (8.00%), extra: 26/500 (5.20%), 
+TYPES: unique: 14/500 (2.80%), valid: 448/500 (89.60%), missing: 26/500 (5.20%), extra: 26/500 (5.20%), 
+ABILITIES: unique: 106/500 (21.20%), valid: 453/500 (90.60%), missing: 28/500 (5.60%), extra: 19/500 (3.80%), 
+MOVES: unique: 301/500 (60.20%), valid: 429/500 (85.80%), missing: 51/500 (10.20%), extra: 20/500 (4.00%), 
+HEIGHT: unique: 2/500 (0.40%), valid: 451/500 (90.20%), missing: 24/500 (4.80%), extra: 25/500 (5.00%), 
+WEIGHT: unique: 33/500 (6.60%), valid: 415/500 (83.00%), missing: 63/500 (12.60%), extra: 22/500 (4.40%), 
+COLOR: unique: 0/500 (0.00%), valid: 429/500 (85.80%), missing: 69/500 (13.80%), extra: 2/500 (0.40%), 
+SHAPE: unique: 1/500 (0.20%), valid: 439/500 (87.80%), missing: 43/500 (8.60%), extra: 18/500 (3.60%), 
+HABITAT: unique: 0/500 (0.00%), valid: 429/500 (85.80%), missing: 14/500 (2.80%), extra: 57/500 (11.40%), 
+DESCRIPTION: unique: 441/500 (88.20%), valid: 432/500 (86.40%), missing: 59/500 (11.80%), extra: 9/500 (1.80%), 
+NAME - uniques: ['Dudel', 'Citpass', 'Screech', 'Larva', 'Bartlett', 'Gusth', 'Nurturing', 'Larvestra', 'Cobalt', 'Cottonweave', 'Psiomatic', 'Cottonweave', 'Ember', 'Yamquib', 'Grimsne', 'Nidorina', 'Gearra', 'Rugby03', 'Perfume Boss', 'Nidoking', 'Zileena', 'Pogonc1', 'Shedding', 'Eggman', 'Jewel Pokémon', 'Fairy Tale', 'IceCannon', 'Fluffy', 'Lingering Pokémon', 'Sinistea', 'Svenbi', 'Batcave', 'Luxios', 'Sterling', 'Blizzdonk', 'Classical', 'Hex Nut', 'Zatanna', 'Eruption', 'Mushroom', 'Lissome', 'Mysticavia', 'Cottonemongloper', 'Cottonveil', 'CrawDrain', 'Patrat', 'Sawail Pokémon', 'Fossil Pokémon', 'Ironguard', 'Astralcat', 'Leeroyah', 'Stench', 'Ducklett', 'Mukava', 'Cottonweed', 'Graginnon', 'SheerDragon', 'Blip', 'Toxicocat', 'Litlea', 'Bolmagorn', 'Lionel', 'Amarill', 'Ravenna', 'Chiichle', 'Dotodile', 'Head Butt', 'Cherchezep', 'Leafeon', 'Incineroct', 'Skye']
+CATEGORY - uniques: ['20’', 'Sea Cat Pokémon', 'Chespin Pokémon', 'Pig Shape Pokémon', 'Tyrantrum Pokémon', 'Slug Pokémon', 'Lapras Pokémon', 'Ferrothorn Pokémon', 'Bunnel Pokémon', 'Larved Pokémon', 'Chewtle Pokémon', 'Karate Monkey Pokémon', 'Miltank Pokémon', 'Elect Pokémon', 'Chimchar Pokémon', 'Glaceon Pokémon', 'FlyTyphus Pokémon', 'Hairy Fox Pokémon', 'Pyro-Turret Pokémon', 'Humanoid Pokémon', 'Tiny Cat Pokémon', 'Pidgeot Pokémon', 'Long Reach Pokémon', 'Iron Dome Pokémon', 'Teddi-wolf Pokémon', 'Iron Dome Pokémon', 'Nidoran Pokémon', 'Ice Climber Pokémon', 'Hippopotamus Pokémon', 'Kabuki Pokémon', 'Lopunny Pokémon', 'Iron Dome Pokémon', 'Kangaskhan Pokémon', 'Teddiose Pokémon', 'Wild Bird Pokémon', 'Tubing Pokémon', 'Luxury Mouse Pokémon', 'Howl Pokémon', 'Bulk-Umbra Pokémon', 'Cobalion Pokémon', 'Frost Creeper Pokémon', 'Tiny Cat Pokémon', 'Big Cat Pokémon', 'Mummy Pokémon', 'Bastard Pokémon', 'Rock Toe Pokémon', 'Bronze Bronzor Pokémon', 'Young Bird Pokémon', 'Pidgey Pokémon', 'Lopunny Pokémon', 'Scytherapy Pokémon', 'Bastard Pokémon', 'Iron Butt Pokémon', 'Stuff Pokémon', 'Blessing Pokémon', 'Empress Pokémon', 'Bug Pokémon', 'Cinderaceian Pokémon', 'Draft Pokémon', 'Wild Pokémon', 'String Pokémon', 'Bug Pokémon', 'Bomber Pokémon', 'Sky Tree Pokémon', 'Big Bird Pokémon', 'Tornado Pokémon', 'Lapis Pokémon', 'Dewgong Pokémon', 'Apple Pokémon', 'Anorith Pokémon', 'Blip Pokémon', 'Tiny Crab Pokémon', 'War Bird Pokémon', 'Sea Kelp Pokémon', 'Corrosion Pokémon', 'Sea Heel Pokémon', 'Turn Ball Pokémon', 'Heat Wave Pokémon', 'Cotton Tissue Pokémon', 'Lapis Pokémon', 'Bubble Forest Pokémon', 'Spike Pokémon', 'Skyling Pokémon', 'Skyling Pokémon', 'Float Pokémon']
+SHAPE - uniques: ['bug']
+HABITAT - uniques: []
+TYPES - uniques: ['acid', 'humanoid', 'electric', 'rock electric', 'flower', 'poison poison', 'fighting ground', 'steel steel', 'grass grass', 'rock electric', 'steel dark', 'flower', 'electric psychic', 'grass rock']
+COLOR - uniques: []

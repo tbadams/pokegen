@@ -1,0 +1,25 @@
+
+Perfect: 181/501 (36.13%)
+Incomplete: 156/501 (31.14%)
+Have Extras: 177/501 (35.33%)
+Contain Garbage: 1/501 (0.20%)
+Missing Values: 264
+Extra Values: 226
+Garbage Values: 1
+NAME: unique: 39/501 (7.78%), valid: 464/501 (92.61%), missing: 26/501 (5.19%), extra: 11/501 (2.20%), 
+CATEGORY: unique: 53/501 (10.58%), valid: 455/501 (90.82%), missing: 24/501 (4.79%), extra: 22/501 (4.39%), 
+TYPES: unique: 10/501 (2.00%), valid: 467/501 (93.21%), missing: 23/501 (4.59%), extra: 11/501 (2.20%), 
+ABILITIES: unique: 46/501 (9.18%), valid: 456/501 (91.02%), missing: 13/501 (2.59%), extra: 32/501 (6.39%), 
+MOVES: unique: 323/501 (64.47%), valid: 431/501 (86.03%), missing: 35/501 (6.99%), extra: 35/501 (6.99%), 
+HEIGHT: unique: 0/501 (0.00%), valid: 459/501 (91.62%), missing: 26/501 (5.19%), extra: 16/501 (3.19%), 
+WEIGHT: unique: 15/501 (2.99%), valid: 441/501 (88.02%), missing: 53/501 (10.58%), extra: 7/501 (1.40%), 
+COLOR: unique: 1/501 (0.20%), valid: 459/501 (91.62%), missing: 17/501 (3.39%), extra: 25/501 (4.99%), 
+SHAPE: unique: 1/501 (0.20%), valid: 459/501 (91.62%), missing: 28/501 (5.59%), extra: 14/501 (2.79%), 
+HABITAT: unique: 0/501 (0.00%), valid: 450/501 (89.82%), missing: 6/501 (1.20%), extra: 45/501 (8.98%), 
+DESCRIPTION: unique: 488/501 (97.41%), valid: 480/501 (95.81%), missing: 13/501 (2.59%), extra: 8/501 (1.60%), 
+NAME - uniques: ['Greedoom', 'Borbital', 'MERS', 'Sandaros', 'LuringECA', 'Eriados', 'Zacite', 'Bustle', 'Giglin', 'Punching', 'Skrel', 'Greedensei', 'Hei He', 'Lingering Pokémon', 'Ember', 'Fryith', 'Gowethag', 'Aomasqu- e, recycle, mist', 'Chedegast', 'Ruto', 'Eldaquil', 'Mitosis', 'Bubble Jet', 'Aorak', 'Ribomf', 'Mibru>00Mibru>07yellow', 'Seedom', 'Luxie', 'Centipede', 'Totoseover', 'Ember', 'Piponi', 'Nosuprehensive', 'Ribomf', 'Squabbiness', 'Desert Croc', 'Clycove', 'Chewitch', 'Necrozole']
+CATEGORY - uniques: ['Fire Frog Pokémon', 'Blob Pokémon', 'Sea Tyrant Pokémon', 'Pidgeot Pokémon', 'Cloak Pokémon', 'Cure Pokémon', 'Humanoid Pokémon', 'Pigment Pokémon', 'Borb Pokémon', 'Cerebral Pokémon', 'Bravery Pokémon', 'Chingling Pokémon', 'Jumping Pokémon', 'Golett Pokémon', 'Fire Mouse Pokémon', 'White Fox Pokémon', 'Theorem Pokémon', 'Gumshoos Pokémon', 'Carnivine Pokémon', 'Bronze Bronzor Pokémon', 'LATIOS Pokémon', 'Lux Core Pokémon', 'Ruffling Pokémon', 'Misc Module Pokémon', 'Lalite Pokémon', 'Swell Pokémon', 'Berry Pokémon', 'Slime Pokémon', 'Walronda Pokémon', 'Palkia Pokémon', 'Gluttony Pokémon', 'Guzzlord Pokémon', 'Gloomdweller Pokémon', 'Magnet Area Pokémon', 'Cinder Pokémon', 'Sculptor Pokémon', 'Rowlett Croc Pokémon', 'Sere Polkadot Pokémon', 'Guzzlord Pokémon', 'Hermit Pokémon', 'Ogre Centipede Pokémon', 'Pipette Pokémon', 'Hippopotamus Pokémon', 'Single Puff Pokémon', 'Gumshoos Pokémon', 'Ludicoptera Pokémon', 'Tiny Ruffling Pokémon', 'Draekrock Pokémon', 'Gumshoos Pokémon', 'Kommo Pokémon', 'Krook Pokémon', 'Iron Body Pokémon', 'Luxury Pokémon']
+SHAPE - uniques: ['dragonblue']
+HABITAT - uniques: []
+TYPES - uniques: ['fighting steel', 'fantasy flying', 'ice fighting', 'water crossing', 'electric ground', 'dark ground', 'dark ground', 'fighting steel', 'rock cave', 'rock rock']
+COLOR - uniques: ['tusk']

@@ -1,0 +1,25 @@
+
+Perfect: 101/500 (20.20%)
+Incomplete: 256/500 (51.20%)
+Have Extras: 210/500 (42.00%)
+Contain Garbage: 2/500 (0.40%)
+Missing Values: 625
+Extra Values: 294
+Garbage Values: 2
+NAME: unique: 85/500 (17.00%), valid: 419/500 (83.80%), missing: 52/500 (10.40%), extra: 29/500 (5.80%), 
+CATEGORY: unique: 75/500 (15.00%), valid: 410/500 (82.00%), missing: 77/500 (15.40%), extra: 13/500 (2.60%), 
+TYPES: unique: 33/500 (6.60%), valid: 428/500 (85.60%), missing: 42/500 (8.40%), extra: 30/500 (6.00%), 
+ABILITIES: unique: 135/500 (27.00%), valid: 424/500 (84.80%), missing: 49/500 (9.80%), extra: 27/500 (5.40%), 
+MOVES: unique: 365/500 (73.00%), valid: 391/500 (78.20%), missing: 81/500 (16.20%), extra: 28/500 (5.60%), 
+HEIGHT: unique: 5/500 (1.00%), valid: 423/500 (84.60%), missing: 55/500 (11.00%), extra: 22/500 (4.40%), 
+WEIGHT: unique: 48/500 (9.60%), valid: 399/500 (79.80%), missing: 68/500 (13.60%), extra: 33/500 (6.60%), 
+COLOR: unique: 1/500 (0.20%), valid: 413/500 (82.60%), missing: 62/500 (12.40%), extra: 25/500 (5.00%), 
+SHAPE: unique: 1/500 (0.20%), valid: 404/500 (80.80%), missing: 71/500 (14.20%), extra: 25/500 (5.00%), 
+HABITAT: unique: 1/500 (0.20%), valid: 431/500 (86.20%), missing: 29/500 (5.80%), extra: 40/500 (8.00%), 
+DESCRIPTION: unique: 461/500 (92.20%), valid: 439/500 (87.80%), missing: 39/500 (7.80%), extra: 22/500 (4.40%), 
+NAME - uniques: ['Hosung', 'Eleuppat', 'Urbut', 'Kraken', 'Clamsperth', 'Mikno', 'Seald', 'Boneomb', 'Tatuoo', 'Aeros', 'Duranitar', 'Diapered Shark', 'Weiskatan', 'KIRBY', 'Psipling', 'Rakshasa', 'Bomberman', 'Martags', 'Jaw-lee', 'Grapple', 'TorpedoBay', 'Lava-King Pokémon', 'Vegan', 'Princessia', 'Arsecretoss', 'Sirk San', 'Cazzoleon', 'Karem', 'Coal Mini', 'Patrat', 'Yamame', 'Restorant', 'Melftra', 'Lingering', 'Silicianro', 'Pachirisu', 'Littenflap', 'Chick', 'Sew: it stumbles and splashes its guts when facing danger.', 'Beewhisk Pokémon', 'Cherrab', 'Heernrai', 'Jet Airways', 'Deolis CubChange', 'Makume', 'Rolycoat', 'Sawkula', 'Remaxedans', 'Supersonic', 'Blossom', 'Feiwance', 'Duskarl', 'covet', 'Kirby', 'Scalchadon', 'Charjabat', 'Dustedo', 'S-Class', 'Zenetay', 'Amphitfare', 'Thwacklet', 'Itola', 'Tendergrass', 'Wing Chandelure', 'Growl', 'Greedor', 'Legilim', 'Rigantrix', 'Endure', 'Moticon', 'Lomala', 'TIKAR', 'Snmp', 'Beebspace', 'KIRBY', 'Alolan-Raikou', 'Flowerbug', 'LingeringRemorse', 'Protomosa', 'Firecoat', 'Angelsud', 'Lily Roll Pokémon', 'Milcalf', 'Iceberg', 'Larva']
+CATEGORY - uniques: ['Firestorm Pokémon', 'Treecko Pokémon', 'Moth Scorpion Pokémon', 'CroakFish Pokémon', 'Tatuunga Pokémon', 'Blade Prowess Pokémon', 'Rapid Fire Pokémon', 'Appleseed Pokémon', 'Hoopa Pokémon', 'Five Spot Pokémon', 'Jolly Dog Pokémon', 'Vegant Pokémon', 'Poison Cat Pokémon', 'Apple Pokémon', 'Blizzard Pokémon', 'Magnet Monkey Pokémon', 'Blimas Pokémon', 'Kangaroo Pokémon', 'Stereoscopic Shocking Pokémon', 'Lotus Pokémon', 'Octo\xad magnet', 'Spiny Ant Pokémon', 'Bash Mouth Pokémon', 'Monkey Pokémon', 'Copperajah Pokémon', 'Classy Pokémon', 'Uncle Teprain Pokémon', 'Carrion Pokémon', 'Yamask Pokémon', 'Tumpling Pokémon', 'Copper Wing Pokémon', 'Ribombee Pokémon', 'Flyer Pokémon', 'Trash Bloom Pokémon', 'Duels Pokémon', 'Bash Up Pokémon', 'Apple-Barrier Pokémon', 'Bright Bulge Pokémon', 'Fire Ant Pokémon', 'Illusion-Draining Pokémon', 'Resin Pokémon', 'Pride Pokémon', 'Softoun Pokémon', 'Smelly Mary Pokémon', 'Sea Crab Pokémon', 'Scissor Pokémon', 'Chandelure Pokémon', 'Lapras Pokémon', 'Intuition Pokémon', 'Feinting Pokémon', 'Horusi Pokémon', 'Poison Mouse Pokémon', 'Small Bird Pokémon', 'Ogre', 'Black Rose Pokémon', 'Sand Cat Pokémon', 'Luxury Pokémon', 'Rogue Swallow', 'Berry Pokémon', 'Oranguru Pokémon', 'Long Claw Pokémon', 'Honeybee Pokémon', 'Poliwrath Pokémon', 'Cat Monkey Pokémon', 'Ogre Darner', 'Plant Pokémon', 'Gigantic Bug Pokémon', 'Gloomy Pokémon', 'Ogre Pokémon', 'Pony Pokémon', 'Lily Roll Pokémon', 'Kino-Eating Pokémon', 'Blob Pokémon', 'Panther Pokémon', 'Lich']
+SHAPE - uniques: ['own']
+HABITAT - uniques: ['rough-terrestrial']
+TYPES - uniques: ['ice fairy', 'dunnel flying', 'dragon dragon', 'poison grass', 'poison fairy', 'poliwrll fairy', 'ice fairy', 'poison normal', 'fire fairy', 'waters-edge', 'white fairy', 'ice fairy', 'ground normal', 'water metal', 'dark underground', 'rock Pokémon', 'rock legendary', 'veil', 'grass electric', 'bug poison Pokémon', 'bug fish', 'fire grass', 'steel leaf', 'darkness', 'ground fairy', 'ground normal', 'normal ghost', 'white psychic', 'nature fairy', 'feint', 'waterflying', 'fire grass', 'grounddragon']
+COLOR - uniques: ['battle-armor']

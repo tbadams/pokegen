@@ -1,0 +1,25 @@
+
+Perfect: 135/503 (26.84%)
+Incomplete: 246/503 (48.91%)
+Have Extras: 169/503 (33.60%)
+Contain Garbage: 3/503 (0.60%)
+Missing Values: 555
+Extra Values: 203
+Garbage Values: 3
+NAME: unique: 71/503 (14.12%), valid: 446/503 (88.67%), missing: 39/503 (7.75%), extra: 18/503 (3.58%), 
+CATEGORY: unique: 74/503 (14.71%), valid: 447/503 (88.87%), missing: 45/503 (8.95%), extra: 11/503 (2.19%), 
+TYPES: unique: 14/503 (2.78%), valid: 422/503 (83.90%), missing: 67/503 (13.32%), extra: 14/503 (2.78%), 
+ABILITIES: unique: 117/503 (23.26%), valid: 442/503 (87.87%), missing: 43/503 (8.55%), extra: 18/503 (3.58%), 
+MOVES: unique: 386/503 (76.74%), valid: 413/503 (82.11%), missing: 61/503 (12.13%), extra: 29/503 (5.77%), 
+HEIGHT: unique: 4/503 (0.80%), valid: 431/503 (85.69%), missing: 52/503 (10.34%), extra: 20/503 (3.98%), 
+WEIGHT: unique: 39/503 (7.75%), valid: 432/503 (85.88%), missing: 60/503 (11.93%), extra: 11/503 (2.19%), 
+COLOR: unique: 0/503 (0.00%), valid: 437/503 (86.88%), missing: 50/503 (9.94%), extra: 16/503 (3.18%), 
+SHAPE: unique: 4/503 (0.80%), valid: 442/503 (87.87%), missing: 45/503 (8.95%), extra: 16/503 (3.18%), 
+HABITAT: unique: 0/503 (0.00%), valid: 431/503 (85.69%), missing: 31/503 (6.16%), extra: 41/503 (8.15%), 
+DESCRIPTION: unique: 441/503 (87.67%), valid: 432/503 (85.88%), missing: 62/503 (12.33%), extra: 9/503 (1.79%), 
+NAME - uniques: ['Kence', 'Ledyantis', 'Pileom', 'Discharge', 'Metagross Completed in a row.', 'Goople', 'Batkid', 'Pikultan', 'VIP', 'Machops', 'Purplestone', 'Eggmeleon', 'Blapun Palsy', 'Flime', 'Mischief Mouse', 'Larva', 'Grono', 'Sledged', 'Beeonges-i', 'Ncemisia', 'Patrat', 'Lolipena', 'Shinotic', 'Blakink', 'Generectile', 'Kreepzl', 'Beech>0652.0 kg', 'Rundor', 'Dewu', 'outgoing Outastrio', 'Greedede', 'Swifta', 'Muk Rim', 'Suckerlip', 'Dicks Pokémon', 'Earl', 'Boulele', 'Spinybell', 'Lozagont', 'Geneticist', 'Doustpy', 'Barnstorm', 'ESCOja', 'Wuini', 'Nebula', 'Toreor', 'levitate', 'Milotic', 'Big-Train', 'Aomorrah', 'Grapploge', 'Driflau', 'Ecos coronas', 'Meteorlink', 'Pony♀', 'Mackawi', 'Stumpan', 'Eterncitula', 'Galarian', 'Shawnea', 'Sinnerium', 'Emanation', 'REGCom', 'Rainbow Dash', 'Scatterdust', 'Lchartor', 'Douglaston', 'Necrogas', 'itUP', 'Snapoine', 'Ember']
+CATEGORY - uniques: ['Five Spot Pokémon', 'Eurasian Pokémon', 'Compass Pokémon', 'Continent Pokémon', 'Luxury Pokémon', 'Blob Pokémon', 'Bravery Pokémon', 'Ball Star Pokémon', 'Gluttony Pokémon', 'Martial Spirit Pokémon', 'Picky Pokémon', 'Shedding Cow Pokémon', 'Dusk Pokémon', 'Swift Swim Pokémon', 'Scatterbug Pokémon', 'Soybean Pokémon', 'Hitman Pokémon', 'Decay Pokémon', 'Package Pokémon', 'Scraggy Pokémon', 'Curing Pokémon', 'Cuttlefish Pokémon', 'Sea Snake Pokémon', 'Using Pokémon', 'Eelektrik Pokémon', 'Tricky Beard Pokémon', 'Gnashtavern Pokémon', 'Blob Pokémon', 'Pony sight', 'Ice Climber Pokémon', 'Fennekin Pokémon', 'Tiny, Podgoraurus Pokémon', 'Black Pokémon', 'Eerie Pokémon', 'First Pokémon Pokémon', 'Leaf Nut Pokémon', 'Servant Pokémon', 'Crawdaunt Pokémon', 'Punch Pokémon', 'Muscular Pokémon', 'Fire Pokémon', 'Bug Pokémon', 'Humanoid Pokémon', 'Bay Sands Pokémon', 'Single Star Pokémon', 'Barnstorm Pokémon', 'Bio-Animment Pokémon', 'Apples in Bloom', 'Iron Quill Pokémon', 'Spoke Pokémon', 'Cinccino Pokémon', 'Reckless Pokémon', 'Coronal Pokémon', 'Applesamble Pokémon', 'Mum Pokémon', 'Grass Pokémon', 'Tiny Shell Pokémon', 'Armor That Shelmet Itsself', 'Mack Leonardo Pokémon', 'Prototion Pokémon', 'Black Bear Pokémon', 'Foolisher Pokémon', 'Exposure Pokémon', 'OKY', 'Tiny Frog Pokémon', 'Draft Crab Pokémon', 'Bolt Up Pokémon', 'Metall Armor Pokémon', 'Comedian', 'Beehmite Pokémon', 'Pokémon Pokémon', 'Firework Pokémon', 'Coal Armor Pokémon', 'Led Pokémon']
+SHAPE - uniques: ['fighting', 'waters- dare', 'fighting', 'fuselage']
+HABITAT - uniques: []
+TYPES - uniques: ['firefly', 'dancer', 'fireground', 'rock rock', 'bug electrical', 'ice poison', 'dark sadist', 'pressure', 'metal fairy', 'fireground', 'poison Wool Pokémon', 'waterdark', 'water water', 'electric steel']
+COLOR - uniques: []

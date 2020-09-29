@@ -1,0 +1,25 @@
+
+Perfect: 108/506 (21.34%)
+Incomplete: 183/506 (36.17%)
+Have Extras: 269/506 (53.16%)
+Contain Garbage: 6/506 (1.19%)
+Missing Values: 436
+Extra Values: 395
+Garbage Values: 7
+NAME: unique: 73/506 (14.43%), valid: 451/506 (89.13%), missing: 30/506 (5.93%), extra: 25/506 (4.94%), 
+CATEGORY: unique: 69/506 (13.64%), valid: 427/506 (84.39%), missing: 66/506 (13.04%), extra: 13/506 (2.57%), 
+TYPES: unique: 23/506 (4.55%), valid: 422/506 (83.40%), missing: 47/506 (9.29%), extra: 37/506 (7.31%), 
+ABILITIES: unique: 111/506 (21.94%), valid: 437/506 (86.36%), missing: 36/506 (7.11%), extra: 33/506 (6.52%), 
+MOVES: unique: 398/506 (78.66%), valid: 409/506 (80.83%), missing: 47/506 (9.29%), extra: 50/506 (9.88%), 
+HEIGHT: unique: 5/506 (0.99%), valid: 441/506 (87.15%), missing: 28/506 (5.53%), extra: 37/506 (7.31%), 
+WEIGHT: unique: 43/506 (8.50%), valid: 430/506 (84.98%), missing: 45/506 (8.89%), extra: 31/506 (6.13%), 
+COLOR: unique: 2/506 (0.40%), valid: 435/506 (85.97%), missing: 38/506 (7.51%), extra: 33/506 (6.52%), 
+SHAPE: unique: 2/506 (0.40%), valid: 423/506 (83.60%), missing: 38/506 (7.51%), extra: 45/506 (8.89%), 
+HABITAT: unique: 0/506 (0.00%), valid: 417/506 (82.41%), missing: 25/506 (4.94%), extra: 64/506 (12.65%), 
+DESCRIPTION: unique: 470/506 (92.89%), valid: 445/506 (87.94%), missing: 36/506 (7.11%), extra: 25/506 (4.94%), 
+NAME - uniques: ['Mawfalud', 'Machopoong', 'Tempo Changer', 'flamebeast', 'Steelivne', 'Whiskers', 'Ruffine', 'Beehive', 'Murali', 'Warrava', 'Foxaur', 'Floatwell', 'Play Rough', 'Rikogold', 'Druid', 'Gigavalre', 'Mudi-King', 'Dusesil', 'roland', 'Wu\xad flute', 'Hoopa', 'Aurora', 'Nidoran♀’s moveset is entirely the result of evolution. The tangled UB that forms its body begins itselfャギゴ before evolving into its trademark spiked-and-polished foot.', 'Starke', 'Durskit', 'Foxfire', 'Cretakul', 'Lido', 'Compound�', 'Aurora', 'Shadowdance', 'Rookidge', 'Murasim', 'Méjorro', 'Ember', 'Diktatsun', 'Rinda', 'Scyther', 'Cheapier', 'Hepludo', 'Quilgin', 'Bloomheap', 'MASKATTADA', 'Magnross', 'Cottonbarrow', 'Numbip Pokémon', 'Poisony', 'Popeye', 'Lighting Jr.', 'Growl', 'Cloly contestant at Poké Ball', 'Pew Philippines', 'Contrast', 'Mantra', 'Will-O-Wisp', 'Coltiller', 'Pigmentation', 'Turfluki', 'Weaver', 'Magician', 'Ballad of a Toucie having its head cut off.', 'Dustannon', 'Blossom', 'Kartou', 'Aurora', 'Woolreon', 'Fireproofing', 'Bunna', 'Mushroom', 'Ember', 'Beitutz', 'Valiant', 'Aomaschan']
+CATEGORY - uniques: ['Jolly Panda', 'Pig Shape Pokémon', 'Machop Pokémon', 'Mismagical Pokémon', 'Gloomdweller Pokémon', 'Spicy Hot Rollers Pokémon', 'Five Star Radiant Pokémon', 'Iron Head Pokémon', 'Eccl-Control Pokémon', 'Starlight Pokémon', 'Cure Pokémon', 'Sized Pokémon', 'Ariduffic Pokémon', 'Spore Ball Pokémon', 'Rotation Pokémon', 'Toxic Bell Pokémon', 'Tiny Pokémon', 'Tiny Grass Pokémon', 'Cranid Pokémon', 'Falcon Pokémon', 'Brion Pokémon', 'Snow Bear Pokémon', 'Kicking Pokémon', 'Star Pokémon', 'String Quartet Pokémon', 'Spore Ball Pokémon', 'Nose Pokémon', 'Sky Tree Pokémon', 'Durant Pokémon', 'Hermit Pokémon', 'Poltergism Pokémon', 'Fire Pokémon', 'Cobweb Pokémon', 'Thing hand Pokémon', 'Praxis Pokémon', 'Reckless Pokémon', 'Free-Matter Pokémon', 'HorseCarvanha Pokémon', 'Withheld Pokémon', 'Grum Pokémon', 'Black Leg Pokémon', 'Scytherm Pokémon', 'Mummy Pokémon', 'Bomber Pokémon', 'Carnivine Pokémon', 'Wooden Pokémon', 'Snow Gecko Pokémon', 'Dust Pokémon', 'Rayquaza Pokémon', 'Espuge Pokémon', 'Jolt Pokémon', 'Five Star Region Pokémon', 'Mega Mewtwo Pokémon', 'Indeed Drizzle Pokémon', 'Berry Pokémon', 'Clear Snow Pokémon', 'Pitch-Baloo Pokémon', 'Duosion Pokémon', 'Whip Pokémon', 'Pig Tail Pokémon', 'Magical Traveler Pokémon', 'Sharpening Pokémon', 'Mount Pokémon', 'Leafjack Pokémon', 'Couchgoing Pokémon', 'Quail Pokémon', 'Spinarak Pokémon', 'Dragon Eater', 'Fear Pokémon']
+SHAPE - uniques: ['pickup', 'quad']
+HABITAT - uniques: []
+TYPES - uniques: ['fairy fire', 'ground poison', 'fire ice', 'grasschant', 'electric Pokémon', 'water fowl', 'bug flying', 'magma dragon', 'dark ground', 'poison electric', 'rock stealth', 'fighting steel', 'fat bug', 'water bubble', 'poison grass', 'bug wind', 'ground fly', 'dragonling', 'rock rock', 'poison grass', 'fighting steel', 'dark shock, thunder, signal-beam', 'water dangerous']
+COLOR - uniques: ['dark', 'ghost']

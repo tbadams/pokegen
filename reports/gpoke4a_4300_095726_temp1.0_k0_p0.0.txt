@@ -1,0 +1,25 @@
+
+Perfect: 121/505 (23.96%)
+Incomplete: 230/505 (45.54%)
+Have Extras: 209/505 (41.39%)
+Contain Garbage: 3/505 (0.59%)
+Missing Values: 579
+Extra Values: 264
+Garbage Values: 4
+NAME: unique: 69/505 (13.66%), valid: 442/505 (87.52%), missing: 45/505 (8.91%), extra: 18/505 (3.56%), 
+CATEGORY: unique: 68/505 (13.47%), valid: 416/505 (82.38%), missing: 69/505 (13.66%), extra: 20/505 (3.96%), 
+TYPES: unique: 17/505 (3.37%), valid: 439/505 (86.93%), missing: 49/505 (9.70%), extra: 17/505 (3.37%), 
+ABILITIES: unique: 81/505 (16.04%), valid: 440/505 (87.13%), missing: 49/505 (9.70%), extra: 16/505 (3.17%), 
+MOVES: unique: 368/505 (72.87%), valid: 398/505 (78.81%), missing: 78/505 (15.45%), extra: 29/505 (5.74%), 
+HEIGHT: unique: 4/505 (0.79%), valid: 439/505 (86.93%), missing: 53/505 (10.50%), extra: 13/505 (2.57%), 
+WEIGHT: unique: 43/505 (8.51%), valid: 424/505 (83.96%), missing: 60/505 (11.88%), extra: 21/505 (4.16%), 
+COLOR: unique: 1/505 (0.20%), valid: 431/505 (85.35%), missing: 59/505 (11.68%), extra: 15/505 (2.97%), 
+SHAPE: unique: 2/505 (0.40%), valid: 431/505 (85.35%), missing: 39/505 (7.72%), extra: 35/505 (6.93%), 
+HABITAT: unique: 0/505 (0.00%), valid: 415/505 (82.18%), missing: 23/505 (4.55%), extra: 67/505 (13.27%), 
+DESCRIPTION: unique: 450/505 (89.11%), valid: 438/505 (86.73%), missing: 55/505 (10.89%), extra: 12/505 (2.38%), 
+NAME - uniques: ['Pawneye', 'Coltrini', 'Togemar', 'Cotton Bloom', 'Formosa', 'Larva', 'Sothog', 'Fruitdale', 'Cocodile', 'Lingora', 'Ruffiol', 'Hera- por', 'Lupine', 'Rimsurge', 'Pidgeotto', 'Magikarp', 'Lily', 'Baggy', 'Tardencove Pokémon', 'Silicianon', 'Bagsey', 'Vigoroptic', 'Ogre Lead', 'CarefulNotSo', 'Beatrou', 'Torespil', 'Vikaila', 'Mitotic', 'Turchind', 'Megan', 'Bloomheel', 'Gurdyi', 'Chewtlefish', 'Bloomheel', 'Hossuard', 'Venonim', 'Oshawacio', 'Tantrum', 'Larva', 'Triscuna', 'Moses', 'Contran>>', 'Mumphed', 'Playcho', 'Cards Against. Dinoble', 'Octoogast', 'TOPACH', 'Fionaw', 'Long-Handed Pokémon', 'InuYasha', 'Terrakiller', 'Crawdplle', 'Protomosa', 'Teko Gentleman', 'Frosmeng', 'Stockerel', 'Luxair', 'Milbasiago', 'Ewini', 'Des Moines', 'Sedgeow', 'Dwelling Pokémon', 'Snowgast', 'Blethack', 'Purple Marowak', 'Xen>0668.0 kg', 'Rival then gathers up the long hairs on its neck to emit black flames.', 'Protomail', 'Wucento']
+CATEGORY - uniques: ['Escapeis Pokémon', 'Hiberaskho Pokémon', 'Subarachnid Pokémon', 'Many a Pokémon Research and Development Pokémon', 'Fire Pokémon', 'Giant Otter Pokémon', 'Popplio Pokémon', 'Roly-On Pokémon', 'Armored Pokémon', 'Wild East Pokémon', '3 Typhoon Pokémon', 'Classy Bird Pokémon', 'Kart Pokémon', 'Golem Pokémon', 'Valiant Spirit Pokémon', 'Sol Ring Pokémon', 'Pokémon Pokémon', 'Liver Pokémon', 'Piplup Pokémon', 'Stench Pokémon', 'Tiny Lily Pokémon', 'Lucky Mouse Pokémon', 'Gloomdweller Pokémon', 'Five Spot Pokémon', 'Volt Pokémon', 'Sea Elgyem Pokémon', 'Disliking Pokémon', 'DeepSea Pokémon', 'Stun Turtle Pokémon', 'Kubfu Pokémon', 'Bungie Pokémon', 'Caribou Pokémon', 'Cope Pokémon', 'Brutal Hump Pokémon', 'Tiny Handbook', 'Woolly Bird Pokémon', 'Evolutionary Pokémon', 'Poison Mouse Pokémon', 'Eldritch Pokémon', 'Coy-ling Pokémon', 'Royal Pokémon Pokémon', 'Turn Pokémon', 'Wild Pinot Front Pokémon', 'Magma Turtle Pokémon', 'Nose Torpedo Pokémon', 'Browsing Pokémon', 'Play Bird Pokémon', 'Octogast Pokémon', 'Scizor Pokémon', 'Snout Pokémon', 'Dairy Mouse Pokémon', 'Five Horsepower Pokémon', 'Acne Pokémon', 'Alcremie Pokémon', 'Despotian Pokémon', 'Despot Panda Pokémon', 'Dairy Pokémon', 'Ice Ball Pokémon', 'Clamping Pikachu', 'Aqua Turtle Pokémon', 'Sole Voice Pokémon', 'Luxury Pokémon', 'Canty Pokémon', 'Tiny Snow Pokémon', 'Bannon Pokémon', 'Drill Pokémon', 'Very Flyring Pokémon', 'Cosmic Pokémon']
+SHAPE - uniques: ['upada', 'green']
+HABITAT - uniques: []
+TYPES - uniques: ['normal nature', 'fighting steel', 'grass chlorophyll', 'normal bird', 'normal normal', 'rock meteor', 'rock confound', 'ice dragon', 'psychic psychic', 'fighting steel', 'fighting steel', '', 'grass grass', 'bug silk', 'fighting steel', 'fire fairy', 'fighting steel']
+COLOR - uniques: ['magma']

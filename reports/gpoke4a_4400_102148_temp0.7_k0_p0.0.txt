@@ -1,0 +1,25 @@
+
+Perfect: 166/505 (32.87%)
+Incomplete: 137/505 (27.13%)
+Have Extras: 215/505 (42.57%)
+Contain Garbage: 3/505 (0.59%)
+Missing Values: 292
+Extra Values: 298
+Garbage Values: 3
+NAME: unique: 42/505 (8.32%), valid: 446/505 (88.32%), missing: 12/505 (2.38%), extra: 47/505 (9.31%), 
+CATEGORY: unique: 39/505 (7.72%), valid: 464/505 (91.88%), missing: 24/505 (4.75%), extra: 17/505 (3.37%), 
+TYPES: unique: 8/505 (1.58%), valid: 455/505 (90.10%), missing: 29/505 (5.74%), extra: 21/505 (4.16%), 
+ABILITIES: unique: 30/505 (5.94%), valid: 467/505 (92.48%), missing: 22/505 (4.36%), extra: 16/505 (3.17%), 
+MOVES: unique: 346/505 (68.51%), valid: 427/505 (84.55%), missing: 43/505 (8.51%), extra: 35/505 (6.93%), 
+HEIGHT: unique: 1/505 (0.20%), valid: 461/505 (91.29%), missing: 27/505 (5.35%), extra: 17/505 (3.37%), 
+WEIGHT: unique: 18/505 (3.56%), valid: 442/505 (87.52%), missing: 37/505 (7.33%), extra: 26/505 (5.15%), 
+COLOR: unique: 0/505 (0.00%), valid: 459/505 (90.89%), missing: 31/505 (6.14%), extra: 15/505 (2.97%), 
+SHAPE: unique: 0/505 (0.00%), valid: 451/505 (89.31%), missing: 26/505 (5.15%), extra: 28/505 (5.54%), 
+HABITAT: unique: 0/505 (0.00%), valid: 433/505 (85.74%), missing: 12/505 (2.38%), extra: 60/505 (11.88%), 
+DESCRIPTION: unique: 473/505 (93.66%), valid: 460/505 (91.09%), missing: 29/505 (5.74%), extra: 16/505 (3.17%), 
+NAME - uniques: ['Wily', 'Lingering Pokémon', 'Tsunade', 'Strong Arm', 'Gnashtu', 'Constraint', 'Chewtlefish', 'Shellosaur', 'D2ON', 'Papertit', 'Dodrio in charge', 'Meringue', 'Meteor', 'Littinglow', 'LilyPad', 'Buglé', 'Goleon', 'Nectarina', 'Loyal', 'Sapphire', 'Ironguard', 'Scald', 'Mushroom', 'Loloone', 'Lingeringine', 'Scatterbug', 'Turtle Bay', 'Spinyrene', 'Meteorctrl', 'Gardenhug', 'Grimmsn', 'Catty', 'Arid Leaf Pokémon', 'Chednitzer', 'Swadloonz', 'Iceberg', 'Kricketrain', 'Revivi', 'Silvally Mozang', 'Electivire', 'Furpuff', 'Eon Pokémon']
+CATEGORY - uniques: ['Elect Pokémon', 'Magma Pokémon', 'Hippopotas Pokémon', 'Pikachu Pokémon', 'Scyther Pokémon', 'Gastronome Pokémon', 'Brutal Pokémon', 'Wild Gland Pokémon', 'Cure Pokémon', 'Quagmire Pokémon', 'White Pokémon', 'Lily Pokémon', 'Abnormal Pokémon', 'Swarm Pokémon', 'Ivan Pokémon', 'Sapphire Pokémon', 'Karate Kid Pokémon', 'Loloon Pokémon', 'Score Pokémon', 'Spore Ball Pokémon', 'Wild Pinna Pokémon', 'Fireworks', 'Cotton Cuff Pokémon', 'Bronze Rollers Pokémon', 'Gloomdweller Pokémon', 'Chinching Pokémon', 'Individual Pokémon', 'Slow Pokémon', 'Mummy Pokémon', 'Aggregate Pokémon', 'Swimmer Pokémon', 'Revive Pokémon', 'Illusion- stage Pokémon', 'Hip-Hop Pokémon', 'First Heredity Pokémon', 'Blast Bee Pokémon', 'Mummy Pokémon', 'Dredge Pokémon', 'Poison Pinoy Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['ice fighting', 'steel leaf', 'rock fog', 'poison grass', 'ice grass', 'electric fire', 'electric ground', 'rock lightning']
+COLOR - uniques: []

@@ -1,0 +1,25 @@
+
+Perfect: 172/501 (34.33%)
+Incomplete: 143/501 (28.54%)
+Have Extras: 204/501 (40.72%)
+Contain Garbage: 1/501 (0.20%)
+Missing Values: 261
+Extra Values: 264
+Garbage Values: 1
+NAME: unique: 50/501 (9.98%), valid: 461/501 (92.02%), missing: 11/501 (2.20%), extra: 29/501 (5.79%), 
+CATEGORY: unique: 55/501 (10.98%), valid: 471/501 (94.01%), missing: 21/501 (4.19%), extra: 9/501 (1.80%), 
+TYPES: unique: 4/501 (0.80%), valid: 449/501 (89.62%), missing: 29/501 (5.79%), extra: 23/501 (4.59%), 
+ABILITIES: unique: 52/501 (10.38%), valid: 455/501 (90.82%), missing: 14/501 (2.79%), extra: 32/501 (6.39%), 
+MOVES: unique: 353/501 (70.46%), valid: 427/501 (85.23%), missing: 15/501 (2.99%), extra: 59/501 (11.78%), 
+HEIGHT: unique: 1/501 (0.20%), valid: 460/501 (91.82%), missing: 28/501 (5.59%), extra: 13/501 (2.59%), 
+WEIGHT: unique: 31/501 (6.19%), valid: 462/501 (92.22%), missing: 32/501 (6.39%), extra: 7/501 (1.40%), 
+COLOR: unique: 0/501 (0.00%), valid: 454/501 (90.62%), missing: 21/501 (4.19%), extra: 26/501 (5.19%), 
+SHAPE: unique: 1/501 (0.20%), valid: 442/501 (88.22%), missing: 21/501 (4.19%), extra: 38/501 (7.58%), 
+HABITAT: unique: 1/501 (0.20%), valid: 461/501 (92.02%), missing: 14/501 (2.79%), extra: 26/501 (5.19%), 
+DESCRIPTION: unique: 446/501 (89.02%), valid: 444/501 (88.62%), missing: 55/501 (10.98%), extra: 2/501 (0.40%), 
+NAME - uniques: ['Eon Pokémon', 'Nidorina', 'Earl', 'Skyguard', 'Ember', 'Krokorok', 'Numbiose', 'levitate', 'Foxy', 'Poison Pumpch', 'Teddi-Maria', 'Lingrap', 'CottonEME', 'Cocoon', 'Eaglet', 'Tsundere', 'Vanilluxe', 'Silvallyun', 'Blacephalos', 'Eggling', 'Creeke', 'BubbleJelly', 'Scalyudola', 'Gearrath', 'Megahorn', 'Poltoul', 'Ice-ion', 'Kolo-Claw', 'Eggling', 'TurtleKing', 'Ascalon', 'Milacast', 'Alola', 'Lingering Pokémon', 'Mespru', 'Pondot', 'Sawail', 'Fox', 'Lilith', 'Possum', 'Chewtlefish', 'Revivi', 'Cottonowdon', 'No-Majesty', 'Arctovys', 'Tegodon', 'Pugilist', 'Meringue', 'Eldrazi', 'Lingering Pokémon']
+CATEGORY - uniques: ['Smoothie Pokémon', 'Tiny Swallow', 'Poison Pail Pokémon', 'Chandelure Pokémon', 'Pond Skweihander Pokémon', 'Hermit Pokémon', 'Expo Pokémon', 'Volt Pokémon', 'Kneel Pokémon', 'Frost Moth', 'Toilet Pokémon', 'Loyal Duck Pokémon', 'Honeybadge Pokémon', 'Mega Beast Pokémon', 'Galvanizing Pokémon', 'Tiny and Vixen Pokémon', 'Blast Creerow Pokémon', 'Taillight Pokémon', 'Cosmic Pokémon', 'Lion King Pokémon', 'Bash Mouth Pokémon', 'Furisode Pokémon', 'Hoopa Pokémon', 'Gloomdweller Pokémon', 'Iron Tail Pokémon', 'Machuapoint Pokémon', 'Sickle Moth Pokémon', 'Megamune Pokémon', 'Tricky Carver', 'Lapras Pokémon', 'Vast Black Hole Pokémon', 'Cosmo- game Pokémon', 'Honeycomb Pokémon', 'Swimming Pokémon', 'Greed Pokémon', 'Zarsterville Pokémon', 'Moon Pokémon', 'Armored Pokémon', 'Caterpie Pokémon', 'Cinder Pokémon', 'Volt Pokémon', 'Classy Bird Pokémon', 'Star Pokémon', 'Fishermen Pokémon', 'Mummy Pokémon', 'Tiny Swallow', 'Pigeon Pokémon', 'Tropius Pokémon', 'Chinch Pokémon', 'Wing Pokémon', 'Pikachu Pokémon', 'Disliking Pokémon', 'Paddle Pokémon', 'Growl Pokémon', 'Fennekin Pokémon']
+SHAPE - uniques: ['humanoid']
+HABITAT - uniques: ['Wind Chime']
+TYPES - uniques: ['dragon steel', 'rock ghost', 'fighting steel', 'ghost ghost']
+COLOR - uniques: []

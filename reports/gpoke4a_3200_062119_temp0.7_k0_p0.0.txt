@@ -1,0 +1,25 @@
+
+Perfect: 179/513 (34.89%)
+Incomplete: 222/513 (43.27%)
+Have Extras: 122/513 (23.78%)
+Contain Garbage: 12/513 (2.34%)
+Missing Values: 468
+Extra Values: 163
+Garbage Values: 12
+NAME: unique: 37/513 (7.21%), valid: 475/513 (92.59%), missing: 25/513 (4.87%), extra: 13/513 (2.53%), 
+CATEGORY: unique: 44/513 (8.58%), valid: 467/513 (91.03%), missing: 35/513 (6.82%), extra: 11/513 (2.14%), 
+TYPES: unique: 10/513 (1.95%), valid: 462/513 (90.06%), missing: 36/513 (7.02%), extra: 15/513 (2.92%), 
+ABILITIES: unique: 44/513 (8.58%), valid: 454/513 (88.50%), missing: 35/513 (6.82%), extra: 24/513 (4.68%), 
+MOVES: unique: 348/513 (67.84%), valid: 437/513 (85.19%), missing: 53/513 (10.33%), extra: 23/513 (4.48%), 
+HEIGHT: unique: 2/513 (0.39%), valid: 450/513 (87.72%), missing: 41/513 (7.99%), extra: 22/513 (4.29%), 
+WEIGHT: unique: 18/513 (3.51%), valid: 433/513 (84.41%), missing: 76/513 (14.81%), extra: 4/513 (0.78%), 
+COLOR: unique: 0/513 (0.00%), valid: 450/513 (87.72%), missing: 43/513 (8.38%), extra: 20/513 (3.90%), 
+SHAPE: unique: 0/513 (0.00%), valid: 455/513 (88.69%), missing: 51/513 (9.94%), extra: 7/513 (1.36%), 
+HABITAT: unique: 0/513 (0.00%), valid: 454/513 (88.50%), missing: 53/513 (10.33%), extra: 6/513 (1.17%), 
+DESCRIPTION: unique: 493/513 (96.10%), valid: 475/513 (92.59%), missing: 20/513 (3.90%), extra: 18/513 (3.51%), 
+NAME - uniques: ['Eidola', 'Cotton-n-Sheen Pokémon', 'Lilith', 'Wool', 'Blipipede', 'CameoRock', 'Lurker', 'Ice-type', 'Lingering Pokémon', 'Twineedine', 'Sizemio', 'Muk: Bagworm', 'Suckerburn', 'Tinyguard', 'Gigantamax', 'Larva', 'Cottonweave', 'Sunne', 'Zenee', 'Ruffula', 'Starbly', 'Weatherlight', 'Shedding', 'Vineuge', 'Cottonveil', 'Wolfite', 'Bubblegum', 'Mareem', 'TursuringO', 'Astral-Sit', 'Scalar', 'Blacksheep', 'Lingering Pokémon', 'Moonlight', 'Eleckspat', 'Mime Jr.: what appears to be a woolen hat appears to be a rather large Pokémon.', 'Mushroom']
+CATEGORY - uniques: ['Lilith Pokémon', 'Luxio Pokémon', 'Swell Pokémon', 'Fly In Bird Pokémon', 'Wing Pokémon', 'Frost Pokémon', 'Hermit Pokémon', 'Despot Snake Pokémon', 'Azurill Pokémon', 'Beedrill Pokémon', 'Houndour Pokémon', 'Tiny Swimming Pokémon', 'Gumshoe Pokémon', 'Poison Monkey Pokémon', 'Growl Pokémon', 'Pikachu Pokémon', 'Sandcaste Pokémon', 'Pig Tail Pokémon', 'Pikipede Pokémon', 'Loudred Pokémon', 'Magnemite Pokémon', 'Fly Pokémon', 'Tiny Pincer Pokémon', 'Copperderm Witchcraft Pokémon', 'Larveston Pokémon', 'Bin Pokémon', 'Pig Wool Pokémon', 'Pidgeotto Pokémon', 'Poison Mouse Pokémon', 'Zigzag', 'Skate Pokémon', 'Plant Pokémon', 'Herb Pouch Pokémon', 'Scalar Pokémon', 'Bat Poison Pokémon', 'Druddigon Pokémon', 'Melt Pokémon', 'Pikachu Pokémon', 'Cottonee Pokémon', 'Black Cat Pokémon', 'Rockruff Pokémon', 'Single Leg Pokémon', 'Snow Bear Pokémon', 'Pineco Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['fighting steel', 'dragon poison', 'bull', 'fire poison', 'psychic psychic', 'fighting steel', 'normal rock', 'normal mountain', 'fighting steel', 'nature fairy']
+COLOR - uniques: []

@@ -1,0 +1,25 @@
+
+Perfect: 129/504 (25.60%)
+Incomplete: 288/504 (57.14%)
+Have Extras: 151/504 (29.96%)
+Contain Garbage: 9/504 (1.79%)
+Missing Values: 672
+Extra Values: 192
+Garbage Values: 10
+NAME: unique: 66/504 (13.10%), valid: 455/504 (90.28%), missing: 30/504 (5.95%), extra: 19/504 (3.77%), 
+CATEGORY: unique: 74/504 (14.68%), valid: 426/504 (84.52%), missing: 70/504 (13.89%), extra: 8/504 (1.59%), 
+TYPES: unique: 26/504 (5.16%), valid: 427/504 (84.72%), missing: 54/504 (10.71%), extra: 23/504 (4.56%), 
+ABILITIES: unique: 116/504 (23.02%), valid: 444/504 (88.10%), missing: 44/504 (8.73%), extra: 16/504 (3.17%), 
+MOVES: unique: 370/504 (73.41%), valid: 410/504 (81.35%), missing: 66/504 (13.10%), extra: 28/504 (5.56%), 
+HEIGHT: unique: 3/504 (0.60%), valid: 438/504 (86.90%), missing: 57/504 (11.31%), extra: 9/504 (1.79%), 
+WEIGHT: unique: 49/504 (9.72%), valid: 393/504 (77.98%), missing: 86/504 (17.06%), extra: 25/504 (4.96%), 
+COLOR: unique: 0/504 (0.00%), valid: 424/504 (84.13%), missing: 72/504 (14.29%), extra: 8/504 (1.59%), 
+SHAPE: unique: 5/504 (0.99%), valid: 421/504 (83.53%), missing: 68/504 (13.49%), extra: 15/504 (2.98%), 
+HABITAT: unique: 1/504 (0.20%), valid: 426/504 (84.52%), missing: 48/504 (9.52%), extra: 30/504 (5.95%), 
+DESCRIPTION: unique: 427/504 (84.72%), valid: 416/504 (82.54%), missing: 77/504 (15.28%), extra: 11/504 (2.18%), 
+NAME - uniques: ['Amiibos', 'Chewitz', 'Bounceful', 'Toure', 'Taunt', 'Cursé', 'Gloomdance', 'Cretaceon', 'Larva', 'Devyr', 'Zarideko', 'Careful!.', 'Princess Kalamazov', 'MOUSE', 'Yamame-no-Kazutou', 'Woolrat', 'Pummy Fay', 'Tigrain', 'Beetle', 'Asolyzeda', 'Mitosis', 'LuckyWeed', 'Swabian', 'Lily', 'Klerk', 'Ewini', 'Gudnoy', 'Eiwaki', 'Bunchanse', 'Troublemaker', 'Skrel', 'Mushroom', 'Furywool', 'Shedding Mouse', 'Milkuck', 'Twister', 'Electrify', 'Rutomonc', 'Barlet', 'Paxed', 'IMPACT', 'Martalung', 'BalloonJy', 'Iron Armor', 'Cherenco orrius', 'Galhairs', 'Bloomheap', 'Sapienthal', 'Vikmar', 'Barnacabra', 'Searedon', 'KIRBY', 'Klink, Syndra', 'Magearma', 'Feiwance', 'Seedcunt', "Drain istg:'", 'Luo Feng', 'Neeb', 'Brutus', 'Fossil Pokémon', '', 'Scorpit', 'Greedhunk', 'Furkrow', 'Scalyx']
+CATEGORY - uniques: ['Float Pokémon', 'Amoonguss Pokémon', 'Taunt Pokémon', 'Smelly Duck Pokémon', 'Leap Frog Pokémon', 'Gloomdance Pokémon', 'Float Sword Pokémon', 'Stunned Pokémon', 'Cunning Pokémon', 'Frog Bird Pokémon', 'Beedrill Pokémon', 'Honedge Pokémon', 'Pikachu Pokémon', 'Clear Mouth Pokémon', 'Bronze Sword Pokémon', 'Spiny Pokémon', 'Pincers Pokémon', 'Rogue Snake Pokémon', 'Prison Pokémon', 'Azalea Pokémon', 'Wood Chimp Pokémon', 'Curing Pokémon', 'Tiger Shark Pokémon', 'Copper Wing Pokémon', 'Plant Pokémon', 'Rain Pokémon', 'Flail Pokémon', 'Pidgeot Pokémon', 'TinyFang Pokémon', 'Pikipede Pokémon', 'Water Bag Pokémon', 'Strong Mega Band Pokémon', 'Relaxed Pokémon', 'Infinite Shrike', 'Clear Mouth Pokémon', 'Bug Pokémon', 'Vast Pokémon Center Pokémon', 'Curing Pokémon', 'Carrion Pokémon', 'Black Cat Pokémon', 'Coal Illusion Pokémon', 'Buzzing Pokémon', 'Blitze Pokémon', 'Arrow Weave Pokémon', 'Each-Inch Pokémon', 'Prankster Pokémon', 'Black Cat Pokémon', 'Swing Pokémon', 'Thunderrod Pokémon', 'Mummy Pokémon', 'Iron Dome Pokémon', 'Scorb Pokémon', 'Goldbug Pokémon', 'Masonic Pokémon', 'Laziness Pokémon', 'Skarm Pokémon', 'Intimidate Pokémon', 'Season Tree Pokémon', 'Flapping Pokémon', 'Wood Chimp Pokémon', 'Smash Rabbit Pokémon', 'Anteater Pokémon', 'Wood Moth Pokémon', 'Vanquish Pokémon', 'Brutal Grip Pokémon', 'Muscular Tree Pokémon', 'First Heir Pokémon', 'Wood Pigeon Pokémon', 'Astral Council Pokémon', 'Royal Bird Pokémon', 'Scizor Pokémon', 'Two-Fisted Pokémon', 'Wild Pupitar', 'Light Bulb Pokémon']
+SHAPE - uniques: ['outlet', 'fighting', 'battery', 'headbutt', 'aerial']
+HABITAT - uniques: ['Woodpecker']
+TYPES - uniques: ['normal living', 'ground iron', 'grass', 'fighting fighting', 'steel nemesis', 'metal steel', 'ground ice', 'ghost psychic', 'rock rock', 'fighting ground', 'psychic poison', 'firefighting', 'water poisonous', '750.0 kg', 'normal fire', 'fighting garbage', 'electric psychic', '', 'fighting steel', 'ghost power', 'magician', 'normal dark', 'fairy psychic', 'flying electric', 'grass acidic', 'ice electric']
+COLOR - uniques: []

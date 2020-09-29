@@ -1,0 +1,25 @@
+
+Perfect: 149/500 (29.80%)
+Incomplete: 139/500 (27.80%)
+Have Extras: 232/500 (46.40%)
+Contain Garbage: 0/500 (0.00%)
+Missing Values: 289
+Extra Values: 353
+Garbage Values: 0
+NAME: unique: 51/500 (10.20%), valid: 394/500 (78.80%), missing: 13/500 (2.60%), extra: 93/500 (18.60%), 
+CATEGORY: unique: 72/500 (14.40%), valid: 451/500 (90.20%), missing: 24/500 (4.80%), extra: 25/500 (5.00%), 
+TYPES: unique: 13/500 (2.60%), valid: 442/500 (88.40%), missing: 25/500 (5.00%), extra: 33/500 (6.60%), 
+ABILITIES: unique: 87/500 (17.40%), valid: 455/500 (91.00%), missing: 25/500 (5.00%), extra: 20/500 (4.00%), 
+MOVES: unique: 341/500 (68.20%), valid: 428/500 (85.60%), missing: 30/500 (6.00%), extra: 42/500 (8.40%), 
+HEIGHT: unique: 1/500 (0.20%), valid: 446/500 (89.20%), missing: 37/500 (7.40%), extra: 17/500 (3.40%), 
+WEIGHT: unique: 26/500 (5.20%), valid: 438/500 (87.60%), missing: 40/500 (8.00%), extra: 22/500 (4.40%), 
+COLOR: unique: 1/500 (0.20%), valid: 446/500 (89.20%), missing: 28/500 (5.60%), extra: 26/500 (5.20%), 
+SHAPE: unique: 1/500 (0.20%), valid: 448/500 (89.60%), missing: 33/500 (6.60%), extra: 19/500 (3.80%), 
+HABITAT: unique: 0/500 (0.00%), valid: 445/500 (89.00%), missing: 18/500 (3.60%), extra: 37/500 (7.40%), 
+DESCRIPTION: unique: 484/500 (96.80%), valid: 465/500 (93.00%), missing: 16/500 (3.20%), extra: 19/500 (3.80%), 
+NAME - uniques: ['Ekurem', 'Atomotops', 'Mushroom', 'Twiggan', 'Cottonweave', 'HapMap', 'Lion Cub', 'Foxaur', 'Auditista', 'Windrai', 'Cereolus', 'Nidorina', 'Grizzile', 'Guts', 'Poltik', 'Blipu', 'Yamagik', 'Cricketot', 'Whiscash', 'TurtleKing', 'Nidorina', 'Gearhard', 'Cute-Charm', 'Mimicking Pokémon', 'Cottonbarrow', 'Woodpecker', 'Tadpole', 'Aurora', 'Lingering Pokémon', 'Puffil', 'Polka Dot', 'Urshifet', 'Blazing', 'Cocoon', 'Hagamoroth', 'Windip', 'Melteleon', 'Pig Ultra Beast', 'Lingering [&beast-searcher', 'Scorpion', 'Aikido', 'Blade Razzi', 'Magician Mouse', 'Orecabe', 'Puppy', 'Giblet', 'Boneomb', 'Batchelor', 'Antelence', 'Grumpigruel', 'Steamroller']
+CATEGORY - uniques: ['Oblivion Pokémon', 'Apple Heel Pokémon', 'High-Frequency Pokémon', 'Plump Pokémon', 'Bunnel Pokémon', 'Magnet Wave Pokémon', 'Wild Fox Pokémon', 'Dreepy Pokémon', 'Chingling Pokémon', 'Leaf Nut Pokémon', 'Vivillon Pokémon', 'Spheal Pokémon', 'Generator Pokémon.', 'Flutter Pokémon', 'Chespin Pokémon', 'Gluttony Pokémon', 'Dredge Pokémon', 'Armored Pokémon', 'Albatross Pokémon', 'Sea Otter Pokémon', 'Mega Ring Pokémon', 'Avalanche Pokémon', 'Turn Ball Pokémon', 'Dust Pokémon', 'Spiky Beetle Pokémon', 'Solo Pokémon', 'Lapis Pokémon', 'Nidorino Pokémon', 'Tough Claws Pokémon', 'Tiny Cat Pokémon', 'Tears In The Spot Pokémon', 'Copper Wing Pokémon', 'Skater Pokémon', 'Human Pokémon', 'Good Pokémon', 'Megamune Pokémon', 'Bud Pile Pokémon', 'Berry Pokémon', 'Fly Bag Pokémon', 'Mimicking Pokémon', 'Solo Voice Pokémon', 'Bolt Pokémon', 'Hippopotamus Pokémon', 'Eating Pokémon', 'Poochyena Pokémon', 'Growl Pokémon', 'Tiny Tree Pokémon', 'Mummy Pokémon', 'Tiny Chinchilla Pokémon', 'Fire Pokémon', 'Loudred Pokémon', 'Pidgeotto Pokémon', 'Luxian Pokémon', 'Cows’ Pokémon', 'Milk Pokémon', 'Bulkadon Pokémon', 'Quiver Pokémon', 'Ogre Pokémon', 'Cotton Mite Pokémon', 'Plant Pokémon', 'Live Pokémon', 'Tiny Pokémon', 'Blade Razzi Pokémon', 'Pig Tail Pokémon', 'Sea Land Pokémon', 'Tiny Pokémon', 'Gluttony Pokémon', 'Bug Pokémon', 'Bug Pokémon', 'SnorLightning Pokémon', 'Iron Heel Pokémon', 'Aqua Bird Pokémon']
+SHAPE - uniques: ['bug']
+HABITAT - uniques: []
+TYPES - uniques: ['rock electric', 'water water', 'ice bug fighting', 'rock electric', 'ground electric', 'dragon grass', 'rock rock', 'normal poison', 'ice fairy', 'rock lightning', 'ground ground', 'ghost steel', 'brave']
+COLOR - uniques: ['dragon']

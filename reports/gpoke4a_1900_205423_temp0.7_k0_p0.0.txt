@@ -1,0 +1,25 @@
+
+Perfect: 124/500 (24.80%)
+Incomplete: 217/500 (43.40%)
+Have Extras: 206/500 (41.20%)
+Contain Garbage: 0/500 (0.00%)
+Missing Values: 403
+Extra Values: 298
+Garbage Values: 0
+NAME: unique: 68/500 (13.60%), valid: 385/500 (77.00%), missing: 10/500 (2.00%), extra: 105/500 (21.00%), 
+CATEGORY: unique: 111/500 (22.20%), valid: 440/500 (88.00%), missing: 33/500 (6.60%), extra: 27/500 (5.40%), 
+TYPES: unique: 11/500 (2.20%), valid: 453/500 (90.60%), missing: 18/500 (3.60%), extra: 29/500 (5.80%), 
+ABILITIES: unique: 110/500 (22.00%), valid: 468/500 (93.60%), missing: 20/500 (4.00%), extra: 12/500 (2.40%), 
+MOVES: unique: 290/500 (58.00%), valid: 418/500 (83.60%), missing: 49/500 (9.80%), extra: 33/500 (6.60%), 
+HEIGHT: unique: 1/500 (0.20%), valid: 456/500 (91.20%), missing: 34/500 (6.80%), extra: 10/500 (2.00%), 
+WEIGHT: unique: 25/500 (5.00%), valid: 401/500 (80.20%), missing: 81/500 (16.20%), extra: 18/500 (3.60%), 
+COLOR: unique: 0/500 (0.00%), valid: 442/500 (88.40%), missing: 56/500 (11.20%), extra: 2/500 (0.40%), 
+SHAPE: unique: 0/500 (0.00%), valid: 437/500 (87.40%), missing: 43/500 (8.60%), extra: 20/500 (4.00%), 
+HABITAT: unique: 0/500 (0.00%), valid: 446/500 (89.20%), missing: 17/500 (3.40%), extra: 37/500 (7.40%), 
+DESCRIPTION: unique: 458/500 (91.60%), valid: 453/500 (90.60%), missing: 42/500 (8.40%), extra: 5/500 (1.00%), 
+NAME - uniques: ['Flashan', 'ScatterPunch', 'Honchkuk', 'Ravenit', 'Parasite', 'Cocoon', 'Nebula', 'Placid', 'Turner', 'Greedor', 'Heering', 'Hagaland', 'Fruit Ball', 'Poo========', 'Vigoror', 'Foxfire', 'Mr. Moxie', 'Tinybrick', 'Luring', 'Bunchan', 'HALOOMO', 'Volcano', 'Zenee', 'Gucannon', 'Desert Croc', 'Zarupu', 'Caterpek', 'Memento', 'DeepSeaGod', 'Snowmobul', 'Poisonedog', 'Cracoon', 'Longevity', 'Citrochy', 'Despina', 'Komala', 'Beehive', 'Snorling', 'Antelopes', 'Bulby', 'Swinglett', 'Eggmeister', 'Cottonweave', 'Brenna', 'Fox', 'Desert Croc', 'Crestedon', 'Lavaox', 'Fagan', 'Evolution', 'Bulkuck', 'Linoone', 'Numbip', 'Etrigon', 'Gabitek', 'Coffin', 'Cottonweed', 'Eggmeister', 'Mushroom', 'Clawdol', 'Liluv-El', 'Perrserket', 'Swingie', 'Willows', 'Cottonweed', 'Suckerallah', 'Megahorn', 'Duck']
+CATEGORY - uniques: ['Pidgeot Pokémon', 'Tiny Pokémon', 'Classy Pokémon', 'Aqua Gun Pokémon', 'Pikipede Pokémon', 'Mantisweb Pokémon', 'Cosmo-Dog Pokémon', 'Iron Will', 'Arrow Pokémon', 'Slim Wave Pokémon', 'Snow Pokémon', 'Cradle Pokémon', 'Woolly Pokémon', 'Oranguru Pokémon', 'Tiny Pokémon', 'Rock Crab Pokémon', 'Lurker Pokémon', 'Fire Pokémon', 'Sea-Tac toad', 'Pecan Pokémon', 'Pond Skater', 'Ogre Pokémon', 'Kart Pokémon', 'Powdered Pokémon', 'Rampart Pokémon', 'Bug Pokémon', 'Aqua Pokémon', 'Fly Pokémon', 'Tiny Pokémon', 'Pigeon Pokémon', 'Copper Wing Pokémon', 'Pidgey Pokémon', 'Fire Fly Pokémon', 'Mummy Pokémon', 'Seadra Pokémon', 'Bunchanter Pokémon', 'Hermit Moth Pokémon', 'Cup Pokémon', 'Latter-Day Pokémon', 'Copperdermite Pokémon', 'Zenee Pokémon', 'Chinchomp Pokémon', 'Fluttering Pokémon', 'Scyther Pokémon', 'Fang Joust Pokémon', 'Apple Pokémon', 'Poppling Pokémon', 'Nidoran Pokémon', 'Ogre Touch Pokémon', 'Goth Pokémon', 'Chesnook Pokémon', 'Leaf-Lung Pokémon', 'Cat Pokémon', 'Grasswing Pokémon', 'Aqua Bird Pokémon', 'Blackbird Pokémon', 'If Only You Were There', 'Bastard Pokémon', 'Crust Pokémon', 'Pigeon Pokémon', 'Wind Pokémon', 'Snor-Clap Pokémon', 'Princess Pokémon', 'Snorkeling Pokémon', 'Ogre Pokémon', 'Kabuki Pokémon', 'Cinccino Pokémon', 'Mare Pokémon', 'Gumshoos Pokémon', 'Turn Pin Pokémon', 'Caterpie Pokémon', 'Throh Pokémon', 'Dodging Pokémon', 'Chew Palms Pokémon', 'Lanturn Pokémon', 'First Heir Pokémon', 'Scissor Pokémon', 'Spit Pokémon', 'Superior Pokémon', 'Wild Bear Pokémon', 'Water Horse Pokémon', 'Dressed Pokémon', 'Octopode Pokémon', 'Snorlax Pokémon', 'Blessing Pokémon', 'Metapod Pokémon', 'Bug Pokémon', 'Monopoly Star', 'Squirrel Pokémon', 'Blizzard Pokémon', 'Hoopa Pokémon', 'Copper Wing Pokémon', 'Tiny Rook Pokémon', 'Apple Heel Pokémon', 'Lopunny Pokémon', 'Claw Lizard Pokémon', 'Ogre Pokémon', 'Stereopsis Pokémon', 'Cotton Bug Skin Pokémon', 'Spiny-Leaf Pokémon', 'String Pokémon', 'Blob Pokémon', 'Striker Pokémon', 'Willow Pokémon', 'Tropical Pokémon', 'Single Pokémon', 'Brutal Thrust Pokémon', 'Hedge-Leaf Pokémon', 'Scentless Pokémon', 'Magician Pokémon', 'Bulletproof Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['battle-armor', 'dark', 'grass electric', 'flying bug', 'steel steel', 'dark dark', 'water wings', 'steel steel', 'fighting rock', 'rock rock', 'flying normal']
+COLOR - uniques: []

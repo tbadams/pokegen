@@ -1,0 +1,25 @@
+
+Perfect: 121/504 (24.01%)
+Incomplete: 248/504 (49.21%)
+Have Extras: 190/504 (37.70%)
+Contain Garbage: 4/504 (0.79%)
+Missing Values: 629
+Extra Values: 252
+Garbage Values: 4
+NAME: unique: 80/504 (15.87%), valid: 442/504 (87.70%), missing: 36/504 (7.14%), extra: 26/504 (5.16%), 
+CATEGORY: unique: 82/504 (16.27%), valid: 432/504 (85.71%), missing: 63/504 (12.50%), extra: 9/504 (1.79%), 
+TYPES: unique: 22/504 (4.37%), valid: 424/504 (84.13%), missing: 61/504 (12.10%), extra: 19/504 (3.77%), 
+ABILITIES: unique: 133/504 (26.39%), valid: 429/504 (85.12%), missing: 53/504 (10.52%), extra: 22/504 (4.37%), 
+MOVES: unique: 399/504 (79.17%), valid: 388/504 (76.98%), missing: 67/504 (13.29%), extra: 49/504 (9.72%), 
+HEIGHT: unique: 5/504 (0.99%), valid: 442/504 (87.70%), missing: 44/504 (8.73%), extra: 18/504 (3.57%), 
+WEIGHT: unique: 52/504 (10.32%), valid: 415/504 (82.34%), missing: 72/504 (14.29%), extra: 17/504 (3.37%), 
+COLOR: unique: 0/504 (0.00%), valid: 423/504 (83.93%), missing: 60/504 (11.90%), extra: 21/504 (4.17%), 
+SHAPE: unique: 2/504 (0.40%), valid: 413/504 (81.94%), missing: 66/504 (13.10%), extra: 25/504 (4.96%), 
+HABITAT: unique: 1/504 (0.20%), valid: 433/504 (85.91%), missing: 43/504 (8.53%), extra: 28/504 (5.56%), 
+DESCRIPTION: unique: 440/504 (87.30%), valid: 422/504 (83.73%), missing: 64/504 (12.70%), extra: 18/504 (3.57%), 
+NAME - uniques: ['Warvel', 'Watermor', 'Knowlesi Pokémon', 'Pino-rain', 'White-Ra', 'Nurture', 'Puncher', 'Terminus', 'Wing-Fishes', 'Jaw-Oh', 'Kling KOF Pokémon', 'Irimjabu', 'Sea Lily', 'Triple Null', 'Worm Pits', 'Scattermbar', 'Skelemete', 'Scrimshaw', 'Greedy', 'Plankton', 'Coral', 'Grafana', 'Cottoneon', 'Honedgecko', 'Beastly', 'Bing', 'Mega-charizard', 'Hareful', 'Molybat', 'Dioneo', 'Waddle Dee', 'Fang', 'Windra-hammer', 'Molde', 'Bellsweep', 'Luxora', 'Kitty', 'Gigantamax', 'Appele', 'Zweilak', 'Flauros', 'Toonboar', 'Dunnoongus', 'Muscular Gain', 'Protomala', 'Tsundere', 'Licking', 'Hapright', 'Eounie', 'Chef Samurott', 'Slug', 'JUMPERS', 'Wingobahajuku', 'Colbur', 'Greedhadam', 'Epapecet', 'Lutape', 'Totemic', 'Destruction correcting moonlight might make them forget who they are.', 'Moxie', 'Douglaston, Halibut', 'Ampharos', 'Beetle', 'Foolish', 'Team Plasma', 'Tiromuv', 'Tsunade', 'Dicking Mouse', 'Illuminy', 'Lifehulk', 'Placidor', 'Superpower', 'Ruffula', 'Totoseover', 'Kricketken', 'Eastraptor', 'Heering', 'Gravegoose', 'LHPEDICAL', 'Douglaston']
+CATEGORY - uniques: ['Axle Star Pokémon', 'Black-Eyed Pokémon', 'Apples to All Pokémon', 'Cave Pokémon', 'Good Riddance Pokémon', 'Human Pokémon', 'Volt Pokémon', 'Blob Pokémon', 'Iron Bird Pokémon', 'Mock Kelpsy Pokémon', 'Box Pokémon', 'Spiny Antenna Pokémon', 'Shedding Corn Pokémon', 'Water Jet Pokémon', 'Steel Jaw Pokémon', 'Single Star Pokémon', 'Curdoodle Pokémon', 'Ogre Charm Pokémon', 'Scrimshaw Pokémon', 'Guzzlord Pokémon', 'Pop-Pop Pokémon', 'Slide Pod Pokémon', 'Hive Pokémon', 'Brute Star Pokémon', 'Black Rock Pokémon', 'White Whale Pokémon', 'Polteageist Pokémon', 'This Pokémon Has a Nut Pokémon inside. Using its nose, it causes the air around it to move, transforming the air into beautiful vibrations.', 'Exposure Pokémon', 'Bug Pokémon', 'Bishop Pokémon', 'Gold Wing Pokémon', 'Astral Pokémon', 'Fire Pokémon', 'Tiny Fish Pokémon', 'Human Pokémon', 'Black Fox Pokémon', 'Nose Swap Pokémon', 'Cargo-Dome Pokémon', 'Arrow Quill Pokémon', 'Thorn DOMINANT', 'Musharna Pokémon', 'Rockruff Pokémon', 'Land Bubble Pokémon', 'Blob Pokémon', 'Gumshoon Pokémon', 'Pond Skater', 'Bald-Ferret Pokémon', 'Falcon Pokémon', 'Iron Sword Pokémon', 'Mover Pokémon', 'Berry Pokémon', 'Gloomdweller Pokémon', 'Sentient Pokémon', 'Oni Pokémon', 'Hatfields Pokémon', 'Five Leged Pokémon', 'Yamask Pokémon', 'Hairy Fly Pokémon', 'Hoffing Pokémon', 'Beetle Pokémon', 'Fire Pokémon', 'Mock-a-Rabbit Pokémon', 'Fire Evolution Pokémon', 'Gloomdweller Pokémon', 'Regrowth Pokémon', 'Dung Beetle Pokémon', 'Rose Ant Pokémon', 'Probate Pokémon', 'Yansei Pokémon', 'Megaton’t Pokémon', 'Tiny Monkey Pokémon', "Protomod'?", 'Frost Gecko Pokémon', 'Ribombee Pokémon', 'Simulacrum Pokémon', 'Tricky Mask Pokémon', 'Wind Fowl Pokémon', 'Drowzee Pokémon', '3.8 kg', 'Wild Dog Pokémon', 'Snow Gown Pokémon']
+SHAPE - uniques: ['brown', 'outrage']
+HABITAT - uniques: ['ink']
+TYPES - uniques: ['electric ground', 'rock electricity', 'poison poison', 'steel PokéBeast', 'firefighting', 'water prehistoric', 'bug energy', 'normal peaceful', 'water bouncing', 'fighting dragon', 'fighting ground', 'poison fairy', 'dark ice Pokémon', 'badmunching', 'electric ground', 'rock heavy', 'ground hex', 'ground sludge', 'blue grass', 'fighting fire', 'fire wild', 'fighting fighting']
+COLOR - uniques: []

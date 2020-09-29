@@ -1,0 +1,23 @@
+
+Perfect: 7/100 (7.00%)
+Incomplete: 77/100 (77.00%)
+Have Extras: 39/100 (39.00%)
+Contain Garbage: 0/100 (0.00%)
+Missing Values: 208
+Extra Values: 62
+Garbage Values: 0
+NAME: unique: 29/100 (29.00%), valid: 77/100 (77.00%), missing: 12/100 (12.00%), extra: 11/100 (11.00%), 
+CATEGORY: unique: 28/100 (28.00%), valid: 74/100 (74.00%), missing: 24/100 (24.00%), extra: 2/100 (2.00%), 
+TYPES: unique: 10/100 (10.00%), valid: 74/100 (74.00%), missing: 23/100 (23.00%), extra: 3/100 (3.00%), 
+ABILITIES: unique: 71/100 (71.00%), valid: 77/100 (77.00%), missing: 18/100 (18.00%), extra: 5/100 (5.00%), 
+MOVES: unique: 66/100 (66.00%), valid: 75/100 (75.00%), missing: 21/100 (21.00%), extra: 4/100 (4.00%), 
+HEIGHT: unique: 2/100 (2.00%), valid: 86/100 (86.00%), missing: 7/100 (7.00%), extra: 7/100 (7.00%), 
+WEIGHT: unique: 8/100 (8.00%), valid: 64/100 (64.00%), missing: 27/100 (27.00%), extra: 9/100 (9.00%), 
+COLOR: unique: 0/100 (0.00%), valid: 78/100 (78.00%), missing: 20/100 (20.00%), extra: 2/100 (2.00%), 
+SHAPE: unique: 0/100 (0.00%), valid: 74/100 (74.00%), missing: 18/100 (18.00%), extra: 8/100 (8.00%), 
+HABITAT: unique: 0/100 (0.00%), valid: 80/100 (80.00%), missing: 11/100 (11.00%), extra: 9/100 (9.00%), 
+DESCRIPTION: unique: 72/100 (72.00%), valid: 72/100 (72.00%), missing: 27/100 (27.00%), extra: 1/100 (1.00%), 
+NAME - uniques: ['Cardsan', 'Mossbat', 'Renegade', 'Candelabra', 'Rigidean', 'Chef’dance', 'Squishy', 'Emphing', 'Cobra', 'Sebastian', 'Stoutlett', 'Luxios', 'Wild Chimchar', 'Hansbee', 'Skunkattlet', 'Rainforest', 'Zilean', 'Fangfire', 'Sapchandle', 'ScalePunch', 'Euban', 'Turret', 'Ocarina Pokémon', 'Snonkey', 'Clafarigus', 'Carla', 'Wuflar', 'Colbur', 'Petal-Twister']
+CATEGORY - uniques: ['Hard Team Pokémon', 'Bronze Lily Pokémon', 'Identifier Pokémon', 'Grapploose Pokémon', 'Palace Pokémon', 'Tiny Galar Pokémon', 'Fire Bull Pokémon', 'Gladiator Pokémon', 'Faunal Pokémon', 'Blade Scorpion Pokémon', 'Water Dig Pokémon', 'Horse Pokémon', 'Acid Claw Pokémon', 'Luxury Pokémon', 'Wood Buffalo Pokémon', 'Horse Pokémon', 'Leaf Nut Pokémon', 'Fear Pokémon', 'Tropic Protector Pokémon', 'Fire Snake Pokémon', 'Classy Pokémon', 'Snow Gecko Pokémon', 'Single Pincer Pokémon', 'Gleam Bird Pokémon', 'Belly Pokémon', 'Doodling Pokémon', 'Longshoreman Pokémon', 'Dive Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []

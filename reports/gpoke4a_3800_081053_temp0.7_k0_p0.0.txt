@@ -1,0 +1,25 @@
+
+Perfect: 178/510 (34.90%)
+Incomplete: 123/510 (24.12%)
+Have Extras: 219/510 (42.94%)
+Contain Garbage: 12/510 (2.35%)
+Missing Values: 294
+Extra Values: 316
+Garbage Values: 12
+NAME: unique: 57/510 (11.18%), valid: 464/510 (90.98%), missing: 17/510 (3.33%), extra: 29/510 (5.69%), 
+CATEGORY: unique: 51/510 (10.00%), valid: 473/510 (92.75%), missing: 26/510 (5.10%), extra: 11/510 (2.16%), 
+TYPES: unique: 7/510 (1.37%), valid: 460/510 (90.20%), missing: 17/510 (3.33%), extra: 33/510 (6.47%), 
+ABILITIES: unique: 46/510 (9.02%), valid: 462/510 (90.59%), missing: 22/510 (4.31%), extra: 26/510 (5.10%), 
+MOVES: unique: 284/510 (55.69%), valid: 406/510 (79.61%), missing: 53/510 (10.39%), extra: 51/510 (10.00%), 
+HEIGHT: unique: 2/510 (0.39%), valid: 457/510 (89.61%), missing: 39/510 (7.65%), extra: 14/510 (2.75%), 
+WEIGHT: unique: 18/510 (3.53%), valid: 454/510 (89.02%), missing: 42/510 (8.24%), extra: 14/510 (2.75%), 
+COLOR: unique: 1/510 (0.20%), valid: 450/510 (88.24%), missing: 23/510 (4.51%), extra: 37/510 (7.25%), 
+SHAPE: unique: 4/510 (0.78%), valid: 471/510 (92.35%), missing: 26/510 (5.10%), extra: 13/510 (2.55%), 
+HABITAT: unique: 0/510 (0.00%), valid: 424/510 (83.14%), missing: 16/510 (3.14%), extra: 70/510 (13.73%), 
+DESCRIPTION: unique: 497/510 (97.45%), valid: 479/510 (93.92%), missing: 13/510 (2.55%), extra: 18/510 (3.53%), 
+NAME - uniques: ['Graginnur', 'Nurturing', 'Spikes', 'Royal Beauty', 'Soft-Bo', 'Scatterdust', 'Aqua Rahi', 'Meringue', 'Pileppampa', 'DesertSquirrel', '', 'Ditto', 'Fairy-Ra', 'Lava-ON', 'Balloon', 'Revivi', 'Lava- Podracuys', 'Sky High', 'Wolf', 'Growl', 'Electric Haydenm', 'Valygos', 'Dolosaur', 'Tundra', 'Havoc', 'Atroast', 'Arcano', 'Panturnax', 'Shaquere', 'Misdred', 'Silvallyuys', 'RockyBeachMan', 'Throganter', 'Drowsing Pokémon', 'Bagworm', 'Puffu', 'Aeternation', 'Frye', 'Poltapp', 'Lingering Pokémon', 'CuteBell', 'Boiling-Cup', 'Nidorina', 'Litwickul', 'Scatterdust', 'Pumpké', 'Mushroom', 'Natu Card', 'Gigantamax', 'Surya', 'Papertrap', 'Flower Pokémon', 'Cottonemonglob Pokémon', 'Shadowdance', 'Fruit Pokémon', 'Greedoom', 'Giblet']
+CATEGORY - uniques: ['Wound Pokémon', 'Oshawark Pokémon', 'Shedding Pokémon', 'Soft Peak Pokémon', 'String Theory Pokémon', 'Sandstorm Pokémon', 'Pig Tail Pokémon', 'Bruxish Pokémon', 'Kadakusa Pokémon', 'Mocking Pokémon', 'Spew Zap Pokémon', 'Comf Pokémon', 'Miltank Pokémon', 'Blast Core', 'Bat Snake Pokémon', 'Dream Pokémon', 'Rage Pokémon', 'Gumshoo Pokémon', 'Drak Pokémon', 'Hippogate Pokémon', 'Shedding Cat Pokémon', 'Spew Charm Pokémon', 'Vulture Pokémon', 'Lullaby Pokémon', 'Rocky Pokémon', 'Nidoran Pokémon', 'Aeternon Pokémon', 'Mare Pokémon', 'Flare Pokémon', 'Small Frye Pokémon', 'Dreeple Pokémon', 'Cup Pokémon', 'Carbuncle Pokémon', 'Superbug Pokémon', 'Human Pokémon', 'River Bird Pokémon', 'Scraggy Pokémon', 'Beed Pokémon', 'Amity Pokémon', 'Golett Pokémon', 'Chunky Pokémon', 'Luxury Pokémon', 'Berry Pokémon', 'Beed Ranger Pokémon', 'Cotton Puffin Pokémon', 'Mega Evolution Pokémon', 'Honeycomb Pokémon', 'Scy Pokémon', 'Deerling Pokémon', 'Mummy Pokémon', 'Slug Pokémon']
+SHAPE - uniques: ['up', 'fighting', 'bug', 'human']
+HABITAT - uniques: []
+TYPES - uniques: ['grass grass', 'green psychic', 'ice fairy', 'ground paralysis', 'feather', 'rock cursed-body', 'rock sturdy']
+COLOR - uniques: ['cute']

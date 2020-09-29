@@ -1,0 +1,25 @@
+
+Perfect: 150/500 (30.00%)
+Incomplete: 168/500 (33.60%)
+Have Extras: 210/500 (42.00%)
+Contain Garbage: 2/500 (0.40%)
+Missing Values: 288
+Extra Values: 297
+Garbage Values: 2
+NAME: unique: 42/500 (8.40%), valid: 434/500 (86.80%), missing: 10/500 (2.00%), extra: 56/500 (11.20%), 
+CATEGORY: unique: 60/500 (12.00%), valid: 462/500 (92.40%), missing: 27/500 (5.40%), extra: 11/500 (2.20%), 
+TYPES: unique: 8/500 (1.60%), valid: 437/500 (87.40%), missing: 31/500 (6.20%), extra: 32/500 (6.40%), 
+ABILITIES: unique: 60/500 (12.00%), valid: 461/500 (92.20%), missing: 16/500 (3.20%), extra: 23/500 (4.60%), 
+MOVES: unique: 295/500 (59.00%), valid: 431/500 (86.20%), missing: 41/500 (8.20%), extra: 28/500 (5.60%), 
+HEIGHT: unique: 1/500 (0.20%), valid: 455/500 (91.00%), missing: 35/500 (7.00%), extra: 10/500 (2.00%), 
+WEIGHT: unique: 26/500 (5.20%), valid: 439/500 (87.80%), missing: 43/500 (8.60%), extra: 18/500 (3.60%), 
+COLOR: unique: 0/500 (0.00%), valid: 458/500 (91.60%), missing: 26/500 (5.20%), extra: 16/500 (3.20%), 
+SHAPE: unique: 0/500 (0.00%), valid: 448/500 (89.60%), missing: 31/500 (6.20%), extra: 21/500 (4.20%), 
+HABITAT: unique: 0/500 (0.00%), valid: 435/500 (87.00%), missing: 11/500 (2.20%), extra: 54/500 (10.80%), 
+DESCRIPTION: unique: 483/500 (96.60%), valid: 455/500 (91.00%), missing: 17/500 (3.40%), extra: 28/500 (5.60%), 
+NAME - uniques: ['Monroderm', 'Bunnelclown', 'Synthetic Bird', 'Chick', 'Ember', 'Mushroom', 'Happiness', 'Blazing', 'Ngudirisad', 'Pawnbro', 'Careful, it won’t forget about its medallion.', 'Pikrimonie', 'Fireworks', 'Greedoom', 'Eggmeep', 'Crawbus', 'Seguinut', 'Eggling', 'Placid', 'Gabby', 'Impelch', 'Kunabishi', 'Blossom', 'Memento', 'Foxaur', 'Megan', 'Reste', 'SheerPower', 'Parasite', 'Chick', 'Eaglet', 'Face', 'Nihair', 'Spinyrene', 'Alola', 'Blipipede', 'Pokemont', 'Blaze', 'ClubbleJump', 'Dredmor', 'Ribomf', 'Gossifle']
+CATEGORY - uniques: ['Bunnel Pokémon', 'Pikachu Pokémon', 'Blast Wave Pokémon', 'BugleBee Pokémon', 'Living Pokémon', 'Dewlett Pokémon', 'Salamence Pokémon', 'Flail Pokémon', 'Apple of a New World Pokémon', 'Mare Pokémon', 'Yanmadge Pokémon', 'Rose Pokémon', 'Turboblaze Pokémon', 'Pyro Creeper Pokémon', 'Dreepy Pokémon', 'Mummy Pokémon', 'Lazy Trainee', 'Sea Heir Pokémon', 'Haxorus Pokémon', 'Hippopotamus Pokémon', 'Stun-Punch Pokémon', 'Wing Pokémon', 'Blast Lizard Pokémon', 'Tiny Seed Pokémon', 'Lava-Form Pokémon', 'Secret Power Pokémon', 'Pikachu Pokémon', 'Mare Pokémon', 'Bruxish Pokémon', 'Tricky Pete Pokémon', 'Moon Pokémon', 'Munchlax Pokémon', 'Furball Pokémon', 'Goldbug Pokémon', 'Vast Bird Pokémon', 'Restful Pokémon', 'Anteater Pokémon', 'Sheer Pokémon', 'Buncho Tree Pokémon', 'Chickweed Pokémon', 'Superbug Pokémon', 'Tendrils Pokémon', 'Wild Duckling Pokémon', 'Long ago, this Pokémon lived in the Galar region. It was the first Pokémon to evolve.', 'Litleo Pokémon', 'Cosmo-Carb Pokémon', 'Mummy Pokémon', 'Bruxish Pokémon', 'Iron Dome Pokémon', 'Pulse Pokémon', 'Fireworks Pokémon', 'Sky High Fly', 'Lazy Mouse Pokémon', 'Dedicated Pokémon', 'Scissor Pokémon', 'The Pokémon That Leaches Water', 'Copper Wing Pokémon', 'Pheromones Pokémon', 'Bunnel Pokémon', 'Chingling Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['rock rock', 'water thunder', 'ground mud', 'fire fairy', 'ground fairy', 'ghost normal', 'fighting dragon', 'dark ground']
+COLOR - uniques: []

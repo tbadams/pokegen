@@ -1,0 +1,25 @@
+
+Perfect: 168/500 (33.60%)
+Incomplete: 155/500 (31.00%)
+Have Extras: 184/500 (36.80%)
+Contain Garbage: 1/500 (0.20%)
+Missing Values: 289
+Extra Values: 270
+Garbage Values: 1
+NAME: unique: 50/500 (10.00%), valid: 456/500 (91.20%), missing: 9/500 (1.80%), extra: 35/500 (7.00%), 
+CATEGORY: unique: 43/500 (8.60%), valid: 455/500 (91.00%), missing: 42/500 (8.40%), extra: 3/500 (0.60%), 
+TYPES: unique: 11/500 (2.20%), valid: 455/500 (91.00%), missing: 30/500 (6.00%), extra: 15/500 (3.00%), 
+ABILITIES: unique: 51/500 (10.20%), valid: 457/500 (91.40%), missing: 10/500 (2.00%), extra: 33/500 (6.60%), 
+MOVES: unique: 362/500 (72.40%), valid: 417/500 (83.40%), missing: 18/500 (3.60%), extra: 65/500 (13.00%), 
+HEIGHT: unique: 3/500 (0.60%), valid: 456/500 (91.20%), missing: 33/500 (6.60%), extra: 11/500 (2.20%), 
+WEIGHT: unique: 30/500 (6.00%), valid: 447/500 (89.40%), missing: 45/500 (9.00%), extra: 8/500 (1.60%), 
+COLOR: unique: 0/500 (0.00%), valid: 460/500 (92.00%), missing: 23/500 (4.60%), extra: 17/500 (3.40%), 
+SHAPE: unique: 1/500 (0.20%), valid: 429/500 (85.80%), missing: 40/500 (8.00%), extra: 31/500 (6.20%), 
+HABITAT: unique: 0/500 (0.00%), valid: 448/500 (89.60%), missing: 8/500 (1.60%), extra: 44/500 (8.80%), 
+DESCRIPTION: unique: 469/500 (93.80%), valid: 461/500 (92.20%), missing: 31/500 (6.20%), extra: 8/500 (1.60%), 
+NAME - uniques: ['Chewtlefish', 'Skinner', 'Ironikun’s ears protrude from its body. It can peck at those ears for many hours without hearing a sound.', 'Gastronom', 'Chewtlefish', 'Coalium', 'Pino-Punch', 'Cottonweave', 'Cottonback', 'Gorgon', 'Chercheon', 'Ruffiol', 'Destruction', 'Greedoom', 'Quillpuff', 'Sinnoh', 'DesertSquirrel', 'Royal Heir', 'Lonely', 'Greedor', 'Happiness', 'Blipipede', 'Volcanoes Pokémon', 'Greedoom', 'Centavious', 'Pigfriend', 'Dagardos', 'Hans-Joachim', 'Batcave Pokémon', 'Litten', 'Skarner', 'Puppy', 'Batcave Pokémon', 'Mime Jr.: It loves to sing. It means so much to so many people.', 'Royalfel', 'Tadpole', 'Longevity', 'Eaglet', 'Curlipede', 'Swords', 'Posy', 'Zele-D', 'Gasmer', 'Scorpion', 'Bubble Pod', 'Cheep-Log', 'Suckerdisc', 'Eaglet', 'Gurmagon', 'Illuminy']
+CATEGORY - uniques: ['Gumshoos Pokémon', 'Pidgey Pokémon', 'Amityville Pokémon', 'Mud Snake Pokémon', 'Bellossom Pokémon', 'Mantyker Pokémon', 'Armored Pokémon', 'Iron Heel Pokémon', 'Lion Grovel Pokémon', 'Gastronomical Pokémon', 'Toxic Monkey Pokémon', 'Steel Body Pokémon', 'Sentient Pokémon', 'Fire Albatross', 'Tiny Clap Pokémon', 'Luxioian Pokémon', 'Emotionless Pokémon', 'Elect Pokémon', 'Ogre Pokémon', 'Submerge Pokémon', 'Hoopa Pokémon', 'Wild Duckling Pokémon', 'Gliscor Pokémon', 'Centaur Pokémon', 'Fly Pokémon', 'Frost Pokémon', 'Pidgey Pokémon', 'Wild Horse Pokémon', 'Honeycomb Pokémon', 'Mare Pokémon', 'Blast Bee Pokémon', 'Stripe Pokémon', 'Munchlax Pokémon', 'Fire Bird Pokémon', 'All-Out Pokémon', 'Hippopotamus Pokémon', 'Lime Pokémon', 'Porygon Pokémon', 'Swarm Pokémon', 'Swarm Pokémon', 'Chandelier Pokémon', 'Luxury Parcel Pokémon', 'Minimize Pokémon']
+SHAPE - uniques: ['up']
+HABITAT - uniques: []
+TYPES - uniques: ['ghostchant', 'pressure', 'fighting steel', 'fire electric', 'electric fire', 'ice snow', 'water wings', 'ice fairy', 'pressure', 'leaf dragon', 'ghost fighting']
+COLOR - uniques: []

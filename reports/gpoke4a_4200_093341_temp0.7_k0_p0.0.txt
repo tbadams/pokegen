@@ -1,0 +1,25 @@
+
+Perfect: 160/507 (31.56%)
+Incomplete: 77/507 (15.19%)
+Have Extras: 276/507 (54.44%)
+Contain Garbage: 4/507 (0.79%)
+Missing Values: 163
+Extra Values: 391
+Garbage Values: 4
+NAME: unique: 44/507 (8.68%), valid: 472/507 (93.10%), missing: 9/507 (1.78%), extra: 26/507 (5.13%), 
+CATEGORY: unique: 50/507 (9.86%), valid: 477/507 (94.08%), missing: 16/507 (3.16%), extra: 14/507 (2.76%), 
+TYPES: unique: 6/507 (1.18%), valid: 460/507 (90.73%), missing: 15/507 (2.96%), extra: 32/507 (6.31%), 
+ABILITIES: unique: 37/507 (7.30%), valid: 462/507 (91.12%), missing: 21/507 (4.14%), extra: 24/507 (4.73%), 
+MOVES: unique: 376/507 (74.16%), valid: 444/507 (87.57%), missing: 17/507 (3.35%), extra: 46/507 (9.07%), 
+HEIGHT: unique: 2/507 (0.39%), valid: 453/507 (89.35%), missing: 11/507 (2.17%), extra: 43/507 (8.48%), 
+WEIGHT: unique: 22/507 (4.34%), valid: 463/507 (91.32%), missing: 32/507 (6.31%), extra: 12/507 (2.37%), 
+COLOR: unique: 0/507 (0.00%), valid: 462/507 (91.12%), missing: 11/507 (2.17%), extra: 34/507 (6.71%), 
+SHAPE: unique: 0/507 (0.00%), valid: 441/507 (86.98%), missing: 11/507 (2.17%), extra: 55/507 (10.85%), 
+HABITAT: unique: 0/507 (0.00%), valid: 422/507 (83.23%), missing: 9/507 (1.78%), extra: 76/507 (14.99%), 
+DESCRIPTION: unique: 496/507 (97.83%), valid: 467/507 (92.11%), missing: 11/507 (2.17%), extra: 29/507 (5.72%), 
+NAME - uniques: ['Torchion', 'Pigmatic', 'Leafie', 'LongevityWIth\xadEW', 'Egglé', 'Spikes', 'Firestone', 'Larva', 'Nutskrul', 'Frosbruck', 'Snowfree', 'Pit-bull', 'Patrat', 'Tuskattun', 'Puffin', 'Lingering Mana', 'Vitality', 'BECAMEON', 'Nurture', 'Ribomf', 'Despina', 'Growl', 'Chewtlefish', 'Spatial>', 'Phyros', 'Voltaquam', 'Pit- bull', 'Meechreq', 'Triple Null', 'Sisko', 'Birdy', 'Mudbrower', 'Nidoran♀’s bright-colored fur absorbs sunlight, turning those around into colorful lights. This Pokémon is also known as a “yellow light”.', 'Lookout’s red fur', 'Watergun', 'Chick', 'Dragol', 'Megadrain', 'Bulkrew', 'Wolf', 'Blossom', 'Wing Fish Pokémon', 'Gnash Teh’s bones are always found with them.', 'Litwicki']
+CATEGORY - uniques: ['Darude Pokémon', 'Junkivant Pokémon', 'Fire Lizard Pokémon', 'Fire Ant Pokémon', 'Big Fox Pokémon', 'Pupine Pokémon', 'Lucky Rabbit Pokémon', 'Pigeon Pokémon', 'Lurking Pokémon', 'Headbutt Pokémon', 'Star Pokémon', 'Golett Pokémon', 'Fennekin Pokémon', 'Eelektrik Pokémon', 'Beautiful Pokémon', 'Fly Pokémon', 'Kricket Poké Pokémon', 'Scyther Pokémon', 'South Park Pokémon', 'Gumshoke Pokémon', 'Draft Pokémon', 'Palkia Pokémon', 'Hermit Pokémon', 'Grass Pokémon', 'Firetail Pokémon', 'Zapped Pokémon', 'Milotic Pokémon', 'Mare Pokémon', 'Gumshoe Pokémon', 'Wild Cow Pokémon', 'Shroom Pokémon', 'First Fuse Pokémon', 'Mud Pokémon', 'Roly Buffalo Pokémon', 'Honedge Pokémon', 'Bug Pokémon', 'Chef Pokémon', 'Bronze Digging Pokémon', 'Royal Bird Pokémon', 'Fraxure Pokémon', 'Carnivore Pokémon', 'Polly Pokémon', 'Imitate Pokémon', 'Poochyena Pokémon', 'Clefairy Pokémon', 'Copper Wing Pokémon', 'Disguise Star Pokémon', "Morpeko's Pokémon Pokémon", 'Bug Cat Pokémon', 'Gumshoos Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['ghost fighting', 'dragon poison', 'rock electric', 'fire fairy', 'electric ground', 'water thunder']
+COLOR - uniques: []

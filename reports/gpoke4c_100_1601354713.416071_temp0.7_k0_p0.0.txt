@@ -1,0 +1,25 @@
+
+Perfect: 0/4400 (0.00%)
+Incomplete: 4358/4400 (99.05%)
+Have Extras: 80/4400 (1.82%)
+Contain Garbage: 4361/4400 (99.11%)
+Missing Values: 47583
+Extra Values: 3287
+Garbage Values: 6264
+NAME: unique: 72/4400 (1.64%), valid: 15/4400 (0.34%), missing: 4326/4400 (98.32%), extra: 59/4400 (1.34%), 
+CATEGORY: unique: 85/4400 (1.93%), valid: 29/4400 (0.66%), missing: 4315/4400 (98.07%), extra: 56/4400 (1.27%), 
+TYPES: unique: 81/4400 (1.84%), valid: 20/4400 (0.45%), missing: 4317/4400 (98.11%), extra: 63/4400 (1.43%), 
+ABILITIES: unique: 47/4400 (1.07%), valid: 17/4400 (0.39%), missing: 4326/4400 (98.32%), extra: 57/4400 (1.30%), 
+MOVES: unique: 47/4400 (1.07%), valid: 19/4400 (0.43%), missing: 4321/4400 (98.20%), extra: 60/4400 (1.36%), 
+HEIGHT: unique: 58/4400 (1.32%), valid: 21/4400 (0.48%), missing: 4330/4400 (98.41%), extra: 49/4400 (1.11%), 
+WEIGHT: unique: 49/4400 (1.11%), valid: 13/4400 (0.30%), missing: 4338/4400 (98.59%), extra: 49/4400 (1.11%), 
+COLOR: unique: 28/4400 (0.64%), valid: 20/4400 (0.45%), missing: 4337/4400 (98.57%), extra: 43/4400 (0.98%), 
+SHAPE: unique: 25/4400 (0.57%), valid: 14/4400 (0.32%), missing: 4335/4400 (98.52%), extra: 51/4400 (1.16%), 
+HABITAT: unique: 19/4400 (0.43%), valid: 19/4400 (0.43%), missing: 4332/4400 (98.45%), extra: 49/4400 (1.11%), 
+DESCRIPTION: unique: 94/4400 (2.14%), valid: 48/4400 (1.09%), missing: 4306/4400 (97.86%), extra: 46/4400 (1.05%), 
+NAME - uniques: ['#0034', '', 'Osuzuki, Kite-O-Tail', 'Pikachu', 'Pikachu, POKéMON', 'Crows', 'Benthoof', '', '66BAAC1', '?', '6440', 'Claws Pokémon', '', '', '', 'Bisharp', 'Gillrath', 'Asian Quillwings', '', 'Olympus', '', 'Fairy Tail', 'Gshawan', 'Hexedrodon', 'Cottonmouth', '55', 'Flint-Flower', 'Egg1', '', 'Pom-Pom, Rock-Edge', 'Stone Edge', 'Growth', 'Lilly', '01', 'Giratina', '', '', 'Moxie', 'Duffin', 'Drowzee', 'Aura Sphere', 'dragon-cave', 'Golem', '', 'Boomick', 'Mushkrow', '', '', '0019.0 m', '', '', '', '', 'Seismic Toss, -10% Attack power, -10% Magic power', 'Crobat', 'Omega-', 'Pilic', 'A-Tabou', 'Bug-Turd', 'Cobrux', 'Fenririte', 'Dream Eater', '', '1.8-0.1 kg', 'Celebi', 'Gurshox', 'Hado', '59', 'B01\\TextBlade\\', 'Nephilim', 'Crobat', '23']
+CATEGORY - uniques: ['dragon', '', 'Bird Bird Pokémon', 'Water-Poison Pokémon', 'Medicine Flower', 'Aqua Pokémon', 'Stark Beetle</p><p><p>This Pokémon attacks when it stands on the ground. It immediately fills a bucket of water. <em>', 'Snorlax', 'Mummybug', 'summon, mirr, poltergeist', 'Cottonwood Trees', 'Claws Pokémon', 'Acid-Trap Pokémon', 'Drowzee Pokémon', 'Honey Bee</', 'Fly Pokémon Ground</', 'Black Pokémon', 'Encoy Bird', 'Natura', 'Elf', 'HORIZON', 'Fire Gator', 'Flying Bear', 'Growlithe', '', 'Mallow Pokémon', '-01-0030', '-01-0040', 'Shiny Eyes', 'Aqua Flute', 'Shellfish', 'Borrowed Pokémon', 'Envy', 'Frosted Frog', 'Aqua-Turtle', 'Poison Snipe', 'Horse-Tempo, Rock-Tail, Rage-Punch', 'Air Blade', 'Sturdy Pokémon', 'Greninja Pokémon', 'High-tough', 'Fly Pokémon', 'Fire-Meter, Fire-Splitter, Thunder-Tower', 'Grass Pokémon', '', 'Blob Pokémon', 'Porygon-G Pokémon', 'Porygon-G Pokémon', 'Astral Faunus', 'Airtight Pokémon', 'Big Snore', 'Bash Pokémon', 'Eggrain', 'Dragon Pokémon', 'Amber-colored', 'Ice Pokémon', 'molotov', 'gladiator-blue', 'Azure Pokémon', '', '', 'Snow-Craw', 'Cave Pokémon', 'Omega-Cargo', 'Alamog', 'Red Dragon Breath', 'Crazy Pokémon', 'Egg-Prey', 'Hook Pokémon', 'Fill Miltank', 'Cotton-Nectar', '', '', 'Fairy Pokémon', 'Bonehead Pokémon', 'Bonehead Pokémon', 'Aqua Pokémon', '', '', 'The Heart of the Beast', '', '', 'Flying Pokémon', '', 'dragonfly']
+SHAPE - uniques: ['farming', '', 'Gold-Gold Pokémon', 'humanoid', 'blue', 'bug-cave', '-', '-09', '-08', '', 'Bold Pokémon', '.5 m', '', 'armor', 'warf', 'color.0 m', '', '0.0 cm', 'powerup', 'armor', '', 'brown', '.', 'hybrid', 'armor']
+HABITAT - uniques: ['', '', '', '', '', '-0700', '-0013', '-0060-1', '-09', '-10', '-04', '', 'Berry', '', '03', '9.0 kg', '', 'quadruped', '']
+TYPES - uniques: ['Bird', '', 'blue', '', '38.0 kg', 'Poison scales on its head', '150.0 kg</', 'fairy, light-swift, lightning-rod', 'grass', 'Gluar Pokémon', '', '', 'Poison Frogs</', 'Flying Pokémon Base Pokémon</', '', 'Poisonous Pokémon', 'Cornflower', 'flower-leaf', 'drain', '', '-', '', 'grass grassland', '', '-0400', '-10', '', '-0020-1', '', '', 'Viper', '', 'All-Eyes, Super Luck, Toxic', '', '', '', 'Cave Spirit', '', 'Ammonot', '+', 'Psyduck Pokémon', '', '', '', '', 'grass-body, m-C-', 'bug-body, rock-block, rock-cement', '', 'duck', 'electric-electric', '', 'bird wings', 'bug-tail, ghost-tail', '', '', 'db9-4c3f-4a6f-b9c3-2a3d8b1ba7', 'grass-green', '', '', '', 'Ice-Tomb', '', 'grass', 'Huge Regent', 'Snow-crest', '71.0 kg', 'bug', 'Poison Pokémon', 'Fire Pokémon', '', '', 'blue', 'roar', 'grass', '', 'Crow, Beast', '', '', 'aquatine', 'dragon', '']
+COLOR - uniques: ['', '1.5 m', 'dark-armor, grass-tiger', 'Fire Pokémon', '.6m', '', '', '.5 m', '-0012-LR', '1.1 m', '1.0 kg', '', '1.0 kg', '1.0 kg', '', '', 'quadruped', 'blue.5 m', '', '', '', '1.5 m', '', 'brown', '', 'obear', '.1 m', '.0 kg']

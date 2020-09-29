@@ -1,0 +1,25 @@
+
+Perfect: 97/501 (19.36%)
+Incomplete: 206/501 (41.12%)
+Have Extras: 247/501 (49.30%)
+Contain Garbage: 0/501 (0.00%)
+Missing Values: 467
+Extra Values: 382
+Garbage Values: 0
+NAME: unique: 101/501 (20.16%), valid: 423/501 (84.43%), missing: 37/501 (7.39%), extra: 41/501 (8.18%), 
+CATEGORY: unique: 102/501 (20.36%), valid: 413/501 (82.44%), missing: 85/501 (16.97%), extra: 3/501 (0.60%), 
+TYPES: unique: 10/501 (2.00%), valid: 440/501 (87.82%), missing: 22/501 (4.39%), extra: 39/501 (7.78%), 
+ABILITIES: unique: 182/501 (36.33%), valid: 389/501 (77.64%), missing: 18/501 (3.59%), extra: 94/501 (18.76%), 
+MOVES: unique: 325/501 (64.87%), valid: 436/501 (87.03%), missing: 39/501 (7.78%), extra: 26/501 (5.19%), 
+HEIGHT: unique: 4/501 (0.80%), valid: 409/501 (81.64%), missing: 51/501 (10.18%), extra: 41/501 (8.18%), 
+WEIGHT: unique: 42/501 (8.38%), valid: 420/501 (83.83%), missing: 57/501 (11.38%), extra: 24/501 (4.79%), 
+COLOR: unique: 0/501 (0.00%), valid: 438/501 (87.43%), missing: 27/501 (5.39%), extra: 36/501 (7.19%), 
+SHAPE: unique: 0/501 (0.00%), valid: 429/501 (85.63%), missing: 44/501 (8.78%), extra: 28/501 (5.59%), 
+HABITAT: unique: 0/501 (0.00%), valid: 443/501 (88.42%), missing: 23/501 (4.59%), extra: 35/501 (6.99%), 
+DESCRIPTION: unique: 437/501 (87.23%), valid: 422/501 (84.23%), missing: 64/501 (12.77%), extra: 15/501 (2.99%), 
+NAME - uniques: ['Lissome', 'Stagemaster', 'Wily', 'Hiroki', 'Trash Heap', 'Twiglet', 'Coconut', 'Hatteree', 'Tyrantrooke', 'Klo\xadchen', 'Pond Skater', 'Coffin', 'Gigantamonte', 'Hexepen', 'Bonsai', 'Bagworm', 'Gino', 'Pumpkake', 'Arclimso', 'Rikipede', 'Cluckoo', 'Cupew', 'Aurora', 'Cocoon', 'Shelter', 'Crowzee', 'Grizzos', 'Arno', 'Larva', 'Snorlax', 'Batchelor', 'Windzel', 'Cherubim', 'Starling', 'Plankster', 'Tantrum', 'Screech', 'Wingsey', 'Lilith', 'Lapis-Tissue', 'Throhrock', 'Sea Kelp', 'Blazingo', 'Cheep-Punch', 'Bubble Frog', 'Big Jaw', 'Tyrogrel', 'Nebula', 'Chi\xad chon', 'Mantis', 'Ballistix', 'Cursed Blade', 'Cocoon', 'Hap-Hap-', 'Surye', 'Kino-Molecule', 'Sage', 'Volcanoes', 'Candlewick', 'Ironguard', 'Tyrance', 'Pompernel', 'Viggo', 'Zatanna', 'Hexepod', 'Papertudy', 'Luxios', 'Bagsey', 'Gotham', 'Cunna', 'Larva', 'Rook', 'Emi', 'Spinyrene', 'Leaflet', 'Mystik', 'Thunderoth', 'Fox', 'Blipbee', 'Sloth', 'Blazingo', 'Cocoon', 'Sinnoh', 'Capricorn', 'Mawilc', 'Toxicocat', 'Sigilye', 'Placid', 'Eldrazi', 'Grothbat', 'Mushroom', 'Greedfe', 'Arno', 'Lilith', 'Cherchezaur', 'Cherchezor', 'Elevator', 'Mushroom', 'Shedding', 'Gearramp', 'Gigapadon']
+CATEGORY - uniques: ['Venomoth Pokémon', 'Aggression Pokémon', 'Abomasnow Pokémon', 'Lion Pokémon', 'Bounce Bug Pokémon', 'Luxivore Pokémon', 'Cranidos Pokémon', 'Arrow Pokémon', 'Fire Pokémon', 'Arrowder Pokémon', 'Happily Ever After Pokémon', 'Lurker Pokémon', 'Dalmatian Pokémon', 'Chandelure Pokémon', 'Dewgong Pokémon', 'Long Sword Pokémon', 'Chandelure Pokémon', 'Tiny Fish Pokémon', 'Bisharp Pokémon', 'Noctowl Pokémon', 'Solo Voice Pokémon', 'Radical Pokémon', 'Lich', 'Poison Mouse Pokémon', 'Crow Pokémon', 'Soft Charm Pokémon', 'Hermit Snake Pokémon', 'Lion Cub', 'Tiny Fowl Pokémon', 'Bunnel Pokémon', 'Wind Pokémon', 'Wind Pokémon', 'Pangoro Pokémon', 'Sky Ferret Pokémon', 'If Only You Shook Pokémon', 'Fungus Pokémon', 'Rock Butt Pokémon', 'Slowpoke Pokémon', 'Cotton Candy', 'Wing Pigeon Pokémon', 'Lapis-Tissue Pokémon', 'Throh Rock Pokémon', 'Electro Ball Pokémon', 'New World Pokémon', 'Cosmo-Warrior Pokémon', 'Hairy Pokémon', 'New World Pokémon', 'Ballistix Pokémon', 'Blaze Lizard Pokémon', 'Slumber Pokémon', 'Ribombee Pokémon', 'Houndour Pokémon', 'Rainforest Pokémon', 'Yamper Pokémon', 'Luxury Pokémon', 'Mummy Pokémon', 'Fluffy Pokémon', 'Growl Pokémon', 'Land Crab Pokémon', 'Hard Hat Pokémon', 'Mud Pokémon', 'Exciting Pokémon', 'Porygon Pokémon', 'Pig Tail Pokémon', 'Berry Pokémon', 'Teddi-Man', 'Risk-Free Pokémon', 'Gloom Bee Pokémon', 'Pigeon Pokémon', 'Fennekin Pokémon', 'Emotionist Pokémon', 'Brutal Voice Pokémon', 'Stun Pokémon', 'Porygon Pokémon', 'Beed Pokémon', 'Ledyba Pokémon', 'Cotton Doll Pokémon', 'Bronze Star Pokémon', 'Vibration Pokémon.', 'Crushing Pokémon', 'Blazing Quill Pokémon', 'Sox Trainer Pokémon', 'Carrying Pokémon', 'Skull Scale Pokémon', 'Elder Snake Pokémon', 'Capricorn Pokémon', 'Bug Pokémon', 'Ele Pokémon', 'Luxury Cat Pokémon', 'Icy Pokémon', 'Star Pokémon', 'Yanmega Pokémon', 'Jinx Pokémon', 'Curloop Pokémon', 'Ant Pokémon', 'Scissor Pokémon', 'Dedicated Pokémon', 'Mud Snake Pokémon', 'Elevator Pokémon', 'Pecks Pokémon', 'Flyby Pokémon', 'With a Mouthful of Swine Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: []
+TYPES - uniques: ['fighting ground', 'normal steel', 'ground', 'poison poison', 'fighting steel', 'rock electric', 'electric energy', 'ghost water', 'poison Pokémon', 'ghost']
+COLOR - uniques: []

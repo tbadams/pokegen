@@ -1,0 +1,25 @@
+
+Perfect: 83/505 (16.44%)
+Incomplete: 278/505 (55.05%)
+Have Extras: 204/505 (40.40%)
+Contain Garbage: 5/505 (0.99%)
+Missing Values: 645
+Extra Values: 275
+Garbage Values: 7
+NAME: unique: 60/505 (11.88%), valid: 438/505 (86.73%), missing: 45/505 (8.91%), extra: 22/505 (4.36%), 
+CATEGORY: unique: 91/505 (18.02%), valid: 429/505 (84.95%), missing: 54/505 (10.69%), extra: 22/505 (4.36%), 
+TYPES: unique: 19/505 (3.76%), valid: 428/505 (84.75%), missing: 54/505 (10.69%), extra: 23/505 (4.55%), 
+ABILITIES: unique: 116/505 (22.97%), valid: 413/505 (81.78%), missing: 60/505 (11.88%), extra: 32/505 (6.34%), 
+MOVES: unique: 401/505 (79.41%), valid: 417/505 (82.57%), missing: 59/505 (11.68%), extra: 29/505 (5.74%), 
+HEIGHT: unique: 2/505 (0.40%), valid: 414/505 (81.98%), missing: 55/505 (10.89%), extra: 36/505 (7.13%), 
+WEIGHT: unique: 61/505 (12.08%), valid: 417/505 (82.57%), missing: 65/505 (12.87%), extra: 23/505 (4.55%), 
+COLOR: unique: 2/505 (0.40%), valid: 429/505 (84.95%), missing: 57/505 (11.29%), extra: 19/505 (3.76%), 
+SHAPE: unique: 0/505 (0.00%), valid: 410/505 (81.19%), missing: 58/505 (11.49%), extra: 37/505 (7.33%), 
+HABITAT: unique: 3/505 (0.59%), valid: 431/505 (85.35%), missing: 47/505 (9.31%), extra: 27/505 (5.35%), 
+DESCRIPTION: unique: 414/505 (81.98%), valid: 413/505 (81.78%), missing: 91/505 (18.02%), extra: 1/505 (0.20%), 
+NAME - uniques: ['Tommy Cree', 'Kritzkrou', 'EKelmet', 'Mitosis', 'Powdereder', 'Tapu Fini Pokémon', 'Teddi-Lu', 'Generation VII', 'Seaking, Lion-Mange', 'Primatke', 'Caterpie0652', 'Twister', 'Pigton', 'Pogomoo', 'Eelekass', 'Spider-Man', 'Classical', 'Holojell', 'Pino', 'flame-body', 'Subterrene', 'Aragorn', 'Kernechron', 'Hoodow', 'Shinomile', 'Yamper<', 'Sludge', 'Asakazuto', 'mad-Eye', 'Gear Wright', 'Gigantamax', 'Kricketベロ�', 'Ekabutops', 'Aurora', 'Piglet', 'Dolurak', 'Weatherlight', 'Nidorina', 'Mystik', 'Nebula', 'Nidorina', 'Wool', 'Moldeg', 'Aura {}', 'Galarajoram', 'DIALOGUE', 'Toxicolo', 'Wolf', 'Tarena', 'Leringue', 'Pugilist', 'Torch', 'Centipede', 'Mordred', 'Kelpsy', 'Renegade', 'Wash-\xad dles faints in\xad cluded by this Pokémon.', 'Theytransformant', 'Mudbrunx', 'Vagabond']
+CATEGORY - uniques: ['Sea Bird Pokémon', 'Watch Pokémon', 'Heat Wave Pokémon', 'Treecko Pokémon', 'Turnball Pokémon', 'First Night Pokémon', 'Damp Pokémon', 'Octopus Pokémon', 'Megalopolis Pokémon', 'Plump Pokémon', 'Arrow Lash Pokémon', 'Flame Gate Pokémon', 'Longshoreman Pokémon', 'Light Tap Treat', 'Bag Pokémon', 'Gumshook Pokémon', 'First Spot Pokémon', 'Bug Pokémon', 'Pond Skating Pokémon', 'Tropius Pokémon', 'Thorn Snake Pokémon', 'Mismatch Pokémon', 'Eel Pokémon', 'Frisk Pokémon', 'Fly XY Pokémon', 'Cascoon Pokémon', 'Classical Pokémon', 'Hippog Pokémon', 'Ambush Pokémon', 'Megaware Pokémon', 'Gloomdweller Pokémon', 'Intuition Pokémon', 'Nidoking Pokémon', 'Charred Pokémon', 'Hood up', 'Hermit Pokémon', 'SoloLung Pokémon', 'Armor Pokémon', 'Heavy Horse Pokémon', 'Yamper Pokémon', 'Snore Pokémon', 'Mach Ball Pokémon', 'Arrow, Geyser Pokémon', 'Aggression Pokémon', 'Heatproof Pokémon', 'Anteater Pokémon', 'Zubat Pokémon', 'Highly Carb Pokémon', 'Dog Pit Pokémon', 'Carnevale Pokémon', 'Supremacy Pokémon', 'Copper Wing Pokémon', 'Snow People', 'Small Pokémon', 'Axle Pokémon', 'Quail Pokémon', 'Spike Bell Pokémon', 'Wild Fowl Pokémon', 'Pig Pod Pokémon', 'Tedd′ing Pokémon', 'Tiny Pincer Pokémon', 'Honedge Pokémon', 'Pikachu Pokémon', 'Bisharp Pokémon', 'Tiny Ant Pit Pokémon', 'Bone Snake Pokémon', 'Light That Matures Pokémon', 'Decisive Front Pokémon', 'Skater Pokémon', 'Amplifier Pokémon', 'Megaton', 'Sea Kelp Pokémon', 'Box Turtle Pokémon', 'Sword Bird Pokémon', 'Spore Ball Pokémon', 'Coal Pipes Pokémon', 'Clap Wave Pokémon', 'Turtle Rock Pokémon', 'Armored Pokémon', 'Honedge Pokémon', 'Pondiver Pokémon', 'Emotion Expert', 'Dive Pokémon', 'Doubler Pokémon', 'Swim Pokémon', 'Continent Pokémon', 'Single Pin Pokémon', 'Platonist Pokémon', 'Horsement Pokémon', 'Sharp Edge Pokémon', 'Cobweb Pokémon']
+SHAPE - uniques: []
+HABITAT - uniques: ['water mite', '', 'grass']
+TYPES - uniques: ['water heavy', 'no-guard', 'armor', 'steel natures', 'poison gas', 'bug music', 'grass rock', 'grass egg', 'white flying', 'ice bug Pokémon', 'poison grass', 'rock electric', 'normal dark', 'fairy quick-feet', 'ghost Pokémon', 'electric fighting', 'fighting fighting', 'steel normal', 'flying, full-metal']
+COLOR - uniques: ['mirror', 'p']

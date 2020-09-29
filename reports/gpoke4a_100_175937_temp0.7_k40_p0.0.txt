@@ -1,0 +1,25 @@
+
+Perfect: 0/4203 (0.00%)
+Incomplete: 4172/4203 (99.26%)
+Have Extras: 81/4203 (1.93%)
+Contain Garbage: 4092/4203 (97.36%)
+Missing Values: 45419
+Extra Values: 2153
+Garbage Values: 5173
+NAME: unique: 68/4203 (1.62%), valid: 21/4203 (0.50%), missing: 4131/4203 (98.29%), extra: 51/4203 (1.21%), 
+CATEGORY: unique: 86/4203 (2.05%), valid: 39/4203 (0.93%), missing: 4114/4203 (97.88%), extra: 50/4203 (1.19%), 
+TYPES: unique: 73/4203 (1.74%), valid: 24/4203 (0.57%), missing: 4126/4203 (98.17%), extra: 53/4203 (1.26%), 
+ABILITIES: unique: 50/4203 (1.19%), valid: 23/4203 (0.55%), missing: 4132/4203 (98.31%), extra: 48/4203 (1.14%), 
+MOVES: unique: 39/4203 (0.93%), valid: 19/4203 (0.45%), missing: 4142/4203 (98.55%), extra: 42/4203 (1.00%), 
+HEIGHT: unique: 46/4203 (1.09%), valid: 24/4203 (0.57%), missing: 4139/4203 (98.48%), extra: 40/4203 (0.95%), 
+WEIGHT: unique: 38/4203 (0.90%), valid: 20/4203 (0.48%), missing: 4149/4203 (98.72%), extra: 34/4203 (0.81%), 
+COLOR: unique: 28/4203 (0.67%), valid: 17/4203 (0.40%), missing: 4141/4203 (98.52%), extra: 45/4203 (1.07%), 
+SHAPE: unique: 24/4203 (0.57%), valid: 14/4203 (0.33%), missing: 4146/4203 (98.64%), extra: 43/4203 (1.02%), 
+HABITAT: unique: 16/4203 (0.38%), valid: 14/4203 (0.33%), missing: 4143/4203 (98.57%), extra: 46/4203 (1.09%), 
+DESCRIPTION: unique: 147/4203 (3.50%), valid: 105/4203 (2.50%), missing: 4056/4203 (96.50%), extra: 42/4203 (1.00%), 
+NAME - uniques: ['Bubble', 'Terracotta', 'Bagpipers', 'Egg-Pulse', 'Birdcage', 'Dazzling Gleam', 'Sebastian', 'Lilacona', 'Mud-Slap', 'Bunny', 'Naga Slicer', 'Coconut Pokémon', 'C.M.', 'Bold Beetle', 'Meworg', 'Toxic', '', '', 'Goblin', 'Terracodon', 'Bricket Pokémon', 'Bricket Pokémon', 'Bucanae', 'Bolt Bug', 'Amber', 'Bruel', 'Aerodactyl', 'Amber', '', 'Cotton Bird', 'Corvus, Energo', 'Houndorn', 'Pik', 'Grimma', 'Rakatang', 'Coral Snake Snake Snake', 'Flame-Touched', '', 'Dragon', 'Diver', '', 'Corrosion', 'Thousand-Tails', 'Curlor', 'Fly-Powered Pokémon', 'Pulse Pokémon', 'Marowak', 'Carnivore', 'Nidoran♂', '1.4 m', 'Dragonite', '', 'Sparks', '', '.3m', '01water', 'Egg Pokémon', 'Elder-Eyes', 'Garchomp Pokémon', 'Mew', 'Big Steel', 'Grimer', '', '', 'Poisoned', 'Cave Pokémon', 'Budew', 'Bolt']
+CATEGORY - uniques: ['Bubbling Bug Pokémon', 'Amberwood', 'Bite Pokémon', 'Wood Band', 'Polar Bear', 'Cotton Candy\\u0027s Sweet, Careful, and Sassy.', 'Bold Wings', 'A Tree with a Leaf', 'Bolt, Belly of the Beast', 'Dazzling Gleam', 'Dark Fire', 'Bird-Tail', 'Moltres', 'Toxic', '', 'Mud-Slap Pokémon', 'Axe</', 'Axe-Wing', '', '<', 'Aqua Pokémon', 'Dragon Pokémon', 'Snow Leopard', '', 'Flying Pokémon', '-Wishbone', 'Steel-Sharpedo Pokémon', '-Tail Pokémon', '-Tail Pokémon', '', '', 'Bold Pokémon', 'Poison Shellback', 'Bricket Pokémon', '', '', 'Bucanthus plant', 'Fiery Battle', 'Bolt Bug', 'A Dragon Pokémon', 'Mushroom Pokémon', '', 'Pulse-Striker (Poison Tail)</', 'Poison Bug', 'Cave Pokémon', 'Lickitung, Lickitung', 'Poison Seed', 'Vileve', 'Mushroom Pokémon', 'Dragon Pokémon', 'Bite', 'Aqua Snake Snake', '', 'Flying Pokémon', 'Dragon Pokémon', '', 'Thunder-Eyes', 'Fly-Powered Pokémon', 'Grass Pokémon', 'Pulse Pokémon', 'Water Pokémon', 'Water Pokémon', 'Water Pokémon', 'Water Pokémon', 'Water Pokémon', '', 'Ghostly Rock', 'A Bird Pokémon', 'Dramatic Pokémon', '', '', '', '', 'dragon', 'Aerosol', '', 'fire-type, fire-type', '[1/2] Grass Knot, Metal Claw, Leer, Shadow Ball', 'Brockow', 'Flying', '', 'Rock Pokémon', 'Poison Pokémon', 'Black Spore', 'Cave Pokémon', '']
+SHAPE - uniques: ['yellow', 'armor.0 kg', '1.5 m', 'aquaculture.', 'green', '-Pikachu Pokémon', '-Razor Pokémon', '-Snorlax Pokémon', '-Toxic Pokémon', 'green', '', 'bug-infested', 'blue', 'normal-body', '1.0 m', 'it', '1.0 m', '', '1.5 m', '', 'blue', '70.0 m', '', '']
+HABITAT - uniques: ['4.0 kg', 'blue', 'armor.0 kg', 'forest.', '', 'normal', '-Meworg Pokémon', 'grassland', '', '', 'grass', '', '', 'forest', '', '']
+TYPES - uniques: ['Coral Armor', 'Phenomite', 'Plankton', 'Cotton Candy', 'wings.1 m', '', 'Poison Spore, Cut', 'Flying', 'Dark Grass', 'Bird-Tail', 'Mud-Wash, Shadow Ball, Toxic', 'toxic', 'electric', '<', '', '', 'Ground Pokémon', '', '', 'Poison', '-Wishbone Pokémon', '-Steel-Sharpedo Pokémon', '-Tail Pokémon', '-Tail Pokémon', '-Toxic Pokémon', '', '', 'grass', 'grass', '-0.3 m', 'Fighting', 'bug-grass', 'aquamute', 'Fairy Pokémon', '', 'Mud-Slasher', 'Snow Pokémon', 'Water Pokémon', 'Poisoned Grass Pokémon', 'Poison Seed Pokémon', 'dragon eggs', 'Dragon Pokémon', 'Poisoned Claw', '', '', '', 'Dragon', 'dragon dragon', '', 'flail, moxie-squirrel, sleep-talk', '', '', '', '', 'Poison-Poise', '', 'dragonite', '', '', '', '', 'aquatic', 'Flying Pokémon', '', '', 'fire', '', 'Rock Pokémon', '-body', 'Boltgrass', 'bug Pokémon', '', '']
+COLOR - uniques: ['00.0 kg', 'armor.0 kg', 'grassland.', 'grassland.', 'grassland.', '', '1.3 kg', '00.0 kg', '-Toxic Pokémon', '-Toxic Pokémon', 'blue', '', '-0.1 m', 'gray', 'g', '', 'blue-gray', '10.0 kg', '-09', '1.0 m', '1.0 m', '1.0 m', '10', '1.5 kg', '', '', 'Cave of the Sea', '1.0 m']
