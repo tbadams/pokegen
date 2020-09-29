@@ -1,7 +1,10 @@
+import re
+
 import pokeapi
 from pokeapi import EncodedIndex, START_TOKEN, END_TOKEN, GPT2_SIMPLE_SAMPLE_DIVIDER
 # import gpt_2_simple as gpt2
 import os
+from os import path
 import math
 from enum import Enum
 from collections import defaultdict, OrderedDict
@@ -81,14 +84,17 @@ class SampleReport:
             self.field_counts.append(instance_count)
             if instance_count is not 1:
                 self.perfect = False
-        info = self.filename.split("_")
+        filename_no_extension = path.splitext(self.filename)[0]
+        info = filename_no_extension.split("_")
         try:
             self.run = info[0]
             self.rounds = int(info[1])
-            self.time = int(info[2])
-            self.temp = float(info[3][len("temp")])
-            self.k = int(info[4][len("k")])
-            self.p = float(info[5][len("p")])
+            self.time = info[2]
+            # self.filename is not "poke_data.txt"
+            temp_numeric = info[3][len("temp"):]
+            self.temp = float(temp_numeric)
+            self.k = int(info[4][len("k"):])
+            self.p = float(info[5][len("p"):])
         except (IndexError, ValueError) as e:
             # TODO sorry
             self.run = ""
@@ -104,7 +110,7 @@ class SampleReport:
         return index in self.data and len(self.data[index]) == 1
 
     def get_valid_field(self, field):  # no validation
-        return self.get_cols(field.value)[0]
+        return self.get_cols(field)[0]
 
     def is_field_unique(self, field, values):
         for value in self.get_cols(field):
@@ -407,7 +413,11 @@ def write_mons(report):
             print("wrote mons to {}".format(mon_filename))
 
 
-def parse_outputs(*dirs, file_reports=True, mons_reports=True):
+def filter_ks_and_ps(sgr):
+    return sgr.filter(lambda s: s.filename.c)
+
+
+def parse_outputs(*dirs, fname_filter=None, sample_filter=None, file_reports=True, mons_reports=True):
     dir_path = os.path.dirname(os.path.realpath(__file__))
     f = []
     # get files to report on
@@ -419,12 +429,19 @@ def parse_outputs(*dirs, file_reports=True, mons_reports=True):
                     full_filenames.append(os.path.join(dirpath, fn))
             f.extend(full_filenames)
             break
-
+    if fname_filter is not None:
+        unfiltered_count = len(f)
+        f = list(filter(fname_filter, f))
+        print("Filtered from {} to {} files.".format(unfiltered_count, len(f)))
     # get real data, for duplicate checking
     training_data = decode_file("poke_data.txt")
 
     tempstart = time.time()
     all_reports = decode_file_group(f, training_data.to_unique_field_entries(), file_reports)
+    if sample_filter is not None:
+        unfiltered_count = all_reports.count()
+        all_reports = all_reports.filter(sample_filter)
+        print("Filtered from {} to {} samples.".format(unfiltered_count, all_reports.count()))
     if mons_reports:
         write_mons(all_reports)
     for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:
@@ -439,6 +456,9 @@ def parse_outputs(*dirs, file_reports=True, mons_reports=True):
     # print("\n".join(all_reports.filter(lambda s:  s.rounds == 3000).unique(EncodedIndex.NAME).map(lambda s: s.quick_print())))
     # vanilla_temps = sorted(list(filter(lambda s: s, all_reports
 
-# target_path =
 
-parse_outputs("/out/gpoke4a/", "/out/gpoke4b/", file_reports=False, mons_reports=False)
+def overfit_focus(sample):
+    return sample.k is 0 and math.isclose(0, sample.p, rel_tol=0.001)
+
+
+parse_outputs("/out/gpoke4a/", "/out/gpoke4b/", "/out/gpoke4c/", sample_filter=overfit_focus)
