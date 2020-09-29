@@ -397,33 +397,37 @@ def write_mons(report):
             print("wrote mons to {}".format(mon_filename))
 
 
-# dex_entries = pokeapi.get_pokedex_entries()  # prerequisite pokedata
-training_data = decode_file("poke_data.txt")
-# get files to report on
-dir_path = os.path.dirname(os.path.realpath(__file__))
-target_path = "/out/gpoke4a/"
-f = []
-for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
-    full_filenames = []
-    for fn in filenames:
-        if os.path.basename(fn).startswith("gpoke") and fn.endswith(".txt"):
-            full_filenames.append(os.path.join(dirpath, fn))
-    f.extend(full_filenames)
-    break
+def parse_outputs(dirs):
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    f = []
+    # get files to report on
+    for target_path in dirs:
+        for (dirpath, dirnames, filenames) in os.walk(dir_path + target_path):
+            full_filenames = []
+            for fn in filenames:
+                if os.path.basename(fn).startswith("gpoke") and fn.endswith(".txt"):
+                    full_filenames.append(os.path.join(dirpath, fn))
+            f.extend(full_filenames)
+            break
 
-write_reports = True
-tempstart = time.time()
-all_reports = decode_file_group(f, training_data, write_reports)
-if write_reports:
-    write_mons(all_reports)
-for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:
-    print(check_field)
-    print(all_reports.poor_plot(SgrUtil.report_unique_factory(check_field)))
+    # get real data, for duplicate checking
+    training_data = decode_file("poke_data.txt")
 
-print("total time {} for {} samples".format(time.time() - tempstart, all_reports.count()))
-# for rounds, sr in all_reports.partition(lambda s: s.rounds).items():
-#     uniques = sr.unique(EncodedIndex.NAME)
-#     print(str(rounds) + " : " + sr.ratio_str(len(uniques), sr.count()) + " " + ", ".join(
-#         uniques.to_field_values(EncodedIndex.NAME)))
-# print("\n".join(all_reports.filter(lambda s:  s.rounds == 3000).unique(EncodedIndex.NAME).map(lambda s: s.quick_print())))
-# vanilla_temps = sorted(list(filter(lambda s: s, all_reports
+    write_reports = True
+    tempstart = time.time()
+    all_reports = decode_file_group(f, training_data, write_reports)
+    if write_reports:
+        write_mons(all_reports)
+    for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:
+        print(check_field)
+        print(all_reports.poor_plot(SgrUtil.report_unique_factory(check_field)))
+
+    print("total time {} for {} samples".format(time.time() - tempstart, all_reports.count()))
+    # for rounds, sr in all_reports.partition(lambda s: s.rounds).items():
+    #     uniques = sr.unique(EncodedIndex.NAME)
+    #     print(str(rounds) + " : " + sr.ratio_str(len(uniques), sr.count()) + " " + ", ".join(
+    #         uniques.to_field_values(EncodedIndex.NAME)))
+    # print("\n".join(all_reports.filter(lambda s:  s.rounds == 3000).unique(EncodedIndex.NAME).map(lambda s: s.quick_print())))
+    # vanilla_temps = sorted(list(filter(lambda s: s, all_reports
+
+# target_path = "/out/gpoke4b/"
