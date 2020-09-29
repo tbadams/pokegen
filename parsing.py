@@ -13,15 +13,6 @@ import time
 REPORTS_DIR = "reports"
 
 
-class FilenameData(Enum):
-    RUN = 0
-    ROUNDS = 1
-    TIME = 2
-    TEMP = 3
-    K = 4
-    P = 5
-
-
 def remove_prefix(text, prefix):
     if text.startswith(prefix):
         return text[len(prefix):]
@@ -139,21 +130,6 @@ class SampleReport:
         if field is None:
             return self.data.get(None, [])
         return self.data.get(field.value, [])
-
-    def filename_info(self, enum):
-        if enum is FilenameData.RUN:
-            return self.run
-        elif enum is FilenameData.ROUNDS:
-            return self.rounds
-        elif enum is FilenameData.TIME:
-            return self.time
-        elif enum is FilenameData.TEMP:
-            return self.temp
-        elif enum is FilenameData.K:
-            return self.k
-        elif enum is FilenameData.P:
-            return self.p
-        raise TypeError("oops missing enum")
 
     def field_print(self, field, value_sep=" / "):
 
