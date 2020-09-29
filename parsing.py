@@ -60,7 +60,7 @@ def decode(encoded_str):
 
 
 def map_samples_to_fields(samples, field):
-    return list(map(lambda sample: sample.get_valid_field(field.value).strip(), samples))
+    return list(map(lambda sample: sample.get_valid_field(field).strip(), samples))
 
 
 def is_not_dupe(a, dupes):
@@ -99,16 +99,16 @@ class SampleReport:
             self.p = 0.0
             # print("unexpected filename format: " + self.filename + ", " + str(e))
 
-    # todo use field not index
-    def has_valid_field(self, index):
+    def has_valid_field(self, field):
+        index = field.value
         return index in self.data and len(self.data[index]) == 1
 
-    def get_valid_field(self, index):  # no validation
-        return self.get_cols(index)[0]
+    def get_valid_field(self, field):  # no validation
+        return self.get_cols(field.value)[0]
 
     def is_field_unique(self, field, values):
-        for value in self.get_cols(field.value):
-            if is_not_dupe(value, values):
+        for value in self.get_cols(field):
+            if value not in values:
                 return True
 
         return False
@@ -129,8 +129,10 @@ class SampleReport:
                     extra_fields.append(EncodedIndex(ie))
         return extra_fields
 
-    def get_cols(self, index):
-        return self.data.get(index, [])
+    def get_cols(self, field):
+        if field is None:
+            return self.data.get(None, [])
+        return self.data.get(field.value, [])
 
     def filename_info(self, enum):
         if enum is FilenameData.RUN:
@@ -149,7 +151,7 @@ class SampleReport:
 
     def field_print(self, field, value_sep=" / "):
 
-        return value_sep.join(list(filter(lambda col: len(col.strip()) > 0, self.get_cols(field.value))))
+        return value_sep.join(list(filter(lambda col: len(col.strip()) > 0, self.get_cols(field))))
 
     def quick_print(self, sep="|", value_sep=" / ", fields=None):
         if fields is None:
@@ -201,24 +203,32 @@ class SampleGroupReport:
     def get_garbage_fields_count(self):
         return sum(list(map(lambda s: len(s.get_cols(None)), self.samples)))
 
-    def unique(self, field, values=None):
-        if values is None:
-            entry_field_values = map_samples_to_fields(self.entries.samples, field)
-            values = list(filter(lambda sam: isinstance(sam, str), entry_field_values))
+    def unique(self, field):
+        values = self.entries[field]
         return SampleGroupReport(list(filter(lambda sample: sample.is_field_unique(field, values), self.samples)),
                                  self.entries)
+
+    def to_unique_field_entries(self):
+        unique_field_map = {}
+        for field in list(EncodedIndex):
+            unique_field_map[field] = set()
+        for s in self.samples:
+            for field in list(EncodedIndex):
+                for value in s.get_cols(field):
+                    unique_field_map[field].add(value)
+        return unique_field_map
 
     def have_invalid_field_values(self):
         return list(filter(lambda sample: len(sample.get_cols(None)) > 0, self.samples))
 
     def field_is_singular(self, field):
-        return list(filter(lambda sample: sample.has_valid_field(field.value), self.samples))
+        return list(filter(lambda sample: sample.has_valid_field(field), self.samples))
 
     def field_is_missing(self, field):
-        return list(filter(lambda sample: len(sample.get_cols(field.value)) < 1, self.samples))
+        return list(filter(lambda sample: len(sample.get_cols(field)) < 1, self.samples))
 
     def field_has_extras(self, field):
-        return list(filter(lambda sample: len(sample.get_cols(field.value)) > 1, self.samples))
+        return list(filter(lambda sample: len(sample.get_cols(field)) > 1, self.samples))
 
     def field_is_empty(self, field):
         return list(filter(lambda s: s.get_valid_field(field) is '', self.field_is_singular(field)))
@@ -397,7 +407,7 @@ def write_mons(report):
             print("wrote mons to {}".format(mon_filename))
 
 
-def parse_outputs(dirs):
+def parse_outputs(*dirs, file_reports=True, mons_reports=True):
     dir_path = os.path.dirname(os.path.realpath(__file__))
     f = []
     # get files to report on
@@ -413,10 +423,9 @@ def parse_outputs(dirs):
     # get real data, for duplicate checking
     training_data = decode_file("poke_data.txt")
 
-    write_reports = True
     tempstart = time.time()
-    all_reports = decode_file_group(f, training_data, write_reports)
-    if write_reports:
+    all_reports = decode_file_group(f, training_data.to_unique_field_entries(), file_reports)
+    if mons_reports:
         write_mons(all_reports)
     for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:
         print(check_field)
@@ -430,4 +439,6 @@ def parse_outputs(dirs):
     # print("\n".join(all_reports.filter(lambda s:  s.rounds == 3000).unique(EncodedIndex.NAME).map(lambda s: s.quick_print())))
     # vanilla_temps = sorted(list(filter(lambda s: s, all_reports
 
-# target_path = "/out/gpoke4b/"
+# target_path =
+
+parse_outputs("/out/gpoke4a/", "/out/gpoke4b/", file_reports=False, mons_reports=False)
