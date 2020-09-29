@@ -1,7 +1,8 @@
 # MY STUFF FIRST
 
 #raw pokedex info storage
-pokeapi/** 
+pokeapi/**
+venv/
 
 
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
