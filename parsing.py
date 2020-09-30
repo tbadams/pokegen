@@ -154,9 +154,6 @@ def parse_outputs(*dirs, fname_filter=None, sample_filter=None, file_reports=Fal
         print("Filtered from {} to {} samples.".format(unfiltered_count, all_reports.count()))
     if mons_reports:
         write_mons(all_reports)
-    for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:
-        print(check_field)
-        print(all_reports.poor_plot(report_unique_factory(check_field)))
 
     print("total time {} for {} samples".format(time.time() - tempstart, all_reports.count()))
     # print(all_reports.full_report())
@@ -168,4 +165,12 @@ def parse_outputs(*dirs, fname_filter=None, sample_filter=None, file_reports=Fal
     # vanilla_temps = sorted(list(filter(lambda s: s, all_reports
     return all_reports
 
-parse_outputs("/out/gpoke4a/", "/out/gpoke4b/", "/out/gpoke4c/", sample_filter=SgrUtil.overfit_focus)
+
+def fields_report(reports, fields, report_func):
+    for check_field in fields:
+        print(check_field)
+        print(reports.poor_plot(report_func(check_field)))
+
+
+all_reports = parse_outputs("/out/gpoke4a/", "/out/gpoke4b/", "/out/gpoke4c/", sample_filter=SgrUtil.overfit_focus)
+fields_report(all_reports, [EncodedIndex.NAME, EncodedIndex.CATEGORY], report_unique_factory)
