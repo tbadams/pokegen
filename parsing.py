@@ -2,7 +2,7 @@ from pokeapi import EncodedIndex, START_TOKEN, END_TOKEN, GPT2_SIMPLE_SAMPLE_DIV
 import os
 import math
 import time
-from sample import SampleReport, SampleGroupReport, SgrUtil
+from sample import SampleReport, SampleGroupReport
 
 REPORTS_DIR = "reports"
 
@@ -45,11 +45,6 @@ def decode(encoded_str):
         except (ValueError, TypeError) as e:
             append_to_dict(data, None, field)
     return data
-
-
-def is_not_dupe(a, dupes):
-    a_tokens = a.strip().upper()
-    return a_tokens is not '' and a_tokens not in (pos_dup.strip().upper() for pos_dup in dupes)
 
 
 # name UE type E cat U2E description E, habitat U, shape, color, height, weight
@@ -105,8 +100,31 @@ def write_mons(report):
             print("wrote mons to {}".format(mon_filename))
 
 
+class SgrUtil:
+
+    @staticmethod
+    def filename(s):
+        return s.filename
+
+    @staticmethod
+    def quick_print(s):
+        return s.quick_print()
+
+    @staticmethod
+    def overfit_focus(sample):
+        return sample.k is 0 and math.isclose(0, sample.p, rel_tol=0.001)
+
+
 def filter_ks_and_ps(sgr):
     return sgr.filter(lambda s: s.filename.c)
+
+
+def report_unique_factory(field):
+    return lambda sr: sr.ratio_str(len(sr.unique(field)))
+
+
+def report_field_length_stats_factory(field):
+    return lambda sample_report: str(sample_report.get_field_length_stats(field))
 
 
 def parse_outputs(*dirs, fname_filter=None, sample_filter=None, file_reports=False, mons_reports=False):
@@ -138,15 +156,16 @@ def parse_outputs(*dirs, fname_filter=None, sample_filter=None, file_reports=Fal
         write_mons(all_reports)
     for check_field in [EncodedIndex.NAME, EncodedIndex.CATEGORY, EncodedIndex.HABITAT, EncodedIndex.DESCRIPTION]:
         print(check_field)
-        print(all_reports.poor_plot(SgrUtil.report_unique_factory(check_field)))
+        print(all_reports.poor_plot(report_unique_factory(check_field)))
 
     print("total time {} for {} samples".format(time.time() - tempstart, all_reports.count()))
+    # print(all_reports.full_report())
     # for rounds, sr in all_reports.partition(lambda s: s.rounds).items():
     #     uniques = sr.unique(EncodedIndex.NAME)
     #     print(str(rounds) + " : " + sr.ratio_str(len(uniques), sr.count()) + " " + ", ".join(
     #         uniques.to_field_values(EncodedIndex.NAME)))
     # print("\n".join(all_reports.filter(lambda s:  s.rounds == 3000).unique(EncodedIndex.NAME).map(lambda s: s.quick_print())))
     # vanilla_temps = sorted(list(filter(lambda s: s, all_reports
-
+    return all_reports
 
 parse_outputs("/out/gpoke4a/", "/out/gpoke4b/", "/out/gpoke4c/", sample_filter=SgrUtil.overfit_focus)

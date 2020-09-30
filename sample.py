@@ -167,7 +167,6 @@ class SampleGroupReport:
         else:
             return values
 
-
     def __len__(self):
         return len(self.samples)
 
@@ -207,10 +206,10 @@ class SampleGroupReport:
         out = []
         if title is not None:
             out.append(title)
-        permutations = self.partition(SgrUtil.non_rounds)
+        permutations = self.partition(SampleGroupReport.non_rounds)
         for permutation, permutation_report in permutations.items():
             permutation_out = [str(permutation)]
-            permutations_at_step = permutation_report.partition(SgrUtil.rounds)
+            permutations_at_step = permutation_report.partition(SampleGroupReport.rounds)
             for permutation_step, permutation_at_step_report in permutations_at_step.items():
                 permutation_out.append(str(permutation_step) + " : " + report_func(permutation_at_step_report))
             out.append(", ".join(permutation_out))
@@ -259,35 +258,17 @@ class SampleGroupReport:
         return strout
 
     def mons(self):
-        text = "\n".join(self.map(SgrUtil.print))
+        text = "\n".join(self.map(SampleGroupReport.print))
         return text
-
-
-class SgrUtil:
-    @staticmethod
-    def rounds(s):
-        return s.rounds
 
     @staticmethod
     def non_rounds(s):
         return (s.run, s.temp, s.k, s.p)
 
     @staticmethod
-    def filename(s):
-        return s.filename
-
-    @staticmethod
-    def quick_print(s):
-        return s.quick_print()
+    def rounds(s):
+        return s.rounds
 
     @staticmethod
     def print(s):
         return "{}\n".format(s.quick_print(sep="\n", value_sep="\n"))
-
-    @staticmethod
-    def report_unique_factory(field):
-        return lambda sr: sr.ratio_str(len(sr.unique(field)))
-
-    @staticmethod
-    def overfit_focus(sample):
-        return sample.k is 0 and math.isclose(0, sample.p, rel_tol=0.001)
