@@ -353,7 +353,6 @@ class PokedexEntry:
             return ""
         return field_value
 
-
     def encode(self):
         fields = ["00{}".format(self.display_name),
                   "01{}".format(self.category_str()),
@@ -369,7 +368,7 @@ class PokedexEntry:
         random.shuffle(fields)
         return START_TOKEN + "|".join(fields) + END_TOKEN
 
-    def to_str_lines(self): # TODO de-duplicate
+    def to_str_lines(self):  # TODO de-duplicate
         out = [
             "/========\\",
             self.display_name]
@@ -470,21 +469,6 @@ def write_encoding_template(num_fields=10, num_lines=10000):
             out = out + "0"
         fields.append(out + str(i))
     random.shuffle(fields)
-
-
-def get_stats(dataname, lines):
-    count = 0
-    total_length = 0
-    min_length = 9999999
-    max_length = 0
-    for line in lines:
-        count = count + 1
-        entry_length = len(str(line))
-        total_length = total_length + entry_length
-        max_length = max(max_length, entry_length)
-        min_length = min(min_length, entry_length)
-    print(dataname + ":count - " + str(count) + ", min - " + str(min_length) + ", max - " + str(max_length)
-          + ", average length = " + str(total_length / count))
 
 
 def lines_to_file(filename, lines, extension=".txt"):

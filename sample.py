@@ -3,10 +3,7 @@ from pokeapi import EncodedIndex
 import math
 import os
 from os import path
-
-
-def map_samples_to_fields(samples, field):
-    return list(map(lambda sample: sample.get_valid_field(field).strip(), samples))
+from util import get_length_stats
 
 
 class SampleReport:
@@ -156,8 +153,20 @@ class SampleGroupReport:
     def field_is_empty(self, field):
         return list(filter(lambda s: s.get_valid_field(field) is '', self.field_is_singular(field)))
 
-    def average_field_length(self, field):
-        lengths = filter(lambda s: len(s), map_samples_to_fields(self.samples, field))
+    def get_field_length_stats(self, field):
+        return get_length_stats(None, self.get_field_values(field, False))
+
+    def get_field_values(self, field, as_set=True, strip=True):
+        values = []
+        for s in self.samples:
+            values.extend(s.get_cols(field))
+        if strip:
+            values = [value.strip() for value in values]
+        if as_set:
+            return set(values)
+        else:
+            return values
+
 
     def __len__(self):
         return len(self.samples)
@@ -229,13 +238,10 @@ class SampleGroupReport:
             strout = strout + sep
         for field in check_fields:  # print actual uniques
             uniques = self.unique(field)
-            unique_field_values = map_samples_to_fields(uniques.samples, field)
+            unique_field_values = uniques.get_field_values(field)
             strout = strout + field.name + " - uniques: " + str(unique_field_values) + "\n"
 
         return strout
-
-    def to_field_values(self, field):
-        return map_samples_to_fields(self.samples, field)
 
     def full_report(self, sep="\n", fields=CHECK_FIELDS, entries=None):
         if entries is None:
