@@ -211,7 +211,7 @@ class SampleGroupReport:
             permutation_out = [str(permutation)]
             permutations_at_step = permutation_report.partition(SampleGroupReport.rounds)
             for permutation_step, permutation_at_step_report in permutations_at_step.items():
-                permutation_out.append(str(permutation_step) + " : " + report_func(permutation_at_step_report))
+                permutation_out.append("<{}>:{}".format(str(permutation_step), report_func(permutation_at_step_report)))
             out.append(", ".join(permutation_out))
         return "\n".join(out)
 
@@ -222,6 +222,13 @@ class SampleGroupReport:
         if total is None:
             total = self.count()
         return "{0:}/{1:} ({2:0.2f}%)".format(number, total, (number / total) * 100)
+
+    def fields_report(self, fields, report_func):
+        out = ""
+        for check_field in fields:
+            out = "{}{}\n".format(out, check_field)
+            out = "{}{}\n".format(out, self.poor_plot(report_func(check_field)))
+        return out
 
     def field_nums_report(self, check_fields=CHECK_FIELDS, sep="\n"):
         str_template = "{}: {}, "

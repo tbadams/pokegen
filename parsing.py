@@ -124,7 +124,10 @@ def report_unique_factory(field):
 
 
 def report_field_length_stats_factory(field):
-    return lambda sample_report: str(sample_report.get_field_length_stats(field))
+    def min_max(sample_report):
+        stats = sample_report.get_field_length_stats(field)
+        return "{}-{}({})".format(stats["min"], stats["max"], int(stats["average"]))
+    return min_max
 
 
 def parse_outputs(*dirs, fname_filter=None, sample_filter=None, file_reports=False, mons_reports=False):
@@ -166,11 +169,6 @@ def parse_outputs(*dirs, fname_filter=None, sample_filter=None, file_reports=Fal
     return all_reports
 
 
-def fields_report(reports, fields, report_func):
-    for check_field in fields:
-        print(check_field)
-        print(reports.poor_plot(report_func(check_field)))
-
-
 all_reports = parse_outputs("/out/gpoke4a/", "/out/gpoke4b/", "/out/gpoke4c/", sample_filter=SgrUtil.overfit_focus)
-fields_report(all_reports, [EncodedIndex.NAME, EncodedIndex.CATEGORY], report_unique_factory)
+print(all_reports.fields_report([EncodedIndex.NAME, EncodedIndex.CATEGORY], report_unique_factory))
+print(all_reports.fields_report(list(EncodedIndex), report_field_length_stats_factory))

@@ -13,4 +13,4 @@ def get_length_stats(dataname, lines):
     if dataname is not None:
         print(dataname + ":count - " + str(count) + ", min - " + str(min_length) + ", max - " + str(max_length)
               + ", average length = " + str(total_length / count))
-    return {"count": count, "total": total_length, "min": min_length, "max": max_length}
+    return {"count": count, "total": total_length, "min": min_length, "max": max_length, "average": total_length / count}
